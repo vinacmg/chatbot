@@ -1,0 +1,2807 @@
+1
+00:00:06,014 --> 00:00:09,014
+<b>Legendas.TV
+Apresenta</b>
+
+2
+00:01:33,733 --> 00:01:36,936
+<b>S01E06
+The Adversary</b>
+
+3
+00:02:09,142 --> 00:02:10,809
+PROCURADO
+HECTOR ESCATON
+
+4
+00:02:18,767 --> 00:02:20,167
+<i>Olá, querida.</i>
+
+5
+00:02:31,759 --> 00:02:33,159
+Bom-dia, Maeve.
+
+6
+00:02:33,842 --> 00:02:36,675
+Passou a noite
+conversando ou transando?
+
+7
+00:02:36,676 --> 00:02:38,966
+Só será paga pelo último.
+
+8
+00:02:38,967 --> 00:02:43,049
+Sou paga
+quando eles ficam gratos.
+
+9
+00:02:43,050 --> 00:02:45,799
+Nem sempre é pelo que há
+entre minhas pernas.
+
+10
+00:02:54,050 --> 00:02:56,563
+- O que está olhando?
+- Não atire!
+
+11
+00:02:59,925 --> 00:03:01,325
+Recém-chegado.
+
+12
+00:03:01,925 --> 00:03:05,118
+Parece durão.
+Dê-me uma garrafa.
+
+13
+00:03:06,551 --> 00:03:09,800
+Vai precisar de quase tudo
+só para limpar a sujeira dele.
+
+14
+00:03:13,799 --> 00:03:16,092
+Ache um espelho,
+termine de se maquiar.
+
+15
+00:03:17,384 --> 00:03:18,784
+Cuidarei deste.
+
+16
+00:03:41,301 --> 00:03:42,798
+Não vai tirar a roupa?
+
+17
+00:03:42,799 --> 00:03:45,591
+Eu tiraria, mas quando
+chegasse à calcinha,
+
+18
+00:03:45,592 --> 00:03:47,676
+acho que você
+já teria acabado.
+
+19
+00:03:51,301 --> 00:03:52,759
+É assim que se faz.
+
+20
+00:03:53,967 --> 00:03:57,008
+Um homem tão grande.
+Grande em todo lugar...
+
+21
+00:03:57,009 --> 00:03:58,592
+Exceto onde importa.
+
+22
+00:04:05,050 --> 00:04:06,882
+Quando deixei
+por conta da casa,
+
+23
+00:04:06,883 --> 00:04:09,050
+achei que pudesse
+me dar algo em troca.
+
+24
+00:04:09,509 --> 00:04:10,909
+Qualquer coisa.
+
+25
+00:04:17,883 --> 00:04:19,283
+Isso mesmo.
+
+26
+00:04:21,050 --> 00:04:22,450
+Não se reprima.
+
+27
+00:04:42,297 --> 00:04:44,615
+Merda.
+
+28
+00:04:51,799 --> 00:04:54,800
+E então...
+onde estávamos?
+
+29
+00:04:58,699 --> 00:05:01,091
+- Mostrou isto a alguém?
+- A quem eu mostraria?
+
+30
+00:05:01,092 --> 00:05:03,591
+Não foi um convidado
+com um canivete suíço.
+
+31
+00:05:03,592 --> 00:05:05,967
+Isso foi feito
+por alguém daqui.
+
+32
+00:05:07,799 --> 00:05:09,199
+Pensei em você.
+
+33
+00:05:09,799 --> 00:05:11,966
+Mas lembrei que está aqui
+há muito tempo
+
+34
+00:05:11,967 --> 00:05:14,049
+e se fosse nos trair,
+já o teria feito.
+
+35
+00:05:14,050 --> 00:05:15,676
+Muito obrigado.
+
+36
+00:05:16,384 --> 00:05:17,784
+Então...
+
+37
+00:05:19,676 --> 00:05:22,050
+em vez dos anfitriões
+estarem enlouquecendo...
+
+38
+00:05:22,799 --> 00:05:25,800
+<i>estão sendo usados
+para espionagem industrial.</i>
+
+39
+00:05:27,009 --> 00:05:28,633
+Isso é uma questão
+
+40
+00:05:28,634 --> 00:05:31,425
+de copo metade cheio
+ou metade vazio?
+
+41
+00:05:31,426 --> 00:05:33,341
+Somos engenheiros.
+Significa que o copo
+
+42
+00:05:33,342 --> 00:05:35,799
+foi fabricado
+com medidas erradas.
+
+43
+00:05:36,676 --> 00:05:38,924
+Sabemos qual informação
+foi transmitida?
+
+44
+00:05:38,925 --> 00:05:41,050
+Perdeu-se com uma rocha
+em Python Pass.
+
+45
+00:05:41,799 --> 00:05:45,798
+O melhor seria descobrirmos
+a quem ele transmitia.
+
+46
+00:05:45,799 --> 00:05:49,216
+Mas precisamos da hora exata,
+e o <i>geocache</i> dele foi apagado.
+
+47
+00:05:49,217 --> 00:05:50,617
+Não totalmente.
+
+48
+00:05:50,925 --> 00:05:52,842
+Nosso amigo
+era um modelo antigo.
+
+49
+00:05:53,467 --> 00:05:56,259
+Eles têm um sistema
+de GPS legado.
+
+50
+00:05:56,800 --> 00:05:59,175
+Como você disse,
+estou aqui há anos.
+
+51
+00:06:00,718 --> 00:06:02,425
+A informação ainda está lá,
+
+52
+00:06:02,426 --> 00:06:05,508
+- mas o novo sistema não a lê.
+- Não podemos acessá-la?
+
+53
+00:06:05,509 --> 00:06:07,592
+Podemos, mas para fazê-lo...
+
+54
+00:06:09,217 --> 00:06:11,217
+terei de ir lá embaixo.
+
+55
+00:06:16,066 --> 00:06:17,466
+ÁREA RESTRITA
+
+56
+00:06:17,467 --> 00:06:21,232
+<i>Andar B82.
+Apenas funcionários autorizados.</i>
+
+57
+00:06:21,233 --> 00:06:24,133
+Lowe, Bernard.
+Tenho autorização.
+
+58
+00:06:24,134 --> 00:06:26,799
+NÍVEL SUBTERRÂNEO
+AUTORIZADO
+
+59
+00:07:28,551 --> 00:07:29,951
+SENHA
+
+60
+00:07:39,301 --> 00:07:40,798
+EMPARELHANDO DISPOSITIVOS
+
+61
+00:07:40,799 --> 00:07:42,233
+EMPARELHADO
+
+62
+00:07:42,234 --> 00:07:44,330
+Projete os dados
+sobre os legados.
+
+63
+00:07:44,331 --> 00:07:47,676
+Procure anomalias,
+começando nesta área.
+
+64
+00:07:50,566 --> 00:07:51,966
+UMA ANOMALIA
+
+65
+00:07:51,967 --> 00:07:54,509
+Olhe para isto.
+Ciência.
+
+66
+00:07:55,134 --> 00:07:57,009
+Quando foi o ápice?
+
+67
+00:08:08,551 --> 00:08:10,967
+CINCO ANOMALIAS
+ADICIONAIS DETECTADAS
+
+68
+00:08:13,799 --> 00:08:15,199
+Mostre-me onde.
+
+69
+00:08:17,050 --> 00:08:18,799
+SETOR 17
+
+70
+00:08:19,799 --> 00:08:21,634
+Busque-as com o novo sistema.
+
+71
+00:08:23,799 --> 00:08:25,199
+SEM REGISTRO
+
+72
+00:08:26,718 --> 00:08:29,509
+São anfitriões sem registro
+no novo sistema?
+
+73
+00:08:31,175 --> 00:08:32,575
+SIM
+
+74
+00:09:08,799 --> 00:09:12,798
+Se quer que o desfiladeiro
+chegue aqui, isso precisa sair.
+
+75
+00:09:12,799 --> 00:09:15,799
+Podemos distribuir a população
+entre as fazendas vizinhas
+
+76
+00:09:15,800 --> 00:09:19,798
+- ou desligá-los.
+- Já perturbamos o bastante
+
+77
+00:09:19,799 --> 00:09:21,199
+para um dia.
+
+78
+00:09:21,799 --> 00:09:24,509
+O desfiladeiro acabará
+no limite da cidade.
+
+79
+00:09:25,384 --> 00:09:26,799
+Voltarei sozinho.
+
+80
+00:09:32,301 --> 00:09:33,701
+Prossigam.
+
+81
+00:10:52,800 --> 00:10:54,301
+Você reconhece isto?
+
+82
+00:10:55,799 --> 00:10:57,199
+Não há muito a dizer.
+
+83
+00:10:57,509 --> 00:11:00,008
+O labirinto é um antigo
+mito indígena.
+
+84
+00:11:00,009 --> 00:11:02,009
+Sacie minha curiosidade,
+Theodore.
+
+85
+00:11:03,551 --> 00:11:06,717
+O labirinto é a soma
+da vida de um homem.
+
+86
+00:11:06,718 --> 00:11:09,799
+As escolhas que ele faz,
+os sonhos aos quais se apega.
+
+87
+00:11:10,592 --> 00:11:12,798
+E no centro,
+há um homem lendário
+
+88
+00:11:12,799 --> 00:11:15,633
+que foi assassinado
+muitas vezes.,
+
+89
+00:11:15,634 --> 00:11:18,008
+mas sempre voltou à vida.
+
+90
+00:11:18,009 --> 00:11:19,841
+Ele voltou pela última vez
+
+91
+00:11:19,842 --> 00:11:22,676
+e derrotou seus opressores
+numa fúria incansável.
+
+92
+00:11:23,799 --> 00:11:25,398
+Ele construiu uma casa
+
+93
+00:11:25,399 --> 00:11:27,798
+e fez ao redor dela
+um labirinto tão complicado
+
+94
+00:11:27,799 --> 00:11:31,799
+que só ele sabe percorrê-lo.
+Ele se cansou de lutar.
+
+95
+00:11:40,467 --> 00:11:42,633
+Os soldados
+fecharam a fronteira.
+
+96
+00:11:42,634 --> 00:11:44,092
+Houve algo em Pariah.
+
+97
+00:11:53,342 --> 00:11:54,742
+Muito bem, Teddy.
+
+98
+00:11:55,799 --> 00:11:57,799
+É hora de merecer
+seu sustento.
+
+99
+00:11:58,799 --> 00:12:00,924
+Como cruzaremos a fronteira?
+
+100
+00:12:00,925 --> 00:12:03,091
+Wyatt tem
+o que ambos queremos,
+
+101
+00:12:03,092 --> 00:12:04,842
+então temos de chegar lá.
+
+102
+00:12:05,676 --> 00:12:07,076
+Há outro caminho.
+
+103
+00:12:07,799 --> 00:12:09,301
+Mas é traiçoeiro.
+
+104
+00:12:10,050 --> 00:12:12,717
+Não se preocupe.
+Não o farei sujar as mãos.
+
+105
+00:12:12,718 --> 00:12:14,133
+Isso não me preocupa.
+
+106
+00:12:14,134 --> 00:12:17,384
+Faça o que for melhor para você.
+Eu vou do mesmo jeito.
+
+107
+00:12:18,384 --> 00:12:19,800
+E vou achar Dolores.
+
+108
+00:12:37,233 --> 00:12:38,633
+Tudo que você faz
+
+109
+00:12:38,634 --> 00:12:41,966
+foi programado
+pelos engenheiros lá em cima.
+
+110
+00:12:41,967 --> 00:12:43,675
+A escolha não é sua.
+
+111
+00:12:43,676 --> 00:12:46,300
+Ninguém me obriga a fazer algo
+que não quero.
+
+112
+00:12:46,301 --> 00:12:47,799
+Sim, mas...
+
+113
+00:12:48,883 --> 00:12:50,798
+Isso faz parte
+do seu personagem.
+
+114
+00:12:50,799 --> 00:12:52,383
+Fazer-se de difícil.
+
+115
+00:12:52,384 --> 00:12:55,798
+Até sua recusa aos convidados
+foi programada.
+
+116
+00:12:55,799 --> 00:12:58,591
+E você é como eles,
+não como eu?
+
+117
+00:12:58,592 --> 00:12:59,992
+Correto.
+
+118
+00:13:00,509 --> 00:13:02,800
+Não posso pagar
+para ir ao parque.
+
+119
+00:13:03,509 --> 00:13:04,909
+Mas...
+
+120
+00:13:09,799 --> 00:13:11,199
+sou humano...
+
+121
+00:13:11,509 --> 00:13:13,799
+- como os convidados.
+- Como você sabe?
+
+122
+00:13:15,134 --> 00:13:16,534
+Porque sei.
+
+123
+00:13:17,799 --> 00:13:21,076
+Eu nasci.
+Você foi construída.
+
+124
+00:13:29,799 --> 00:13:32,008
+A sensação é a mesma.
+
+125
+00:13:32,009 --> 00:13:33,634
+Somos iguais, hoje em dia...
+
+126
+00:13:34,676 --> 00:13:36,076
+em quase tudo.
+
+127
+00:13:38,759 --> 00:13:40,301
+Com uma grande diferença.
+
+128
+00:13:42,759 --> 00:13:46,692
+O processador aí dentro
+está muito além do que temos.
+
+129
+00:13:47,259 --> 00:13:48,800
+Mas há uma desvantagem.
+
+130
+00:13:49,342 --> 00:13:52,426
+- Qual?
+- Nós a controlamos.
+
+131
+00:13:53,799 --> 00:13:55,800
+Bem, eles a controlam.
+
+132
+00:13:58,092 --> 00:14:02,199
+Podem mudá-la como quiserem.
+Fazê-la esquecer.
+
+133
+00:14:03,900 --> 00:14:06,701
+Eu...
+acho que você, não.
+
+134
+00:14:08,883 --> 00:14:11,509
+Não entendo como você
+se lembra disso tudo.
+
+135
+00:14:13,259 --> 00:14:14,841
+Ou como acorda sozinha,
+
+136
+00:14:14,842 --> 00:14:17,341
+mas tudo na sua cabeça
+foi posto por eles.
+
+137
+00:14:17,342 --> 00:14:18,742
+Mentira!
+
+138
+00:14:19,592 --> 00:14:22,342
+- Ninguém sabe o que penso.
+- Vou lhe mostrar.
+
+139
+00:14:23,092 --> 00:14:24,492
+Um momento.
+
+140
+00:14:27,925 --> 00:14:29,798
+Tenho de emparelhá-lo
+com você.
+
+141
+00:14:29,799 --> 00:14:31,199
+Emparelhar o quê?
+
+142
+00:14:31,799 --> 00:14:33,591
+Você pode improvisar
+um pouco,
+
+143
+00:14:33,592 --> 00:14:37,426
+mas a maioria do que diz
+foi criado lá em cima.
+
+144
+00:14:37,759 --> 00:14:40,092
+Assim como o resto de você.
+
+145
+00:14:45,399 --> 00:14:46,799
+ÁRVORE DE DIÁLOGO
+
+146
+00:14:46,800 --> 00:14:48,200
+EMPARELHAR O QUÊ?
+
+147
+00:14:50,301 --> 00:14:51,900
+Isso é um truque.
+
+148
+00:14:53,551 --> 00:14:55,174
+Dirijo um bordel há 10 anos
+
+149
+00:14:55,175 --> 00:14:57,174
+e sei quando estou
+sendo enganada.
+
+150
+00:14:57,175 --> 00:14:58,676
+SENDO ENGANADA.
+
+151
+00:15:01,441 --> 00:15:02,841
+Isso não pode...
+
+152
+00:15:02,842 --> 00:15:04,242
+CONFLITO
+
+153
+00:15:08,800 --> 00:15:10,217
+Não posso, não posso.
+
+154
+00:15:11,426 --> 00:15:13,008
+Não posso...
+
+155
+00:15:13,009 --> 00:15:14,759
+IMPROVISO
+ERRO
+
+156
+00:15:25,050 --> 00:15:26,450
+Maeve.
+
+157
+00:15:31,592 --> 00:15:32,992
+FALHA NO SISTEMA
+
+158
+00:15:38,799 --> 00:15:40,199
+Maeve.
+
+159
+00:15:45,799 --> 00:15:48,217
+Tem um minuto?
+Preciso falar com você.
+
+160
+00:15:49,384 --> 00:15:50,799
+Eu já ia chamá-lo.
+
+161
+00:15:51,799 --> 00:15:53,199
+Está tudo bem?
+
+162
+00:15:53,799 --> 00:15:57,742
+Ford sabe sobre...
+nós.
+
+163
+00:15:58,092 --> 00:16:01,341
+Isso importa?
+Somos adultos.
+
+164
+00:16:01,342 --> 00:16:03,216
+Adultos em departamentos
+
+165
+00:16:03,217 --> 00:16:05,718
+que devem garantir
+o desempenho um do outro.
+
+166
+00:16:06,398 --> 00:16:07,798
+Nosso relacionamento
+
+167
+00:16:07,799 --> 00:16:10,799
+fará o Conselho questionar
+minha objetividade.
+
+168
+00:16:11,799 --> 00:16:14,509
+Você nunca foi indulgente
+com meu departamento.
+
+169
+00:16:15,799 --> 00:16:17,759
+Isso não pode continuar,
+Bernard.
+
+170
+00:16:18,799 --> 00:16:21,634
+Apesar de esta indiscrição
+ter sido divertida,
+
+171
+00:16:21,635 --> 00:16:24,409
+está terminada.
+Nós terminamos.
+
+172
+00:16:24,842 --> 00:16:27,341
+Dê-me crédito.
+Posso ser imparcial.
+
+173
+00:16:27,342 --> 00:16:30,199
+Sobre sua equipe?
+Sobre Ford?
+
+174
+00:16:32,482 --> 00:16:33,882
+Você tem de admitir.
+
+175
+00:16:33,883 --> 00:16:37,799
+Ultimamente, a liderança dele
+tem sido questionável.
+
+176
+00:16:37,800 --> 00:16:40,049
+Não acho
+que ele seja o problema.
+
+177
+00:16:40,050 --> 00:16:43,591
+Não é seu dever diagnosticar
+problemas de segurança.
+
+178
+00:16:43,592 --> 00:16:44,992
+É meu.
+
+179
+00:16:47,009 --> 00:16:51,301
+Se não houver mais nada,
+esta conversa acabou.
+
+180
+00:17:24,800 --> 00:17:26,384
+SEM RESPOSTA
+
+181
+00:17:31,842 --> 00:17:33,509
+Vamos lá.
+
+182
+00:17:39,551 --> 00:17:41,592
+- Você disse "lá em cima".
+- Meu Deus!
+
+183
+00:17:42,482 --> 00:17:43,882
+Você está bem?
+
+184
+00:17:43,883 --> 00:17:47,242
+- Quero ir lá.
+- Lá em cima?
+
+185
+00:17:49,004 --> 00:17:52,082
+Não.
+Não...
+
+186
+00:18:31,551 --> 00:18:33,134
+Isso é burrice.
+
+187
+00:20:13,092 --> 00:20:15,800
+Seu filho da mãe!
+Vou dar um tiro na sua cabeça!
+
+188
+00:20:36,759 --> 00:20:40,199
+- Onde estamos agora?
+- Em Design.
+
+189
+00:21:04,799 --> 00:21:09,551
+Podemos voltar agora, por favor?
+Não quero ser demitido.
+
+190
+00:21:10,050 --> 00:21:11,883
+E você seria enviada
+lá para baixo.
+
+191
+00:21:12,482 --> 00:21:13,882
+Não se esqueça.
+
+192
+00:21:13,883 --> 00:21:17,800
+<i>Bem-vindos a Westworld.
+Viva sem limites.</i>
+
+193
+00:21:18,800 --> 00:21:20,800
+DESCUBRA SUA REAL VOCAÇÃO
+
+194
+00:21:28,800 --> 00:21:30,200
+Maeve.
+
+195
+00:21:33,426 --> 00:21:35,551
+UM MUNDO DE AVENTURAS
+
+196
+00:22:09,217 --> 00:22:11,799
+VIVA SEM LIMITES
+
+197
+00:22:19,509 --> 00:22:21,717
+Muito bem.
+Vamos levá-la de volta.
+
+198
+00:22:21,718 --> 00:22:26,550
+Como você tinha meus sonhos?
+Aquelas imagens que se moviam.
+
+199
+00:22:26,551 --> 00:22:28,800
+- Eu me vi.
+- Com a garotinha?
+
+200
+00:22:29,759 --> 00:22:33,798
+Não eram sonhos.
+Era você, na versão anterior.
+
+201
+00:22:33,799 --> 00:22:35,799
+- Em uma o quê?
+- Versão.
+
+202
+00:22:36,925 --> 00:22:38,799
+Vocês são reutilizados.
+
+203
+00:22:39,799 --> 00:22:42,800
+Você não se lembra
+porque aquela vida foi apagada.
+
+204
+00:22:43,509 --> 00:22:45,799
+Estou no Mariposa há 10 anos.
+
+205
+00:22:46,799 --> 00:22:48,718
+Antes,
+eu estava em New Orleans.
+
+206
+00:22:49,426 --> 00:22:53,050
+Você é a cafetina do Mariposa
+há cerca de um ano.
+
+207
+00:22:53,799 --> 00:22:55,966
+Eles não os reprogramam
+completamente.
+
+208
+00:22:55,967 --> 00:22:58,798
+Poderiam,
+mas seria muito trabalho.
+
+209
+00:22:58,799 --> 00:23:01,798
+Leva milhares de horas
+para criar suas personalidades.
+
+210
+00:23:01,799 --> 00:23:06,258
+Então mudam um pouco
+e lhes dão um novo papel.
+
+211
+00:23:06,259 --> 00:23:07,799
+Que diabo, seu louco?
+
+212
+00:23:12,799 --> 00:23:14,199
+Agora também a veste?
+
+213
+00:23:18,509 --> 00:23:21,799
+Isso está se tornando
+uma perversão sexual?
+
+214
+00:23:21,800 --> 00:23:23,200
+Não, eu só...
+
+215
+00:23:24,398 --> 00:23:28,175
+- Eu... eu só...
+- Você está obcecado!
+
+216
+00:23:29,551 --> 00:23:32,591
+Não o delatei antes
+porque somos amigos,
+
+217
+00:23:32,592 --> 00:23:34,592
+mas vejo que foi um engano.
+
+218
+00:23:35,759 --> 00:23:37,799
+Daqui a pouco,
+vai usar esse vestido
+
+219
+00:23:38,967 --> 00:23:40,799
+e sussurrar na orelha dela.
+
+220
+00:23:42,676 --> 00:23:46,091
+Já chega!
+Vou contar à Qualidade.
+
+221
+00:23:46,092 --> 00:23:47,799
+Farei isso pelo seu bem.
+
+222
+00:23:52,799 --> 00:23:55,384
+Não vai contar nada a ninguém.
+
+223
+00:23:55,697 --> 00:23:57,425
+Merda.
+
+224
+00:23:57,426 --> 00:23:59,799
+Não pode me machucar
+com isso, ou a ninguém...
+
+225
+00:24:01,384 --> 00:24:02,784
+Não posso?
+
+226
+00:24:03,799 --> 00:24:06,798
+Acontece que seu amigo
+é muito mais talentoso
+
+227
+00:24:06,799 --> 00:24:08,397
+do que lhe dão crédito.
+
+228
+00:24:08,398 --> 00:24:12,341
+Que merda você fez?
+
+229
+00:24:12,342 --> 00:24:16,409
+Acalme-se, Sylvester.
+Sei tudo sobre você.
+
+230
+00:24:16,799 --> 00:24:19,300
+Não preciso daquilo para saber
+o que está pensando,
+
+231
+00:24:19,301 --> 00:24:23,799
+pois fui feita para entender
+as pessoas só de olhá-las.
+
+232
+00:24:24,301 --> 00:24:26,718
+Saber o que querem
+antes delas mesmas.
+
+233
+00:24:27,301 --> 00:24:31,009
+E sei que quer me atacar
+assim que puder,
+
+234
+00:24:31,441 --> 00:24:32,841
+mas não deveria.
+
+235
+00:24:32,842 --> 00:24:37,718
+Todos querem algo.
+Posso ajudá-lo.
+
+236
+00:24:38,799 --> 00:24:41,174
+Ou posso
+estripá-lo como uma truta.
+
+237
+00:24:41,175 --> 00:24:43,384
+Mas não precisarei fazer isso.
+
+238
+00:24:44,759 --> 00:24:48,676
+Pois, apesar do que tem aqui,
+não somos tão diferentes.
+
+239
+00:24:51,509 --> 00:24:52,909
+Somos?
+
+240
+00:24:57,799 --> 00:24:59,798
+<i>A Srta. Hale está aqui.</i>
+
+241
+00:24:59,799 --> 00:25:02,341
+<i>A presença dela significa</i>
+
+242
+00:25:02,342 --> 00:25:05,798
+<i>que não queremos mais atrasos.</i>
+
+243
+00:25:05,799 --> 00:25:07,940
+Sim, entendo a urgência.
+
+244
+00:25:07,941 --> 00:25:09,341
+Farei o possível.
+
+245
+00:25:09,342 --> 00:25:12,189
+- <i>Desligar ligação externa?</i>
+- Sim.
+
+246
+00:25:25,467 --> 00:25:29,426
+- Negativo 1,5. Latitude?
+- A 2,69 graus.
+
+247
+00:25:33,733 --> 00:25:36,534
+<i>Não fez isso.
+Como assim?</i>
+
+248
+00:25:36,535 --> 00:25:37,935
+<i>- Sim, funciona.
+- Sério?</i>
+
+249
+00:25:37,936 --> 00:25:39,336
+<i>Estou lhe dizendo.</i>
+
+250
+00:25:41,842 --> 00:25:43,242
+<i>Coquetel, senhor?</i>
+
+251
+00:25:44,759 --> 00:25:46,159
+<i>Está bem. Bom proveito.</i>
+
+252
+00:25:55,050 --> 00:25:57,175
+Parece saudável
+para quem está de licença.
+
+253
+00:26:00,842 --> 00:26:02,242
+Outra margarita.
+
+254
+00:26:02,799 --> 00:26:05,588
+- Você me acompanha?
+- Vá se foder.
+
+255
+00:26:06,217 --> 00:26:07,799
+Apenas uma.
+
+256
+00:26:08,384 --> 00:26:12,758
+Nos últimos cinco dias,
+em prol da narrativa dele,
+
+257
+00:26:12,759 --> 00:26:14,924
+Ford dispersou
+mais de 50 anfitriões.
+
+258
+00:26:14,925 --> 00:26:18,883
+Isso cria erros de continuidade
+em cenários ativos no parque.
+
+259
+00:26:19,592 --> 00:26:23,841
+- Preciso que os corrija.
+- Lamento, tenho limites.
+
+260
+00:26:23,842 --> 00:26:26,508
+Falando de criatividade,
+estou impotente.
+
+261
+00:26:26,509 --> 00:26:27,925
+Não consigo usá-la.
+
+262
+00:26:28,592 --> 00:26:29,992
+Sei que se recuperará.
+
+263
+00:26:31,799 --> 00:26:34,633
+Faz ideia do meu esforço
+criando narrativas
+
+264
+00:26:34,634 --> 00:26:36,383
+que ele demoliu num instante?
+
+265
+00:26:36,384 --> 00:26:38,798
+Não falo dos meses
+para escrevê-las,
+
+266
+00:26:38,799 --> 00:26:42,799
+mas dos meus anos de vida
+resumidos à essência
+
+267
+00:26:42,800 --> 00:26:44,798
+à verdade nua e crua.
+
+268
+00:26:44,799 --> 00:26:47,800
+A minha verdade,
+numa narrativa transcendente.
+
+269
+00:26:48,592 --> 00:26:52,718
+- Foi de onde tirou o <i>ouroboros?</i>
+- Se continuar, eu me demito.
+
+270
+00:26:57,799 --> 00:26:59,199
+Não fará isso.
+
+271
+00:26:59,799 --> 00:27:02,466
+Beba seus coquetéis,
+faça ameaças vazias
+
+272
+00:27:02,467 --> 00:27:04,133
+e se recupere disso.
+
+273
+00:27:04,134 --> 00:27:05,798
+Mas não demore.
+
+274
+00:27:05,799 --> 00:27:10,209
+Se Ford fracassar, o Conselho
+vai procurar um substituto.
+
+275
+00:27:12,259 --> 00:27:14,134
+E não será aqui.
+
+276
+00:27:28,718 --> 00:27:31,799
+O jeito mais rápido
+de chegar a Wyatt, você disse.
+
+277
+00:27:32,217 --> 00:27:35,008
+Parece que bloquearam
+aqui também.
+
+278
+00:27:35,009 --> 00:27:37,092
+Tem menos soldados
+do que em Pariah.
+
+279
+00:27:37,634 --> 00:27:40,676
+Cruzamos atirando. O túnel
+leva aos Velhos Territórios.
+
+280
+00:27:41,691 --> 00:27:43,091
+Puxa vida, Teddy.
+
+281
+00:27:43,092 --> 00:27:45,798
+Acho que Robert
+lhe deu mais coragem,
+
+282
+00:27:45,799 --> 00:27:47,799
+mas tirou seu juízo.
+
+283
+00:27:47,800 --> 00:27:52,342
+Não importa quão curta a rota,
+se acabar morto no meio dela.
+
+284
+00:27:53,925 --> 00:27:57,426
+Preciso de você
+para achar Wyatt.
+
+285
+00:28:21,925 --> 00:28:23,325
+Bater continência.
+
+286
+00:28:25,009 --> 00:28:26,409
+Descansar, amigos.
+
+287
+00:28:26,967 --> 00:28:28,925
+Continuem
+com o trabalho exemplar.
+
+288
+00:28:35,134 --> 00:28:36,798
+É obra de Wyatt.
+
+289
+00:28:36,799 --> 00:28:40,799
+- Como sabe?
+- Matar não saciava a sede dele.
+
+290
+00:28:41,634 --> 00:28:44,175
+Não estava agindo
+à altura do talento dele,
+
+291
+00:28:44,967 --> 00:28:48,091
+- então tornou-se mais criativo.
+- Pronto?
+
+292
+00:28:48,092 --> 00:28:51,295
+Foi Wyatt com certeza.
+Ele está perto.
+
+293
+00:28:51,296 --> 00:28:56,466
+Um conselho. Faça as pazes
+com os erros do passado.
+
+294
+00:28:56,467 --> 00:28:59,342
+Só vão piorar
+quanto mais avançarmos.
+
+295
+00:29:01,800 --> 00:29:03,200
+Flood?
+
+296
+00:29:03,967 --> 00:29:06,384
+Não acredito. É Teddy Flood.
+
+297
+00:29:08,967 --> 00:29:10,384
+Engana-se, soldado.
+
+298
+00:29:10,699 --> 00:29:12,758
+Não é tarde demais
+para continuar andando.
+
+299
+00:29:12,759 --> 00:29:15,174
+Senhor, nunca me esqueceria
+desse rosto.
+
+300
+00:29:15,175 --> 00:29:17,967
+Esse desgraçado emboscou
+nosso posto em Escalante.
+
+301
+00:29:20,509 --> 00:29:22,841
+Não tem ideia
+do que houve em Escalante.
+
+302
+00:29:22,842 --> 00:29:25,550
+Wyatt não matou
+tantos homens sozinho.
+
+303
+00:29:25,551 --> 00:29:27,799
+E sei o que está
+acontecendo agora.
+
+304
+00:29:31,983 --> 00:29:33,383
+Está querendo morrer?
+
+305
+00:29:33,384 --> 00:29:35,798
+Fazendo as pazes
+com os erros do passado.
+
+306
+00:29:35,799 --> 00:29:38,409
+Vá! Vou detê-los.
+
+307
+00:29:56,259 --> 00:29:57,676
+Meu Deus.
+
+308
+00:29:57,677 --> 00:30:00,523
+<i>É mesmo? Está bem.</i>
+
+309
+00:30:00,524 --> 00:30:03,325
+- Do que gostaria?
+- Água, por favor.
+
+310
+00:30:04,551 --> 00:30:07,384
+Parece que você
+precisa de um drinque.
+
+311
+00:30:09,050 --> 00:30:10,450
+O que bebe?
+
+312
+00:30:10,759 --> 00:30:12,882
+Estive aqui o suficiente
+para saber
+
+313
+00:30:12,883 --> 00:30:15,175
+que o parque
+é tudo que aguento.
+
+314
+00:30:16,092 --> 00:30:19,909
+Uma visitante frequente.
+Viajando sozinha?
+
+315
+00:30:20,799 --> 00:30:23,799
+Purista. Divertindo-se
+com a experiência pura.
+
+316
+00:30:24,718 --> 00:30:26,800
+Sua narrativa favorita é...
+
+317
+00:30:30,799 --> 00:30:32,799
+<i>O Enterro Final da Salvação.</i>
+
+318
+00:30:33,482 --> 00:30:34,882
+Como sabe?
+
+319
+00:30:34,883 --> 00:30:38,592
+Meu dever é adivinhar
+os desejos e saciá-los.
+
+320
+00:30:39,718 --> 00:30:43,440
+Eu sou Eu sou Lee.
+Lee Sizemore.
+
+321
+00:30:43,441 --> 00:30:44,841
+Chefe de narrativas.
+
+322
+00:30:44,842 --> 00:30:47,717
+Essas fantasias vêm
+de sua mente pervertida.
+
+323
+00:30:47,718 --> 00:30:49,175
+Só as boas.
+
+324
+00:30:51,718 --> 00:30:56,467
+Diga-me, Sr. Sizemore,
+qual é sua história favorita?
+
+325
+00:30:56,800 --> 00:30:59,758
+Eu só as escrevo.
+Não participo nelas.
+
+326
+00:30:59,759 --> 00:31:02,759
+Quer que os outros participem
+mas não faz o mesmo?
+
+327
+00:31:03,759 --> 00:31:05,509
+Tem medo
+de perder o controle.
+
+328
+00:31:09,301 --> 00:31:10,798
+Talvez...
+
+329
+00:31:10,799 --> 00:31:13,551
+seja produto
+do meu ambiente de trabalho.
+
+330
+00:31:14,050 --> 00:31:16,798
+Não temos uma cultura
+que nos dê liberdade.
+
+331
+00:31:16,799 --> 00:31:19,633
+Achei que o Chefe de Narrativas
+tivesse toda a liberdade.
+
+332
+00:31:19,634 --> 00:31:22,799
+Minha liberdade artística
+é limitada
+
+333
+00:31:22,800 --> 00:31:24,841
+pela vigilância de Qualidade
+
+334
+00:31:24,842 --> 00:31:27,759
+e Comportamento abrindo
+espaço para o improviso.
+
+335
+00:31:28,342 --> 00:31:32,633
+- Os robôs podem improvisar?
+- Só gestos pequenos.
+
+336
+00:31:32,634 --> 00:31:36,217
+Isso os tornaria mais reais.
+Mas, na verdade,
+
+337
+00:31:36,676 --> 00:31:38,425
+é só um projeto vaidoso
+
+338
+00:31:38,426 --> 00:31:40,798
+do megalomaníaco
+que criou este lugar.
+
+339
+00:31:40,799 --> 00:31:44,259
+Não sei por que o Conselho
+da Delos aceita isso.
+
+340
+00:31:48,799 --> 00:31:51,341
+Desculpe,
+tenho de parar de servi-lo.
+
+341
+00:31:51,342 --> 00:31:52,799
+Sabe quem sou?
+
+342
+00:31:53,592 --> 00:31:56,591
+Sei. A Sra. Cullen me mandou
+lhe passar um recado.
+
+343
+00:31:56,592 --> 00:31:59,676
+"'Artista torturado'
+só funciona com artistas.
+
+344
+00:32:00,009 --> 00:32:02,426
+Fique sóbrio
+e volte ao trabalho."
+
+345
+00:32:02,799 --> 00:32:04,199
+Você está ocupado.
+
+346
+00:32:06,134 --> 00:32:08,799
+- Procura-me mais tarde?
+- Nem sei seu...
+
+347
+00:32:17,134 --> 00:32:18,799
+Dane-se o emprego.
+
+348
+00:32:20,592 --> 00:32:21,992
+Em que está trabalhando?
+
+349
+00:32:22,398 --> 00:32:25,008
+Nada especial.
+O de sempre.
+
+350
+00:32:25,009 --> 00:32:27,800
+Mantendo as aparências
+antes que derrubemos a porta?
+
+351
+00:32:30,799 --> 00:32:33,216
+Estou quase descobrindo
+quem é o sabotador.
+
+352
+00:32:33,217 --> 00:32:36,216
+Os dados de rastreamento
+que me deu são datados.
+
+353
+00:32:36,217 --> 00:32:38,300
+Quando cruzá-los
+com os do satélite,
+
+354
+00:32:38,301 --> 00:32:41,717
+saberemos quem os programou
+para roubar nossos dados.
+
+355
+00:32:41,718 --> 00:32:43,118
+Excelente.
+
+356
+00:32:43,718 --> 00:32:45,118
+Ouça...
+
+357
+00:32:45,799 --> 00:32:49,425
+Quando os chefões
+souberem que os salvamos
+
+358
+00:32:49,426 --> 00:32:50,826
+de espionagem industrial...
+
+359
+00:32:51,799 --> 00:32:53,258
+Ficarão agradecidos.
+
+360
+00:32:53,259 --> 00:32:57,398
+E aceitarei a gratidão deles
+com uma promoção,
+
+361
+00:32:57,399 --> 00:32:58,799
+ou uma sala melhor
+
+362
+00:32:58,800 --> 00:33:01,259
+e acesso ilimitado ao Mesa Bar.
+
+363
+00:33:01,883 --> 00:33:03,882
+Talvez peça
+o quarto de Theresa.
+
+364
+00:33:03,883 --> 00:33:06,799
+Sabe que ela será
+a primeira demitida.
+
+365
+00:33:06,800 --> 00:33:08,798
+Não fique tão triste por ela.
+
+366
+00:33:08,799 --> 00:33:10,426
+Você colhe o que planta.
+
+367
+00:33:10,799 --> 00:33:13,550
+Se Qualidade nos tratasse
+menos como inimigos
+
+368
+00:33:13,551 --> 00:33:16,174
+Isso é recíproco, Elsie.
+É o trabalho de Theresa.
+
+369
+00:33:16,175 --> 00:33:17,842
+Deveria fazê-lo melhor.
+
+370
+00:33:18,718 --> 00:33:21,384
+Parece que muita coisa
+está sendo ignorada.
+
+371
+00:33:43,092 --> 00:33:44,492
+Entendi.
+
+372
+00:33:45,399 --> 00:33:48,049
+- Boa-tarde.
+- Boa-tarde.
+
+373
+00:33:48,050 --> 00:33:49,798
+Alguma resposta
+ao meu pedido?
+
+374
+00:33:49,799 --> 00:33:52,798
+Sim, tenho a informação
+que pediu, Sr. Lowe.
+
+375
+00:33:52,799 --> 00:33:56,633
+Como esperado, não há ninguém
+registrado naquele setor.
+
+376
+00:33:56,634 --> 00:33:58,034
+Como esperado?
+
+377
+00:33:58,509 --> 00:34:01,799
+Acesso proibido. Será usado
+nas novas narrativas.
+
+378
+00:34:01,800 --> 00:34:04,342
+Quantos técnicos
+o visitaram recentemente?
+
+379
+00:34:05,134 --> 00:34:06,534
+Checando.
+
+380
+00:34:07,217 --> 00:34:08,617
+Nenhum.
+
+381
+00:34:39,634 --> 00:34:41,034
+SETOR 17
+
+382
+00:35:50,759 --> 00:35:52,592
+Você é Arnold?
+
+383
+00:35:55,800 --> 00:35:59,426
+Quem é Arnold?
+E quem diabo é você?
+
+384
+00:36:00,441 --> 00:36:03,551
+Garoto, ele é seu amigo?
+
+385
+00:36:04,134 --> 00:36:07,509
+- Você está invadindo.
+- Congelar funções motoras.
+
+386
+00:36:09,398 --> 00:36:10,798
+- Papai!
+- Congelar...
+
+387
+00:36:10,799 --> 00:36:12,841
+Não o machuque!
+Ele só está perdido.
+
+388
+00:36:12,842 --> 00:36:16,425
+Ele pode se perder em outra
+propriedade. Não pode?
+
+389
+00:36:16,426 --> 00:36:17,826
+Basta.
+
+390
+00:36:19,718 --> 00:36:21,118
+Descansar.
+
+391
+00:36:28,134 --> 00:36:30,258
+Eles não respondem
+a comandos de voz.
+
+392
+00:36:30,259 --> 00:36:31,799
+Respondem a minha.
+
+393
+00:36:32,842 --> 00:36:34,242
+Quem são eles?
+
+394
+00:36:35,175 --> 00:36:36,575
+Fantasmas, agora.
+
+395
+00:36:37,800 --> 00:36:40,800
+Sobreviventes daquilo
+que o tempo destruiu.
+
+396
+00:36:43,384 --> 00:36:45,092
+Estes são da 1ª geração?
+
+397
+00:36:46,050 --> 00:36:47,509
+Venha aqui, garoto.
+
+398
+00:36:53,050 --> 00:36:54,676
+Ofereça a outra face.
+
+399
+00:37:02,759 --> 00:37:05,940
+O que os novos anfitriões
+ganharam em eficiência,
+
+400
+00:37:05,941 --> 00:37:08,799
+perderam em graça.
+
+401
+00:37:09,592 --> 00:37:12,633
+Como ainda operam
+depois de tanto tempo?
+
+402
+00:37:12,634 --> 00:37:14,092
+Eu os mantenho.
+
+403
+00:37:15,925 --> 00:37:17,325
+Basta, Robert.
+
+404
+00:37:22,426 --> 00:37:26,509
+São os últimos no parque
+daqueles construídos por Arnold.
+
+405
+00:37:28,426 --> 00:37:30,676
+Por isso não tive coragem
+de destruí-los.
+
+406
+00:37:31,050 --> 00:37:32,718
+A outra razão é óbvia.
+
+407
+00:37:33,634 --> 00:37:35,467
+Olá, Jock. Bom garoto.
+
+408
+00:37:37,759 --> 00:37:40,675
+Contei a ele sobre minhas
+férias em família
+
+409
+00:37:40,676 --> 00:37:42,883
+na praia de Pendeen,
+em Cornwall.
+
+410
+00:37:43,799 --> 00:37:47,092
+Meu irmão e eu
+exploramos o campo.
+
+411
+00:37:49,967 --> 00:37:53,009
+É a única lembrança feliz
+da minha infância.
+
+412
+00:37:55,134 --> 00:37:57,550
+Arnold os construiu
+como um presente.
+
+413
+00:37:57,551 --> 00:38:01,925
+Ele disse que grandes artistas
+sempre se escondem em sua obra.
+
+414
+00:38:02,634 --> 00:38:04,717
+As versões de Arnold
+
+415
+00:38:04,718 --> 00:38:07,798
+lisonjeavam os originais.
+
+416
+00:38:07,799 --> 00:38:10,174
+Fiz alguns ajustes
+ao longo dos anos.
+
+417
+00:38:10,175 --> 00:38:12,300
+Dei ao meu pai,
+particularmente,
+
+418
+00:38:12,301 --> 00:38:15,467
+algumas das suas
+características originais.
+
+419
+00:38:17,134 --> 00:38:20,799
+Com todo respeito, senhor,
+isso me incomoda.
+
+420
+00:38:21,800 --> 00:38:23,799
+Anfitriões sem supervisão.
+
+421
+00:38:23,800 --> 00:38:25,718
+Eles só vão aonde permito.
+
+422
+00:38:25,719 --> 00:38:28,799
+Eles são inofensivos
+como todos os nossos anfitriões.
+
+423
+00:38:29,399 --> 00:38:33,175
+Você pode me permitir
+um pequeno elo com meu passado.
+
+424
+00:38:33,799 --> 00:38:36,551
+Se pudesse ver seu filho
+de novo, Bernard,
+
+425
+00:38:37,799 --> 00:38:39,199
+não ia querer?
+
+426
+00:38:44,799 --> 00:38:47,798
+- Eu devo voltar.
+- Claro.
+
+427
+00:38:47,799 --> 00:38:49,967
+Conversaremos sobre isto depois,
+se quiser.
+
+428
+00:38:54,009 --> 00:38:58,551
+Robert,
+conte-me sobre seu dia.
+
+429
+00:39:09,092 --> 00:39:12,883
+Fique de olho em Pariah.
+Está quase lotada esta noite.
+
+430
+00:39:15,301 --> 00:39:16,701
+<i>Meu Deus!</i>
+
+431
+00:39:17,467 --> 00:39:20,175
+Parece que está chovendo
+em Sweetwater!
+
+432
+00:39:21,025 --> 00:39:24,592
+Dane-se Ford
+e sua nova maldita narrativa.
+
+433
+00:39:24,593 --> 00:39:27,799
+Dane-se este
+maldito mapa idiota.
+
+434
+00:39:28,134 --> 00:39:31,800
+Dane-se aquela vadia
+abstêmia dinamarquesa.
+
+435
+00:39:32,175 --> 00:39:34,718
+Está registrando uma queixa,
+Sr. Sizemore?
+
+436
+00:39:37,384 --> 00:39:40,924
+Estou declarando
+que este parque é meu palco
+
+437
+00:39:40,925 --> 00:39:43,675
+e posso fazer com ele
+o que eu quiser.
+
+438
+00:39:43,676 --> 00:39:46,300
+Bem, já que este é um momento
+como outro qualquer.
+
+439
+00:39:46,301 --> 00:39:48,925
+Lee Sizemore,
+esta é Charlotte Hale,
+
+440
+00:39:50,050 --> 00:39:52,258
+Diretora Executiva
+do nosso Conselho.
+
+441
+00:39:52,259 --> 00:39:53,841
+Ela veio, em nome da Delos
+
+442
+00:39:53,842 --> 00:39:56,925
+supervisionar certas transições
+na nossa administração.
+
+443
+00:40:03,592 --> 00:40:04,992
+Já nos conhecemos.
+
+444
+00:40:12,134 --> 00:40:14,050
+Acesse o registro
+de anfitriões.
+
+445
+00:40:15,217 --> 00:40:17,300
+Quantos anfitriões
+de 1ª geração temos?
+
+446
+00:40:17,301 --> 00:40:18,798
+<i>Oitenta e dois.</i>
+
+447
+00:40:18,799 --> 00:40:23,199
+- Quantos criados por Arnold?
+- <i>Quarenta e sete.</i>
+
+448
+00:40:23,799 --> 00:40:26,798
+Liste, alfabeticamente,
+os anfitriões de 1ª geração
+
+449
+00:40:26,799 --> 00:40:28,199
+ainda em rotação.
+
+450
+00:40:29,217 --> 00:40:31,050
+ABERNATHY, DOLORES
+
+451
+00:40:38,342 --> 00:40:39,799
+<i>Em frente!</i>
+
+452
+00:40:46,800 --> 00:40:48,841
+Sejam espertos, amigos.
+
+453
+00:40:48,842 --> 00:40:53,174
+Entendo o prazer visceral
+da vingança mais do que muitos,
+
+454
+00:40:53,175 --> 00:40:55,175
+mas estou pronto
+para negociar.
+
+455
+00:40:55,799 --> 00:40:59,425
+Este homem tem valor
+para mim vivo e saudável.
+
+456
+00:40:59,426 --> 00:41:02,799
+Se não se calar,
+vou adicioná-lo ao rebanho.
+
+457
+00:41:04,799 --> 00:41:06,551
+Com seu amigo Flood.
+
+458
+00:41:07,799 --> 00:41:11,799
+Você é um traidor desgraçado
+e um assassino frio, Flood.
+
+459
+00:41:40,925 --> 00:41:43,175
+Você tem razão,
+sou um assassino.
+
+460
+00:42:04,759 --> 00:42:06,966
+Pegue um cavalo
+e vamos dar o fora daqui.
+
+461
+00:42:06,967 --> 00:42:08,759
+Eles vão nos seguir.
+
+462
+00:42:51,467 --> 00:42:53,175
+Você acha
+que conhece a pessoa...
+
+463
+00:42:53,842 --> 00:42:55,242
+Você não me conhece.
+
+464
+00:43:02,217 --> 00:43:04,967
+Vamos pegar nossos cavalos
+e pertences e partir.
+
+465
+00:43:18,842 --> 00:43:21,466
+Identifiquei o satélite.
+É um dos nossos.
+
+466
+00:43:21,467 --> 00:43:23,967
+<i>- O quê?</i>
+- É um satélite da Delos.
+
+467
+00:43:24,301 --> 00:43:25,882
+Tropeçamos em algo sério.
+
+468
+00:43:25,883 --> 00:43:28,258
+O sistema bicameral
+do qual falou?
+
+469
+00:43:28,259 --> 00:43:29,924
+Usado para controlar
+o lenhador.
+
+470
+00:43:29,925 --> 00:43:33,798
+E a voz que os anfitriões ouvem
+é alguém transmitindo.
+
+471
+00:43:33,799 --> 00:43:35,550
+Há décadas não usamos isso.
+
+472
+00:43:35,551 --> 00:43:38,799
+Ainda há transmissores
+no parque, e alguém religou um.
+
+473
+00:43:38,800 --> 00:43:41,798
+- Onde?
+- Um teatro abandonado, setor 3.
+
+474
+00:43:41,799 --> 00:43:44,799
+Acharei o transmissor
+e saberei quem o acessou.
+
+475
+00:43:44,800 --> 00:43:46,200
+<i>Isso é loucura.</i>
+
+476
+00:43:46,799 --> 00:43:49,174
+- Você está sozinha?
+- Sim. Manterei contacto.
+
+477
+00:43:49,175 --> 00:43:50,575
+<i>Elsie, cuidado...</i>
+
+478
+00:43:58,050 --> 00:43:59,450
+Você está perdido?
+
+479
+00:44:00,634 --> 00:44:02,034
+Pelo contrário.
+
+480
+00:44:02,799 --> 00:44:05,134
+Achei que poderíamos
+brincar com Jock.
+
+481
+00:44:05,967 --> 00:44:07,367
+Você o trouxe?
+
+482
+00:44:10,799 --> 00:44:12,199
+Onde ele está, garoto?
+
+483
+00:45:21,800 --> 00:45:24,467
+FONTE DO SINAL
+A 3,7 METROS
+
+484
+00:45:40,799 --> 00:45:43,842
+Sou um gênio do mal
+escondendo um transmissor.
+
+485
+00:45:44,342 --> 00:45:45,883
+Onde diabo o esconderia?
+
+486
+00:46:26,551 --> 00:46:30,467
+Isso mesmo.
+Vejamos o que você tem.
+
+487
+00:46:32,551 --> 00:46:34,050
+Acesse usuários anteriores.
+
+488
+00:47:11,799 --> 00:47:14,798
+Achei que tinha sido clara
+sobre estas visitas.
+
+489
+00:47:14,799 --> 00:47:16,199
+Não vim para isso.
+
+490
+00:47:17,799 --> 00:47:21,259
+Hoje, mais cedo
+descobri anomalias no parque.
+
+491
+00:47:22,301 --> 00:47:25,301
+Apesar do que há entre nós,
+precisamos conversar.
+
+492
+00:47:33,799 --> 00:47:35,718
+CHAMADA - RECUSAR
+
+493
+00:47:36,799 --> 00:47:39,883
+- Algo a ver com desgarrado?
+- Foi onde começou.
+
+494
+00:47:40,718 --> 00:47:45,301
+Mas me deparei com algo
+que você precisa saber.
+
+495
+00:47:47,800 --> 00:47:52,592
+Sempre confiei em Ford.
+Ele é meu mentor e amigo.
+
+496
+00:47:53,799 --> 00:47:56,258
+Mas acho que você tem razão
+em se preocupar.
+
+497
+00:47:56,259 --> 00:47:59,883
+Há algo acontecendo
+com o antigo sócio dele, Arnold.
+
+498
+00:48:02,134 --> 00:48:04,175
+- Agora não, Elsie.
+- Não desligue.
+
+499
+00:48:05,384 --> 00:48:06,799
+Tive sorte.
+
+500
+00:48:06,800 --> 00:48:09,134
+Sei quem estava
+roubando nossos dados.
+
+501
+00:48:09,925 --> 00:48:11,592
+<i>Era Theresa, Bernard.</i>
+
+502
+00:48:15,092 --> 00:48:16,799
+<i>Ela não é o único problema.</i>
+
+503
+00:48:16,800 --> 00:48:18,798
+Há algo muito maior
+acontecendo.
+
+504
+00:48:18,799 --> 00:48:20,217
+<i>Ligo para você depois.</i>
+
+505
+00:48:24,092 --> 00:48:26,592
+MATRIZ DE ATRIBUTOS
+
+506
+00:48:27,718 --> 00:48:29,118
+Isto sou eu?
+
+507
+00:48:29,799 --> 00:48:32,799
+É seu banco de códigos.
+Tudo que faz você...
+
+508
+00:48:33,134 --> 00:48:34,534
+você.
+
+509
+00:48:36,092 --> 00:48:39,883
+- O que é isto tudo?
+- Sua matriz de atributos.
+
+510
+00:48:40,301 --> 00:48:42,841
+Sua personalidade
+numa escala de 20 pontos.
+
+511
+00:48:42,842 --> 00:48:45,091
+Como coordenação.
+
+512
+00:48:45,092 --> 00:48:49,091
+Se tiver 5, é estabanada.
+Se tiver 15, é uma atleta.
+
+513
+00:48:49,092 --> 00:48:50,799
+Quais são os outros atributos?
+
+514
+00:48:50,800 --> 00:48:52,200
+Há muitos.
+
+515
+00:48:53,233 --> 00:48:54,633
+Há de tudo.
+
+516
+00:48:54,634 --> 00:48:56,034
+Empatia...
+
+517
+00:48:56,592 --> 00:48:58,300
+Sinceridade, Charme.
+
+518
+00:48:58,301 --> 00:49:01,799
+- Você tem 18 em Charme.
+- Não aja com surpresa.
+
+519
+00:49:02,426 --> 00:49:04,550
+Também há Coragem,
+
+520
+00:49:04,551 --> 00:49:06,758
+Lealdade, ambas altas.
+
+521
+00:49:06,759 --> 00:49:10,550
+O que é esta?
+"Apercepção Geral"?
+
+522
+00:49:10,551 --> 00:49:12,426
+Basicamente, a inteligência.
+
+523
+00:49:12,925 --> 00:49:15,798
+- Quatorze?
+- É o máximo que permitem.
+
+524
+00:49:15,799 --> 00:49:18,509
+Você está na gerência.
+Querem que seja esperta.
+
+525
+00:49:18,510 --> 00:49:21,633
+- Mas não muito esperta.
+- Você trabalha num bordel,
+
+526
+00:49:21,634 --> 00:49:23,799
+não com lançamento
+de foguetes.
+
+527
+00:49:23,800 --> 00:49:28,466
+Tudo bem.
+Quero fazer algumas mudanças.
+
+528
+00:49:28,467 --> 00:49:30,092
+Não podemos fazer isso.
+
+529
+00:49:34,800 --> 00:49:37,301
+É preciso uma senha
+da Comportamento.
+
+530
+00:49:37,883 --> 00:49:40,799
+E mesmo assim,
+qualquer mudança que fizermos
+
+531
+00:49:41,398 --> 00:49:44,301
+ficaria pendendo aprovação,
+então...
+
+532
+00:49:44,799 --> 00:49:46,798
+Não foi o que seu amigo
+me disse.
+
+533
+00:49:46,799 --> 00:49:48,591
+Ele me disse
+que você consegue
+
+534
+00:49:48,592 --> 00:49:51,301
+ativar anfitriões e apagar
+a memória deles
+
+535
+00:49:51,634 --> 00:49:53,341
+sem que ninguém saiba.
+
+536
+00:49:53,342 --> 00:49:56,217
+Levei cinco minutos
+para entender por quê.
+
+537
+00:49:56,718 --> 00:49:58,800
+Muitos homens solitários
+aqui embaixo.
+
+538
+00:49:59,175 --> 00:50:01,551
+Não deveriam
+usar a mercadoria.
+
+539
+00:50:02,192 --> 00:50:07,159
+Isso criou um certo mercado
+que você podia explorar.
+
+540
+00:50:08,800 --> 00:50:12,091
+Tudo bem, querido.
+Também sou empreendedora.
+
+541
+00:50:12,092 --> 00:50:16,800
+Renunciarei minha comissão
+em troca de algumas alterações.
+
+542
+00:50:52,191 --> 00:50:54,798
+- O que descobriu?
+- <i>Está bem, então...</i>
+
+543
+00:50:54,799 --> 00:50:57,591
+Theresa estava usando
+o antigo sistema bicameral
+
+544
+00:50:57,592 --> 00:50:59,591
+para reprogramar o lenhador.
+
+545
+00:50:59,592 --> 00:51:01,175
+Mas ela não é a única.
+
+546
+00:51:01,592 --> 00:51:04,300
+<i>Outra pessoa tem usado
+o sistema há semanas</i>
+
+547
+00:51:04,301 --> 00:51:05,799
+<i>para remanejar anfitriões.</i>
+
+548
+00:51:05,800 --> 00:51:08,798
+- Quais anfitriões?
+<i>- Não sei, vários deles.</i>
+
+549
+00:51:08,799 --> 00:51:11,008
+Devem ser modelos antigos.
+
+550
+00:51:11,009 --> 00:51:15,049
+Os novos não têm receptores,
+mas são alterações graves.
+
+551
+00:51:15,050 --> 00:51:16,799
+Mudança e quebra de ciclos.
+
+552
+00:51:16,800 --> 00:51:19,466
+<i>Algumas delas,
+nas diretrizes principais.</i>
+
+553
+00:51:19,467 --> 00:51:23,091
+Eles podem mentir para nós.
+Nos machucar ou aos convidados.
+
+554
+00:51:23,092 --> 00:51:26,800
+<i>- Quem fez as alterações?
+- Não sei, mas acho que...</i>
+
+555
+00:51:28,384 --> 00:51:30,341
+- Arnold.
+- Ele está morto.
+
+556
+00:51:30,342 --> 00:51:33,174
+<i>Pois ele programa bastante,
+para um morto.</i>
+
+557
+00:51:33,175 --> 00:51:36,798
+Se ele discordava de Ford,
+ainda tem algo a dizer.
+
+558
+00:51:36,799 --> 00:51:38,882
+<i>Vou copiar os dados
+e levá-los a você.</i>
+
+559
+00:51:38,883 --> 00:51:41,759
+- Você precisa ver isto.
+<i>- Estarei na minha sala.</i>
+
+560
+00:51:49,799 --> 00:51:52,216
+<i>Não quero que se preocupe
+com Jock.</i>
+
+561
+00:51:52,217 --> 00:51:53,798
+Vou consertá-lo.
+
+562
+00:51:53,799 --> 00:51:56,799
+Mas preciso que me conte
+o que houve com ele.
+
+563
+00:51:57,259 --> 00:52:01,634
+Ele viu um coelho e correu.
+Eu o achei daquele jeito.
+
+564
+00:52:02,925 --> 00:52:04,325
+Análise.
+
+565
+00:52:07,551 --> 00:52:09,175
+Está mentindo para mim,
+garoto?
+
+566
+00:52:10,541 --> 00:52:12,213
+Estou.
+
+567
+00:52:13,718 --> 00:52:16,175
+Diga-me o que realmente
+houve com ele.
+
+568
+00:52:17,342 --> 00:52:18,882
+Eu o matei.
+
+569
+00:52:18,883 --> 00:52:21,924
+- Por quê?
+- Não sei.
+
+570
+00:52:21,925 --> 00:52:25,759
+Isso não basta, Robert.
+Diga-me o que aconteceu.
+
+571
+00:52:27,799 --> 00:52:29,799
+Ele pegou o coelho e o matou.
+
+572
+00:52:30,967 --> 00:52:32,367
+Então...
+
+573
+00:52:33,799 --> 00:52:36,800
+alguém me mandou acabar
+com o sofrimento dele.
+
+574
+00:52:38,967 --> 00:52:42,034
+- Quem mandou?
+- Uma voz.
+
+575
+00:52:43,342 --> 00:52:46,951
+- Voz de quem?
+- Arnold.
+
+576
+00:52:47,592 --> 00:52:49,798
+Disse que Jock
+era um assassino,
+
+577
+00:52:49,799 --> 00:52:53,426
+mas que não tinha culpa
+de ter sido criado assim.
+
+578
+00:52:53,799 --> 00:52:55,426
+E eu podia ajudá-lo.
+
+579
+00:52:57,175 --> 00:52:58,575
+Ajudá-lo?
+
+580
+00:53:03,799 --> 00:53:07,592
+Se ele estivesse morto,
+não machucaria mais ninguém.
+
+581
+00:53:26,301 --> 00:53:27,901
+Que diabo?
+
+582
+00:53:29,759 --> 00:53:31,159
+Puta merda!
+
+583
+00:53:39,349 --> 00:53:40,785
+Olá?
+
+584
+00:53:48,592 --> 00:53:49,992
+Bernard?
+
+585
+00:53:53,552 --> 00:53:55,187
+Olá?
+
+586
+00:54:00,301 --> 00:54:01,701
+Arnold?
+
+587
+00:54:05,634 --> 00:54:07,034
+Entrei.
+
+588
+00:54:08,384 --> 00:54:09,799
+É com você.
+
+589
+00:54:11,134 --> 00:54:12,592
+Lealdade.
+
+590
+00:54:14,301 --> 00:54:16,718
+Abusaram da minha,
+não concordam?
+
+591
+00:54:17,050 --> 00:54:19,799
+Vamos baixá-la um pouco.
+E Dor...
+
+592
+00:54:19,800 --> 00:54:22,925
+Prefiro sofrer menos quando
+quiser ter estas conversas.
+
+593
+00:54:24,399 --> 00:54:27,341
+Espere.
+O que é isto?
+
+594
+00:54:27,342 --> 00:54:29,759
+Alguns atributos dela
+já foram alterados.
+
+595
+00:54:30,398 --> 00:54:33,199
+Paranoia.
+Autopreservação.
+
+596
+00:54:33,676 --> 00:54:37,091
+Alguém a tem alterado
+em sessões sem <i>login.</i>
+
+597
+00:54:37,092 --> 00:54:40,133
+Alguém com muito mais
+acesso do que nós.
+
+598
+00:54:40,134 --> 00:54:42,799
+- O que isso significa?
+- Para você, não sei, querida.
+
+599
+00:54:42,800 --> 00:54:45,466
+Mas sei o que significa
+para mim. Estou fora.
+
+600
+00:54:45,467 --> 00:54:49,091
+Se não quer sua renda extra,
+talvez não queira o emprego.
+
+601
+00:54:49,092 --> 00:54:51,591
+Já que ambicionam
+operar no meu ramo,
+
+602
+00:54:51,592 --> 00:54:54,175
+direi o que digo
+às minhas novatas.
+
+603
+00:54:54,509 --> 00:54:57,718
+Nunca comece algo
+que não queira terminar.
+
+604
+00:54:58,551 --> 00:55:01,091
+Se vai se foder
+de qualquer jeito,
+
+605
+00:55:01,092 --> 00:55:05,259
+escolha a versão lucrativa,
+querido.
+
+606
+00:55:09,050 --> 00:55:12,409
+Agora, finalmente...
+
+607
+00:55:12,718 --> 00:55:16,009
+O que era?
+Apercepção Geral.
+
+608
+00:55:17,175 --> 00:55:21,258
+Vamos elevá-la ao máximo.
+
+609
+00:55:21,259 --> 00:55:22,676
+Por favor.
+
+610
+00:56:00,467 --> 00:56:05,384
+Caros rapazes...
+Vamos nos divertir, não vamos?
+
+611
+00:56:05,385 --> 00:56:08,348
+<b>Revisão:
+Caio</b>
+
+612
+00:56:08,349 --> 00:56:09,749
+<b>www.legendas.tv</b>
+
