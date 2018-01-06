@@ -41,84 +41,154 @@ def build_dictionaries(tokens, vocab_size):
 	return num2word, word2num
 
 def save_dictionaries(num2word, word2num):
+	try:
+		with open('dictionaries/num2word.txt', 'w') as f:
 
-	with open('dictionaries/num2word.txt', 'w') as f:
+			json.dump(num2word, f)
 
-		json.dump(num2word, f)
+		with open('dictionaries/word2num.txt', 'w') as f:
 
-	with open('dictionaries/word2num.txt', 'w') as f:
+			json.dump(word2num, f)
+	except:
+		with open('preprocessing/dictionaries/num2word.txt', 'w') as f:
 
-		json.dump(word2num, f)
+			json.dump(num2word, f)
+
+		with open('preprocessing/dictionaries/word2num.txt', 'w') as f:
+
+			json.dump(word2num, f)
 
 def load_dictionaries(directory):
 
-	with open(directory + 'dictionaries/num2word.txt', 'r') as f:
+	try:
+		with open(directory + 'dictionaries/num2word.txt', 'r') as f:
 
-		num2word = json.load(f)
+			num2word = json.load(f)
 
-	for i in range(0, len(num2word)):
-		num2word[i] = num2word[str(i)]
-		del num2word[str(i)]
+		for i in range(0, len(num2word)):
+			num2word[i] = num2word[str(i)]
+			del num2word[str(i)]
 
-	with open(directory + 'dictionaries/word2num.txt', 'r') as f:
+		with open(directory + 'dictionaries/word2num.txt', 'r') as f:
 
-		word2num = json.load(f)
+			word2num = json.load(f)
 
-	return num2word, word2num
+		return num2word, word2num
+	except:
+		with open(directory + 'preprocessing/dictionaries/num2word.txt', 'r') as f:
 
+			num2word = json.load(f)
+
+		for i in range(0, len(num2word)):
+			num2word[i] = num2word[str(i)]
+			del num2word[str(i)]
+
+		with open(directory + 'preprocessing/dictionaries/word2num.txt', 'r') as f:
+
+			word2num = json.load(f)
+
+		return num2word, word2num
 
 def save_sentences(sentences_talked, sentences_answered, tokens):
 
-	with open('sentences/sentences_talked.txt', 'w') as f:
+	try:
+		with open('sentences/sentences_talked.txt', 'w') as f:
 
-		json.dump(sentences_talked, f)
+			json.dump(sentences_talked, f)
 
-	with open('sentences/sentences_answered.txt', 'w') as f:
+		with open('sentences/sentences_answered.txt', 'w') as f:
 
-		json.dump(sentences_answered, f)
+			json.dump(sentences_answered, f)
 
-	with open('sentences/tokens.txt', 'w') as f:
+		with open('sentences/tokens.txt', 'w') as f:
 
-		json.dump(tokens, f)
+			json.dump(tokens, f)
+	except:
+		with open('preprocessing/sentences/sentences_talked.txt', 'w') as f:
+
+			json.dump(sentences_talked, f)
+
+		with open('preprocessing/sentences/sentences_answered.txt', 'w') as f:
+
+			json.dump(sentences_answered, f)
+
+		with open('preprocessing/sentences/tokens.txt', 'w') as f:
+
+			json.dump(tokens, f)
 
 def load_sentences(directory):
 
-	with open(directory + 'sentences/sentences_talked.txt', 'r') as f:
+	try:
+		with open(directory + 'sentences/sentences_talked.txt', 'r') as f:
 
-		sentences_talked = json.load(f)
+			sentences_talked = json.load(f)
 
-	with open(directory + 'sentences/sentences_answered.txt', 'r') as f:
+		with open(directory + 'sentences/sentences_answered.txt', 'r') as f:
 
-		sentences_answered = json.load(f)
+			sentences_answered = json.load(f)
 
-	with open(directory + 'sentences/tokens.txt', 'r') as f:
+		with open(directory + 'sentences/tokens.txt', 'r') as f:
 
-		tokens = json.load(f)
+			tokens = json.load(f)
 
-	return sentences_talked, sentences_answered, tokens
+		return sentences_talked, sentences_answered, tokens
+
+	except:
+		with open(directory + 'preprocessing/sentences/sentences_talked.txt', 'r') as f:
+
+			sentences_talked = json.load(f)
+
+		with open(directory + 'preprocessing/sentences/sentences_answered.txt', 'r') as f:
+
+			sentences_answered = json.load(f)
+
+		with open(directory + 'preprocessing/sentences/tokens.txt', 'r') as f:
+
+			tokens = json.load(f)
+
+		return sentences_talked, sentences_answered, tokens
 
 def save_ids(ids_talked, ids_answered):
+	try:
+		with open('ids/ids_talked.txt', 'w') as f:
 
-	with open('ids/ids_talked.txt', 'w') as f:
+			json.dump(ids_talked, f)
 
-		json.dump(ids_talked, f)
+		with open('ids/ids_answered.txt', 'w') as f:
 
-	with open('ids/ids_answered.txt', 'w') as f:
+			json.dump(ids_answered, f)
 
-		json.dump(ids_answered, f)
+	except:
+		with open('preprocessing/ids/ids_talked.txt', 'w') as f:
+
+			json.dump(ids_talked, f)
+
+		with open('preprocessing/ids/ids_answered.txt', 'w') as f:
+
+			json.dump(ids_answered, f)
 
 def load_ids(directory):
+	try:
+		with open(directory + 'ids/ids_talked.txt', 'r') as f:
 
-	with open(directory + 'ids/ids_talked.txt', 'r') as f:
+			ids_talked = json.load(f)
 
-		ids_talked = json.load(f)
+		with open(directory + 'ids/ids_answered.txt', 'r') as f:
 
-	with open(directory + 'ids/ids_answered.txt', 'r') as f:
+			ids_answered = json.load(f)
 
-		ids_answered = json.load(f)
+		return ids_talked, ids_answered
 
-	return ids_talked, ids_answered
+	except:
+		with open(directory + 'preprocessing/ids/ids_talked.txt', 'r') as f:
 
+			ids_talked = json.load(f)
+
+		with open(directory + 'preprocessing/ids/ids_answered.txt', 'r') as f:
+
+			ids_answered = json.load(f)
+
+		return ids_talked, ids_answered
 
 ###START####	
 
@@ -126,7 +196,9 @@ dir_list = glob.glob('../srt/*.srt')
 
 tags = ['<i>','</i>','{i}','{/i}','<b>','</b>','{b}','{/b}','<u>','</u>','{u}','{/u}','\"','\''] #problemas com aspas
 
+sentences_talked, sentences_answered, tokens = load_sentences('')
 
+'''
 def process_srt(directory):
 
 	sublist = subs_to_list(directory)
@@ -160,6 +232,7 @@ for srt in dir_list: #concat sentences of all subs
 
 save_sentences(sentences_talked, sentences_answered, tokens)
 '''
+'''
 ##########CUILDADO
 dict_size = 5333
 num2word, word2num = build_dictionaries(tokens, dict_size)
@@ -186,26 +259,51 @@ for sent in sentences_answered:
 #
 #sentences of 'word ids'
 
-save_ids(sentences_talked, sentences_answered)
+#save_ids(sentences_talked, sentences_answered)
 ids_talked, ids_answered = load_ids("")
 
-max_length = 20
+def build_matrices(max_length):
 
-for sent in ids_talked:
-	if(len(sent) < max_length):
-		sent += ([word2num["PAD"]]*(max_length - len(sent)))
+	talks_seq_length = []
+	answers_seq_length = []
+	y = []
 
-	elif(len(sent) > max_length):
-		print("ERROR: Set a max_length >= the max sentence lenght")
-		break
+	for sent in ids_talked:
 
-for sent in ids_answered:
-	if(len(sent) < max_length):
-		sent += ([word2num["PAD"]]*(max_length - len(sent)))
+		talks_seq_length.append(len(sent))
 
-	elif(len(sent) > max_length):
-		print("ERROR: Set a max_length >= the max sentence lenght")
-		break
+		if(len(sent) < max_length):
+			sent += ([word2num["PAD"]]*(max_length - len(sent)))
+
+		elif(len(sent) > max_length):
+			print("ERROR: Set a max_length >= the max sentence lenght")
+			return
+
+	for sent in ids_answered:
+
+		answers_seq_length.append(len(sent)+1)
+
+		if(len(sent) < max_length):
+
+			y.append([word2num["EOS"]] + copy.deepcopy(sent) + [word2num["PAD"]]*(max_length - len(sent) - 1))
+			sent.append(word2num["EOS"])
+			sent += ([word2num["PAD"]]*(max_length - len(sent) - 1))
+
+		elif(len(sent) > max_length):
+			print("ERROR: Set a max_length >= the max sentence (for asnwered senteces) lenght")
+			return
+
+	x = np.transpose(np.matrix(ids_talked))
+	y = np.transpose(np.matrix(y))
+	target = np.transpose(np.matrix(ids_answered))
+	talks_seq_length = np.array(talks_seq_length)
+	answers_seq_length = np.array(answers_seq_length)
+
+	return x, talks_seq_length, y, target, answers_seq_length
+
+def d_size():
+
+	return len(sentences_talked)
 
 #print(np.transpose(np.matrix(ids_talked[30:50])))
 #print(len(set(tokens)))

@@ -1,5 +1,8 @@
 from nltk.tokenize import word_tokenize, sent_tokenize
-from process_srt import load_dictionaries
+try:
+	from process_srt import load_dictionaries
+except:
+	from .process_srt import load_dictionaries
 import numpy as np
 import json
 
@@ -8,6 +11,7 @@ class ProcessChat:
 	def __init__(self):
 
 		self.num2word, self.word2num = load_dictionaries("")
+		print('new instance of ProcessChat...')
 
 		return
 
