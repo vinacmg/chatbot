@@ -2,7 +2,8 @@ import numpy as np
 import tensorflow as tf
 from preprocessing.process_srt import build_matrices, d_size, load_sentences
 from preprocessing.process_chat import ProcessChat
-
+import json
+import matplotlib.pyplot as plt
 
 
 class Model:
@@ -21,6 +22,7 @@ class Model:
 	learning_rate = 0.015
 	init_minval_lstm = -0.08
 	init_maxval_lstm = 0.08
+	loss_track = []
 	######################
 
 	vars_dict = {}
@@ -44,7 +46,7 @@ class Model:
 		encoder_cell = tf.nn.rnn_cell.MultiRNNCell(stacked_encoder, state_is_tuple=True)
 	else: encoder_cell = tf.nn.rnn_cell.LSTMCell(num_units = hidden_units, state_is_tuple=True, initializer=tf.random_uniform_initializer(init_minval_lstm, init_maxval_lstm))
 
-	encoder_outputs, encoder_final_state = tf.nn.dynamic_rnn(
+	_, encoder_final_state = tf.nn.dynamic_rnn( #encoder_outputs, encoder_final_state
 		cell=encoder_cell,
 		dtype=tf.float32,
 		sequence_length=encoder_sequence_length,
@@ -66,6 +68,7 @@ class Model:
 		decoder_cell = tf.nn.rnn_cell.MultiRNNCell(stacked_decoder, state_is_tuple=True)
 	else: decoder_cell = tf.nn.rnn_cell.LSTMCell(num_units = hidden_units, state_is_tuple=True, initializer=tf.random_uniform_initializer(init_minval_lstm, init_maxval_lstm))
 
+	decoder_initial_state = encoder_final_state
 
 	decoder_outputs, decoder_final_state = tf.nn.dynamic_rnn(
 		cell=decoder_cell,
@@ -101,6 +104,10 @@ class Model:
 		for v in tf.get_collection(tf.GraphKeys.GLOBAL_VARIABLES, scope='decoder'):
 			self.vars_dict[v.name] = v
 
+	def __del__(self):
+
+		self.sess.close()
+
 	def train(self):
 
 		x = self.x
@@ -128,19 +135,18 @@ class Model:
 					decoder_targets_ids: target_y,
 					decoder_sequence_length: dec_seq_length}))
 
-
-				#loss_track.append(l)
+				loss_track.append(l)
 
 
 	def inference(self, chat_input):
 
 		#put option: with feed_previous or without
 		#optimize feed_previous (sem gambiarra)
+		#observe if "until predict EOS" is a good apporoach (a max nmber of loops could be added)
 
 		decoder_logits = self.decoder_logits
 
 		input_x = np.transpose(np.matrix(chat_input))
-		print(input_x)
 		input_y = [1]
 		matrix_y = np.transpose(np.matrix(input_y))
 		enc_seq_length = np.array([len(input_x)])
@@ -158,9 +164,38 @@ class Model:
 					decoder_sequence_length: dec_seq_length})
 
 			if(prediction[-1] == [1]):
-				return prediction[:-1]
+				return np.transpose(prediction[:-1])
 
 			matrix_y = np.concatenate((np.matrix([1]), prediction),)
+
+	def save_model(self):
+
+		sess = self.sess
+
+		saver = tf.train.Saver()
+		saver.save(sess, "save/model")
+
+	def load_model(self):
+
+		sess = self.sess
+
+		loader = tf.train.Saver()
+		loader.restore(sess, tf.train.latest_checkpoint('save/'))
+
+	def save_loss_track(self):
+
+		with open('save/loss_track.json', 'w') as f:
+
+			json.dump(self.loss_track, f)
+
+	def show_loss_track(self):
+
+		with open('save/loss_track.json', 'r') as f:
+
+			loss_track = json.load(f)
+
+		plt.plot(loss_track)
+		plt.show()
 
 '''
 	def init_lstm_weights(self, minval, maxval): #use this logic if lstmcell initializer be deprecated or using other cell types
@@ -184,6 +219,11 @@ class Model:
 
 model = Model()
 
+
+
+
+
+'''
 for v in model.vars_dict:
 	print(v)
 
@@ -195,7 +235,7 @@ print(model.sess.run(model.vars_dict['decoder/multi_rnn_cell/cell_1/lstm_cell/ke
 print()
 print(model.sess.run(model.vars_dict['decoder/multi_rnn_cell/cell_1/lstm_cell/bias:0']))
 
-'''
+
 print(model.x[:,:10])
 print(model.enc_seq_length[:10])
 print(model.y[:,:10])
