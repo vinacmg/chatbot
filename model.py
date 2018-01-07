@@ -4,6 +4,8 @@ from preprocessing.process_srt import build_matrices, d_size, load_sentences
 from preprocessing.process_chat import ProcessChat
 import json
 import matplotlib.pyplot as plt
+from tensorflow.python.client import timeline
+import time
 
 
 class Model:
@@ -11,15 +13,15 @@ class Model:
 	####Settings##########
 	max_time = 20
 	data_size = 6740
-	input_vocab_size = 5333
-	target_vocab_size = 5333 - 1 # -1 por causa do UNK
+	input_vocab_size = 5336
+	target_vocab_size = 5336 # para inferir -1 por causa do UNK
 	embedding_size = 100 #for large data probably 200 is good
-	hidden_units = 256 #set 1024 later
+	hidden_units = 1024
 	num_layers = 2
 	batch_size = 20
-	data_sections = data_size/batch_size
-	epochs = 7
-	learning_rate = 0.015
+	data_sections = int(data_size/batch_size)
+	epochs = 30
+	learning_rate = 0.03
 	init_minval_lstm = -0.08
 	init_maxval_lstm = 0.08
 	loss_track = []
@@ -80,7 +82,7 @@ class Model:
 		scope="decoder")
 	###############################
 
-	decoder_max_steps, decoder_batch_size, decoder_dim = tf.unstack(tf.shape(decoder_outputs))
+	decoder_max_steps, decoder_batch_size, decoder_dim = tf.unstack(tf.shape(decoder_outputs)) #não precisa já que decoder_dim = hidden_units
 	decoder_outputs_flat = tf.reshape(decoder_outputs, (-1, decoder_dim))
 	decoder_logits_flat = tf.add(tf.matmul(decoder_outputs_flat, W), b)
 	decoder_logits = tf.reshape(decoder_logits_flat, (decoder_max_steps, decoder_batch_size, target_vocab_size))
@@ -115,12 +117,44 @@ class Model:
 		target = self.target
 		enc_seq_length = self.enc_seq_length
 		dec_seq_length = self.dec_seq_length
+		batch_size = self.batch_size
+		train_op = self.train_op
+		loss = self.loss
+		encoder_input_ids = self.encoder_input_ids
+		decoder_input_ids = self.decoder_input_ids
+		decoder_targets_ids = self.decoder_targets_ids
+		encoder_sequence_length = self.encoder_sequence_length
+		decoder_sequence_length = self.decoder_sequence_length
+		epochs = self.epochs
+		data_sections = self.data_sections
 		sess = self.sess
-
+		loss_track = self.loss_track
+		
+		print("train() called...")
 		##### batch 0########
+		timebf = time.time()
 
+		input_x = x[:,:batch_size]
+		input_y = y[:,:batch_size]
+		target_y = target[:,:batch_size]
 
+		_, l = (sess.run([train_op, loss], feed_dict={encoder_input_ids: input_x,
+	    	decoder_input_ids: input_y,
+	    	encoder_sequence_length: enc_seq_length[:batch_size],
+	    	decoder_targets_ids: target_y,
+	    	decoder_sequence_length: dec_seq_length[:batch_size]}))
+		
+		timeaft = time.time()
 
+		loss_track.append(l)
+
+		batch_time = timeaft - timebf
+
+		ans = input("One batch time:"+ str(batch_time) +" seconds.\nTotal-time linear estimative:"+ str(batch_time*data_sections*epochs/60) +" minutes.\nPress y to continue: ")
+		if(not(ans == 'y' or ans == 'Y')): quit()
+
+	    #####################
+		print('Training...')
 
 		##### batch 1 and forward ######
 		for epoch in range(0, epochs):
@@ -131,12 +165,20 @@ class Model:
 
 				_, l = (sess.run([train_op, loss], feed_dict={encoder_input_ids: input_x, 
 					decoder_input_ids: input_y, 
-					encoder_sequence_length: enc_seq_length, 
+					encoder_sequence_length: enc_seq_length[batch*batch_size:(batch+1)*batch_size], 
 					decoder_targets_ids: target_y,
-					decoder_sequence_length: dec_seq_length}))
-
+					decoder_sequence_length: dec_seq_length[batch*batch_size:(batch+1)*batch_size]}))
+	
 				loss_track.append(l)
 
+			
+			print('epoch '+ str(epoch) +' end...')
+		
+		self.save_model(29)
+
+		plt.plot(loss_track)
+		plt.savefig('img/loss.png')
+		
 
 	def inference(self, chat_input):
 
@@ -145,12 +187,18 @@ class Model:
 		#observe if "until predict EOS" is a good apporoach (a max nmber of loops could be added)
 
 		decoder_logits = self.decoder_logits
+		sess = self.sess
+		encoder_input_ids = self.encoder_input_ids
+		decoder_input_ids = self.decoder_input_ids
+		encoder_sequence_length = self.encoder_sequence_length
+		decoder_sequence_length = self.decoder_sequence_length
 
-		input_x = np.transpose(np.matrix(chat_input))
+		input_x = np.transpose(np.matrix(chat_input + [0]*(self.max_time - len(chat_input))))
 		input_y = [1]
 		matrix_y = np.transpose(np.matrix(input_y))
-		enc_seq_length = np.array([len(input_x)])
-
+		enc_seq_length = np.array([len(chat_input)])
+		dec_seq_length = np.array([len(matrix_y)])
+		
 		while(True):
 
 			dec_seq_length = np.array([len(matrix_y)])
@@ -168,13 +216,19 @@ class Model:
 
 			matrix_y = np.concatenate((np.matrix([1]), prediction),)
 
-	def save_model(self):
+
+	def save_model(self, step):
 
 		sess = self.sess
 
-		saver = tf.train.Saver()
-		saver.save(sess, "save/model")
-
+		saver = tf.train.Saver(max_to_keep=5)
+		saver.save(sess, "save/model", global_step=step)
+		'''
+		ans = input("Overwrite backup? ")
+		if((ans == 'y' or ans == 'Y')): saver.save(sess, "save/backup/model")
+		print('')
+		'''
+	
 	def load_model(self):
 
 		sess = self.sess
@@ -219,9 +273,17 @@ class Model:
 
 model = Model()
 
+model.train()
 
+'''
+model.load_model()
 
-
+while True:
+	usr = input('user: ')
+	res = model.inference(model.prcss_chat.process_in(usr))
+	print(model.prcss_chat.process_out(res.tolist()[0]))
+'''
+##### run options with arch + gpu is getting error
 
 '''
 for v in model.vars_dict:

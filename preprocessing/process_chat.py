@@ -37,6 +37,6 @@ class ProcessChat:
 		sent = []
 
 		for number in out:
-			sent.append(p.num2word[number])
+			sent.append(num2word[number])
 
 		return sent

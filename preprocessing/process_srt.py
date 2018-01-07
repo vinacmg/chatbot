@@ -234,7 +234,7 @@ save_sentences(sentences_talked, sentences_answered, tokens)
 '''
 '''
 ##########CUILDADO
-dict_size = 5333
+dict_size = 5336
 num2word, word2num = build_dictionaries(tokens, dict_size)
 save_dictionaries(num2word ,word2num)
 #############
@@ -287,7 +287,7 @@ def build_matrices(max_length):
 
 			y.append([word2num["EOS"]] + copy.deepcopy(sent) + [word2num["PAD"]]*(max_length - len(sent) - 1))
 			sent.append(word2num["EOS"])
-			sent += ([word2num["PAD"]]*(max_length - len(sent) - 1))
+			sent += ([word2num["PAD"]]*(max_length - len(sent)))
 
 		elif(len(sent) > max_length):
 			print("ERROR: Set a max_length >= the max sentence (for asnwered senteces) lenght")
