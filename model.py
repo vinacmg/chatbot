@@ -20,7 +20,7 @@ class Model:
 	num_layers = 2
 	batch_size = 20
 	data_sections = int(data_size/batch_size)
-	epochs = 30
+	epochs = 4
 	learning_rate = 0.03
 	init_minval_lstm = -0.08
 	init_maxval_lstm = 0.08
@@ -153,6 +153,7 @@ class Model:
 		ans = input("One batch time:"+ str(batch_time) +" seconds.\nTotal-time linear estimative:"+ str(batch_time*data_sections*epochs/60) +" minutes.\nPress y to continue: ")
 		if(not(ans == 'y' or ans == 'Y')): quit()
 
+
 	    #####################
 		print('Training...')
 
@@ -171,10 +172,9 @@ class Model:
 	
 				loss_track.append(l)
 
-			
+			self.save_model(epoch)
 			print('epoch '+ str(epoch) +' end...')
 		
-		self.save_model(29)
 
 		plt.plot(loss_track)
 		plt.savefig('img/loss.png')
