@@ -153,8 +153,7 @@ class Model:
 		ans = input("One batch time:"+ str(batch_time) +" seconds.\nTotal-time linear estimative:"+ str(batch_time*data_sections*epochs/60) +" minutes.\nPress y to continue: ")
 		if(not(ans == 'y' or ans == 'Y')): quit()
 
-
-	    #####################
+		#####################
 		print('Training...')
 
 		##### batch 1 and forward ######
