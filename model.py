@@ -3,6 +3,8 @@ import tensorflow as tf
 from preprocessing.process_srt import build_matrices, d_size, load_sentences
 from preprocessing.process_chat import ProcessChat
 import json
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from tensorflow.python.client import timeline
 import time
