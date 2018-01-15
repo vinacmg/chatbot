@@ -13,17 +13,18 @@ import time
 class Model:
 
 	####Settings##########
-	max_time = 20
-	data_size = 6740
-	input_vocab_size = 5336
-	target_vocab_size = 5336 # para inferir -1 por causa do UNK
-	embedding_size = 100 #for large data probably 200 is good
+	max_time = 18
+	data_size = 217600# total 257631
+	input_vocab_size = 40000
+	target_vocab_size = 40000# para inferir -1 por causa do UNK
+	embedding_size = 256 #for large data probably 200 is good
 	hidden_units = 1024
 	num_layers = 2
-	batch_size = 20
-	data_sections = int(data_size/batch_size)
-	epochs = 4
-	learning_rate = 0.03
+	batch_size = 256
+	data_sections = 850 #int(data_size/batch_size)
+	epochs = 7
+	learning_rate = 0.5
+	#clipping_threshold is directly set on tf.clip_by_average_norm(grad, <threshold>) line of code, get there if you want to change it
 	init_minval_lstm = -0.08
 	init_maxval_lstm = 0.08
 	loss_track = []
@@ -94,12 +95,15 @@ class Model:
 		logits=decoder_logits,)
 
 	loss = tf.reduce_mean(stepwise_cross_entropy)
-	train_op = tf.train.AdamOptimizer(learning_rate).minimize(loss)
+	opt = tf.train.GradientDescentOptimizer(learning_rate)
+	grads_and_vars = opt.compute_gradients(loss)
+	clipped_grads_and_vars = [(tf.clip_by_norm(grad, 3), var) for grad, var in grads_and_vars]
+	train_op = opt.apply_gradients(clipped_grads_and_vars)
 
 	def __init__(self):
 
 		self.x, self.enc_seq_length, self.y, self.target, self.dec_seq_length = build_matrices(self.max_time)
-
+		#self.shuffle()
 		self.prcss_chat = ProcessChat()
 
 		self.sess = tf.Session()
@@ -160,7 +164,8 @@ class Model:
 
 		##### batch 1 and forward ######
 		for epoch in range(0, epochs):
-			for batch in range(1, data_sections):
+			if(epoch>3): self.learning_rate *= 0.5
+			for batch in range(0, data_sections):
 				input_x = x[:,batch*batch_size:(batch+1)*batch_size]
 				input_y = y[:,batch*batch_size:(batch+1)*batch_size]
 				target_y = target[:,batch*batch_size:(batch+1)*batch_size]
@@ -171,12 +176,13 @@ class Model:
 					decoder_targets_ids: target_y,
 					decoder_sequence_length: dec_seq_length[batch*batch_size:(batch+1)*batch_size]}))
 	
-				loss_track.append(l)
+				loss_track.append(float(l))
 
+			
 			self.save_model(epoch)
 			print('epoch '+ str(epoch) +' end...')
+			print(loss_track[-1])
 		
-
 		plt.plot(loss_track)
 		plt.savefig('img/loss.png')
 		
@@ -241,7 +247,8 @@ class Model:
 
 		with open('save/loss_track.json', 'w') as f:
 
-			json.dump(self.loss_track, f)
+			lista = self.loss_track
+			json.dump(lista, f)
 
 	def show_loss_track(self):
 
@@ -251,6 +258,21 @@ class Model:
 
 		plt.plot(loss_track)
 		plt.show()
+
+	def shuffle(self): #assume x, y are in time-major format
+		x = self.x
+		y = self.y
+		target = self.target
+		data_size = self.data_size
+
+		c = np.concatenate((x.T, y.T, target.T), 1)
+		np.random.shuffle(c)
+		x, y, target = np.split(c, [20, 40], 1)
+
+		self.x = x.T
+		self.y = y.T
+		self.target = target.T
+
 
 '''
 	def init_lstm_weights(self, minval, maxval): #use this logic if lstmcell initializer be deprecated or using other cell types
@@ -274,18 +296,18 @@ class Model:
 
 model = Model()
 
+#model.load_model()
 model.train()
 
 '''
 model.load_model()
-
 while True:
 	usr = input('user: ')
 	res = model.inference(model.prcss_chat.process_in(usr))
 	print(model.prcss_chat.process_out(res.tolist()[0]))
-'''
-##### run options with arch + gpu is getting error
 
+##### run options with arch + gpu is getting error
+'''
 '''
 for v in model.vars_dict:
 	print(v)

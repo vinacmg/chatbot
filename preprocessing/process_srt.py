@@ -234,7 +234,7 @@ save_sentences(sentences_talked, sentences_answered, tokens)
 '''
 '''
 ##########CUILDADO
-dict_size = 5336
+dict_size = 40000
 num2word, word2num = build_dictionaries(tokens, dict_size)
 save_dictionaries(num2word ,word2num)
 #############
@@ -267,8 +267,9 @@ def build_matrices(max_length):
 	talks_seq_length = []
 	answers_seq_length = []
 	y = []
+	reverse = [sent[::-1] for sent in ids_talked]
 
-	for sent in ids_talked:
+	for sent in reverse:
 
 		talks_seq_length.append(len(sent))
 
@@ -289,11 +290,11 @@ def build_matrices(max_length):
 			sent.append(word2num["EOS"])
 			sent += ([word2num["PAD"]]*(max_length - len(sent)))
 
-		elif(len(sent) > max_length):
+		else:
 			print("ERROR: Set a max_length >= the max sentence (for asnwered senteces) lenght")
 			return
 
-	x = np.transpose(np.matrix(ids_talked))
+	x = np.transpose(np.matrix(reverse))
 	y = np.transpose(np.matrix(y))
 	target = np.transpose(np.matrix(ids_answered))
 	talks_seq_length = np.array(talks_seq_length)
@@ -305,7 +306,7 @@ def d_size():
 
 	return len(sentences_talked)
 
-#print(np.transpose(np.matrix(ids_talked[30:50])))
 #print(len(set(tokens)))
+#print(len(sentences_talked))
 
 print("process_srt executed...")
