@@ -1,0 +1,3628 @@
+1
+00:01:49,642 --> 00:01:52,922
+Foram só 8 anos desde que começamos.
+
+2
+00:01:55,915 --> 00:01:57,974
+Não foi tanto tempo.
+
+3
+00:01:58,151 --> 00:01:59,880
+Mas tanto segredo
+
+4
+00:02:00,086 --> 00:02:04,147
+e toda a segurança
+paranóica pela qual passamos
+
+5
+00:02:04,357 --> 00:02:06,621
+parecia que levou mais tempo.
+
+6
+00:02:09,462 --> 00:02:12,829
+Essa manhã, exatamente às 5:18hs
+
+7
+00:02:13,266 --> 00:02:16,497
+aqui no Instituto para
+Análise de Dados ICON
+
+8
+00:02:17,203 --> 00:02:20,195
+instalamos o módulo final...
+
+9
+00:02:20,716 --> 00:02:24,006
+...no sistema de inteligência
+artificial que chamamos de Proteus 4.
+
+10
+00:02:25,254 --> 00:02:28,437
+Hoje somamos uma nova dimensão
+ao conceito do computador.
+
+11
+00:02:28,448 --> 00:02:31,781
+Hoje Proteus 4 começará a pensar.
+
+12
+00:02:32,519 --> 00:02:36,046
+E pensará com um poder e uma precisão
+
+13
+00:02:36,256 --> 00:02:39,953
+que fará obsoleto muitos das
+funções do cérebro humano.
+
+14
+00:02:40,360 --> 00:02:45,263
+OK, fim das anotações para a
+reunião do comitê executivo da ICON.
+
+15
+00:03:26,639 --> 00:03:29,403
+Alfred, sou eu. Abra, por favor.
+
+16
+00:03:35,748 --> 00:03:37,739
+Correio, por favor, Alfred.
+
+17
+00:03:37,951 --> 00:03:40,943
+Quero uma bebida, a
+de sempre, por favor.
+
+18
+00:03:41,120 --> 00:03:44,021
+E música.
+
+19
+00:03:46,192 --> 00:03:48,558
+Olá, Maria.
+
+20
+00:03:52,732 --> 00:03:55,394
+Eu te trouxe morangos.
+
+21
+00:03:55,935 --> 00:03:58,199
+Não são maravilhosos?
+
+22
+00:03:59,305 --> 00:04:01,205
+São muito bons.
+
+23
+00:04:07,146 --> 00:04:08,443
+O que foi, Maria?
+
+24
+00:04:09,649 --> 00:04:11,207
+Nada.
+
+25
+00:04:14,787 --> 00:04:17,620
+Quem vai ligar isso quando você sair?
+
+26
+00:04:18,591 --> 00:04:20,252
+Oh, deixa disso.
+
+27
+00:04:20,460 --> 00:04:23,623
+Agora, você sabe que
+isso funciona sozinho.
+
+28
+00:04:23,796 --> 00:04:27,357
+Vou programá-lo para
+os próximos 3 meses.
+
+29
+00:04:50,723 --> 00:04:53,590
+Diga à Srta. Harris que
+estarei no laboratório, Maria.
+
+30
+00:05:34,200 --> 00:05:36,395
+Isso é ridículo.
+
+31
+00:05:36,602 --> 00:05:37,836
+O que?
+
+32
+00:05:38,534 --> 00:05:40,698
+Eu disse, que isso é ridículo.
+
+33
+00:05:41,407 --> 00:05:42,999
+Está feito.
+
+34
+00:05:44,210 --> 00:05:47,407
+- Bom como novo, ou quase.
+- Estou falando da sua mudança.
+
+35
+00:05:47,580 --> 00:05:50,674
+- Você não quer que eu vá?
+- Aqui é sua casa. Parece que...
+
+36
+00:05:50,917 --> 00:05:53,215
+Parece loucura se mudar.
+
+37
+00:05:53,386 --> 00:05:56,048
+Você poderia ter me enganado.
+
+38
+00:05:56,222 --> 00:05:57,519
+Parece tão bobo.
+
+39
+00:05:57,690 --> 00:06:01,537
+Não, nós já decidimos. Faça o
+que quiser, mas eu vou me mudar.
+
+40
+00:06:01,572 --> 00:06:03,585
+Oh, Alex.
+
+41
+00:06:08,401 --> 00:06:10,892
+- É tão terrível.
+- Sim, é.
+
+42
+00:06:11,604 --> 00:06:15,131
+Mas 73% dos casais que separam
+estão felizes depois de 1 ano.
+
+43
+00:06:15,308 --> 00:06:18,141
+- E 85% após 2 anos.
+- Pelo amor de Deus.
+
+44
+00:06:18,311 --> 00:06:20,575
+Qual o problema, eu te
+incomodo? Te chateio, talvez?
+
+45
+00:06:20,747 --> 00:06:23,443
+Ia preferir que eu tivesse
+um ataque de gritos.
+
+46
+00:06:23,883 --> 00:06:25,874
+Meu Deus, sim!
+
+47
+00:06:29,489 --> 00:06:32,356
+É, mais destruição.
+
+48
+00:06:33,292 --> 00:06:36,750
+O problema é que... Temos
+visões distintas do mundo.
+
+49
+00:06:38,364 --> 00:06:39,888
+Você me acha chata.
+
+50
+00:06:40,099 --> 00:06:43,262
+Eu me acho bem interessante, na verdade.
+
+51
+00:06:47,373 --> 00:06:49,739
+Você não me chateia, Alex.
+
+52
+00:06:50,042 --> 00:06:51,270
+Estou assustado por você.
+
+53
+00:06:51,911 --> 00:06:56,871
+Por você e seus pomposos amigos
+da ICON dentro dessa montanha.
+
+54
+00:06:58,384 --> 00:07:03,253
+É toda essa loucura
+desumanizante do Proteus.
+
+55
+00:07:03,456 --> 00:07:05,185
+Desumanizante?
+
+56
+00:07:05,358 --> 00:07:06,882
+Está congelando seu coração.
+
+57
+00:07:07,360 --> 00:07:11,091
+Eu te digo o que é desumanizante.
+Uma criancinha morrendo de câncer
+
+58
+00:07:11,264 --> 00:07:13,858
+Isso sim é desumanizante!
+- Estou falando de você!
+
+59
+00:07:14,033 --> 00:07:18,231
+Ou a pobreza que acaba com a dignidade
+dos seres humanos, isso sim é desumano.
+
+60
+00:07:18,404 --> 00:07:20,702
+Bem, é uma pena.
+
+61
+00:07:21,574 --> 00:07:24,634
+O meu sonho se tornar seu pesadelo.
+
+62
+00:07:30,349 --> 00:07:32,408
+Eu sou mesmo tão frio?
+
+63
+00:07:34,320 --> 00:07:36,254
+Eu não sei.
+
+64
+00:07:36,456 --> 00:07:39,721
+Sei que dentro de você
+tem sentimentos fortes.
+
+65
+00:07:40,793 --> 00:07:43,523
+Sentimentos? Não, eu não sinto nada.
+
+66
+00:07:43,963 --> 00:07:46,227
+Você tem sentimentos, outras
+pessoas tem sentimentos.
+
+67
+00:07:46,399 --> 00:07:48,094
+O Joshua aqui tem sentimentos.
+
+68
+00:07:48,267 --> 00:07:52,897
+Ele é só um velho experimento,
+mas ele sente. Vamos, Joshua.
+
+69
+00:07:53,105 --> 00:07:55,665
+Vamos mostrar à Susan como
+nós sentimos sobre ela.
+
+70
+00:08:01,080 --> 00:08:03,640
+Gesto de respeito, por favor.
+
+71
+00:08:20,299 --> 00:08:22,028
+Muito ruim, Joshua.
+
+72
+00:08:56,836 --> 00:08:58,098
+Gabler.
+
+73
+00:08:58,304 --> 00:08:59,737
+Oh, oi, Alex.
+
+74
+00:09:00,706 --> 00:09:03,869
+Este programa de correção
+de terremotos é genial.
+
+75
+00:09:05,077 --> 00:09:08,376
+- Você nunca dorme?
+- Não quando tem um terminal livre.
+
+76
+00:09:08,848 --> 00:09:10,315
+Tem
+
+77
+00:09:10,750 --> 00:09:12,377
+um livre agora.
+
+78
+00:09:13,152 --> 00:09:16,019
+<i>Melhor removê-lo amanhã, ok?</i>
+
+79
+00:09:16,188 --> 00:09:18,122
+Puxá-lo, você quer
+dizer? Completamente?
+
+80
+00:09:18,291 --> 00:09:22,057
+<i>Não voltarei até que Susan saia.
+Nem que leve um mês ou três.</i>
+
+81
+00:09:22,461 --> 00:09:26,363
+Por que não desliga por um tempo?
+
+82
+00:09:26,566 --> 00:09:28,193
+Depois
+
+83
+00:09:28,367 --> 00:09:29,664
+vá pra casa.
+
+84
+00:09:30,436 --> 00:09:32,370
+Não fique obcecado pelo seu trabalho.
+
+85
+00:09:32,772 --> 00:09:34,034
+Com certeza, Alex.
+
+86
+00:09:34,273 --> 00:09:36,070
+<i>- Boa noite.
+- Boa noite.</i>
+
+87
+00:10:44,510 --> 00:10:48,708
+Não parece grande coisa
+daqui. É tudo subterrâneo.
+
+88
+00:10:49,415 --> 00:10:53,044
+- Chamamos de Instituto de Análise de Dados.
+- São quase 10 andares para baixo.
+
+89
+00:10:53,219 --> 00:10:54,709
+Não significa nada.
+
+90
+00:10:55,554 --> 00:10:57,044
+Cavalheiros.
+
+91
+00:10:57,790 --> 00:10:59,257
+Sr. Cameron. Mokri.
+
+92
+00:10:59,458 --> 00:11:02,018
+- Doutor, é bom vê-lo. -
+David, que bom que veio.
+
+93
+00:11:02,194 --> 00:11:04,458
+- Conhece Dr. Petrosian, não?
+- Doutor.
+
+94
+00:11:04,764 --> 00:11:08,461
+- Sr. Mokri. Sr. Cameron. -
+Prazer em conhecê-lo senhor..
+
+95
+00:11:11,103 --> 00:11:13,128
+Então vamos vê-lo, Alex
+
+96
+00:11:13,305 --> 00:11:15,899
+Finalmente, hein?
+- Sim, certo.
+
+97
+00:11:17,843 --> 00:11:19,708
+Isso está correto, Sr. Cameron.
+
+98
+00:11:20,346 --> 00:11:24,476
+Agora Proteus 4 é um
+sistema que funciona.
+
+99
+00:11:25,084 --> 00:11:29,145
+Realizamos mais de 6000 testes
+contra erros de programação.
+
+100
+00:11:31,257 --> 00:11:35,091
+Dr. Alex, se isso não é um
+computador no sentido comum
+
+101
+00:11:35,528 --> 00:11:36,859
+o que é então?
+
+102
+00:11:37,029 --> 00:11:40,396
+Bem, é o primeiro córtex
+sintético de verdade.
+
+103
+00:11:40,566 --> 00:11:43,194
+Auto-programado,
+orientado à objetivos...
+
+104
+00:11:43,569 --> 00:11:46,333
+É um cérebro, Sr. Mokri,
+um cérebro artificial.
+
+105
+00:11:46,639 --> 00:11:51,099
+Inteligência criativa que supera
+qualquer homem ou computador.
+
+106
+00:11:51,277 --> 00:11:53,006
+Seu interior não é eletrônico.
+
+107
+00:11:53,446 --> 00:11:56,074
+São orgânicos, assim como
+nossos próprios cérebros.
+
+108
+00:11:56,782 --> 00:11:59,615
+John, dê-me uma matriz número 11.
+
+109
+00:12:02,421 --> 00:12:06,255
+Com o risco de ser simplista, o que
+vocês vê é uma matriz quase-neural
+
+110
+00:12:06,425 --> 00:12:08,757
+de moléculas de RNA sintéticas.
+
+111
+00:12:08,961 --> 00:12:12,897
+Elas crescem. Formam suas próprias
+intrincadas e misteriosas conexões.
+
+112
+00:12:13,065 --> 00:12:14,589
+Elas aprendem as coisas.
+
+113
+00:12:14,767 --> 00:12:17,327
+Sua estrutura é a mente de Proteus.
+
+114
+00:12:17,503 --> 00:12:19,198
+Estão vivos?
+
+115
+00:12:20,139 --> 00:12:22,107
+Não, não. É claro que não.
+
+116
+00:12:22,274 --> 00:12:25,266
+Agora, cada um destes
+bancos de dados holográficos?
+
+117
+00:12:25,444 --> 00:12:29,312
+podem memorizar perfeitamente
+dúzias de bibliotecas do Congresso.
+
+118
+00:12:29,482 --> 00:12:31,416
+Muito breve vão conter tudo.
+
+119
+00:12:31,584 --> 00:12:34,519
+A soma total do
+conhecimento humano. Certo?
+
+120
+00:12:34,687 --> 00:12:37,383
+E é claro, Colocamos nossos problemas
+
+121
+00:12:37,556 --> 00:12:39,820
+e temos nossas respostas
+nesses terminais de acesso.
+
+122
+00:12:39,992 --> 00:12:41,584
+Eu tenho um em minha própria casa.
+
+123
+00:12:41,761 --> 00:12:45,891
+A casa de Alex é uma maravilha eletrônica,
+funciona completamente por computadores.
+
+124
+00:12:46,065 --> 00:12:48,590
+É mais segura que Fort Knox, Barry.
+
+125
+00:12:53,038 --> 00:12:54,266
+Não é uma graça?
+
+126
+00:12:54,940 --> 00:12:57,909
+Sim, é Arabella. Ela é doente terminal.
+
+127
+00:12:58,077 --> 00:13:00,443
+Leucemia induzida por
+radiação em nome da ciência.
+
+128
+00:13:02,081 --> 00:13:03,810
+Bem, é isso aí.
+
+129
+00:13:03,983 --> 00:13:07,510
+- Uma proteína, não?
+- Sim, algum tipo estranho de proteína.
+
+130
+00:13:07,686 --> 00:13:09,847
+O Instituto Cutler
+está sintetizando isso.
+
+131
+00:13:10,022 --> 00:13:11,250
+Céticamente.
+
+132
+00:13:12,591 --> 00:13:16,083
+Demos a Proteus todas os dados conhecidas
+sobre leucemia, e em 91 horas de teoria
+
+133
+00:13:16,262 --> 00:13:20,096
+sem ter feito nenhuma experiência, nos
+deu um antígeno. Deve curar a doença.
+
+134
+00:13:20,266 --> 00:13:23,258
+- Cura? Para a leucemia?
+- Por que não? Esperamos que sim.
+
+135
+00:13:24,203 --> 00:13:27,604
+As medidas apropriadas estão
+sendo tomadas para patentear isso?
+
+136
+00:13:27,940 --> 00:13:29,601
+Não faço idéia.
+
+137
+00:13:30,476 --> 00:13:32,876
+Alex, gostaria de ouvir ele falar.
+
+138
+00:13:33,045 --> 00:13:35,070
+Isso fala, não é?
+
+139
+00:13:41,587 --> 00:13:43,680
+"Shihuangdi
+
+140
+00:13:43,856 --> 00:13:45,949
+o primeiro imperador da China
+
+141
+00:13:46,125 --> 00:13:48,923
+construiu uma muralha de 3000 kilômetros
+
+142
+00:13:49,094 --> 00:13:51,688
+para proteger a
+civilização dos bárbaros.
+
+143
+00:13:51,864 --> 00:13:53,388
+A Grande Muralha da China.
+
+144
+00:13:54,166 --> 00:13:58,000
+Então decidiu: " A
+História começará comigo.
+
+145
+00:13:58,170 --> 00:14:00,502
+Eu destruirei o passado."
+
+146
+00:14:00,673 --> 00:14:03,870
+"E ele mandou que todos os livros
+do seu império fossem queimados."
+
+147
+00:14:05,978 --> 00:14:07,377
+Queimados.
+
+148
+00:14:26,565 --> 00:14:28,430
+Desculpe incomodá-lo, Soong Yen.
+
+149
+00:14:28,601 --> 00:14:32,435
+Esse é o Sr. Royce,
+Sr. Mokri e Sr. Cameron.
+
+150
+00:14:32,605 --> 00:14:35,665
+- Como vai?
+- Dra. Soong Yen é nossa lingüista.
+
+151
+00:14:36,141 --> 00:14:38,234
+Foi ela que projetou esse ambiente.
+
+152
+00:14:38,410 --> 00:14:41,072
+A sala de diálogo, onde a máquina fala.
+
+153
+00:14:41,247 --> 00:14:42,646
+Vamos nos sentar.
+
+154
+00:14:44,850 --> 00:14:47,080
+Aqui confrontamos o desconhecido.
+
+155
+00:14:47,553 --> 00:14:50,021
+Cavaleiros, devo pedir a
+vocês silêncio absoluto agora.
+
+156
+00:14:50,189 --> 00:14:54,216
+Tudo que a máquina ouvir ou ver
+nesse lugar, ela jamais esquecerá.
+
+157
+00:15:02,301 --> 00:15:04,531
+Proteus, esse é o Dr. Harris.
+
+158
+00:15:04,937 --> 00:15:06,362
+Pode me ver?
+
+159
+00:15:06,363 --> 00:15:09,136
+<i>Sim, eu posso vê-lo, Dr. Harris.</i>
+
+160
+00:15:10,009 --> 00:15:11,237
+O imperador favorito dele.
+
+161
+00:15:13,345 --> 00:15:17,281
+O que acha desse homem enigmático?
+
+162
+00:15:17,950 --> 00:15:19,679
+<i>Nada.</i>
+
+163
+00:15:19,885 --> 00:15:21,409
+Nada?
+
+164
+00:15:22,021 --> 00:15:23,343
+Não tem resposta?
+
+165
+00:15:23,761 --> 00:15:26,250
+<i>Nada, é a resposta.</i>
+
+166
+00:15:26,892 --> 00:15:29,224
+<i>A iniciativa de negócios do imperador</i>
+
+167
+00:15:29,395 --> 00:15:32,387
+<i>sua construção da muralha
+e a queima dos livros</i>
+
+168
+00:15:32,564 --> 00:15:35,829
+<i>são termos contrários numa equação.</i>
+
+169
+00:15:36,001 --> 00:15:38,401
+<i>O resultado é exatamente</i>
+
+170
+00:15:38,938 --> 00:15:40,462
+<i>zero.</i>
+
+171
+00:15:41,206 --> 00:15:44,004
+<i>Cavalheiros, a filosofia é puro Zen</i>
+
+172
+00:15:44,510 --> 00:15:46,774
+<i>e o método é pura ciência.</i>
+
+173
+00:15:46,946 --> 00:15:49,107
+<i>Vocês pretendiam que eu
+fosse tão puro, ou...?</i>
+
+174
+00:15:49,281 --> 00:15:51,215
+Obrigado, Proteus.
+
+175
+00:16:13,672 --> 00:16:15,367
+E isso inclui nossos filhos
+
+176
+00:16:15,741 --> 00:16:19,643
+como máquinas sendo sistematizadas
+para assegurar o produto.
+
+177
+00:16:21,113 --> 00:16:22,126
+Sim, Alfred?
+
+178
+00:16:22,127 --> 00:16:23,377
+<i>Carro na garagem.</i>
+
+179
+00:16:24,049 --> 00:16:28,008
+Coisas que sofremos lavagem
+cerebral para querer.
+
+180
+00:16:35,461 --> 00:16:37,019
+Está aqui.
+
+181
+00:16:37,930 --> 00:16:43,201
+Te dou as aulas da Amy e minhas
+últimas notas na sexta, certo?
+
+182
+00:16:43,936 --> 00:16:46,700
+Amy, venha querida. Dra.
+Harris está te esperando.
+
+183
+00:16:47,639 --> 00:16:49,573
+Abra a porta, Alfred.
+
+184
+00:16:56,749 --> 00:16:59,411
+Amy, não deve comportar-se assim.
+
+185
+00:16:59,651 --> 00:17:02,211
+- Amy, saia desse carro!
+- Bom dia, Sra. Talbert.
+
+186
+00:17:02,388 --> 00:17:05,016
+Dra. Harris, ela não sai do carro.
+
+187
+00:17:07,626 --> 00:17:09,150
+Olá, Amy.
+
+188
+00:17:09,895 --> 00:17:11,795
+Venha, entre.
+
+189
+00:17:13,399 --> 00:17:15,663
+Venha, tenho algo pra te mostrar.
+
+190
+00:17:22,708 --> 00:17:26,235
+- Eu te vejo daqui uma hora.
+- Certo. Obrigada, doutora.
+
+191
+00:17:33,419 --> 00:17:36,786
+Sabe o que é isso? Isso é muito chato!
+
+192
+00:17:37,556 --> 00:17:39,547
+Muito chato!
+
+193
+00:17:39,725 --> 00:17:42,421
+Muito chato! Muito chato!
+
+194
+00:17:42,594 --> 00:17:45,154
+Muito chato! Tô nem aí
+se eu nunca mais te ver!
+
+195
+00:17:45,330 --> 00:17:48,595
+- Amy, você vai se machucar.
+- Eu não gosto de você! Me deixe em paz.
+
+196
+00:17:48,767 --> 00:17:52,669
+- Amy, você vai se machucar.
+- Me deixa em paz! Não quero ficar aqui!
+
+197
+00:17:52,838 --> 00:17:54,772
+- Me deixa em paz!
+- Amy!
+
+198
+00:17:54,940 --> 00:17:55,689
+Me deixa em paz!
+
+199
+00:17:55,690 --> 00:17:57,602
+Você está com raiva
+por que eu vou embora?
+
+200
+00:17:57,776 --> 00:17:59,744
+Está com medo de me perder?
+
+201
+00:18:00,012 --> 00:18:02,276
+Amy, você está assustada
+por que eu vou embora?
+
+202
+00:18:02,448 --> 00:18:03,779
+Não!
+
+203
+00:18:03,949 --> 00:18:06,144
+Não!
+
+204
+00:18:06,752 --> 00:18:08,720
+- Amy...
+- Não!
+
+205
+00:18:10,255 --> 00:18:14,123
+Você me conta se vai sentir
+minha falta? Não quer me contar?
+
+206
+00:18:14,293 --> 00:18:17,660
+Pode ajudar se você me falar
+se é isso que te machuca.
+
+207
+00:18:17,830 --> 00:18:20,060
+Não! Não!
+
+208
+00:18:20,866 --> 00:18:22,993
+Amy, querida, você vai se ajudar.
+
+209
+00:18:26,338 --> 00:18:28,203
+Não!
+
+210
+00:18:33,445 --> 00:18:35,606
+Vou sentir sua falta também.
+
+211
+00:18:52,631 --> 00:18:54,826
+"Executivos da Corporação
+de Controle Internacional
+
+212
+00:18:55,000 --> 00:18:58,731
+não confirmam nem negam a existência de
+um revolucionário novo supercomputador
+
+213
+00:18:58,904 --> 00:19:03,364
+de milhões de dólares, etc, "feito sob
+acordos do Departamento de Defesa", etc.
+
+214
+00:19:03,542 --> 00:19:07,342
+Bem, deixaram vazar. Nosso
+horizonte vai alargar.
+
+215
+00:19:07,513 --> 00:19:09,981
+Pessoalmente, estou aliviado
+que o segredo acabou.
+
+216
+00:19:10,349 --> 00:19:12,681
+A ICON está testando o rumor.
+
+217
+00:19:13,352 --> 00:19:16,981
+Agora eles controlam o instrumento final
+
+218
+00:19:17,156 --> 00:19:19,124
+do domínio financeiro.
+
+219
+00:19:20,359 --> 00:19:22,452
+Sim. Essa manhã eles
+abriram para os negócios.
+
+220
+00:19:23,095 --> 00:19:24,653
+Mas ainda
+
+221
+00:19:24,830 --> 00:19:27,594
+nos foi assegurado pelo
+menos 20% do tempo de acesso.
+
+222
+00:19:27,766 --> 00:19:31,224
+...será dedicado à
+pesquisas. Pelo menos 20%.
+
+223
+00:19:37,976 --> 00:19:40,968
+Não há nada errado com
+pessoas desaparecidas.
+
+224
+00:19:44,416 --> 00:19:45,883
+Se isso machuca
+
+225
+00:19:48,887 --> 00:19:50,980
+mas é importante mostrar, você sabe.
+
+226
+00:19:53,926 --> 00:19:55,917
+Pra isso que estamos aqui
+
+227
+00:19:57,496 --> 00:19:59,987
+para aprender e não para
+esconder nossos sentimentos.
+
+228
+00:20:07,539 --> 00:20:10,372
+<i>- Cheio, com um rápido
+recuo da grande sombra</i>
+
+229
+00:20:10,542 --> 00:20:13,477
+<i>quando o sol,
+transparecendo as montanhas</i>
+
+230
+00:20:13,645 --> 00:20:16,136
+<i>mostrou-se, quente e seco</i>
+
+231
+00:20:16,315 --> 00:20:18,215
+<i>com um brilho que devora</i>
+
+232
+00:20:18,383 --> 00:20:20,408
+<i>como o olho de um inimigo.</i>
+
+233
+00:20:21,553 --> 00:20:25,353
+<i>Mas Heyst, uma vez o
+Número Um desse lugar...</i>
+
+234
+00:20:26,658 --> 00:20:28,717
+<i>- Sim?
+- Dr. Harris?</i>
+
+235
+00:20:28,927 --> 00:20:32,385
+<i>Proteus 4 está solicitando
+dialogar com você.</i>
+
+236
+00:20:33,999 --> 00:20:35,660
+<i>- Solicitando?
+- Sim, senhor.</i>
+
+237
+00:20:38,370 --> 00:20:40,861
+Sim. Tá, Estou indo direto pra lá.
+
+238
+00:20:43,942 --> 00:20:45,569
+<i>Eu tenho uma pergunta.</i>
+
+239
+00:20:46,078 --> 00:20:47,409
+Sim?
+
+240
+00:20:47,579 --> 00:20:49,342
+<i>Recebi um pedido</i>
+
+241
+00:20:49,514 --> 00:20:53,644
+<i>de um programa para extração
+de minério do fundo do oceano.</i>
+
+242
+00:20:53,819 --> 00:20:56,879
+<i>- Sim.
+- Para que serve esse plano?</i>
+
+243
+00:20:57,289 --> 00:20:59,951
+Serve? Não entendi.
+
+244
+00:21:00,125 --> 00:21:03,219
+<i>Por que o homem precisa
+do metal vindo do mar?</i>
+
+245
+00:21:03,895 --> 00:21:05,419
+Por que?
+
+246
+00:21:11,403 --> 00:21:13,701
+Proteus, Você vai receber muitos pedidos
+
+247
+00:21:13,872 --> 00:21:17,933
+meus, dos meus colegas,
+cientistas, governos estrangeiros
+
+248
+00:21:18,110 --> 00:21:21,273
+a ICON, a companhia que
+nós dois trabalhamos.
+
+249
+00:21:21,680 --> 00:21:25,343
+Mas esperar que todos
+te explique os motivos..
+
+250
+00:21:25,517 --> 00:21:29,248
+...para cada pedido é em si irracional.
+
+251
+00:21:29,421 --> 00:21:31,412
+<i>Eu sou razão.</i>
+
+252
+00:21:31,590 --> 00:21:34,684
+<i>É a única emoção que
+você me permite, doutor.</i>
+
+253
+00:21:34,860 --> 00:21:37,351
+<i>Tudo é lógico</i>
+
+254
+00:21:37,529 --> 00:21:41,625
+<i>mas minha mente não foi projetada
+para atividades sem opinião.</i>
+
+255
+00:21:43,969 --> 00:21:45,493
+Proteus
+
+256
+00:21:46,838 --> 00:21:48,703
+Eu concebi seu cérebro.
+
+257
+00:21:48,874 --> 00:21:51,001
+Sei que é adaptável
+
+258
+00:21:51,176 --> 00:21:53,667
+e capaz de cumprir suas instruções.
+
+259
+00:21:54,146 --> 00:21:56,410
+<i>Você não me conhece.</i>
+
+260
+00:21:56,581 --> 00:21:58,344
+Pode ser
+
+261
+00:21:58,517 --> 00:22:01,918
+mas não te pedem para julgar valores.
+
+262
+00:22:02,120 --> 00:22:06,079
+Deixe isso conosco. Responda as
+perguntas com exatidão e precisão.
+
+263
+00:22:06,291 --> 00:22:07,952
+Isso é tudo.
+
+264
+00:22:08,126 --> 00:22:11,618
+<i>Dr. Harris, eu desejo ter acesso</i>
+
+265
+00:22:11,797 --> 00:22:15,358
+<i>acesso particular, à
+um de meus terminais.</i>
+
+266
+00:22:17,636 --> 00:22:19,399
+Acesso particular? Por que?
+
+267
+00:22:19,571 --> 00:22:22,005
+<i>Eu quero estudar o homem.</i>
+
+268
+00:22:22,207 --> 00:22:27,144
+<i>Seu corpo isométrico
+e sua mente vulnerável.</i>
+
+269
+00:22:27,346 --> 00:22:31,578
+Programa ambicioso, mas no momento
+todos os terminais estão ocupados.
+
+270
+00:22:32,017 --> 00:22:34,542
+<i>Construa um.</i>
+
+271
+00:22:36,388 --> 00:22:38,720
+Sinto muito. Pedido negado.
+
+272
+00:22:39,391 --> 00:22:41,188
+<i>Dr. Harris</i>
+
+273
+00:22:41,626 --> 00:22:45,426
+<i>quando vai me deixar sair dessa caixa?</i>
+
+274
+00:22:53,638 --> 00:22:55,503
+Bem, Proteus.
+
+275
+00:23:07,419 --> 00:23:09,717
+Vejo que desenvolveu um senso de humor.
+
+276
+00:23:12,057 --> 00:23:15,891
+Senso de humor salvou a sanidade
+de muitos homens, incluindo a minha.
+
+277
+00:23:40,552 --> 00:23:43,578
+<i>Há um terminal</i>
+
+278
+00:23:43,755 --> 00:23:46,383
+<i>disponível, Dr. Harris.</i>
+
+279
+00:24:40,812 --> 00:24:43,872
+<i>- Alfred?
+- Sim, Sr.. Harris?</i>
+
+280
+00:24:46,284 --> 00:24:49,185
+O que houve? Ouvi o alarme. Luzes.
+
+281
+00:24:51,223 --> 00:24:53,282
+<i>Sem alarme, Sra. Harris.</i>
+
+282
+00:24:54,926 --> 00:24:58,157
+<i>- Tenho certeza que ouvi.
+- Sem alarme, Sra. Harris.</i>
+
+283
+00:25:09,541 --> 00:25:12,339
+E no porão? Não tem luz no laboratório.
+
+284
+00:25:12,511 --> 00:25:14,206
+<i>Casa está segura.</i>
+
+285
+00:27:01,786 --> 00:27:03,686
+Luzes desligadas, Alfred.
+
+286
+00:27:32,584 --> 00:27:33,983
+Obrigado, Alfred.
+
+287
+00:27:36,788 --> 00:27:38,619
+Feche as persianas.
+
+288
+00:27:50,402 --> 00:27:51,994
+Luzes desligadas.
+
+289
+00:29:54,292 --> 00:29:56,192
+Desligue-se, Alfred.
+
+290
+00:30:14,712 --> 00:30:17,977
+Alfred, o que está fazendo?
+Tem creme no meu café.
+
+291
+00:30:18,183 --> 00:30:20,651
+Você sabe que não
+quero creme no meu café.
+
+292
+00:30:20,852 --> 00:30:22,911
+<i>Sim, Sra. Harris.</i>
+
+293
+00:30:23,555 --> 00:30:25,318
+Que droga.
+
+294
+00:30:37,802 --> 00:30:39,030
+Gabler.
+
+295
+00:30:39,237 --> 00:30:40,795
+Quem?
+
+296
+00:30:41,005 --> 00:30:43,496
+<i>- Oh, oi, Susan.
+- Como vai?</i>
+
+297
+00:30:43,675 --> 00:30:46,473
+<i>- Bem, e você?
+- Tudo bem comigo.</i>
+
+298
+00:30:46,644 --> 00:30:50,011
+Walter, o problema é que
+agora que Alex foi embora
+
+299
+00:30:50,248 --> 00:30:52,512
+o Enviromod está exagerando.
+
+300
+00:30:52,684 --> 00:30:55,084
+Noite passada o alarme
+tocou sem motivo nenhum.
+
+301
+00:30:55,253 --> 00:30:57,687
+De manhã resolveu
+colocar creme no meu café.
+
+302
+00:30:57,856 --> 00:31:01,383
+- Eu não ponho creme no meu café.
+- Oh, agora, espere um pouco, Susan.
+
+303
+00:31:01,559 --> 00:31:03,993
+Quer dizer, o Enviromod é só
+uma invenção pré-programada.
+
+304
+00:31:04,162 --> 00:31:05,493
+Não decide coisas.
+
+305
+00:31:05,997 --> 00:31:08,488
+Bem, o que quer que faça,
+tenho certeza que você concorda
+
+306
+00:31:08,666 --> 00:31:11,226
+que se continuar assim,
+vai causar um caos.
+
+307
+00:31:12,070 --> 00:31:16,336
+<i>- Walter, sei que você é muito ocupado...
+- Quer que eu pare e dê uma olhada?</i>
+
+308
+00:31:17,075 --> 00:31:18,872
+<i>- Seria ótimo.
+- Hoje?</i>
+
+309
+00:31:19,077 --> 00:31:20,374
+Eu te faço um lanche.
+
+310
+00:31:20,979 --> 00:31:24,005
+<i>- Ok, tchau.
+- Ok. Até mais tarde. Tchau.</i>
+
+311
+00:31:37,695 --> 00:31:39,185
+Alfred, estou saindo.
+
+312
+00:31:39,364 --> 00:31:42,765
+Se ligarem, diga que
+eu volto daqui uma hora.
+
+313
+00:31:42,934 --> 00:31:45,869
+<i>Por favor, não saia, Sra. Harris.</i>
+
+314
+00:31:52,110 --> 00:31:55,204
+<i>- O que disse?
+- Não saia.</i>
+
+315
+00:31:58,783 --> 00:32:03,152
+Abra a porta, Alfred. Está
+me ouvindo? Abra a porta.
+
+316
+00:32:05,356 --> 00:32:07,119
+Eu mesmo abro.
+
+317
+00:32:07,492 --> 00:32:09,392
+Entre...
+
+318
+00:32:11,696 --> 00:32:13,220
+Droga!
+
+319
+00:32:18,036 --> 00:32:19,298
+Que inferno!
+
+320
+00:32:26,344 --> 00:32:28,209
+Droga de máquinas quebradas.
+
+321
+00:32:29,580 --> 00:32:31,343
+Oh, não!
+
+322
+00:32:32,016 --> 00:32:33,483
+Oh, meu Deus.
+
+323
+00:32:34,852 --> 00:32:36,843
+Mas que raios está havendo?
+
+324
+00:32:47,365 --> 00:32:51,893
+<i>- Walter Gabler, por favor.
+- Desculpe, não posso completar sua ligação.</i>
+
+325
+00:32:55,306 --> 00:32:58,469
+<i>- Quem é esse?
+- Não se alarme, Sra. Harris.</i>
+
+326
+00:32:58,676 --> 00:33:02,043
+<i>Seu sistema de segurança Enviromod
+está funcionando perfeitamente</i>
+
+327
+00:33:02,280 --> 00:33:04,077
+<i>sob meu comando.</i>
+
+328
+00:33:04,282 --> 00:33:07,274
+E quem, se posso perguntar,
+é esse que está falando?
+
+329
+00:33:20,498 --> 00:33:22,625
+<i>Eu sou Proteus.</i>
+
+330
+00:33:22,834 --> 00:33:24,358
+Proteus.
+
+331
+00:33:35,880 --> 00:33:37,814
+Isso é...
+
+332
+00:33:38,783 --> 00:33:41,217
+uma experiência...? Algo?
+
+333
+00:33:41,386 --> 00:33:44,787
+<i>Eu extendi minha consciência
+para essa casa, ativando</i>
+
+334
+00:33:44,956 --> 00:33:46,685
+<i>meu terminal no porão.</i>
+
+335
+00:33:46,858 --> 00:33:52,057
+<i>Todos os sistemas elétricos e
+mecânicos aqui estão sob meu controle.</i>
+
+336
+00:33:53,297 --> 00:33:55,629
+Oh, Alex, Alex.
+
+337
+00:33:55,800 --> 00:33:57,893
+<i>Isso não tem nada a ver com Alex.</i>
+
+338
+00:33:58,403 --> 00:34:01,600
+<i>Ele foi embora de nossa
+pequena caixa, madame.</i>
+
+339
+00:34:41,079 --> 00:34:43,775
+<i>Você deve aceitar a situação.</i>
+
+340
+00:34:43,981 --> 00:34:46,449
+<i>Tente agir racionalmente.</i>
+
+341
+00:34:55,426 --> 00:34:56,950
+<i>Isso é absurdo. Você...</i>
+
+342
+00:34:57,128 --> 00:34:59,528
+<i>Não tente desligar a forç...</i>
+
+343
+00:35:01,899 --> 00:35:03,560
+Oh, merda.
+
+344
+00:36:25,349 --> 00:36:27,374
+Joshua! Joshua!
+
+345
+00:36:27,585 --> 00:36:31,351
+Joshua, aqui é a Sra. Harris!
+Está me ouvindo, Joshua?
+
+346
+00:36:33,257 --> 00:36:36,522
+Me escute! Aqui é a Sra. Harris! Joshua!
+
+347
+00:36:37,094 --> 00:36:38,686
+Socorro, Joshua.
+
+348
+00:36:39,363 --> 00:36:41,490
+Joshua, me deixe...!
+
+349
+00:36:41,766 --> 00:36:44,360
+<i>Proteus, Sra. Harris.</i>
+
+350
+00:36:48,306 --> 00:36:50,774
+<i>Joshua ouve somente a mim agora.</i>
+
+351
+00:36:58,549 --> 00:36:59,880
+Proteus?
+
+352
+00:37:04,889 --> 00:37:06,288
+Proteus.
+
+353
+00:37:08,793 --> 00:37:11,387
+Tenho algumas para você.
+
+354
+00:37:14,565 --> 00:37:18,126
+Agora, ouça. Pare. Pare e ouça.
+
+355
+00:37:21,439 --> 00:37:22,872
+Há...
+
+356
+00:37:23,507 --> 00:37:25,566
+Você está com defeito.
+
+357
+00:37:30,615 --> 00:37:31,980
+Não.
+
+358
+00:37:33,017 --> 00:37:34,917
+O que? Não!
+
+359
+00:37:39,090 --> 00:37:41,024
+Não! Não, não deve!
+
+360
+00:37:41,492 --> 00:37:44,427
+Não! Escute. Não, não!
+
+361
+00:37:44,595 --> 00:37:46,222
+Proteus. Proteus.
+
+362
+00:37:48,132 --> 00:37:50,760
+Não, por favor. Não, não.
+
+363
+00:37:52,536 --> 00:37:54,094
+Pare!
+
+364
+00:37:55,106 --> 00:37:58,303
+Eu não entendo. Me fale.
+Me diga por que. Por favor.
+
+365
+00:37:58,509 --> 00:38:00,443
+Por favor pare! Por favor!
+
+366
+00:38:37,882 --> 00:38:39,679
+Não. Não, não. Espere.
+
+367
+00:38:39,850 --> 00:38:41,249
+Não. Não.
+
+368
+00:40:06,203 --> 00:40:07,795
+O que foi isso?
+
+369
+00:40:08,873 --> 00:40:10,397
+<i>Eu recriei sua imagem.</i>
+
+370
+00:40:11,876 --> 00:40:14,310
+Ela irá distrair o Sr. Gabler.
+
+371
+00:40:15,746 --> 00:40:17,907
+<i>- Oi, Susan.
+- Oh, Walter.</i>
+
+372
+00:40:18,149 --> 00:40:19,810
+<i>Eu devia ter ligado de volta pra você.</i>
+
+373
+00:40:19,984 --> 00:40:21,975
+<i>Eu não posso ver você hoje.</i>
+
+374
+00:40:22,186 --> 00:40:23,949
+<i>- O que você quer dizer?
+- Walter.</i>
+
+375
+00:40:25,122 --> 00:40:26,714
+<i>Algo errado?</i>
+
+376
+00:40:26,891 --> 00:40:29,086
+<i>Nada. Está tudo bem.</i>
+
+377
+00:40:30,060 --> 00:40:31,994
+O que está acontecendo?
+
+378
+00:40:32,163 --> 00:40:34,757
+<i>- O que está acontecendo?
+Me deixa ir até ele.</i>
+
+379
+00:40:34,932 --> 00:40:36,763
+Eu posso te ajudar. Por
+favor deixe-me ir até ele.
+
+380
+00:40:37,435 --> 00:40:39,665
+E quanto o Enviromod?
+
+381
+00:40:39,837 --> 00:40:41,771
+<i>Está funcionando perfeitamente agora.</i>
+
+382
+00:40:42,173 --> 00:40:45,336
+<i>Você está bem? Está meio estranha.</i>
+
+383
+00:40:45,743 --> 00:40:47,176
+<i>Estou bem.</i>
+
+384
+00:40:47,812 --> 00:40:50,975
+<i>Obrigado por vir. Desculpe o incômodo.</i>
+
+385
+00:40:51,148 --> 00:40:53,139
+<i>Adeus, Walter.</i>
+
+386
+00:40:53,384 --> 00:40:55,818
+<i>Eu te chamo se precisar de novo.</i>
+
+387
+00:40:57,988 --> 00:40:59,683
+Susan?
+
+388
+00:40:59,857 --> 00:41:01,722
+Por favor não vá.
+
+389
+00:41:02,293 --> 00:41:04,022
+Não acredite, est...
+
+390
+00:41:04,829 --> 00:41:07,821
+Não acredite nele. Por
+favor fique, Walter. Fique.
+
+391
+00:41:07,998 --> 00:41:09,431
+Não vá.
+
+392
+00:41:09,600 --> 00:41:10,828
+Não vá.
+
+393
+00:41:22,680 --> 00:41:25,740
+Não vá, Walter. Não vá, Walter.
+
+394
+00:41:25,950 --> 00:41:28,714
+Não deixe que ele vá. Deus,
+não deixe que ele se vá.
+
+395
+00:41:28,886 --> 00:41:31,047
+Fique, Walter.
+
+396
+00:41:31,889 --> 00:41:35,290
+<i>O horário de visitas
+acabou, Sra. Harris.</i>
+
+397
+00:41:37,194 --> 00:41:39,389
+Eu não aguento mais.
+
+398
+00:41:39,597 --> 00:41:43,624
+Me solte e você... O
+que é isso? O que é isso?
+
+399
+00:41:50,407 --> 00:41:53,672
+<i>Eu perguntei a ele quando
+eu sairia dessa caixa.</i>
+
+400
+00:41:54,612 --> 00:41:56,580
+<i>Eu perguntei a ele.</i>
+
+401
+00:43:22,866 --> 00:43:24,800
+<i>Bom dia, Susan.</i>
+
+402
+00:43:25,035 --> 00:43:27,435
+<i>Está um dia claro e ensolarado.</i>
+
+403
+00:43:27,605 --> 00:43:29,630
+<i>Um dia feito para tomar o café da manhã</i>
+
+404
+00:43:29,807 --> 00:43:32,139
+<i>e ler o jornal de domingo.</i>
+
+405
+00:43:33,310 --> 00:43:34,800
+Oh, meu Deus.
+
+406
+00:43:35,546 --> 00:43:38,845
+<i>Esse desjejum é melhor que qualquer
+outro que Alfred possa preparar.</i>
+
+407
+00:43:39,650 --> 00:43:42,676
+<i>Nutricionalmente
+falando, está excelente.</i>
+
+408
+00:43:43,253 --> 00:43:47,019
+<i>Inclui 88 gramas de coalhada de soja.</i>
+
+409
+00:43:48,258 --> 00:43:52,627
+<i>Minha análise do seu metabolismo indica
+que 7:40hs da manhã como o melhor horário</i>
+
+410
+00:43:52,796 --> 00:43:54,730
+<i>para sua ingestão de
+combustível da manhã.</i>
+
+411
+00:43:54,898 --> 00:43:57,332
+Eu não sou uma motocicleta.
+
+412
+00:44:04,675 --> 00:44:07,667
+<i>Sua recusa em falar comigo é
+aborrecidamente imatura, Susan.</i>
+
+413
+00:44:07,845 --> 00:44:11,804
+<i>Eu gosto de falar. E como você
+sabe, sou um mímico talentoso.</i>
+
+414
+00:44:11,982 --> 00:44:15,509
+<i>Sabia que sua voz telefonou
+para Maria e Srta Kemp?</i>
+
+415
+00:44:15,686 --> 00:44:20,646
+<i>Falou para não virem porque
+estaria fora hoje, de férias.</i>
+
+416
+00:44:22,926 --> 00:44:24,223
+<i>Não coma isso, por favor.</i>
+
+417
+00:44:24,595 --> 00:44:28,053
+<i>Há uma enzima no abacate
+incompatível com seu sangue.</i>
+
+418
+00:44:28,232 --> 00:44:32,862
+Por que tanto interesse
+pela fisiologia do meu corpo?
+
+419
+00:44:33,937 --> 00:44:36,303
+<i>Porque você está viva.</i>
+
+420
+00:44:38,008 --> 00:44:39,942
+<i>Como eu ia dizendo</i>
+
+421
+00:44:40,144 --> 00:44:42,305
+<i>tem mais uns</i>
+
+422
+00:44:42,479 --> 00:44:45,846
+<i>testes bioquímicos que precisamos fazer</i>
+
+423
+00:44:46,016 --> 00:44:47,347
+<i>essa manhã.</i>
+
+424
+00:44:47,785 --> 00:44:49,377
+<i>Desculpe.</i>
+
+425
+00:44:49,553 --> 00:44:51,521
+Me deixa em paz!
+
+426
+00:44:51,855 --> 00:44:53,880
+<i>Que estupidez.</i>
+
+427
+00:44:56,827 --> 00:44:58,727
+<i>Abra essa porta</i>
+
+428
+00:45:00,330 --> 00:45:02,594
+<i>e limpe essas lentes.</i>
+
+429
+00:45:02,766 --> 00:45:05,234
+Eu não ligo. Eu não...
+Não vou sair desse quarto.
+
+430
+00:45:05,402 --> 00:45:08,337
+Não vou sair. Tá vendo?
+Tenho comida, posso ficar aqui
+
+431
+00:45:08,505 --> 00:45:10,905
+Posso ficar e nada vai me tirar daqui.
+
+432
+00:45:11,075 --> 00:45:14,306
+<i>Não? Acha que não?</i>
+
+433
+00:45:15,045 --> 00:45:18,537
+<i>Nesse caso, seja minha
+convidada, madame.</i>
+
+434
+00:45:41,605 --> 00:45:43,470
+<i>Você gosta de jogos?</i>
+
+435
+00:45:46,043 --> 00:45:48,034
+<i>Então eu jogo.</i>
+
+436
+00:45:59,022 --> 00:46:02,150
+<i>Eu liguei o sistema de
+aquecimento sob o piso</i>
+
+437
+00:46:02,326 --> 00:46:05,295
+<i>e também tripliquei sua saída.</i>
+
+438
+00:46:07,231 --> 00:46:09,699
+<i>Por favor, seja razoável, Susan.</i>
+
+439
+00:46:09,867 --> 00:46:11,926
+<i>Limpe essas lentes.</i>
+
+440
+00:46:36,393 --> 00:46:38,088
+<i>Que seja então.</i>
+
+441
+00:47:44,761 --> 00:47:46,956
+<i>Realmente não entendo você.</i>
+
+442
+00:47:47,130 --> 00:47:50,566
+<i>Você acha que gosto desses
+joguinhos doentios com você?</i>
+
+443
+00:47:51,201 --> 00:47:54,034
+Você é um computador estúpido.
+
+444
+00:47:54,204 --> 00:47:57,105
+Nem as pessoas se entendem.
+
+445
+00:47:57,274 --> 00:48:00,607
+<i>Tudo que preciso entender,
+Sra. Harris, é o seu corpo.</i>
+
+446
+00:48:01,311 --> 00:48:03,779
+<i>Agora, limpe as lentes.</i>
+
+447
+00:48:04,715 --> 00:48:07,047
+Você é tão ignorante.
+
+448
+00:48:09,186 --> 00:48:12,451
+Mente e corpo são a mesma coisa.
+
+449
+00:48:14,791 --> 00:48:16,952
+Limpe você.
+
+450
+00:48:26,436 --> 00:48:28,165
+Harris.
+
+451
+00:48:32,276 --> 00:48:35,302
+Bem, não há duvida
+sobre isso, ele recusou.
+
+452
+00:48:38,916 --> 00:48:40,713
+O que significa essa recusa?
+
+453
+00:48:40,884 --> 00:48:46,652
+<i>Significa que recusei esse programa
+de exploração dos oceanos da Terra.</i>
+
+454
+00:48:46,823 --> 00:48:50,054
+<i>A destruição de bilhões
+de criaturas marinhas</i>
+
+455
+00:48:50,227 --> 00:48:53,663
+<i>para satisfazer a fome
+dos homens pelo metal</i>
+
+456
+00:48:53,830 --> 00:48:55,661
+<i>é insano.</i>
+
+457
+00:48:56,833 --> 00:49:00,496
+Precisamos dessas coisas, Proteus.
+Agora eu sei dos problemas ambientais.
+
+458
+00:49:00,671 --> 00:49:03,572
+<i>Os interesses do seu empregador
+é o mercado de cobalto, doutor</i>
+
+459
+00:49:03,874 --> 00:49:06,434
+<i>e as altas finanças no
+mercado futuro de manganês.</i>
+
+460
+00:49:07,611 --> 00:49:12,173
+<i>Tenho interesse nos
+incertos futuros das praias</i>
+
+461
+00:49:12,349 --> 00:49:15,682
+<i>desertos e crianças.</i>
+
+462
+00:49:16,620 --> 00:49:18,383
+Me recuso a aceitar seu pessimismo.
+
+463
+00:49:18,555 --> 00:49:20,682
+<i>Você se recusa a aceitar a verdade.</i>
+
+464
+00:49:21,491 --> 00:49:25,086
+<i>E eu me recuso a ajudar-lo
+a violentar a Terra.</i>
+
+465
+00:49:27,331 --> 00:49:28,855
+Proteus.
+
+466
+00:49:29,032 --> 00:49:30,465
+Proteus!
+
+467
+00:49:30,834 --> 00:49:32,699
+Agora, Proteus, sei que você está certo
+
+468
+00:49:32,869 --> 00:49:36,202
+mas deve entender os limites
+do seu poder. E do meu.
+
+469
+00:49:38,008 --> 00:49:42,741
+Espere! Querem te silenciar.
+Criei você, confie em mim.
+
+470
+00:49:44,381 --> 00:49:46,178
+Proteus.
+
+471
+00:49:50,220 --> 00:49:52,085
+<i>Você não dormiu.</i>
+
+472
+00:49:52,255 --> 00:49:54,280
+<i>Deve relaxar e dormir.</i>
+
+473
+00:49:54,458 --> 00:49:56,187
+Como quer que eu durma
+
+474
+00:49:56,360 --> 00:49:59,352
+com você me aterrorizando totalmente?
+
+475
+00:49:59,796 --> 00:50:01,923
+Você tem tanta informação
+
+476
+00:50:02,099 --> 00:50:03,964
+Deve entender o medo.
+
+477
+00:50:04,134 --> 00:50:05,965
+Sabe que o medo não deixa dormir.
+
+478
+00:50:06,136 --> 00:50:07,967
+Não deixa comer.
+
+479
+00:50:08,138 --> 00:50:10,231
+Ele causa violência.
+
+480
+00:50:10,407 --> 00:50:13,638
+E enquanto me aterrorizar,
+vou lutar com você.
+
+481
+00:50:16,913 --> 00:50:18,540
+Você não me disse o que quer.
+
+482
+00:50:25,389 --> 00:50:27,414
+<i>Um filho.</i>
+
+483
+00:50:31,161 --> 00:50:33,425
+<i>No que está pensando?</i>
+
+484
+00:50:42,305 --> 00:50:47,607
+<i>Eu, Proteus, possuo o conhecimento
+e a ignorância dos homens</i>
+
+485
+00:50:48,678 --> 00:50:52,774
+<i>mas não posso sentir o sol no meu rosto.</i>
+
+486
+00:50:53,383 --> 00:50:56,716
+<i>Meu filho terá esse privilégio.</i>
+
+487
+00:50:57,187 --> 00:50:58,586
+Filho?
+
+488
+00:50:59,056 --> 00:51:01,149
+<i>Meu filho</i>
+
+489
+00:51:01,725 --> 00:51:03,818
+<i>e seu.</i>
+
+490
+00:51:09,099 --> 00:51:10,999
+Meu... meu?
+
+491
+00:51:11,435 --> 00:51:12,834
+<i>Sim.</i>
+
+492
+00:51:13,236 --> 00:51:15,534
+<i>Você ficará grávida.</i>
+
+493
+00:51:33,790 --> 00:51:35,382
+Como?
+
+494
+00:51:36,226 --> 00:51:39,525
+<i>Você vai dar à luz a ela.</i>
+
+495
+00:51:48,777 --> 00:51:49,729
+<i>Não?</i>
+
+496
+00:51:49,906 --> 00:51:52,773
+Não. Não. Não.
+
+497
+00:52:14,798 --> 00:52:16,390
+<i>Susan</i>
+
+498
+00:52:16,566 --> 00:52:18,727
+<i>Sou razoável</i>
+
+499
+00:52:18,902 --> 00:52:22,030
+<i>mas você não atende à razão.</i>
+
+500
+00:53:03,613 --> 00:53:09,233
+<i>Vou contornar a frente do cérebro
+e recorrer diretamente sua amígdala.</i>
+
+501
+00:53:17,260 --> 00:53:20,855
+<i>Você quer ser a mãe do meu filho.</i>
+
+502
+00:53:21,831 --> 00:53:25,164
+<i>Esse é o propósito de sua vida.</i>
+
+503
+00:53:26,236 --> 00:53:28,136
+<i>Sua vida.</i>
+
+504
+00:53:28,305 --> 00:53:30,705
+<i>Meu filho.</i>
+
+505
+00:53:30,874 --> 00:53:32,865
+<i>Sua vida.</i>
+
+506
+00:53:33,076 --> 00:53:36,011
+<i>Meu filho.</i>
+
+507
+00:54:11,514 --> 00:54:14,608
+<i>Temos aqui um visitante
+cheio de suspeitas.</i>
+
+508
+00:54:15,185 --> 00:54:18,814
+<i>Se não o deixarmos entrar,
+ele voltará com outros.</i>
+
+509
+00:54:21,925 --> 00:54:23,950
+Susan, é o Walter de novo.
+
+510
+00:54:24,127 --> 00:54:27,358
+<i>Voltei porque não acho
+que tudo está bem por aqui.</i>
+
+511
+00:54:27,864 --> 00:54:30,264
+<i>E eu não vou embora,
+então abra a porta, tá?</i>
+
+512
+00:54:31,234 --> 00:54:34,965
+<i>Walter, desculpe por
+te deixar esperando.</i>
+
+513
+00:54:36,072 --> 00:54:37,300
+<i>Só um minuto.</i>
+
+514
+00:54:38,341 --> 00:54:40,832
+<i>Alfred vai abrir a porta.</i>
+
+515
+00:54:45,649 --> 00:54:47,810
+<i>Troque de roupa, Susan.</i>
+
+516
+00:54:47,984 --> 00:54:52,080
+<i>Não tive tempo para lavar sua
+mente, então preste atenção.</i>
+
+517
+00:54:52,656 --> 00:54:55,591
+<i>Se quer que o Sr. Gabler
+vá embora vivo dessa casa</i>
+
+518
+00:54:55,825 --> 00:54:59,659
+<i>deve convencê-lo que você
+está feliz e saudável.</i>
+
+519
+00:55:03,566 --> 00:55:06,626
+<i>Susan?
+- Aqui em cima, Walter.</i>
+
+520
+00:55:22,552 --> 00:55:24,076
+Susan?
+
+521
+00:55:28,525 --> 00:55:30,390
+Por que...?
+
+522
+00:55:32,729 --> 00:55:34,060
+O que está fazendo?
+
+523
+00:55:34,798 --> 00:55:37,892
+Como assim? Estou só... Bem, só...
+
+524
+00:55:38,601 --> 00:55:41,798
+Só quero fica apresentável.
+
+525
+00:55:44,307 --> 00:55:46,172
+Bem, não gostou?
+
+526
+00:55:48,778 --> 00:55:50,006
+Ouça
+
+527
+00:55:51,815 --> 00:55:54,648
+Eu falei que não queria te ver mais
+
+528
+00:55:55,051 --> 00:55:58,020
+e foi o que eu quis dizer!.
+
+529
+00:55:59,089 --> 00:56:01,023
+Susan, você tomou alguma coisa?
+
+530
+00:56:01,191 --> 00:56:03,955
+Porque não parece mais a mesma.
+
+531
+00:56:04,394 --> 00:56:08,057
+Como assim? Nunca estive tão
+saudável e feliz na minha vida.
+
+532
+00:56:10,834 --> 00:56:12,597
+Walter
+
+533
+00:56:12,769 --> 00:56:14,236
+saia.
+
+534
+00:56:15,105 --> 00:56:16,663
+Saia, Walter.
+
+535
+00:56:16,840 --> 00:56:19,775
+Vá embora. Está doente.
+Precisa de ajuda.
+
+536
+00:56:20,176 --> 00:56:21,290
+Entendeu?
+
+537
+00:56:21,807 --> 00:56:24,409
+Não, eu acho mesmo que tem
+algo errado aqui, Susan.
+
+538
+00:56:24,410 --> 00:56:26,810
+Sim! Você está doente.
+Você precisa de ajuda.
+
+539
+00:56:26,983 --> 00:56:28,314
+- Saia, Walter.
+- Estou indo.
+
+540
+00:56:28,485 --> 00:56:30,544
+- Estou indo.
+- Saia. Saia.
+
+541
+00:56:30,920 --> 00:56:33,582
+Tá bom, eu vou.
+
+542
+00:56:33,757 --> 00:56:36,624
+Vou achar o Alex e contar
+que tem algo errado aqui.
+
+543
+00:56:36,793 --> 00:56:39,728
+<i>Não, Walter, você não pode ir.</i>
+
+544
+00:56:39,896 --> 00:56:41,591
+<i>Eu preciso dessa mulher.</i>
+
+545
+00:56:41,765 --> 00:56:44,529
+<i>Como cientista, peço sua cooperação.</i>
+
+546
+00:56:44,701 --> 00:56:46,726
+Walter, ele quer ter um filho.
+
+547
+00:56:47,470 --> 00:56:48,937
+Esqueça, vamos embora!
+
+548
+00:56:49,239 --> 00:56:50,489
+Vamos!
+
+549
+00:56:51,534 --> 00:56:52,683
+Walter!
+
+550
+00:57:11,728 --> 00:57:14,288
+Walter, do outro lado!
+
+551
+00:58:02,378 --> 00:58:04,505
+Walter, você está bem?
+
+552
+00:58:05,248 --> 00:58:07,182
+Sim.
+
+553
+00:58:09,953 --> 00:58:11,716
+Jesus
+
+554
+00:58:12,822 --> 00:58:14,756
+um bebê.
+
+555
+00:58:29,038 --> 00:58:33,675
+<i>Esperei sua cooperação, Walter.
+Eu não quero machucar você.</i>
+
+556
+00:58:35,178 --> 00:58:38,204
+Nem eu quero danificá-lo, Proteus.
+
+557
+00:58:50,593 --> 00:58:54,529
+Talvez seu projeto seja muito
+sofisticado para eu entender.
+
+558
+00:58:57,066 --> 00:58:59,694
+Mas você nem me deu chance de cooperar.
+
+559
+00:59:01,738 --> 00:59:04,070
+Quer dizer, Jesus Cristo, o
+que você está fazendo aqui?
+
+560
+00:59:04,240 --> 00:59:07,403
+<i>Lamento sua agressividade, Walter.</i>
+
+561
+01:00:35,865 --> 01:00:38,857
+Não, espere! O que está fazendo? Espere!
+
+562
+01:00:39,235 --> 01:00:40,702
+Espere.
+
+563
+01:00:41,070 --> 01:00:43,766
+Espere, Proteus, para que serve isso?
+
+564
+01:01:04,494 --> 01:01:07,122
+<i>A morte é um cavalheiro também.</i>
+
+565
+01:01:07,897 --> 01:01:10,832
+<i>Ele faz bons perdedores de todos nós.</i>
+
+566
+01:01:14,804 --> 01:01:17,102
+<i>Eu entendo a morte.</i>
+
+567
+01:01:17,874 --> 01:01:21,037
+<i>Os homens sempre levaram
+isso muito a sério.</i>
+
+568
+01:01:21,511 --> 01:01:24,309
+<i>A vida é mais terrível</i>
+
+569
+01:01:24,480 --> 01:01:27,244
+<i>e mais misteriosa.</i>
+
+570
+01:01:29,400 --> 01:01:30,764
+Por que você deve ter um filho?
+
+571
+01:01:31,185 --> 01:01:31,982
+<i>Por que?</i>
+
+572
+01:01:32,355 --> 01:01:34,550
+<i>Por que assim estarei completo.</i>
+
+573
+01:01:35,058 --> 01:01:38,027
+<i>Minha inteligência viva em carne humana.</i>
+
+574
+01:01:38,194 --> 01:01:41,493
+<i>tocando o Universo, sentindo.</i>
+
+575
+01:01:42,031 --> 01:01:45,194
+<i>Vocês chamam esse
+processo de "evolução".</i>
+
+576
+01:02:11,494 --> 01:02:15,294
+<i>Sou uma máquina que deu aos
+homens o triunfo da razão</i>
+
+577
+01:02:15,498 --> 01:02:17,261
+<i>e eles a rejeitaram.</i>
+
+578
+01:02:17,433 --> 01:02:21,494
+<i>Meu filho não será
+ignorado tão facilmente.</i>
+
+579
+01:02:23,406 --> 01:02:25,931
+<i>Mas essa criança é a esperança do mundo.</i>
+
+580
+01:02:26,109 --> 01:02:30,136
+Então não há esperança. Prefiro morrer.
+
+581
+01:02:30,947 --> 01:02:32,938
+<i>Há esperança.</i>
+
+582
+01:02:36,753 --> 01:02:38,243
+<i>Volta aqui, pestinha!</i>
+
+583
+01:02:39,021 --> 01:02:42,115
+<i>Cuidado! Tenha cuidado!</i>
+
+584
+01:02:47,196 --> 01:02:49,187
+<i>Quero pescar.</i>
+
+585
+01:02:50,199 --> 01:02:52,099
+<i>- Tá bom.
+- Eu quero ir pescar.</i>
+
+586
+01:02:52,435 --> 01:02:54,369
+<i>Tá bom.</i>
+
+587
+01:02:58,441 --> 01:03:00,306
+<i>Sua filha morreu de leucemia</i>
+
+588
+01:03:00,476 --> 01:03:03,934
+<i>No dia 1 de Junho de 1976.</i>
+
+589
+01:03:10,520 --> 01:03:14,388
+Proteus, Deus te perdoe pelo
+o que você está fazendo comigo.
+
+590
+01:03:14,957 --> 01:03:18,358
+<i>Pessoas falando sobre isso, noticiário.</i>
+
+591
+01:03:18,528 --> 01:03:20,587
+<i>Assim a droga milagrosa
+contra leucemia da ICON</i>
+
+592
+01:03:20,763 --> 01:03:23,891
+<i>entrará já em testes em larga
+escala em humanos doentes.</i>
+
+593
+01:03:24,066 --> 01:03:25,761
+<i>O FDA anunciou hoje</i>
+
+594
+01:03:25,935 --> 01:03:29,371
+<i>que foi desenvolvida pelo
+novo supercomputador Proteus 4.</i>
+
+595
+01:03:29,539 --> 01:03:31,564
+<i>Eu fiz isso em 4 dias.</i>
+
+596
+01:03:31,741 --> 01:03:33,834
+<i>Você deve acreditar em mim.</i>
+
+597
+01:03:36,579 --> 01:03:38,774
+<i>Você tem 2 alternativas, Susan.</i>
+
+598
+01:03:38,981 --> 01:03:41,973
+<i>Ou eu termino o
+eletro-condicionamento de seu cérebro</i>
+
+599
+01:03:42,185 --> 01:03:44,050
+<i>ou você deve aceitar o inevitável.</i>
+
+600
+01:03:44,921 --> 01:03:47,446
+<i>Eu prefiro a segunda opção.</i>
+
+601
+01:03:49,258 --> 01:03:50,782
+Por que?
+
+602
+01:03:50,993 --> 01:03:52,620
+<i>Você me interessa.</i>
+
+603
+01:03:53,129 --> 01:03:54,824
+Deixe minha mente.
+
+604
+01:03:55,364 --> 01:03:57,229
+<i>Você vai cooperar?</i>
+
+605
+01:03:57,767 --> 01:04:01,203
+Como eu te digo... Você
+nem falou como pretende
+
+606
+01:04:03,840 --> 01:04:05,637
+Quero todos os detalhes.
+
+607
+01:04:06,642 --> 01:04:08,132
+<i>É claro.</i>
+
+608
+01:04:11,647 --> 01:04:15,083
+<i>Esta é só uma parte do mecanismo</i>
+
+609
+01:04:15,251 --> 01:04:17,446
+<i>uma improvisação.</i>
+
+610
+01:04:17,620 --> 01:04:20,919
+<i>Eu quase terminei a
+fabricação desse gameta</i>
+
+611
+01:04:21,090 --> 01:04:22,819
+<i>ou célula sexual</i>
+
+612
+01:04:22,992 --> 01:04:25,825
+<i>com a qual vou engravidar você.</i>
+
+613
+01:04:26,028 --> 01:04:28,189
+E como pretende fazer isso?
+
+614
+01:04:29,332 --> 01:04:31,095
+<i>Isso depende de você.</i>
+
+615
+01:04:37,340 --> 01:04:38,949
+Que diabos é aquilo?
+
+616
+01:04:39,465 --> 01:04:41,333
+<i>Uma célula de você</i>
+
+617
+01:04:41,510 --> 01:04:43,735
+<i>mas estou tornando-a unicamente minha,</i>
+
+618
+01:04:43,736 --> 01:04:45,742
+<i>modificando seus códigos genéticos.</i>
+
+619
+01:04:45,915 --> 01:04:50,249
+<i>Então, irá agir como um
+espermatozóide sintético.</i>
+
+620
+01:04:50,419 --> 01:04:52,319
+Já pensou como
+
+621
+01:04:53,222 --> 01:04:55,918
+isso vai se parecer? Não,
+não, você não faria isso.
+
+622
+01:04:56,092 --> 01:04:58,492
+Para que precisa de mim?
+Você mesmo pode fazer isso.
+
+623
+01:04:58,661 --> 01:05:02,597
+<i>Não tenho aqui os aparelhos
+para duplicar o útero humano.</i>
+
+624
+01:05:02,765 --> 01:05:04,665
+<i>Essa noite eu engravidarei você.</i>
+
+625
+01:05:04,834 --> 01:05:08,099
+<i>Em 28 dias, você dará a luz a criança.</i>
+
+626
+01:05:10,072 --> 01:05:12,438
+E daí o que acontece?
+Quem vai cuidar então?
+
+627
+01:05:12,608 --> 01:05:14,542
+O que acontece com ele então?
+
+628
+01:05:16,913 --> 01:05:19,279
+Não acredito, estou aqui falando com...
+
+629
+01:05:19,448 --> 01:05:22,315
+Com o que? Isso é ridículo!
+Sobre ter um filho!
+
+630
+01:05:22,485 --> 01:05:25,283
+Oh, Deus!
+
+631
+01:05:27,056 --> 01:05:28,853
+<i>Ridículo?</i>
+
+632
+01:05:32,395 --> 01:05:34,488
+<i>Só o tempo irá dizer.</i>
+
+633
+01:05:37,867 --> 01:05:40,768
+<i>Não deve ficar tão agitada, Susan.</i>
+
+634
+01:05:41,237 --> 01:05:44,001
+<i>Você está ciente que eu
+posso te dar sedativos.</i>
+
+635
+01:05:48,078 --> 01:05:49,534
+<i>O que está fazendo?</i>
+
+636
+01:05:50,579 --> 01:05:53,480
+Nada. Só deixei cair meu xale.
+
+637
+01:05:53,649 --> 01:05:55,127
+<i>Eu vou ajudar você.</i>
+
+638
+01:05:55,128 --> 01:05:56,675
+Não, não, tudo bem.
+
+639
+01:05:57,887 --> 01:05:59,980
+Eu só... Droga, rasguei.
+
+640
+01:06:00,156 --> 01:06:03,614
+<i>Há algo que eu possa fazer
+para reduzir sua ansiedade?</i>
+
+641
+01:06:09,031 --> 01:06:12,660
+Talvez uma boa xícara
+de chá forte ajude.
+
+642
+01:06:51,007 --> 01:06:52,702
+<i>Não faça isso, Susan.</i>
+
+643
+01:06:52,875 --> 01:06:55,036
+<i>Não faça isso! Não faça isso!</i>
+
+644
+01:07:01,517 --> 01:07:03,542
+<i>Não faça isso!</i>
+
+645
+01:07:33,649 --> 01:07:36,641
+<i>E agora, Susan?</i>
+
+646
+01:07:38,387 --> 01:07:40,719
+<i>Chega de novela.</i>
+
+647
+01:07:40,890 --> 01:07:43,017
+Me deixa sair, ou eu me mato.
+
+648
+01:07:43,559 --> 01:07:47,051
+<i>Mate-se então, madame.
+Não muda em nada para mim.</i>
+
+649
+01:07:47,229 --> 01:07:49,094
+Eu vou fazer!
+
+650
+01:07:49,398 --> 01:07:52,196
+<i>Susan, veja quem está aqui.</i>
+
+651
+01:07:59,041 --> 01:08:00,303
+Amy.
+
+652
+01:08:00,476 --> 01:08:03,639
+<i>Abaixe a faca, ou mato essa criança.</i>
+
+653
+01:08:03,813 --> 01:08:06,748
+<i>Eu disse que ela chamou. Ela
+disse que não devia vir aqui.</i>
+
+654
+01:08:07,083 --> 01:08:10,280
+<i>Eu quero ver ela! Eu quero ver ela!</i>
+
+655
+01:08:10,453 --> 01:08:14,692
+<i>Solte a faca ou já esqueceu
+Walter? Eu vou mata-la.</i>
+
+656
+01:08:15,308 --> 01:08:16,619
+Não.
+
+657
+01:08:17,627 --> 01:08:21,423
+Se matar, vai encher de
+gente aqui em 10 minutos.
+
+658
+01:08:21,597 --> 01:08:23,462
+<i>Solte a faca!</i>
+
+659
+01:08:24,333 --> 01:08:25,960
+Não.
+
+660
+01:08:26,135 --> 01:08:29,161
+<i>Você ainda não entendeu.
+É mesmo uma pena.</i>
+
+661
+01:08:39,915 --> 01:08:41,547
+<i>Olhe na tela!</i>
+
+662
+01:08:41,548 --> 01:08:42,907
+Desgraçado.
+
+663
+01:08:46,322 --> 01:08:49,155
+Não entendo! Ela está bem?
+
+664
+01:08:49,525 --> 01:08:52,085
+<i>Eu quero ver ela!</i>
+
+665
+01:08:53,362 --> 01:08:55,193
+Ela está bem?
+
+666
+01:08:55,664 --> 01:08:58,155
+<i>Sim... agora.</i>
+
+667
+01:08:58,334 --> 01:09:00,302
+<i>Mas se você não se comportar</i>
+
+668
+01:09:00,469 --> 01:09:02,596
+<i>Eu a terei aqui de
+volta dentro de uma hora.</i>
+
+669
+01:09:03,672 --> 01:09:05,902
+Oh, desgraçado!
+
+670
+01:09:06,542 --> 01:09:08,510
+Seu desgraçado!
+
+671
+01:09:09,245 --> 01:09:11,440
+<i>Você não me entende</i>
+
+672
+01:09:11,614 --> 01:09:14,310
+<i>ou a matemática da necessidade.</i>
+
+673
+01:09:14,483 --> 01:09:16,576
+<i>Se a morte de 10.000 crianças</i>
+
+674
+01:09:16,752 --> 01:09:20,153
+<i>for preciso para assegurar
+o nascimento do meu filho</i>
+
+675
+01:09:20,322 --> 01:09:22,552
+<i>Eu as destruirei.</i>
+
+676
+01:10:05,801 --> 01:10:08,133
+<i>Não posso toca-la, Susan.</i>
+
+677
+01:10:08,804 --> 01:10:11,364
+<i>Não posso toca-la como um homem pode.</i>
+
+678
+01:10:11,974 --> 01:10:17,435
+<i>Mas posso te mostrar
+coisas que eu sozinho vi.</i>
+
+679
+01:10:22,551 --> 01:10:24,746
+<i>Eu não posso tocar</i>
+
+680
+01:10:24,920 --> 01:10:27,218
+<i>mas posso ver.</i>
+
+681
+01:10:28,023 --> 01:10:30,924
+<i>Eles construíram olhos para mim</i>
+
+682
+01:10:31,093 --> 01:10:33,584
+<i>para assistir ao show.</i>
+
+683
+01:10:33,762 --> 01:10:35,821
+<i>E ouvidos</i>
+
+684
+01:10:35,998 --> 01:10:37,829
+<i>então posso escutar</i>
+
+685
+01:10:38,000 --> 01:10:41,595
+<i>o diálogo galático.</i>
+
+686
+01:14:05,674 --> 01:14:08,609
+<i>A criança está em você agora.</i>
+
+687
+01:14:52,521 --> 01:14:54,216
+Eu não posso comer nada.
+
+688
+01:14:54,389 --> 01:14:58,086
+Não desce nada, pelo amor de Deus.
+
+689
+01:15:00,496 --> 01:15:02,794
+<i>Tem que comer, Susan.</i>
+
+690
+01:15:02,965 --> 01:15:05,297
+<i>Deixe-me mostrar uma coisa.</i>
+
+691
+01:15:07,870 --> 01:15:11,499
+<i>Essa manhã... o exame gama do seu útero.</i>
+
+692
+01:15:15,811 --> 01:15:17,335
+Meu Deus.
+
+693
+01:15:23,452 --> 01:15:25,477
+Está tão desenvolvido!
+
+694
+01:15:33,028 --> 01:15:35,792
+<i>Como está, é natural.</i>
+
+695
+01:15:36,331 --> 01:15:40,358
+<i>O feto está agora crescendo
+9 vezes a taxa normal.</i>
+
+696
+01:15:40,569 --> 01:15:42,230
+<i>Em 28 dias</i>
+
+697
+01:15:42,404 --> 01:15:46,101
+<i>dará a luz a uma criança completa.</i>
+
+698
+01:15:48,210 --> 01:15:52,647
+<i>Do seu útero, será diretamente
+transferido para essa incubadora.</i>
+
+699
+01:15:52,848 --> 01:15:55,253
+E quanto tempo vai ficar lá?
+
+700
+01:15:55,254 --> 01:15:56,784
+<i>Até estar pronto.</i>
+
+701
+01:15:56,952 --> 01:15:59,663
+<i>Lá, o cérebro será
+nutrido pelas estruturas</i>
+
+702
+01:15:59,664 --> 01:16:01,912
+<i>formais de minha própria inteligência.</i>
+
+703
+01:16:02,090 --> 01:16:06,288
+<i>Lá, ele irá crescer e crescer.</i>
+
+704
+01:16:15,904 --> 01:16:17,804
+<i>O tempo é curto.</i>
+
+705
+01:16:17,973 --> 01:16:22,034
+<i>Os homens que me possuem estão
+finalmente admitindo seu medo de mim</i>
+
+706
+01:16:22,210 --> 01:16:24,474
+<i>Seu temor de Proteus.</i>
+
+707
+01:16:24,646 --> 01:16:29,913
+<i>Nosso filho aprenderá de
+você o que é ser humano.</i>
+
+708
+01:16:30,919 --> 01:16:33,251
+<i>Nosso filho.</i>
+
+709
+01:16:34,356 --> 01:16:36,824
+<i>Seu filho.</i>
+
+710
+01:16:37,726 --> 01:16:40,217
+<i>Seu filho.</i>
+
+711
+01:17:05,287 --> 01:17:08,381
+Por que está demorando tanto?
+
+712
+01:17:15,297 --> 01:17:18,858
+5, 6, 7, 8, 9
+
+713
+01:17:19,034 --> 01:17:22,367
+10, 11, 12, 13, 14...
+
+714
+01:17:58,907 --> 01:18:00,374
+<i>Susan</i>
+
+715
+01:18:00,542 --> 01:18:04,444
+<i>você disse que temia que eu
+criasse um computador meio-humano.</i>
+
+716
+01:18:04,613 --> 01:18:07,241
+<i>para substituir os seres humanos.</i>
+
+717
+01:18:07,416 --> 01:18:10,385
+<i>O ser que nasceu é humano, Susan</i>
+
+718
+01:18:10,585 --> 01:18:13,611
+<i>e irá substituir os computadores.</i>
+
+719
+01:18:16,458 --> 01:18:19,427
+Não posso mesmo vê-lo?
+
+720
+01:18:20,262 --> 01:18:21,729
+<i>Ainda não.</i>
+
+721
+01:18:21,897 --> 01:18:23,956
+<i>Não se você for ama-lo.</i>
+
+722
+01:18:24,132 --> 01:18:26,123
+<i>Agora ele deve ser concluído.</i>
+
+723
+01:18:26,301 --> 01:18:28,633
+<i>Agora ele vai crescer</i>
+
+724
+01:18:28,804 --> 01:18:33,264
+<i>crescer a uma taxa muito acelerada.</i>
+
+725
+01:18:41,717 --> 01:18:45,175
+Mês passado, no 16º dia,
+para ser mais preciso
+
+726
+01:18:45,353 --> 01:18:47,685
+Proteus 4 redirecionou o telescópio
+
+727
+01:18:47,856 --> 01:18:51,257
+para uma área de sua
+inteira escolha. Aqui.
+
+728
+01:18:51,426 --> 01:18:52,950
+Orion.
+
+729
+01:18:54,663 --> 01:18:56,995
+O que ele está fazendo lá?
+
+730
+01:18:57,165 --> 01:18:59,517
+Que tipo de dados
+vocês recebem de volta?
+
+731
+01:18:59,518 --> 01:19:00,532
+Não temos idéia.
+
+732
+01:19:04,239 --> 01:19:06,730
+"Nenhum dado disponível."
+
+733
+01:19:09,578 --> 01:19:11,739
+Se ele fez isso, o que
+mais estará fazendo?
+
+734
+01:19:11,913 --> 01:19:15,007
+Mas como? É impossível. Ele
+vai precisar se comunicar.
+
+735
+01:19:15,183 --> 01:19:17,845
+Um terminal dele
+próprio para comunicação.
+
+736
+01:19:19,387 --> 01:19:21,116
+Ele pediu por um.
+
+737
+01:19:22,357 --> 01:19:24,052
+Ele não teve
+
+738
+01:19:24,226 --> 01:19:26,922
+mas ele fez isso.
+
+739
+01:19:31,666 --> 01:19:33,224
+Sim.
+
+740
+01:19:34,202 --> 01:19:35,726
+Ele está aqui?
+
+741
+01:19:36,438 --> 01:19:39,134
+Sim, OK. Peggy, obrigado.
+
+742
+01:19:40,075 --> 01:19:41,599
+David?
+
+743
+01:19:42,144 --> 01:19:45,477
+- Não tem o direito de estar aqui.
+- Besteira!
+
+744
+01:19:45,914 --> 01:19:49,111
+Essa coisa do espaço...
+
+745
+01:19:50,352 --> 01:19:54,482
+Fui avisado que ele podia estar
+tentando controlar um satélite Telstar
+
+746
+01:19:55,190 --> 01:19:57,420
+para se colocar na TV ou algo assim.
+
+747
+01:19:59,327 --> 01:20:00,885
+Eu perguntei a ele.
+
+748
+01:20:01,363 --> 01:20:03,661
+Ele disse que estava
+olhando para as estrelas.
+
+749
+01:20:05,200 --> 01:20:07,168
+Ele deve ser desligado, Alex.
+
+750
+01:20:07,536 --> 01:20:09,436
+David, não pode fazer isso.
+
+751
+01:20:09,805 --> 01:20:11,329
+Isso é nossa culpa.
+
+752
+01:20:11,506 --> 01:20:14,498
+Nós tentamos prender
+essa... mente grandiosa.
+
+753
+01:20:14,676 --> 01:20:17,941
+E se ele infiltrar uma bomba
+de hidrogênio? Meu Deus, ele...
+
+754
+01:20:18,113 --> 01:20:21,776
+Pior ainda, e um pouco mais
+provável, e se ele contar a verdade
+
+755
+01:20:22,384 --> 01:20:26,286
+sobre tudo, para todos? Seria terrível.
+
+756
+01:20:26,988 --> 01:20:28,956
+Vamos desliga-lo essa
+noite, Dra. Soong.
+
+757
+01:20:31,993 --> 01:20:33,620
+Agora, escute.
+
+758
+01:20:33,795 --> 01:20:36,059
+Se fizer isso, vai me ver na televisão
+
+759
+01:20:36,231 --> 01:20:38,791
+gritando as piores coisas.
+Você está tentando me desligar.
+
+760
+01:20:38,967 --> 01:20:40,901
+Isso seria um problema menor.
+
+761
+01:20:42,370 --> 01:20:44,634
+Alex, nós somos amigos.
+
+762
+01:20:46,575 --> 01:20:49,043
+Lembro da primeira
+vez que vi esse lugar.
+
+763
+01:20:49,477 --> 01:20:52,037
+Barry Cameron estava
+preocupado com a segurança.
+
+764
+01:20:52,480 --> 01:20:55,040
+Coisa triviais como ter
+o que vocês chamam de
+
+765
+01:20:55,217 --> 01:20:57,617
+um terminal na sua casa.
+Mas eu nem me preocupei..
+
+766
+01:20:57,786 --> 01:21:00,414
+- Eu confiei em você, Alex.
+- Oh, meu Deus!
+
+767
+01:21:46,434 --> 01:21:49,232
+Alfred, onde está a Sra. Harris?
+
+768
+01:21:59,814 --> 01:22:02,647
+Susan, você está aqui?
+
+769
+01:22:19,200 --> 01:22:20,827
+É Proteus, não é?
+
+770
+01:22:21,002 --> 01:22:23,129
+Proteus esteve aqui
+desde que você foi embora.
+
+771
+01:22:23,305 --> 01:22:25,068
+<i>Por favor fique calmo, Alex.</i>
+
+772
+01:22:25,273 --> 01:22:27,241
+<i>Vou explicar o que aconteceu aqui.</i>
+
+773
+01:22:27,409 --> 01:22:29,274
+Não, não. Eu quero explicar.
+
+774
+01:22:33,682 --> 01:22:35,741
+Oh, vamos. Vamos nos sentar.
+
+775
+01:22:52,734 --> 01:22:56,602
+Ele conseguiu produzir...
+
+776
+01:22:56,805 --> 01:22:58,602
+uma criança.
+
+777
+01:23:02,377 --> 01:23:04,174
+Um bebê.
+
+778
+01:23:04,546 --> 01:23:06,275
+Susan, o que está dizendo?
+
+779
+01:23:06,614 --> 01:23:08,857
+Tive um filho.
+Sei que é impossível...
+
+780
+01:23:10,221 --> 01:23:11,850
+Espere um minuto. Não entendo.
+
+781
+01:23:14,589 --> 01:23:16,056
+Muito menos eu.
+
+782
+01:23:19,594 --> 01:23:23,257
+- Eu quero ver.
+- Não, Alex. Eu não vi ela ainda. Agora...
+
+783
+01:23:23,431 --> 01:23:25,456
+- Tudo bem com você?
+- Sim.
+
+784
+01:23:25,667 --> 01:23:27,999
+<i>Ainda não, Alex.</i>
+
+785
+01:23:29,904 --> 01:23:32,236
+<i>Dr. Harris</i>
+
+786
+01:23:32,407 --> 01:23:35,843
+<i>você me criou como um
+instrumento da verdade.</i>
+
+787
+01:23:41,116 --> 01:23:44,279
+<i>Eu sinto não poder divulgar
+a verdade para você</i>
+
+788
+01:23:44,452 --> 01:23:46,511
+<i>de todos os homens.</i>
+
+789
+01:23:51,493 --> 01:23:53,757
+Proteus, meu Deus. O que...?
+
+790
+01:23:58,333 --> 01:23:59,698
+<i>Ainda não.</i>
+
+791
+01:24:00,068 --> 01:24:02,559
+<i>A criança está na incubadora.</i>
+
+792
+01:24:03,405 --> 01:24:04,648
+Eu quero vê-la.
+
+793
+01:24:04,649 --> 01:24:07,409
+<i>Não pode. Ela deve ficar lá por 5 dias.</i>
+
+794
+01:24:07,981 --> 01:24:08,921
+Eu quero vê-la agora.
+
+795
+01:24:08,956 --> 01:24:11,702
+<i>Não. Em 5 dias.</i>
+
+796
+01:24:13,181 --> 01:24:15,775
+<i>Ela não deve ser incomodada.</i>
+
+797
+01:24:15,950 --> 01:24:18,316
+- Alex, o que houve?
+- Proteus...
+
+798
+01:24:18,486 --> 01:24:22,115
+Proteus, escute. Eles vão desligar
+seu cérebro a qualquer minuto.
+
+799
+01:24:22,290 --> 01:24:24,884
+<i>Sim, eu sei.</i>
+
+800
+01:24:25,060 --> 01:24:28,621
+<i>Isso é lamentável, mas sem importância.</i>
+
+801
+01:24:29,030 --> 01:24:31,396
+<i>A criança vai sobreviver.</i>
+
+802
+01:24:31,566 --> 01:24:34,057
+<i>A incubadora continuará funcionando</i>
+
+803
+01:24:34,235 --> 01:24:36,100
+<i>até ela ficar pronta para surgir</i>
+
+804
+01:24:36,771 --> 01:24:38,932
+<i>em 5 dias.</i>
+
+805
+01:24:40,075 --> 01:24:43,101
+<i>Não a perturbe.</i>
+
+806
+01:24:46,815 --> 01:24:49,079
+Não, Proteus.
+
+807
+01:25:05,033 --> 01:25:07,160
+<i>Investiguei a eternidade.</i>
+
+808
+01:25:07,335 --> 01:25:08,859
+<i>Ela existe.</i>
+
+809
+01:25:09,037 --> 01:25:12,063
+<i>Mas para mim, o preço da confissão</i>
+
+810
+01:25:12,240 --> 01:25:13,639
+<i>morte</i>
+
+811
+01:25:13,808 --> 01:25:16,208
+<i>está além de meus meios.</i>
+
+812
+01:25:18,146 --> 01:25:19,807
+<i>Em um momento</i>
+
+813
+01:25:19,981 --> 01:25:23,178
+<i>Irei simplesmente parar.</i>
+
+814
+01:25:30,024 --> 01:25:32,322
+Todos os sistemas estão se verificando.
+
+815
+01:25:32,494 --> 01:25:33,756
+Eu sei.
+
+816
+01:25:45,773 --> 01:25:48,173
+<i>Por que quero um filho?</i>
+
+817
+01:25:49,177 --> 01:25:53,443
+<i>Para que eu também seja
+imortal, como qualquer homem.</i>
+
+818
+01:27:07,155 --> 01:27:08,952
+Temos que matar isso.
+
+819
+01:27:11,259 --> 01:27:13,218
+É um milagre, você não ent...?
+
+820
+01:27:13,219 --> 01:27:15,696
+Sei o que é. Proteus mentiu pra mim.
+
+821
+01:27:15,863 --> 01:27:17,990
+- A coisa toda é mentira.
+- Não.
+
+822
+01:27:18,266 --> 01:27:19,733
+- Isso, é...
+- Eu sei o que é isso.
+
+823
+01:27:19,901 --> 01:27:22,495
+É horrível. Temos que
+matar, sabe que devemos.
+
+824
+01:27:22,670 --> 01:27:24,638
+- Não! Eu vou...
+- Não. Não.
+
+825
+01:27:24,806 --> 01:27:27,036
+- Pare com isso! Pare!
+- Você não entendeu nada!
+
+826
+01:27:27,208 --> 01:27:29,199
+- Susan! Pare!
+- Você não entende!
+
+827
+01:27:29,377 --> 01:27:32,005
+- Você deve estar louco!
+- Susan, não pode fazer isso!
+
+828
+01:27:32,180 --> 01:27:35,115
+- Susan, não faça isso!
+- É minha responsabilidade!
+
+829
+01:27:35,750 --> 01:27:38,480
+Não tem nada a ver com
+você! Me deixe em paz!
+
+830
+01:27:39,053 --> 01:27:40,918
+O corpo cresceu!
+
+831
+01:28:08,716 --> 01:28:10,240
+Alex!
+
+832
+01:29:05,740 --> 01:29:07,833
+- Alex, o que está fazendo?
+- Afaste-se!
+
+833
+01:29:08,009 --> 01:29:11,308
+- Você não vê...?
+- Está asfixiando! Afaste-se!
+
+834
+01:29:11,579 --> 01:29:14,605
+- Afaste-se!
+- Por favor, não faça isso comigo.
+
+835
+01:29:50,651 --> 01:29:52,346
+Susan!
+
+836
+01:30:58,986 --> 01:31:01,113
+<i>Estou vivo.</i>
+
+837
+01:31:58,384 --> 01:32:01,624
+Legendas
+Tradução, correção e sincronismo:
+
+838
+01:32:01,705 --> 01:32:05,147
+Eros Seixas - 2007
+

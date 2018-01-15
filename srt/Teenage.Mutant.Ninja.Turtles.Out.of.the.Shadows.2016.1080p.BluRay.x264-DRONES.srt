@@ -1,0 +1,6726 @@
+1
+00:00:58,375 --> 00:01:00,375
+Equipe inSanos apresenta:
+
+2
+00:01:00,376 --> 00:01:02,376
+Aprendizes:
+Leooni | l_lost
+
+3
+00:01:02,377 --> 00:01:04,377
+Aprendizes:
+Sardinha | LikaPoetisa
+
+4
+00:01:04,378 --> 00:01:06,378
+Aprendizes:
+Chucky | BruFeiden
+
+5
+00:01:06,379 --> 00:01:08,379
+Aprendizes:
+Ibcs | ToBe_AFM
+
+6
+00:01:08,380 --> 00:01:10,380
+Aprendizes:
+Satsuki | Bobby_Satso
+
+7
+00:01:10,381 --> 00:01:12,381
+Aprendizes:
+SongMade | Lory
+
+8
+00:01:12,382 --> 00:01:14,882
+Mestres:
+John93 | Kal-el | DarkSide
+
+9
+00:01:24,254 --> 00:01:26,191
+<i>Camaradas,
+está na hora de ir.</i>
+
+10
+00:01:26,192 --> 00:01:30,385
+<i>Formação Tartaruga,
+em três, dois, um...</i>
+
+11
+00:01:39,841 --> 00:01:41,800
+O que houve com
+a Formação Tartaruga?
+
+12
+00:01:41,801 --> 00:01:43,101
+Formação Tartaruga?
+
+13
+00:01:43,102 --> 00:01:45,638
+Achei que tivesse dito
+"Formação Esquilo".
+
+14
+00:01:45,639 --> 00:01:47,103
+Por que ele diria isso?
+
+15
+00:01:47,104 --> 00:01:49,499
+<i>- O que é Formação Esquilo?
+- Galera, relaxa.</i>
+
+16
+00:01:49,500 --> 00:01:50,900
+<i>Vamos lá!</i>
+
+17
+00:01:53,493 --> 00:01:56,315
+<i>- Rafa, faça aquilo!
+- Melhor não, machuca.</i>
+
+18
+00:01:56,316 --> 00:01:58,229
+Faça,
+não vou parar até que você faça,
+
+19
+00:01:58,230 --> 00:02:00,696
+- faça!
+- Está bem!
+
+20
+00:02:16,345 --> 00:02:18,657
+<i>- Donnie!
+- Lá vamos nós!</i>
+
+21
+00:02:20,631 --> 00:02:24,131
+<i>- Você arrumou tudo, certo?
+- Ele estará lá, eu prometo!</i>
+
+22
+00:02:27,544 --> 00:02:29,942
+<i>Valeu, Kevin!
+Vejo você semana que vem!</i>
+
+23
+00:02:35,145 --> 00:02:36,545
+Vamos, vamos!
+
+24
+00:02:37,870 --> 00:02:41,811
+<i>Galera, sabem o que fazer.
+Peguem a caixa do Mikey!</i>
+
+25
+00:02:42,365 --> 00:02:44,499
+LEO
+O LÍDER
+
+26
+00:02:47,430 --> 00:02:49,927
+RAFA
+OS MÚSCULOS
+
+27
+00:02:56,173 --> 00:02:58,543
+DONNIE
+O CÉREBRO
+
+28
+00:03:02,331 --> 00:03:04,678
+MIKEY
+O AMANTE DE PIZZA
+
+29
+00:03:07,484 --> 00:03:09,288
+<i>Certo, galera,
+chegamos bem na hora!</i>
+
+30
+00:03:09,289 --> 00:03:10,778
+Beleza!
+
+31
+00:03:11,937 --> 00:03:14,778
+<i>- É isso aí!
+- Vamos lá!</i>
+
+32
+00:03:14,779 --> 00:03:16,609
+Eu digo "Vai",
+vocês dizem "Knicks".
+
+33
+00:03:16,610 --> 00:03:18,311
+- Vai!
+- Knicks!
+
+34
+00:03:18,312 --> 00:03:21,166
+<i>- Lá vem um arremesso de 3.
+- Arremesse a bola!</i>
+
+35
+00:03:28,179 --> 00:03:30,199
+Galera,
+existe algo melhor que isso?
+
+36
+00:03:30,200 --> 00:03:32,024
+É mesmo cara,
+eu quero ir lá embaixo.
+
+37
+00:03:32,025 --> 00:03:35,186
+Se você aparecer lá embaixo,
+as pessoas sairiam correndo.
+
+38
+00:03:35,187 --> 00:03:37,934
+Você já me olhou?
+Eu sou lindo, mano.
+
+39
+00:03:37,935 --> 00:03:39,348
+Ei, galera!
+
+40
+00:03:39,349 --> 00:03:41,109
+Estamos no melhor lugar
+do ginásio,
+
+41
+00:03:41,110 --> 00:03:43,615
+- qualquer um pode estar lá.
+- Salvamos a cidade,
+
+42
+00:03:43,616 --> 00:03:45,992
+nós deveríamos estar no telão,
+não dentro dele.
+
+43
+00:03:46,907 --> 00:03:48,256
+<i>Senhoras e senhores,</i>
+
+44
+00:03:48,257 --> 00:03:51,904
+<i>há um ano, uma sombra
+caiu sobre nossa cidade.</i>
+
+45
+00:03:51,905 --> 00:03:56,439
+<i>De repente, estava em guerra
+contra o vilão Destruidor.</i>
+
+46
+00:03:56,440 --> 00:03:59,346
+<i>Junto com os comparsas dele,
+o Clã do Pé,</i>
+
+47
+00:03:59,347 --> 00:04:01,964
+<i>Destruidor,
+dominou nossas ruas.</i>
+
+48
+00:04:01,965 --> 00:04:04,440
+<i>Até que um dia,
+surgindo das sombras,</i>
+
+49
+00:04:04,441 --> 00:04:06,450
+<i>um sinal de esperança.</i>
+
+50
+00:04:06,451 --> 00:04:07,851
+Consegue ver quem é?
+
+51
+00:04:08,183 --> 00:04:10,462
+<i>Ele era apenas um humilde
+cinegrafista.</i>
+
+52
+00:04:10,463 --> 00:04:13,223
+<i>Mas quando o perigo atacou
+o coração de nossa cidade,</i>
+
+53
+00:04:13,224 --> 00:04:18,195
+<i>Ele o enfrentou sozinho,
+e o colocou atrás das grades.</i>
+
+54
+00:04:18,854 --> 00:04:21,899
+<i>E agora,
+virem-se para a quadra,</i>
+
+55
+00:04:21,900 --> 00:04:24,720
+<i>onde Jill Martin entrevistará
+o homem que essa semana,</i>
+
+56
+00:04:24,721 --> 00:04:27,493
+<i>receberá a Chave da Cidade.</i>
+
+57
+00:04:27,494 --> 00:04:28,894
+<i>Por favor, recebam,</i>
+
+58
+00:04:28,895 --> 00:04:33,879
+<i>Vern "O Falcão" Fenwick!</i>
+
+59
+00:04:36,686 --> 00:04:41,403
+Vern, conte aos fãs, como um
+nova iorquino comum como você,
+
+60
+00:04:41,404 --> 00:04:44,886
+conseguiu sozinho,
+caçar o Destruidor
+
+61
+00:04:44,887 --> 00:04:46,527
+e levá-lo à justiça.
+
+62
+00:04:46,528 --> 00:04:51,443
+Na verdade Jill,
+tive a ajuda de dois amigos.
+
+63
+00:04:51,444 --> 00:04:53,643
+Não pode ser,
+ele vai nos dar créditos!
+
+64
+00:04:53,644 --> 00:04:55,724
+Está vindo!
+
+65
+00:04:55,725 --> 00:04:57,610
+Trovão e relâmpago!
+
+66
+00:05:00,423 --> 00:05:01,723
+Qual é!
+
+67
+00:05:01,724 --> 00:05:05,149
+Galera, não podemos ter crédito
+por derrotar o Destruidor.
+
+68
+00:05:05,150 --> 00:05:07,710
+Vern só está cumprindo
+o que combinamos com ele.
+
+69
+00:05:08,558 --> 00:05:10,651
+Parece que esse acordo é
+para ficarmos
+
+70
+00:05:10,652 --> 00:05:12,775
+assistindo ao jogo daqui,
+longe da quadra.
+
+71
+00:05:12,776 --> 00:05:14,522
+Falando em estar
+longe da quadra...
+
+72
+00:05:14,923 --> 00:05:16,283
+<i>O que está pegando?</i>
+
+73
+00:05:16,284 --> 00:05:18,859
+<i>- Cuidado, é meu lança-ervilhas.
+- Está bem, relaxe.</i>
+
+74
+00:05:18,860 --> 00:05:22,406
+- Vou acertar a cabeça dele.
+- Você consegue.
+
+75
+00:05:23,919 --> 00:05:25,358
+Só queria ser um exemplo
+
+76
+00:05:25,359 --> 00:05:28,189
+<i>para todos os nova iorquinos
+que um cara...</i>
+
+77
+00:05:29,730 --> 00:05:33,116
+- Você o acertou!
+- Você está bem?
+
+78
+00:05:34,241 --> 00:05:36,330
+- Estou.
+- Minha vez, minha vez.
+
+79
+00:05:36,331 --> 00:05:37,731
+Certo, você consegue.
+
+80
+00:05:39,402 --> 00:05:40,702
+Para saberem...
+
+81
+00:05:44,027 --> 00:05:46,542
+Muito obrigada
+pela entrevista.
+
+82
+00:05:46,543 --> 00:05:48,721
+Vern "O Falcão" Fenwick,
+pessoal!
+
+83
+00:05:48,722 --> 00:05:50,635
+Pega essa, Falcão!
+
+84
+00:05:52,478 --> 00:05:54,078
+O que aconteceu lá?
+
+85
+00:05:56,037 --> 00:05:58,429
+- Olá, April!
+- April? Como vai?
+
+86
+00:05:58,430 --> 00:06:00,141
+Estou malhando bastante...
+
+87
+00:06:00,142 --> 00:06:03,021
+<i>Donnie, escute.
+Estou na Grand Central vigiando</i>
+
+88
+00:06:03,022 --> 00:06:05,750
+- Dr. Baxter Stockman.
+<i>- Baxter Stockman?</i>
+
+89
+00:06:05,751 --> 00:06:08,632
+Formou-se no MIT aos 15 anos,
+tem 134 patentes.
+
+90
+00:06:08,633 --> 00:06:10,741
+É o principal cientista
+do TCRI.
+
+91
+00:06:10,742 --> 00:06:13,182
+Sou muito fã dele,
+o cara é um gênio.
+
+92
+00:06:14,647 --> 00:06:17,653
+Ele é um gênio que está prestes
+a entrar em muitos problemas.
+
+93
+00:06:17,654 --> 00:06:19,149
+<i>Acho que Baxter Stockman</i>
+
+94
+00:06:19,150 --> 00:06:21,201
+<i>- trabalha com o Destruidor.</i>
+- Destruidor.
+
+95
+00:06:21,202 --> 00:06:24,028
+- Precisa de nós aí?
+- Não, Baxter é fraco.
+
+96
+00:06:24,029 --> 00:06:27,648
+Sabe o presente de aniversário
+que fez para mim?
+
+97
+00:06:27,649 --> 00:06:30,203
+- O relógio? Claro.
+- Quero usá-lo para hackear
+
+98
+00:06:30,204 --> 00:06:32,923
+- os e-mails do Baxter.
+<i>- Beleza, mas para hackeá-lo</i>
+
+99
+00:06:32,924 --> 00:06:35,590
+- é preciso que fique próxima.
+- Quão próxima?
+
+100
+00:06:35,591 --> 00:06:38,228
+Seu relógio precisar estar
+a 1 metro do dispositivo.
+
+101
+00:06:38,229 --> 00:06:39,681
+Um iPhone, iPad, ou sei lá.
+
+102
+00:06:39,682 --> 00:06:41,834
+<i>Entendi,</i>
+boa vigília, amigão.
+
+103
+00:06:41,835 --> 00:06:43,385
+Falo com você em breve.
+
+104
+00:06:44,673 --> 00:06:45,973
+Aqui está, senhor.
+
+105
+00:06:46,800 --> 00:06:48,100
+Obrigado.
+
+106
+00:06:53,745 --> 00:06:56,634
+FORA DE ALCANCE.
+
+107
+00:07:03,792 --> 00:07:05,092
+Com licença.
+
+108
+00:07:06,304 --> 00:07:07,604
+Sinto muito, mas...
+
+109
+00:07:07,605 --> 00:07:09,910
+- O senhor é...
+- Por mais que eu goste
+
+110
+00:07:09,911 --> 00:07:12,550
+que garotas como você
+me reconheçam já te aviso,
+
+111
+00:07:12,551 --> 00:07:13,909
+não sabe quem eu sou.
+
+112
+00:07:13,910 --> 00:07:16,855
+Você é Baxter Stockman,
+PhD.
+
+113
+00:07:16,856 --> 00:07:19,498
+Formou-se no MIT
+aos 15 anos de idade.
+
+114
+00:07:19,499 --> 00:07:21,601
+Suas inovações
+em nano robótica no TCRI,
+
+115
+00:07:21,602 --> 00:07:23,891
+tem servido de muita inspiração
+para mim.
+
+116
+00:07:23,892 --> 00:07:26,375
+Sinto muito, isso parece tipo,
+"sou uma nerd".
+
+117
+00:07:26,376 --> 00:07:28,532
+Imagina,
+por favor, solte seu geek.
+
+118
+00:07:28,533 --> 00:07:30,116
+- Sério?
+- Claro!
+
+119
+00:07:31,211 --> 00:07:32,676
+Obrigada.
+
+120
+00:07:32,677 --> 00:07:36,936
+Na verdade, há uma diferença.
+Sou "nerd" e não "geek".
+
+121
+00:07:37,337 --> 00:07:40,383
+É tipo a diferença entre
+Senhor dos Anéis e Harry Potter.
+
+122
+00:07:40,384 --> 00:07:42,360
+Ou, o Ted Talks e a...
+
+123
+00:07:42,361 --> 00:07:44,163
+- Comic-Con.
+- Comic-Con.
+
+124
+00:07:46,614 --> 00:07:49,111
+Dr. Stockman,
+recebemos a confirmação.
+
+125
+00:07:49,112 --> 00:07:51,879
+O "pacote",
+será despachado essa noite.
+
+126
+00:07:51,880 --> 00:07:54,505
+Quero que cada
+passo seja rastreado.
+
+127
+00:07:54,506 --> 00:07:58,088
+E Trevor,
+terminei de trabalhar hoje.
+
+128
+00:08:02,657 --> 00:08:04,457
+DOWNLOAD INTERROMPIDO
+FORA DE ALCANCE
+
+129
+00:08:05,854 --> 00:08:08,680
+Tenho que atender rapidinho.
+É meu namorado. Desculpa.
+
+130
+00:08:08,681 --> 00:08:10,003
+Você tem um namorado.
+
+131
+00:08:10,004 --> 00:08:12,281
+Claro que tem.
+Seu namorado sabe a diferença
+
+132
+00:08:12,282 --> 00:08:14,281
+entre pi
+até a terceira casa decimal
+
+133
+00:08:14,282 --> 00:08:16,832
+e pi até a décima quinta
+casa decimal?
+
+134
+00:08:16,833 --> 00:08:18,778
+Foi uma verdadeira honra
+conhecer você.
+
+135
+00:08:18,779 --> 00:08:21,491
+Você é uma das grandes mentes
+da nossa geração.
+
+136
+00:08:22,266 --> 00:08:23,566
+Tchau.
+
+137
+00:09:27,235 --> 00:09:30,644
+Olhem, pessoal.
+Peguei um caubói.
+
+138
+00:09:30,645 --> 00:09:33,562
+- Olhem esses músculos.
+- Eu não estava certa?
+
+139
+00:09:37,498 --> 00:09:39,394
+COMPLETO
+
+140
+00:09:42,471 --> 00:09:45,551
+<i>Defesa!</i>
+
+141
+00:09:45,951 --> 00:09:50,751
+<i>Defesa!</i>
+
+142
+00:10:08,492 --> 00:10:09,831
+Bola ao alto!
+
+143
+00:10:09,832 --> 00:10:12,765
+Sem chance!
+Tem pizza no meu tênis! Pizza!
+
+144
+00:10:12,766 --> 00:10:14,485
+<i>Olhe!
+Olhe no meu tênis!</i>
+
+145
+00:10:14,486 --> 00:10:16,554
+Explique para mim.
+Tem pizza no meu tênis!
+
+146
+00:10:16,555 --> 00:10:18,598
+Cara,
+bem-vindo à Nova Iorque.
+
+147
+00:10:26,037 --> 00:10:27,438
+Essa foi por pouco.
+
+148
+00:10:27,439 --> 00:10:30,864
+Vamos ter que achar outro lugar
+para ver o jogo, Mikey.
+
+149
+00:10:30,865 --> 00:10:32,365
+Mikey!
+
+150
+00:10:35,856 --> 00:10:37,661
+Mikey, o que está fazendo?
+
+151
+00:10:37,662 --> 00:10:41,710
+É o desfile de Halloween.
+Sempre quis ir ao desfile.
+
+152
+00:10:42,211 --> 00:10:44,112
+É a única noite
+onde nos encaixaríamos.
+
+153
+00:10:44,113 --> 00:10:45,818
+Mikey,
+você nunca se encaixaria.
+
+154
+00:10:45,819 --> 00:10:48,816
+Somos ninjas.
+Vivemos nas sombras. Vamos!
+
+155
+00:10:49,458 --> 00:10:51,875
+Sim, vamos.
+
+156
+00:10:59,477 --> 00:11:00,952
+Legal.
+
+157
+00:11:17,388 --> 00:11:19,096
+Está bonitão, irmão.
+
+158
+00:11:21,370 --> 00:11:22,770
+Valeu, cara.
+
+159
+00:11:25,343 --> 00:11:27,178
+Mikey.
+
+160
+00:11:27,179 --> 00:11:28,612
+Qual o problema?
+
+161
+00:11:28,613 --> 00:11:31,122
+Essa é minha cidade.
+Esse é meu povo.
+
+162
+00:11:32,424 --> 00:11:37,395
+Nova Iorque no pedaço!
+
+163
+00:11:39,939 --> 00:11:41,903
+Foi a coisa mais incrível
+que eu já fiz!
+
+164
+00:11:41,904 --> 00:11:45,930
+Qual parte de "ninjas andam
+nas sombras," você não entendeu?
+
+165
+00:11:45,931 --> 00:11:47,431
+April!
+Como foi?
+
+166
+00:11:47,432 --> 00:11:49,630
+Estou olhando
+os arquivos do iPad do Baxter.
+
+167
+00:11:49,631 --> 00:11:51,088
+<i>Você entrou.
+O que achou?</i>
+
+168
+00:11:52,013 --> 00:11:54,218
+Espere. Donnie,
+os arquivos estão apagando.
+
+169
+00:11:54,219 --> 00:11:56,109
+É algum programa
+de autodestruição.
+
+170
+00:11:56,110 --> 00:11:58,578
+- Apagando?
+<i>- Antes deles apagarem,</i>
+
+171
+00:11:58,579 --> 00:12:01,478
+pude ler uns e-mails do Baxter
+e eu estava certa.
+
+172
+00:12:01,479 --> 00:12:03,463
+Baxter está trabalhando
+com o Clã do Pé.
+
+173
+00:12:03,464 --> 00:12:07,038
+O Destruidor será transferido
+a uma prisão no interior hoje.
+
+174
+00:12:07,039 --> 00:12:10,081
+E o Clã do Pé planeja atacar
+o comboio.
+
+175
+00:12:10,082 --> 00:12:13,777
+Eles vão tirá-lo da polícia.
+Ele estará livre de novo.
+
+176
+00:12:14,540 --> 00:12:15,995
+Quem, Donnie?
+
+177
+00:12:17,057 --> 00:12:18,527
+Destruidor.
+
+178
+00:12:39,861 --> 00:12:41,161
+Beebs.
+
+179
+00:13:01,424 --> 00:13:02,850
+Jones.
+
+180
+00:13:04,731 --> 00:13:06,281
+Eles são todos seu.
+
+181
+00:13:08,714 --> 00:13:10,674
+E aí, Infrator do Pedaço?
+
+182
+00:13:11,078 --> 00:13:16,058
+Em nome do povo de Nova Iorque,
+bem-vindo ao grande adeus.
+
+183
+00:13:29,078 --> 00:13:33,287
+<i>Você meditou
+por quase 24 horas.</i>
+
+184
+00:13:33,288 --> 00:13:36,456
+<i>Em 10 segundos,
+vai atingir o nirvana</i>
+
+185
+00:13:36,457 --> 00:13:39,939
+<i>e esclarecimento espiritual
+por completo.</i>
+
+186
+00:13:39,940 --> 00:13:42,036
+<i>10, 9...</i>
+
+187
+00:13:47,466 --> 00:13:49,546
+<i>3, 2...</i>
+
+188
+00:13:53,146 --> 00:13:58,135
+Com licença. Devagar.
+Alguém quer me explicar?
+
+189
+00:13:58,136 --> 00:14:01,946
+Sensei, o Clã do Pé vai tentar
+libertar o Destruidor.
+
+190
+00:14:02,350 --> 00:14:04,116
+Se o Destruidor for solto,
+
+191
+00:14:04,117 --> 00:14:06,966
+o reino de terror sobre a cidade
+vai começar de novo.
+
+192
+00:14:06,967 --> 00:14:10,166
+- Exatamente.
+- Tenho só uma pergunta:
+
+193
+00:14:10,167 --> 00:14:14,082
+por que está perdendo tempo
+com um rato velho e rabugento?
+
+194
+00:14:14,083 --> 00:14:15,772
+Vá pegá-lo!
+
+195
+00:14:17,592 --> 00:14:19,192
+Valeu, pai!
+
+196
+00:14:22,217 --> 00:14:25,662
+Pessoal, não se animem muito.
+Ainda estou terminando.
+
+197
+00:14:33,459 --> 00:14:35,172
+Está de brincadeira?
+
+198
+00:14:35,603 --> 00:14:38,676
+Estou dizendo,
+ainda falta muita coisa.
+
+199
+00:14:38,677 --> 00:14:40,560
+Mas quando acabar,
+ficará incrível.
+
+200
+00:14:40,561 --> 00:14:42,746
+Não há tempo melhor
+que o presente.
+
+201
+00:14:49,386 --> 00:14:51,473
+<i>Todos esses fios
+ainda estão bagunçados.</i>
+
+202
+00:14:51,474 --> 00:14:53,524
+<i>Não estão organizados.</i>
+
+203
+00:14:53,525 --> 00:14:55,378
+<i>Tem fio vermelho,
+fio amarelo...</i>
+
+204
+00:14:55,379 --> 00:14:57,477
+Como veem,
+a fiação ainda não está pronta.
+
+205
+00:14:57,478 --> 00:14:59,791
+- Donnie!
+- Os bancos não reclinam...
+
+206
+00:15:06,146 --> 00:15:10,084
+O comboio do Destruidor está
+a 12km lés-nordeste. Acelere!
+
+207
+00:15:14,821 --> 00:15:16,557
+Eles adiantaram os planos.
+
+208
+00:15:17,421 --> 00:15:20,533
+Aqui vamos nós!
+Sensei Destruidor já saiu.
+
+209
+00:15:20,534 --> 00:15:22,134
+A transmissão vigilância
+começou.
+
+210
+00:15:22,135 --> 00:15:24,320
+Formação de transporte
+padrão.
+
+211
+00:15:25,204 --> 00:15:27,342
+Esse pessoal
+é tão previsível.
+
+212
+00:15:36,748 --> 00:15:38,048
+<i>Destruidor!</i>
+
+213
+00:15:38,464 --> 00:15:43,075
+Você tem 32 acusações
+de assassinato? Caramba!
+
+214
+00:15:43,076 --> 00:15:45,766
+Você é um filho da mãe
+do mal.
+
+215
+00:15:45,767 --> 00:15:49,131
+Vindo de alguém que tem problema
+para controlar a raiva,
+
+216
+00:15:49,132 --> 00:15:52,314
+você, meu amigo,
+precisa de um hobby.
+
+217
+00:15:52,315 --> 00:15:54,266
+Eu mesmo gosto de hóquei.
+
+218
+00:15:55,066 --> 00:15:58,389
+Gosto de quebrar ossos no gelo.
+Você gosta de hóquei, certo?
+
+219
+00:15:58,818 --> 00:16:01,714
+Não.
+Gosto de luta na gaiola.
+
+220
+00:16:03,172 --> 00:16:05,644
+Luta na gaiola,
+está bem.
+
+221
+00:16:08,244 --> 00:16:12,300
+- É ele.
+- Fale com o coração.
+
+222
+00:16:14,139 --> 00:16:15,709
+Sr. Destruidor.
+
+223
+00:16:15,710 --> 00:16:19,567
+Grande fã do seu trabalho.
+Principalmente no início.
+
+224
+00:16:19,568 --> 00:16:22,790
+Meu nome é Bebop.
+Esse é o Rocksteady.
+
+225
+00:16:22,791 --> 00:16:26,044
+Sei que é um nome inSano,
+mas a família era da Finlândia.
+
+226
+00:16:26,045 --> 00:16:28,696
+Isso mesmo.
+Sou finlandês.
+
+227
+00:16:28,697 --> 00:16:31,846
+Pois quando eu começo a bater,
+eu sempre finalizo!
+
+228
+00:16:31,847 --> 00:16:33,656
+- O quê?
+- Eu disse!
+
+229
+00:16:33,657 --> 00:16:35,400
+<i>- Eu disse!</i>
+- Meu camarada!
+
+230
+00:16:35,401 --> 00:16:37,298
+- Meu camarada!
+- Toca aí!
+
+231
+00:16:39,687 --> 00:16:41,301
+Calem a boca aí atrás!
+
+232
+00:16:43,382 --> 00:16:46,048
+Coisas ocorrem misteriosamente,
+não, Destruidor?
+
+233
+00:16:46,049 --> 00:16:51,042
+Vai passar o resto da vida preso
+com esses dois idiotas.
+
+234
+00:16:51,819 --> 00:16:53,219
+Ou não.
+
+235
+00:17:02,694 --> 00:17:04,117
+Olhe essas motos.
+
+236
+00:17:04,976 --> 00:17:06,556
+Vindo pela esquerda
+e direita.
+
+237
+00:17:12,151 --> 00:17:15,120
+Acelere, vai!
+Corre! Vai!
+
+238
+00:17:24,658 --> 00:17:26,109
+Meu Deus.
+
+239
+00:17:50,549 --> 00:17:52,622
+- Chame reforços!
+- Estamos em perigo!
+
+240
+00:17:52,623 --> 00:17:56,442
+Fomos emboscados a norte da 87.
+Precisamos de reforço imediato.
+
+241
+00:18:05,998 --> 00:18:07,967
+Certifique-se
+que a porta está lacrada!
+
+242
+00:18:17,269 --> 00:18:18,570
+Escopeta!
+
+243
+00:18:20,608 --> 00:18:22,496
+- Cadê as balas?
+- Estão na mala.
+
+244
+00:18:22,497 --> 00:18:24,686
+O que diabos
+elas estão fazendo na mala?
+
+245
+00:18:34,181 --> 00:18:36,710
+O teto está pegando fogo!
+
+246
+00:18:37,595 --> 00:18:38,896
+Está de brincadeira?
+
+247
+00:18:38,897 --> 00:18:41,632
+Colocar-nos numa rodovia,
+
+248
+00:18:41,633 --> 00:18:43,876
+com os criminosos
+mais perigosos do mundo,
+
+249
+00:18:43,877 --> 00:18:45,742
+com as armas descarregadas?
+
+250
+00:18:54,780 --> 00:18:56,539
+Os inimigos estão
+no caminhão!
+
+251
+00:18:56,540 --> 00:18:58,741
+- Vamos acendê-los.
+- Certo. Aperte o botão.
+
+252
+00:18:58,742 --> 00:19:00,715
+Qual botão?
+Há milhões deles aqui.
+
+253
+00:19:00,716 --> 00:19:03,052
+- O número três.
+- Três? Três!
+
+254
+00:19:15,625 --> 00:19:18,664
+Temos companhia.
+Mikey, limpe o flanco direito.
+
+255
+00:19:18,665 --> 00:19:21,429
+Nunchuckus giganticus.
+
+256
+00:19:30,548 --> 00:19:32,622
+Diga "olá"
+para meu amiguinho.
+
+257
+00:19:36,296 --> 00:19:37,697
+Muito bem, Mikey!
+
+258
+00:19:38,727 --> 00:19:40,579
+Essas coisas
+são bem legais, não acham?
+
+259
+00:19:44,226 --> 00:19:46,143
+Bem legais mesmo.
+
+260
+00:19:48,047 --> 00:19:50,950
+Tire-o de lá
+e eliminem as tartarugas.
+
+261
+00:20:03,303 --> 00:20:04,906
+Eu não gosto desses caras.
+
+262
+00:20:06,024 --> 00:20:08,330
+Não estou sendo
+bem aproveitado aqui, Leo.
+
+263
+00:20:08,331 --> 00:20:11,069
+Acalme-se, Rafa,
+estamos meio ocupados.
+
+264
+00:20:14,517 --> 00:20:16,486
+Pessoal?
+Eles estão voltando!
+
+265
+00:20:16,487 --> 00:20:19,972
+Chega!
+É hora de tirar o lixo.
+
+266
+00:20:30,037 --> 00:20:31,652
+É assim que eu faço.
+
+267
+00:20:32,215 --> 00:20:33,682
+É assim que você fica.
+
+268
+00:20:44,588 --> 00:20:46,534
+Posso fazer algo mais
+por vocês?
+
+269
+00:20:49,216 --> 00:20:50,647
+Ataque 3, entre.
+
+270
+00:20:50,648 --> 00:20:52,744
+Entre e leve-o
+para o ponto de extração.
+
+271
+00:21:01,607 --> 00:21:05,354
+Estamos a 3 km da saída 14.
+Mande interceptarem.
+
+272
+00:21:08,343 --> 00:21:11,349
+- O que é aquilo?
+- É um imã gigantesco.
+
+273
+00:21:16,976 --> 00:21:19,564
+Eita!
+É disso que estava falando!
+
+274
+00:21:28,872 --> 00:21:31,244
+Vá lá trás
+e assegure os prisioneiros.
+
+275
+00:21:40,103 --> 00:21:41,404
+Destruidor!
+
+276
+00:21:46,331 --> 00:21:47,631
+Merda!
+
+277
+00:21:47,632 --> 00:21:50,140
+- Ele está indo embora.
+- Não, ele não está.
+
+278
+00:21:56,036 --> 00:21:57,336
+Isso!
+
+279
+00:21:58,350 --> 00:22:00,760
+Se o Destruidor não chegar
+ao ponto de extração,
+
+280
+00:22:00,761 --> 00:22:02,776
+vamos levar o ponto de extração
+até ele.
+
+281
+00:22:02,777 --> 00:22:05,502
+- Vamos, vamos!
+- Não me apresse.
+
+282
+00:22:05,503 --> 00:22:07,192
+Isso aí!
+
+283
+00:22:07,193 --> 00:22:10,453
+Oi!
+Meu nome é Bebop!
+
+284
+00:22:11,351 --> 00:22:12,651
+Olá.
+
+285
+00:22:18,910 --> 00:22:21,136
+Tudo bem.
+É com você, Mikey.
+
+286
+00:22:21,137 --> 00:22:22,537
+Hora de brilhar.
+
+287
+00:22:24,795 --> 00:22:26,217
+Foi mal.
+
+288
+00:22:26,218 --> 00:22:27,723
+- Pare.
+- Isso é terrível.
+
+289
+00:22:27,724 --> 00:22:29,176
+Aqui está.
+
+290
+00:22:31,565 --> 00:22:33,580
+Isso é sensacional!
+
+291
+00:22:33,941 --> 00:22:36,341
+- Precisamos teleportá-lo!
+- Mas você disse...
+
+292
+00:22:36,342 --> 00:22:39,091
+Que seria irresponsavelmente
+perigoso, é verdade.
+
+293
+00:22:39,092 --> 00:22:41,705
+Certo, Donnie,
+precisa aproximar o Mikey.
+
+294
+00:22:46,545 --> 00:22:49,495
+- Mirando.
+- Você só tem uma chance.
+
+295
+00:22:52,721 --> 00:22:54,021
+Iniciar!
+
+296
+00:22:54,022 --> 00:22:55,880
+Atire, Mikey!
+
+297
+00:23:08,859 --> 00:23:10,503
+Para onde ele foi?
+
+298
+00:23:11,410 --> 00:23:12,711
+Funcionou!
+
+299
+00:23:13,088 --> 00:23:15,768
+O quê?
+O destino é desconhecido?
+
+300
+00:23:26,090 --> 00:23:29,294
+Onde estou?
+
+301
+00:23:29,958 --> 00:23:31,612
+Importa?
+
+302
+00:23:31,613 --> 00:23:34,403
+Eu sei
+o que está pensando agora.
+
+303
+00:23:34,404 --> 00:23:37,134
+Todas as maneiras
+que gostaria de me matar.
+
+304
+00:23:37,135 --> 00:23:41,996
+Você precisaria ser mais esperto
+e nada nem ninguém
+
+305
+00:23:41,997 --> 00:23:45,046
+é mais esperto
+que o Krang!
+
+306
+00:23:45,478 --> 00:23:50,288
+Desculpe, dei uma catarrada
+nos seus olhos?
+
+307
+00:23:50,289 --> 00:23:51,675
+Destruidor.
+
+308
+00:23:53,306 --> 00:23:57,685
+Então você sabe meu nome.
+Por que estou aqui?
+
+309
+00:23:57,686 --> 00:24:02,417
+Pois você e seu amigo,
+dr. Stockman, acharam algo meu.
+
+310
+00:24:02,418 --> 00:24:05,085
+O teleportador.
+
+311
+00:24:05,086 --> 00:24:08,193
+O teleportador
+devia me tirar da prisão.
+
+312
+00:24:08,194 --> 00:24:11,819
+Mas ele é capaz
+de muito mais.
+
+313
+00:24:11,820 --> 00:24:16,013
+Ele faz parte duma máquina
+chamada "Capacitor Arco".
+
+314
+00:24:16,014 --> 00:24:18,902
+Há alguns anos,
+mandei o Capacitor
+
+315
+00:24:18,903 --> 00:24:20,604
+para a dimensão da Terra.
+
+316
+00:24:20,605 --> 00:24:23,108
+Mas, ao entrar na atmosfera,
+
+317
+00:24:23,109 --> 00:24:26,172
+ele se partiu em 3 partes.
+
+318
+00:24:26,173 --> 00:24:28,526
+Você e Stockman possuem
+uma parte.
+
+319
+00:24:28,527 --> 00:24:31,065
+A segunda,
+está num museu de Nova York.
+
+320
+00:24:31,066 --> 00:24:34,398
+A terceira,
+está na Floresta Amazônica.
+
+321
+00:24:34,399 --> 00:24:36,157
+Se coletar
+as outras duas partes,
+
+322
+00:24:36,158 --> 00:24:38,488
+o dr. Stockman
+deve ter boa imaginação
+
+323
+00:24:38,489 --> 00:24:41,900
+para remontar
+o Capacitor Arco.
+
+324
+00:24:41,901 --> 00:24:43,358
+E depois?
+
+325
+00:24:43,359 --> 00:24:46,828
+Abrirá um portal para trazer
+minha máquina de guerra,
+
+326
+00:24:46,829 --> 00:24:49,568
+o Tecnódromo à Terra.
+
+327
+00:24:50,425 --> 00:24:55,391
+Juntos, podemos deixar o povo
+do seu planeta de joelhos.
+
+328
+00:24:55,849 --> 00:24:57,257
+Estou interessado.
+
+329
+00:24:57,258 --> 00:25:00,345
+Ajudarei a conquistar
+o planeta Terra,
+
+330
+00:25:00,346 --> 00:25:03,304
+se me ajudar
+com o meu problema.
+
+331
+00:25:03,305 --> 00:25:07,089
+Quatro irmãos
+tentarão me deter.
+
+332
+00:25:07,894 --> 00:25:11,641
+- Tartarugas.
+- Estou ciente do seu passado.
+
+333
+00:25:11,642 --> 00:25:13,229
+Tome isso.
+
+334
+00:25:13,230 --> 00:25:17,938
+Resolverá todos seus problemas
+com aquelas pestes.
+
+335
+00:25:18,287 --> 00:25:22,422
+Vejo você do outro lado.
+
+336
+00:25:24,357 --> 00:25:26,512
+Coloque-me de volta.
+
+337
+00:25:28,627 --> 00:25:31,363
+Empurre-me, robô idiota.
+
+338
+00:25:32,244 --> 00:25:33,545
+Mais!
+
+339
+00:25:35,180 --> 00:25:36,481
+Idiota!
+
+340
+00:25:37,138 --> 00:25:39,362
+- Ele simplesmente sumiu?
+- Espere.
+
+341
+00:25:39,363 --> 00:25:42,322
+Se eu passar
+filtro eletrostático no vídeo,
+
+342
+00:25:42,323 --> 00:25:44,932
+talvez vejamos
+o que houve com o Destruidor.
+
+343
+00:25:44,933 --> 00:25:48,284
+- Vamos lá, mostre algo.
+- Olhem, bem ali.
+
+344
+00:25:52,505 --> 00:25:56,035
+Parece ser resíduos
+de um teletransporte.
+
+345
+00:25:56,036 --> 00:25:58,543
+Claro,
+resíduo de teletransporte.
+
+346
+00:25:58,544 --> 00:26:01,791
+- São os piores.
+- Essa tecnologia existe?
+
+347
+00:26:01,792 --> 00:26:04,399
+Baxter Stockman
+tem trabalhado nisso há anos.
+
+348
+00:26:04,400 --> 00:26:06,265
+Aquelas coisas
+que achei no iPad dele,
+
+349
+00:26:06,266 --> 00:26:08,605
+tinha informações
+sobre Destruidor e Clã do Pé,
+
+350
+00:26:08,606 --> 00:26:10,051
+era um manual virtual.
+
+351
+00:26:10,052 --> 00:26:13,813
+Ele deve ter um backup
+no servidor do TCRI.
+
+352
+00:26:13,814 --> 00:26:16,683
+Donnie, preciso de algo.
+O que você tem?
+
+353
+00:26:16,684 --> 00:26:18,051
+Espere.
+
+354
+00:26:18,603 --> 00:26:20,695
+Sei exatamente
+do que você precisa.
+
+355
+00:26:21,572 --> 00:26:25,340
+- É só conectar e usar.
+- Perfeito. Vou conferir.
+
+356
+00:26:25,341 --> 00:26:27,410
+Vamos com você,
+seremos o apoio.
+
+357
+00:26:27,411 --> 00:26:28,711
+Esperem.
+
+358
+00:26:29,874 --> 00:26:31,315
+O sol já vai sair.
+
+359
+00:26:31,316 --> 00:26:34,573
+Vocês não podem ir lá fora.
+Serão vistos.
+
+360
+00:26:38,924 --> 00:26:41,173
+<i>O notório criminoso
+conhecido como Destruidor</i>
+
+361
+00:26:41,174 --> 00:26:43,110
+<i>escapou da custódia
+da polícia ontem...</i>
+
+362
+00:26:43,111 --> 00:26:45,900
+<i>Transportaram-no de Manhattan
+onde cumpria perpétua.</i>
+
+363
+00:26:45,901 --> 00:26:47,834
+<i>...uma perseguição
+e o chefe da polícia</i>
+
+364
+00:26:47,835 --> 00:26:49,359
+<i>dizendo que não parará
+por nada</i>
+
+365
+00:26:49,360 --> 00:26:50,975
+<i>até capturar o fugitivo.</i>
+
+366
+00:26:53,340 --> 00:26:55,883
+Inacreditável. Amplie o raio
+de busca para 320 km
+
+367
+00:26:55,884 --> 00:26:58,447
+em pontes e portos.
+E quero notícias de hora em hora
+
+368
+00:26:58,448 --> 00:27:00,798
+da Segurança Nacional
+e das Fronteiras.
+
+369
+00:27:00,799 --> 00:27:02,810
+Que seja rápido.
+
+370
+00:27:03,570 --> 00:27:06,455
+- Como é?
+- É minha investigação agora.
+
+371
+00:27:06,804 --> 00:27:08,859
+Chefe Vincent,
+Crime Organizado.
+
+372
+00:27:08,860 --> 00:27:10,578
+Eu tenho autoridade
+jurisdicional.
+
+373
+00:27:10,579 --> 00:27:12,117
+Você perdeu a jurisdição.
+
+374
+00:27:12,118 --> 00:27:14,106
+Você provou ser
+uma autoridade de araque
+
+375
+00:27:14,107 --> 00:27:16,966
+quando perdeu três criminosos
+condenados em uma noite!
+
+376
+00:27:17,561 --> 00:27:20,189
+Destruidor é o criminoso
+mais notório que já tivemos.
+
+377
+00:27:20,190 --> 00:27:23,429
+E nós o tínhamos!
+Agora está livre.
+
+378
+00:27:24,045 --> 00:27:27,903
+E onde você encontrou
+esse veículo de alta segurança?
+
+379
+00:27:27,904 --> 00:27:32,272
+Embaixo da Ponte GW,
+abandonado e destruído.
+
+380
+00:27:32,786 --> 00:27:34,380
+Alguma testemunha?
+
+381
+00:27:35,092 --> 00:27:36,721
+Infelizmente.
+
+382
+00:27:36,722 --> 00:27:38,731
+Estava tudo normal,
+segui o procedimento.
+
+383
+00:27:38,732 --> 00:27:40,102
+E quando me dou conta,
+
+384
+00:27:40,103 --> 00:27:44,144
+ninjas em motos
+passam a toda velocidade,
+
+385
+00:27:44,145 --> 00:27:47,251
+e vem atrás de nós
+de todos os lados possíveis.
+
+386
+00:27:47,252 --> 00:27:48,934
+- Continue.
+<i>- Está bem.</i>
+
+387
+00:27:48,935 --> 00:27:51,415
+Olho o retrovisor lateral
+e vejo o que deveria ser
+
+388
+00:27:51,416 --> 00:27:53,068
+um caminhão de lixo gigante
+
+389
+00:27:53,069 --> 00:27:55,798
+vindo até nós bem rápido
+como num campo de batalha.
+
+390
+00:27:55,799 --> 00:27:59,016
+E qual era o objetivo
+desse caminhão de lixo feroz?
+
+391
+00:27:59,017 --> 00:28:00,646
+Eu também me perguntei isso.
+
+392
+00:28:00,647 --> 00:28:03,210
+Depois ele começou a abrir
+tampas de bueiros
+
+393
+00:28:03,211 --> 00:28:05,115
+com as grades do caminhão.
+
+394
+00:28:06,554 --> 00:28:08,810
+- Tampas de bueiros!
+- Sim, tampas de bueiros.
+
+395
+00:28:08,811 --> 00:28:10,573
+Como mísseis guiados.
+
+396
+00:28:11,913 --> 00:28:15,146
+Tire uma folga, Jones.
+Vou descontar do seu pagamento.
+
+397
+00:28:15,147 --> 00:28:17,289
+Não estou louco.
+Eu sei o que eu vi.
+
+398
+00:28:17,290 --> 00:28:18,941
+Posso ajudar vocês
+a pegarem eles.
+
+399
+00:28:18,942 --> 00:28:21,363
+Sou de Nova Iorque
+e conheço bem esses ruas.
+
+400
+00:28:21,364 --> 00:28:23,462
+Primeira regra
+sobre rastrear fugitivos:
+
+401
+00:28:23,463 --> 00:28:26,563
+não aceite ajuda de quem foi
+o responsável por perdê-los.
+
+402
+00:28:26,564 --> 00:28:28,402
+Fomos emboscados!
+
+403
+00:28:28,835 --> 00:28:30,642
+Obrigada pelo seu depoimento,
+Jones.
+
+404
+00:28:30,643 --> 00:28:34,976
+É Oficial Jones! E eu serei
+um detetive algum dia.
+
+405
+00:28:36,391 --> 00:28:39,703
+Só estou esperando abrirem
+as matrículas na Academia.
+
+406
+00:28:41,642 --> 00:28:43,236
+Boa sorte com isso.
+
+407
+00:28:43,641 --> 00:28:45,897
+Por enquanto, faça um favor
+a si mesmo...
+
+408
+00:28:45,898 --> 00:28:48,389
+Deixe essa perseguição
+para os profissionais.
+
+409
+00:29:15,635 --> 00:29:17,253
+PONTOS DE ENCONTRO:
+BAR FERRADURA
+
+410
+00:29:17,254 --> 00:29:20,051
+Então esses dois idiotas
+têm um bar favorito.
+
+411
+00:29:21,357 --> 00:29:24,224
+Eles não são idiotas
+de voltarem lá.
+
+412
+00:29:27,262 --> 00:29:28,809
+Sim, eles são.
+
+413
+00:29:35,637 --> 00:29:38,642
+Eu já abati
+alguns guardas de prisão.
+
+414
+00:29:38,643 --> 00:29:40,296
+Vê como tudo isso
+se encaixa?
+
+415
+00:29:40,297 --> 00:29:44,069
+Se eu vi? Eu senti! Eu ouvi
+ecos saindo das paredes.
+
+416
+00:29:46,521 --> 00:29:49,004
+- Meu camarada!
+- Meu camarada!
+
+417
+00:29:51,424 --> 00:29:53,028
+Igual
+ao que minha mãe fazia.
+
+418
+00:29:53,029 --> 00:29:55,537
+Ei, garçom!
+Cadê os sanduíches?
+
+419
+00:29:55,538 --> 00:29:57,400
+Estão aqui.
+Especialidade da casa.
+
+420
+00:29:57,401 --> 00:30:00,200
+Já estava na hora.
+E picles separado.
+
+421
+00:30:00,201 --> 00:30:02,130
+E esses picles
+não são rastreáveis?
+
+422
+00:30:02,131 --> 00:30:05,362
+São mais difíceis de rastrear
+que o próprio Destruidor.
+
+423
+00:30:07,822 --> 00:30:11,503
+Não faça contato visual
+conosco.
+
+424
+00:30:15,564 --> 00:30:16,909
+Temos algo para jogar.
+
+425
+00:30:18,155 --> 00:30:22,171
+Sabe, Beebs, estou cansado
+de ser o mensageiro dos outros.
+
+426
+00:30:22,172 --> 00:30:25,605
+Com o Destruidor fora de cena,
+talvez possamos aparecer.
+
+427
+00:30:25,606 --> 00:30:29,412
+- Fazer nosso nome na cidade.
+- Sim, isso mesmo.
+
+428
+00:30:29,413 --> 00:30:31,691
+Talvez começar
+nosso próprio Clã do Pé.
+
+429
+00:30:31,692 --> 00:30:34,223
+Depois progredimos
+para o Clã da Perna.
+
+430
+00:30:34,224 --> 00:30:36,671
+Digo,
+o quanto isso pode ser difícil?
+
+431
+00:30:43,603 --> 00:30:44,910
+Olá!
+
+432
+00:30:44,911 --> 00:30:47,751
+Senhor Destruidor,
+meu camarada.
+
+433
+00:30:47,752 --> 00:30:50,470
+Por coincidência,
+estávamos contabilizando
+
+434
+00:30:50,471 --> 00:30:53,333
+os valores das nossas empresas
+criminosas.
+
+435
+00:30:53,334 --> 00:30:57,069
+Estávamos pensando em dividir
+em 51% e 49%.
+
+436
+00:30:57,070 --> 00:31:00,487
+- A maior parte é sua, é claro.
+- Ele não procura sócios.
+
+437
+00:31:00,488 --> 00:31:03,489
+Eu procuro por mensageiros.
+
+438
+00:31:05,052 --> 00:31:07,255
+Acho que podemos
+trabalhar com isso.
+
+439
+00:31:14,291 --> 00:31:17,827
+Flutua como borboleta,
+pica como uma abelha.
+
+440
+00:31:18,726 --> 00:31:20,406
+A cada segundo
+que ficamos aqui,
+
+441
+00:31:20,407 --> 00:31:21,959
+o Destruidor
+fica mais poderoso,
+
+442
+00:31:21,960 --> 00:31:23,731
+e o Mikey fica mais irritante.
+
+443
+00:31:24,290 --> 00:31:25,851
+Estamos treinando.
+
+444
+00:31:26,780 --> 00:31:28,114
+Mais ou menos.
+
+445
+00:31:28,544 --> 00:31:31,374
+Assim que o sol se pôr,
+será a hora das tartarugas.
+
+446
+00:31:31,375 --> 00:31:33,903
+Olá, Drone.
+Está falando comigo?
+
+447
+00:31:33,904 --> 00:31:36,106
+Porque eu não vejo
+mais ninguém.
+
+448
+00:31:36,792 --> 00:31:38,870
+Eu falhei, Mestre Splinter.
+
+449
+00:31:41,006 --> 00:31:44,888
+Você me pôs no comando
+e o Destruidor escapou na boa.
+
+450
+00:31:45,328 --> 00:31:48,622
+Não há nada que poderia
+ter feito para detê-lo.
+
+451
+00:31:49,035 --> 00:31:52,200
+Não deixe esse contratempo
+te distrair.
+
+452
+00:31:53,840 --> 00:31:55,417
+Lembre-se...
+
+453
+00:31:55,418 --> 00:31:58,677
+Enquanto você mantiver
+a equipe unida,
+
+454
+00:31:58,678 --> 00:32:02,319
+você sempre conseguirá.
+
+455
+00:32:10,195 --> 00:32:12,332
+<i>Pedimos a qualquer um
+que tiver informações</i>
+
+456
+00:32:12,333 --> 00:32:14,224
+<i>do paradeiro dos fugitivos,
+por favor,</i>
+
+457
+00:32:14,225 --> 00:32:15,810
+<i>informe as autoridades...</i>
+
+458
+00:32:15,811 --> 00:32:18,643
+Eu só vou te perguntar
+mais uma vez.
+
+459
+00:32:18,644 --> 00:32:20,873
+Tem certeza que eles
+não passaram por aqui?
+
+460
+00:32:20,874 --> 00:32:23,485
+Cara. Não sei
+do que está falando.
+
+461
+00:32:26,910 --> 00:32:28,343
+Está bem.
+
+462
+00:32:28,344 --> 00:32:31,338
+Sabe de uma coisa?
+Eu amo essa música!
+
+463
+00:32:32,505 --> 00:32:34,522
+Importa se eu pegar
+emprestado?
+
+464
+00:32:35,370 --> 00:32:36,670
+O que está fazendo?
+
+465
+00:32:37,084 --> 00:32:39,916
+Quer saber? Deixa pra lá.
+Está arranhado.
+
+466
+00:32:40,291 --> 00:32:42,049
+- Caramba!
+- Ou talvez eu beba algo.
+
+467
+00:32:42,050 --> 00:32:44,233
+- Perdeu a cabeça?
+- Estou chegando lá.
+
+468
+00:32:46,155 --> 00:32:48,640
+Pare, pare!
+Pare, está bem?
+
+469
+00:32:48,641 --> 00:32:50,065
+Vai dizer onde eles estão?
+
+470
+00:32:50,066 --> 00:32:52,845
+Eu lhes dei celulares.
+É tudo que eu sei!
+
+471
+00:32:52,846 --> 00:32:55,705
+Imagino que um empresário
+responsável como você
+
+472
+00:32:55,706 --> 00:32:59,536
+não venderia um dispositivo
+sem algo para rastreá-lo.
+
+473
+00:32:59,537 --> 00:33:02,279
+- Estou certo?
+- Olha! Aqui...
+
+474
+00:33:02,280 --> 00:33:06,558
+Eu tenho um GPS, está bem?
+Pode achá-los com isso.
+
+475
+00:33:19,538 --> 00:33:21,478
+De jeito nenhum,
+essa coisa...
+
+476
+00:33:24,746 --> 00:33:26,736
+Onde você está?
+
+477
+00:33:27,844 --> 00:33:30,607
+Para onde
+você foi teleportado?
+
+478
+00:33:36,840 --> 00:33:38,304
+Destruidor.
+
+479
+00:33:38,731 --> 00:33:40,795
+O plano de fuga funcionou.
+
+480
+00:33:41,251 --> 00:33:44,638
+Mas não foi
+como você planejou.
+
+481
+00:33:44,639 --> 00:33:48,103
+Eu fiz uma viagem muito longa,
+e agora...
+
+482
+00:33:49,081 --> 00:33:51,485
+Temos trabalho a fazer.
+
+483
+00:34:03,797 --> 00:34:05,397
+<i>Neustadter, responda.</i>
+
+484
+00:34:08,080 --> 00:34:09,480
+<i>Neustadter?</i>
+
+485
+00:34:11,850 --> 00:34:13,880
+<i>Neustadter,
+está me ouvindo?</i>
+
+486
+00:34:19,842 --> 00:34:21,342
+Quando encontrei essa coisa...
+
+487
+00:34:21,843 --> 00:34:24,933
+Nem fazia ideia
+da importância dela.
+
+488
+00:34:26,058 --> 00:34:28,559
+O Comandante Krang,
+disse que essa peça nos ajudará
+
+489
+00:34:28,560 --> 00:34:30,410
+a abrir um portal
+para outra dimensão?
+
+490
+00:34:30,411 --> 00:34:32,361
+E quando o abrirmos,
+me unirei ao Krang,
+
+491
+00:34:32,362 --> 00:34:34,468
+para dominaremos
+esse planeta.
+
+492
+00:34:34,469 --> 00:34:37,064
+- Teremos poder absoluto.
+- Poder...
+
+493
+00:34:37,065 --> 00:34:39,415
+E glória indescritível
+de sermos os responsáveis
+
+494
+00:34:39,416 --> 00:34:42,743
+por abrir uma passagem
+entre dois mundos...
+
+495
+00:34:42,744 --> 00:34:45,733
+Precisamos de outras peças
+para a abertura do portal.
+
+496
+00:34:45,734 --> 00:34:48,935
+E aqueles 4 irmãos
+ainda estão lá fora...
+
+497
+00:34:48,936 --> 00:34:52,332
+Precisamos criar soldados
+que os derrotem com um só golpe.
+
+498
+00:34:52,333 --> 00:34:54,147
+Essa substância nos ajudará.
+
+499
+00:34:54,745 --> 00:34:57,290
+Ela ainda precisa
+ser sintetizada.
+
+500
+00:34:57,905 --> 00:35:00,232
+É aí que você entra.
+
+501
+00:35:02,862 --> 00:35:04,351
+Lá vem o gênio.
+
+502
+00:35:12,700 --> 00:35:14,305
+Rock, olha só isso.
+
+503
+00:35:32,222 --> 00:35:34,420
+Beebs, tenho que arrumar
+um desses para mim.
+
+504
+00:35:34,421 --> 00:35:36,390
+<i>Imagine o que poderíamos
+fazer com isso!</i>
+
+505
+00:35:36,391 --> 00:35:38,499
+Sinto-me de volta
+às aulas de ciência.
+
+506
+00:35:38,500 --> 00:35:39,950
+Precisamos agora de...
+
+507
+00:35:41,204 --> 00:35:42,868
+Cobaias de teste.
+
+508
+00:35:48,800 --> 00:35:52,300
+Candidatos que facilmente,
+obedeceriam as minhas ordens.
+
+509
+00:35:52,301 --> 00:35:54,729
+Grandes de tamanho.
+
+510
+00:35:55,556 --> 00:35:58,970
+Pequenos em intelecto.
+
+511
+00:36:01,650 --> 00:36:04,813
+Isso arde!
+E não é de um jeito bom.
+
+512
+00:36:27,150 --> 00:36:28,606
+O que está acontecendo?
+
+513
+00:36:33,950 --> 00:36:35,865
+O que está acontecendo
+conosco?
+
+514
+00:36:35,866 --> 00:36:39,068
+Não sei,
+mas me sinto ótimo!
+
+515
+00:36:41,450 --> 00:36:43,539
+Isso vai ficar bom!
+
+516
+00:37:00,733 --> 00:37:02,063
+Que sensação estranha.
+
+517
+00:37:03,410 --> 00:37:04,912
+Como formigas
+em minhas calças!
+
+518
+00:37:05,335 --> 00:37:06,735
+Formigas gigantes!
+
+519
+00:37:21,039 --> 00:37:22,925
+Certo,
+Bebop e Rocksteady.
+
+520
+00:37:23,678 --> 00:37:26,008
+Sei que vocês estão lá em cima,
+em algum lugar.
+
+521
+00:37:29,086 --> 00:37:30,386
+Eu sabia!
+
+522
+00:37:32,022 --> 00:37:35,982
+- Omnus, analise as cobaias.
+<i>- Analisando.</i>
+
+523
+00:37:38,968 --> 00:37:40,268
+Miraculoso.
+
+524
+00:37:40,269 --> 00:37:42,371
+Em cada ser humano
+há um gene dominante
+
+525
+00:37:42,372 --> 00:37:44,824
+que nos une
+aos animais ancestrais.
+
+526
+00:37:44,825 --> 00:37:46,976
+É como se a substância
+as soltassem,
+
+527
+00:37:46,977 --> 00:37:50,152
+e as devolve ao lugar delas
+no reino animal.
+
+528
+00:37:50,153 --> 00:37:51,603
+<i>Nossa, Rock!</i>
+
+529
+00:37:52,287 --> 00:37:55,344
+- Você é um rinoceronte!
+- E você é um...
+
+530
+00:37:55,345 --> 00:37:57,650
+Eu não sei o que você é.
+
+531
+00:37:57,651 --> 00:38:00,125
+Certo, deixa eu ver.
+Eu sou...
+
+532
+00:38:01,294 --> 00:38:04,650
+- Sou um porquinho.
+- Você é um javali.
+
+533
+00:38:04,651 --> 00:38:05,951
+- Beebs!
+<i>- Fala, Rock.</i>
+
+534
+00:38:05,952 --> 00:38:08,650
+Já viu um ataque
+de rinoceronte?
+
+535
+00:38:09,400 --> 00:38:10,850
+Isso dói!
+
+536
+00:38:10,851 --> 00:38:12,306
+Gostei disso!
+
+537
+00:38:12,851 --> 00:38:14,371
+Eu também.
+
+538
+00:38:15,118 --> 00:38:17,341
+Prepare o conteúdo todo
+do frasco.
+
+539
+00:38:17,342 --> 00:38:20,353
+Quanto mais deles criarmos,
+mais fácil será
+
+540
+00:38:20,354 --> 00:38:22,082
+garantir a segurança
+do portal.
+
+541
+00:38:25,898 --> 00:38:28,016
+- Meu camarada!
+- Meu camarada!
+
+542
+00:38:28,017 --> 00:38:29,717
+Isso é incrível!
+
+543
+00:38:29,718 --> 00:38:31,325
+Você tem um chifre!
+
+544
+00:38:31,326 --> 00:38:34,557
+- É, cara!
+- Olha a minha cauda!
+
+545
+00:38:34,558 --> 00:38:35,858
+CHAVE DE EMERGÊNCIA
+
+546
+00:38:35,859 --> 00:38:37,677
+Ele é maneiro.
+Também tenho um?
+
+547
+00:38:37,678 --> 00:38:39,300
+Rock.
+Quem é aquela?
+
+548
+00:38:39,301 --> 00:38:40,868
+O'Neil.
+
+549
+00:38:42,120 --> 00:38:43,440
+CHAVE DE EMERGÊNCIA
+
+550
+00:38:44,360 --> 00:38:46,390
+Peguem aquele recipiente!
+
+551
+00:39:39,171 --> 00:39:42,151
+Pessoal, vocês realmente
+querem fazer isso outra vez?
+
+552
+00:39:42,152 --> 00:39:44,686
+É que geralmente,
+não termina nada bem para vocês.
+
+553
+00:39:45,130 --> 00:39:47,701
+Sabem,
+eu tenho meus 4 amigos.
+
+554
+00:39:48,331 --> 00:39:49,651
+Que são verdes...
+
+555
+00:39:49,652 --> 00:39:51,982
+- Ninjas.
+- Entregue-nos o fluído.
+
+556
+00:40:34,072 --> 00:40:35,372
+Oi.
+
+557
+00:40:39,925 --> 00:40:41,325
+Para onde ele foi?
+
+558
+00:40:58,480 --> 00:41:00,027
+- Parados!
+- Não se mexam!
+
+559
+00:41:18,131 --> 00:41:19,981
+Quanto ao cara
+com o taco de hóquei...
+
+560
+00:41:20,382 --> 00:41:22,000
+No outro beco.
+
+561
+00:41:22,438 --> 00:41:24,478
+Eu não tenho
+nada a ver com isso.
+
+562
+00:41:32,404 --> 00:41:33,704
+Obrigada.
+
+563
+00:41:34,862 --> 00:41:36,162
+Qual é o seu nome?
+
+564
+00:41:36,163 --> 00:41:37,852
+<i>Casey Jones.</i>
+
+565
+00:41:38,526 --> 00:41:40,866
+- O que disse?
+<i>- Casey Jones.</i>
+
+566
+00:41:41,660 --> 00:41:43,595
+Stacey Moans?
+
+567
+00:41:45,016 --> 00:41:46,542
+Casey Jones.
+
+568
+00:41:47,959 --> 00:41:49,259
+Oi.
+
+569
+00:41:50,750 --> 00:41:52,150
+Afaste-se dela!
+
+570
+00:41:53,875 --> 00:41:55,230
+Vá para trás.
+Para trás.
+
+571
+00:41:57,956 --> 00:42:00,605
+Não nos devorem.
+
+572
+00:42:01,736 --> 00:42:04,400
+Não somos comida.
+
+573
+00:42:04,401 --> 00:42:07,167
+Os terrestres não são...
+
+574
+00:42:07,168 --> 00:42:08,601
+Seus inimigos.
+
+575
+00:42:08,602 --> 00:42:11,359
+Certo?
+Isso mesmo.
+
+576
+00:42:11,360 --> 00:42:12,750
+Saca só isso!
+
+577
+00:42:14,379 --> 00:42:17,471
+Fomos enviados por nosso
+Líder Supremo...
+
+578
+00:42:17,472 --> 00:42:20,071
+Para devorarmos
+humanos deliciosos...
+
+579
+00:42:20,472 --> 00:42:23,851
+Mergulhados
+em molho de ketchup.
+
+580
+00:42:23,852 --> 00:42:25,647
+Brincadeira.
+
+581
+00:42:25,648 --> 00:42:30,149
+Sou vegano.
+Exceto pela carne, queijo e ovo.
+
+582
+00:42:30,150 --> 00:42:32,937
+Casey.
+Eles são meus amigos.
+
+583
+00:42:34,365 --> 00:42:38,912
+- Então, eles são seus amigos.
+- Isso mesmo, são meus amigos.
+
+584
+00:42:38,913 --> 00:42:40,336
+- Podem contar.
+- Claro.
+
+585
+00:42:40,337 --> 00:42:42,857
+Donatelo, aquele de roxo
+é um gênio tecnológico,
+
+586
+00:42:42,858 --> 00:42:45,432
+Quem é ele?
+Tecnicamente, um gênio.
+
+587
+00:42:46,229 --> 00:42:50,220
+O Rafael ali, de vermelho,
+é um amável urso de pelúcia.
+
+588
+00:42:50,221 --> 00:42:52,975
+Isso se ursos de pelúcia
+fossem incrivelmente violentos.
+
+589
+00:42:52,976 --> 00:42:55,909
+Este é o Leonardo,
+de azul, líder destemido.
+
+590
+00:42:55,910 --> 00:42:57,800
+Silencioso, mas mortal.
+
+591
+00:42:57,801 --> 00:43:00,375
+E eu sou o Michelangelo,
+assino com a cor laranja.
+
+592
+00:43:00,376 --> 00:43:02,383
+Sou uma tripla ameaça:
+cérebro, músculos,
+
+593
+00:43:02,384 --> 00:43:04,477
+e obviamente,
+uma grande personalidade.
+
+594
+00:43:04,478 --> 00:43:06,872
+- Senhoras, me chamo Mikey.
+- Já acabou?
+
+595
+00:43:06,873 --> 00:43:08,173
+Acabei.
+
+596
+00:43:08,921 --> 00:43:12,076
+Perdoe nosso atraso, April.
+Quer me contar o que houve?
+
+597
+00:43:13,072 --> 00:43:16,161
+Fui ver Baxter,
+mas o Destruidor estava lá.
+
+598
+00:43:16,162 --> 00:43:18,837
+Ele estava falando
+sobre abrir um tipo de portal
+
+599
+00:43:18,838 --> 00:43:20,985
+- para outra dimensão.
+- Afastem-se
+
+600
+00:43:20,986 --> 00:43:23,888
+Ele pegou esse fluído roxo
+e injetou naqueles dois bandidos
+
+601
+00:43:23,889 --> 00:43:25,226
+que escaparam com ele.
+
+602
+00:43:25,227 --> 00:43:27,540
+E então, transformou
+um deles em rinoceronte
+
+603
+00:43:27,541 --> 00:43:29,551
+e o outro em um javali.
+
+604
+00:43:30,659 --> 00:43:32,955
+Você viu
+o Bebop e o Rocksteady?
+
+605
+00:43:32,956 --> 00:43:34,345
+O que quer com esses dois?
+
+606
+00:43:34,346 --> 00:43:37,672
+Digamos que estou interessado
+em levá-los à justiça.
+
+607
+00:43:37,673 --> 00:43:39,431
+Vamos voltar
+para o esconderijo.
+
+608
+00:43:39,432 --> 00:43:42,361
+Faça o "Sexta-Feira 13"
+nos seguir, Rafa.
+
+609
+00:43:42,765 --> 00:43:45,516
+Ele vem para nos ajudar
+a encontrar Bebop e Rocksteady.
+
+610
+00:43:45,517 --> 00:43:47,579
+Não vou não.
+De jeito nenhum.
+
+611
+00:43:47,580 --> 00:43:48,929
+Vou ficar bem aqui.
+
+612
+00:43:48,930 --> 00:43:51,697
+Eu concordaria com você,
+mas está errado.
+
+613
+00:43:51,698 --> 00:43:54,498
+Nós dois
+temos um interesse em comum.
+
+614
+00:43:54,499 --> 00:43:56,445
+Não tenho nada em comum
+com vocês.
+
+615
+00:43:56,446 --> 00:43:57,907
+Amigos, amigos...
+
+616
+00:43:57,908 --> 00:44:00,732
+Pelo bem da cidade, precisamos
+esquecer as diferenças
+
+617
+00:44:00,733 --> 00:44:02,369
+e trabalhar juntos.
+
+618
+00:44:02,370 --> 00:44:04,685
+O que me leva
+a uma pergunta:
+
+619
+00:44:06,054 --> 00:44:07,860
+Vocês estão ficando?
+
+620
+00:44:09,086 --> 00:44:10,674
+Vamos embora, ande!
+
+621
+00:44:16,537 --> 00:44:19,890
+<i>Se esse fluído roxo foi injetado
+no Bebop e Rocksteady,</i>
+
+622
+00:44:19,891 --> 00:44:23,041
+posso achar um único
+sinal isotópico,
+
+623
+00:44:23,042 --> 00:44:25,339
+e usá-lo para descobrir
+onde eles estão.
+
+624
+00:44:25,340 --> 00:44:28,934
+Se os encontrarmos,
+encontramos o Destruidor.
+
+625
+00:44:28,935 --> 00:44:30,533
+Acabamos com todos eles.
+
+626
+00:44:30,534 --> 00:44:33,100
+Portando que usemos
+máscaras de hóquei,
+
+627
+00:44:33,101 --> 00:44:34,703
+o que pode dar errado?
+
+628
+00:44:36,011 --> 00:44:37,711
+Agora vou aceitar
+conselhos de moda
+
+629
+00:44:37,712 --> 00:44:39,393
+de um bando
+de monstros do pântano
+
+630
+00:44:39,394 --> 00:44:41,862
+que moram num um parque
+de diversões subterrâneo
+
+631
+00:44:41,863 --> 00:44:45,227
+e que têm os nomes
+mais pretenciosos do mundo?
+
+632
+00:44:45,228 --> 00:44:47,253
+Com licença,
+eu escolhi os nomes deles.
+
+633
+00:44:49,646 --> 00:44:51,380
+Galera?
+
+634
+00:44:51,381 --> 00:44:53,439
+Ninguém se mexe.
+Parados!
+
+635
+00:44:55,365 --> 00:44:59,308
+Tem um rato gigante
+ali atrás.
+
+636
+00:45:02,967 --> 00:45:04,832
+É, nós já...
+
+637
+00:45:05,277 --> 00:45:07,637
+Vimos-o aqui antes.
+
+638
+00:45:08,068 --> 00:45:10,389
+Só tem um jeito
+de se livrar dele.
+
+639
+00:45:10,390 --> 00:45:12,883
+- Você tem que ficar abaixado.
+- Bem abaixado.
+
+640
+00:45:12,884 --> 00:45:16,472
+Quando chegar nele,
+seja rápido e forte.
+
+641
+00:45:16,473 --> 00:45:19,055
+Acreditamos em você,
+Casey Jones. É a sua vez.
+
+642
+00:45:19,056 --> 00:45:22,605
+- Isso. Pegue-o.
+- Três, dois, um, vai!
+
+643
+00:45:29,151 --> 00:45:32,981
+Rato gigante: um.
+Cara novo: zero.
+
+644
+00:45:36,191 --> 00:45:38,225
+<i>Não acredito
+que foi tão fácil.</i>
+
+645
+00:45:38,226 --> 00:45:40,465
+<i>Quase pensei
+que ele não cairia nessa.</i>
+
+646
+00:45:40,466 --> 00:45:42,765
+Essa foi boa.
+
+647
+00:45:42,766 --> 00:45:44,869
+Deveríamos trazer
+mais gente aqui.
+
+648
+00:45:45,822 --> 00:45:48,677
+- <i>Vai embora?</i>
+- Se encontrar a saída, vou.
+
+649
+00:45:48,678 --> 00:45:51,705
+Eu estava bem,
+caçando Bebop e Rocksteady
+
+650
+00:45:51,706 --> 00:45:53,570
+até você estragar tudo.
+
+651
+00:45:53,571 --> 00:45:56,232
+Agora vou encontrá-los
+ou morrer tentando.
+
+652
+00:45:56,233 --> 00:45:57,783
+- Casey.
+- Não. É como dizem:
+
+653
+00:45:57,784 --> 00:46:00,284
+"Se quer algo feito,
+não perca tempo no zoológico."
+
+654
+00:46:02,321 --> 00:46:04,078
+IRMÃOS TARTARUGA
+
+655
+00:46:04,803 --> 00:46:06,613
+Irmãos Tartaruga?
+
+656
+00:46:08,630 --> 00:46:09,930
+Esse é...
+
+657
+00:46:10,567 --> 00:46:11,967
+Esse é o caminhão.
+
+658
+00:46:13,556 --> 00:46:14,956
+Foram eles.
+
+659
+00:46:15,970 --> 00:46:18,936
+Quem são esses caras?
+
+660
+00:46:20,170 --> 00:46:22,351
+Esses quatro
+já fizeram mais por essa cidade
+
+661
+00:46:22,352 --> 00:46:26,091
+do que você imagina
+e nunca levaram crédito.
+
+662
+00:46:26,549 --> 00:46:29,353
+Se você quer
+"morrer tentando",
+
+663
+00:46:29,354 --> 00:46:31,858
+eles batem mais forte
+que qualquer um.
+
+664
+00:46:39,611 --> 00:46:42,458
+Certo, Donnie,
+você consegue.
+
+665
+00:46:45,871 --> 00:46:48,089
+Dissolver as ligações
+da hélice-quad,
+
+666
+00:46:48,090 --> 00:46:50,178
+reverter a coesão.
+
+667
+00:46:50,690 --> 00:46:53,483
+Espere.
+Isso significaria...
+
+668
+00:46:56,805 --> 00:46:58,615
+Isso é possível mesmo?
+
+669
+00:47:04,750 --> 00:47:06,601
+Está confirmado,
+Mestre Destruidor.
+
+670
+00:47:06,602 --> 00:47:09,018
+O recipiente com fluído roxo
+está na delegacia.
+
+671
+00:47:09,019 --> 00:47:11,966
+Leve uma equipe
+e o recupere a qualquer custo.
+
+672
+00:47:11,967 --> 00:47:15,130
+Buscarei a primeira peça
+necessária para abrir um portal.
+
+673
+00:47:15,131 --> 00:47:16,431
+Quantos homens quer levar?
+
+674
+00:47:16,432 --> 00:47:19,032
+Isso é importante demais
+para homens fazerem.
+
+675
+00:47:19,033 --> 00:47:23,852
+Levarei a mais nova geração
+de soldados de combate.
+
+676
+00:47:31,427 --> 00:47:33,301
+Queria te perguntar uma coisa,
+Rock.
+
+677
+00:47:33,302 --> 00:47:34,841
+Eu pareço gordo?
+
+678
+00:47:34,842 --> 00:47:38,066
+Gordo?
+Claro que não, cara.
+
+679
+00:47:38,067 --> 00:47:41,591
+Você está enorme
+de gordo!
+
+680
+00:47:42,015 --> 00:47:45,220
+Essa barriga gelatinosa,
+mexe como ninguém.
+
+681
+00:47:45,221 --> 00:47:47,204
+- Meu camarada!
+- Meu camarada!
+
+682
+00:48:00,397 --> 00:48:03,690
+Meu Deus.
+Leo, Leo!
+
+683
+00:48:03,691 --> 00:48:05,609
+Leo.
+Leo!
+
+684
+00:48:06,619 --> 00:48:08,952
+Léo! Meu Deus,
+isso é incrível!
+
+685
+00:48:08,953 --> 00:48:11,702
+Léo, você não vai
+acreditar nisso.
+
+686
+00:48:11,703 --> 00:48:14,313
+Eu fiz uma solução
+de parte do fluído roxo
+
+687
+00:48:14,314 --> 00:48:16,498
+para acelerar a análise
+do isótopo.
+
+688
+00:48:16,499 --> 00:48:19,584
+Mas enquanto esperava catalisar,
+comecei a pensar:
+
+689
+00:48:19,585 --> 00:48:23,086
+se o fluído roxo
+transforma pessoas em animais,
+
+690
+00:48:23,087 --> 00:48:25,979
+talvez, se for reestruturado
+corretamente...
+
+691
+00:48:25,980 --> 00:48:27,530
+Veja só isso.
+
+692
+00:48:29,367 --> 00:48:31,085
+Poderia nos transformar...
+
+693
+00:48:33,985 --> 00:48:35,410
+em humanos.
+
+694
+00:48:45,907 --> 00:48:50,692
+Se conseguirmos mais disso,
+poderia mudar nossas vidas.
+
+695
+00:48:53,085 --> 00:48:55,617
+Não precisamos
+desse tipo de mudança.
+
+696
+00:48:59,601 --> 00:49:01,297
+Está bem,
+você está certo.
+
+697
+00:49:02,017 --> 00:49:04,020
+Nos misturar com humanos
+
+698
+00:49:04,021 --> 00:49:06,444
+comprometeria
+nossa vantagem estratégica.
+
+699
+00:49:06,445 --> 00:49:08,305
+Temos um sistema
+que funciona.
+
+700
+00:49:09,156 --> 00:49:11,069
+Não vamos mexer
+com a fórmula.
+
+701
+00:49:12,560 --> 00:49:14,060
+Donnie.
+
+702
+00:49:17,980 --> 00:49:19,280
+Escute.
+
+703
+00:49:19,281 --> 00:49:21,660
+Você não pode falar sobre isso
+para os outros.
+
+704
+00:49:40,458 --> 00:49:43,454
+MUSEU DE HISTÓRIA NATURAL
+
+705
+00:49:51,849 --> 00:49:53,313
+<i>Olhe esse lugar!</i>
+
+706
+00:49:53,314 --> 00:49:57,373
+E pensar
+que o universo inteiro surgiu
+
+707
+00:49:57,374 --> 00:49:58,856
+com a Grande Explosão.
+
+708
+00:49:58,857 --> 00:50:02,306
+É, Beebs? Tenho
+uma grande explosão para você.
+
+709
+00:50:03,748 --> 00:50:06,800
+Cara, isso é nojento,
+é o pior.
+
+710
+00:50:06,801 --> 00:50:08,964
+- Quebrem aquilo.
+- É o que fazemos!
+
+711
+00:50:15,787 --> 00:50:17,640
+Essa pedra é dura!
+
+712
+00:50:17,641 --> 00:50:20,480
+- Não sinto minhas pernas!
+- Torci meu coco, cara!
+
+713
+00:50:51,704 --> 00:50:54,114
+<i>Falta recuperar
+apenas uma peça.</i>
+
+714
+00:50:55,147 --> 00:50:57,706
+Preparem-se para viajar,
+garotos.
+
+715
+00:50:57,707 --> 00:51:02,658
+- Vocês vão para o Brasil.
+- Minha sunga já está na mala.
+
+716
+00:51:06,781 --> 00:51:10,158
+Eu não acreditei, mas Donnie
+o mostrou que funciona.
+
+717
+00:51:10,159 --> 00:51:12,301
+Foi a coisa mais legal
+que já vi.
+
+718
+00:51:12,828 --> 00:51:15,150
+Deu esperança.
+
+719
+00:51:15,649 --> 00:51:18,294
+Talvez não precisemos
+ficar aqui para sempre, sabe?
+
+720
+00:51:18,295 --> 00:51:21,231
+Então Léo pediu
+ao Donnie para manter segredo.
+
+721
+00:51:21,986 --> 00:51:23,286
+De nós?
+
+722
+00:51:24,446 --> 00:51:27,250
+- Não, olha...
+- Quem ele pensa que é?
+
+723
+00:51:29,166 --> 00:51:33,210
+Se contar que te contei
+e contei para...
+
+724
+00:51:34,473 --> 00:51:37,050
+Nunca terminaremos
+nosso rap de Natal.
+
+725
+00:51:41,479 --> 00:51:42,779
+Pergunta rápida:
+
+726
+00:51:42,780 --> 00:51:45,456
+Quais são as 3 habilidades
+mais importantes do ninja?
+
+727
+00:51:46,879 --> 00:51:48,179
+Velocidade,
+
+728
+00:51:50,482 --> 00:51:51,782
+furtividade,
+
+729
+00:51:53,371 --> 00:51:54,671
+e honra.
+
+730
+00:51:56,259 --> 00:51:59,250
+Onde está a honra em guardar
+segredos de seus irmãos?
+
+731
+00:52:01,615 --> 00:52:03,250
+Não sei
+do que está falando.
+
+732
+00:52:03,750 --> 00:52:06,250
+Agora mentir faz
+parte do pacote?
+
+733
+00:52:06,251 --> 00:52:09,056
+Se estiver falando
+sobre o fluído roxo...
+
+734
+00:52:09,057 --> 00:52:12,467
+Isso se chama,
+compartimentação de informação.
+
+735
+00:52:14,502 --> 00:52:17,665
+Se o fluído puder
+nos transformar em humanos...
+
+736
+00:52:17,666 --> 00:52:20,451
+Somos tartarugas.
+Quer queira, quer não.
+
+737
+00:52:20,452 --> 00:52:24,750
+Não é o que quero.
+É o que estão aceitariam.
+
+738
+00:52:24,751 --> 00:52:27,055
+A verdadeira aceitação vem
+do interior.
+
+739
+00:52:27,056 --> 00:52:29,450
+Nem vem com esses sermões
+de biscoitos da sorte.
+
+740
+00:52:29,451 --> 00:52:32,650
+Deveria nos consultar
+antes de tomar decisões assim!
+
+741
+00:52:32,651 --> 00:52:34,850
+Consultei ao Donnie
+e decidimos...
+
+742
+00:52:34,851 --> 00:52:36,683
+E o Mikey não opina?
+
+743
+00:52:36,684 --> 00:52:40,441
+Apenas uma opinião vale
+nessa família, a minha!
+
+744
+00:52:42,745 --> 00:52:44,045
+Leo...
+
+745
+00:52:44,046 --> 00:52:47,850
+Leo, um alarme disparou
+no Planetário. Precisamos ir.
+
+746
+00:52:48,450 --> 00:52:49,954
+Prepare-se, Donnie.
+
+747
+00:52:51,596 --> 00:52:53,050
+Vocês dois, ficam aqui.
+
+748
+00:52:54,550 --> 00:52:56,036
+Vai me deixar no banco?
+
+749
+00:52:56,037 --> 00:52:58,550
+- Chame do que quiser!
+- E o que eu faço?
+
+750
+00:52:58,551 --> 00:52:59,851
+Foi mal, pessoal.
+
+751
+00:53:01,660 --> 00:53:02,960
+Ocorreu tudo bem...
+
+752
+00:53:02,961 --> 00:53:06,202
+Que valente, esse cara.
+Nos deixando aqui!
+
+753
+00:53:06,203 --> 00:53:08,250
+Ele pode ser o líder,
+
+754
+00:53:08,251 --> 00:53:10,700
+mas podemos tomar
+nossas próprias decisões!
+
+755
+00:53:10,701 --> 00:53:12,438
+Isso aí!
+Espera, espera.
+
+756
+00:53:12,439 --> 00:53:13,739
+O que foi que disse?
+
+757
+00:53:13,740 --> 00:53:16,576
+Há mais de onde
+o fluído roxo veio...
+
+758
+00:53:17,357 --> 00:53:19,454
+E vamos atrás dela.
+
+759
+00:53:19,455 --> 00:53:20,755
+Isso aí!
+
+760
+00:53:21,450 --> 00:53:23,150
+Continuo sem entender nada.
+
+761
+00:53:25,422 --> 00:53:26,950
+Vamos fazer algo?
+
+762
+00:53:28,147 --> 00:53:32,947
+O Museu de História Natural.
+Sempre quis vir aqui.
+
+763
+00:53:33,256 --> 00:53:37,250
+Pare com isso, Donnie.
+30 segundos para polícia chegar.
+
+764
+00:53:41,750 --> 00:53:43,050
+Donnie!
+
+765
+00:53:44,975 --> 00:53:46,275
+Isso mesmo.
+
+766
+00:53:46,276 --> 00:53:48,857
+O Destruidor e os mutantes
+passaram por aqui.
+
+767
+00:53:50,066 --> 00:53:52,450
+E detectei rastros
+de neutrônio.
+
+768
+00:53:53,300 --> 00:53:57,350
+É o ingrediente principal
+para criar um buraco negro.
+
+769
+00:53:57,921 --> 00:53:59,221
+O qual...
+
+770
+00:53:59,656 --> 00:54:03,450
+é a única coisa capaz de romper
+o espaço-tempo.
+
+771
+00:54:04,924 --> 00:54:06,450
+Sabe o que isso significa?
+
+772
+00:54:08,667 --> 00:54:10,150
+Não, não sei.
+
+773
+00:54:10,151 --> 00:54:12,953
+Que o Destruidor não é tão louco
+como pensei que era.
+
+774
+00:54:12,954 --> 00:54:17,050
+Pelos dados que coletei, penso
+que o que estava aqui dentro...
+
+775
+00:54:18,032 --> 00:54:20,950
+Pode ajudá-los a abrir
+um portal para outra dimensão.
+
+776
+00:54:20,951 --> 00:54:22,550
+O que quero saber é...
+
+777
+00:54:23,612 --> 00:54:25,537
+Se um portal será aberto...
+
+778
+00:54:26,629 --> 00:54:28,650
+O que virá do outro lado?
+
+779
+00:54:33,603 --> 00:54:36,261
+Então querem se infiltrar
+na sede da polícia?
+
+780
+00:54:36,262 --> 00:54:37,562
+Isso mesmo.
+
+781
+00:54:37,563 --> 00:54:39,657
+Donnie precisa
+de mais fluído roxo
+
+782
+00:54:39,658 --> 00:54:41,392
+para rastrear
+Bebop e Rocksteady.
+
+783
+00:54:41,393 --> 00:54:44,750
+E você disse que a polícia tem
+muito na sala de evidências.
+
+784
+00:54:44,751 --> 00:54:47,167
+Certo, e Léo está
+de acordo com o plano?
+
+785
+00:54:48,146 --> 00:54:49,950
+Estou no comando
+dessa vez.
+
+786
+00:54:51,676 --> 00:54:53,750
+- Não é, Mikey?
+- Exatamente...
+
+787
+00:54:56,250 --> 00:54:57,550
+Olha...
+
+788
+00:54:58,079 --> 00:55:00,951
+Iremos pelos dutos
+do elevador e da ventilação.
+
+789
+00:55:00,952 --> 00:55:03,435
+Precisamos que vocês fiquem
+no térreo.
+
+790
+00:55:03,436 --> 00:55:04,736
+Eu...
+
+791
+00:55:04,737 --> 00:55:06,850
+Não posso invadir
+a sede da polícia.
+
+792
+00:55:07,673 --> 00:55:08,973
+O que é você,
+um frangote?
+
+793
+00:55:09,550 --> 00:55:12,250
+Quem está chamando
+de frangote, tartaruga?
+
+794
+00:55:12,721 --> 00:55:15,650
+Quer encontrar Bebop
+e Rosksteady ou não?
+
+795
+00:55:19,900 --> 00:55:21,750
+Invadiremos
+a sede da polícia.
+
+796
+00:55:24,587 --> 00:55:26,251
+Mas tem um probleminha,
+
+797
+00:55:27,314 --> 00:55:30,650
+precisamos de ajuda para passar
+vocês pela segurança.
+
+798
+00:55:31,171 --> 00:55:32,850
+O único plano que tenho
+
+799
+00:55:33,527 --> 00:55:35,654
+talvez não seja
+um dos melhores.
+
+800
+00:55:38,855 --> 00:55:40,155
+Vamos a algum lugar?
+
+801
+00:55:40,630 --> 00:55:44,150
+<i>Vou tirar foto com todos.
+Não se preocupem.</i>
+
+802
+00:55:44,151 --> 00:55:45,549
+Vern!
+
+803
+00:55:45,550 --> 00:55:47,166
+Sou grande fã,
+grande fã.
+
+804
+00:55:47,167 --> 00:55:49,703
+Meu Deus, Carmelo Anthony?
+Digo o mesmo!
+
+805
+00:55:49,704 --> 00:55:52,950
+- Legal essa Chave da Cidade.
+- Obrigado, peguei ela.
+
+806
+00:55:52,951 --> 00:55:55,260
+- Melo, posso te chamar de Melo?
+- Tudo bem.
+
+807
+00:55:55,261 --> 00:55:57,850
+Ainda bem
+que veio falar comigo...
+
+808
+00:55:57,851 --> 00:56:00,350
+- Temos muito em comum.
+- Certo.
+
+809
+00:56:00,351 --> 00:56:03,350
+Trazemos diversão e esperança
+para a vida das pessoas.
+
+810
+00:56:03,351 --> 00:56:05,692
+Temos o poder do estrelato.
+
+811
+00:56:05,693 --> 00:56:07,907
+Mesmo sendo um dom,
+essa nossa ligação...
+
+812
+00:56:07,908 --> 00:56:09,550
+- Aí está você.
+- Oi.
+
+813
+00:56:09,551 --> 00:56:12,350
+Melo, gostaria de apresentar
+minha namorada Alessandra.
+
+814
+00:56:12,351 --> 00:56:14,349
+Namorada?
+Acabamos de nos conhecer.
+
+815
+00:56:14,350 --> 00:56:16,970
+- Prazer em conhecê-la.
+- Agora somos inseparáveis...
+
+816
+00:56:16,971 --> 00:56:18,786
+Para com isso.
+Sabe...
+
+817
+00:56:19,850 --> 00:56:23,950
+<i>- Vern!</i>
+- Talvez seja bom eu e você...
+
+818
+00:56:24,538 --> 00:56:25,938
+- Talvez...
+- Temos que ir.
+
+819
+00:56:25,939 --> 00:56:28,248
+Traga a Chave da Cidade.
+
+820
+00:56:30,328 --> 00:56:31,754
+Acho que precisa ir.
+
+821
+00:56:32,190 --> 00:56:33,490
+Pois é.
+
+822
+00:56:34,850 --> 00:56:37,570
+Seu ciúme é sem limites.
+
+823
+00:56:38,070 --> 00:56:40,119
+- Precisamos da sua ajuda.
+- Nós quem?
+
+824
+00:56:42,727 --> 00:56:45,950
+Ora, ora,
+o Príncipe da Cidade.
+
+825
+00:56:45,951 --> 00:56:47,850
+Sabe, dá um tempo, Rafa.
+
+826
+00:56:47,851 --> 00:56:50,450
+Você me deu crédito
+por ter derrotado o Destruidor.
+
+827
+00:56:50,451 --> 00:56:52,921
+E agora que não sabemos
+onde ele está,
+
+828
+00:56:52,922 --> 00:56:55,351
+e já estou me arrependendo
+desse acordo.
+
+829
+00:56:55,352 --> 00:56:58,241
+Ficaremos só conversando ou...
+
+830
+00:56:59,750 --> 00:57:01,770
+- Quem é esse aí?
+- Um perdedor, irmão.
+
+831
+00:57:01,771 --> 00:57:06,350
+Um cara legal,
+se você gosta de covardes.
+
+832
+00:57:07,732 --> 00:57:09,350
+Ou de fortões.
+
+833
+00:57:10,426 --> 00:57:12,058
+Vern, ele faz
+parte do plano.
+
+834
+00:57:12,550 --> 00:57:13,850
+Que plano é esse?
+
+835
+00:57:14,432 --> 00:57:17,432
+O plano de invadir
+a sede da polícia.
+
+836
+00:57:18,763 --> 00:57:21,071
+- O quê?
+- Precisamos achar o Destruidor.
+
+837
+00:57:21,399 --> 00:57:24,049
+Nós?
+Não, não faremos isso.
+
+838
+00:57:24,050 --> 00:57:26,100
+Olha, adoraria ajudar vocês,
+mas não dá.
+
+839
+00:57:26,101 --> 00:57:28,816
+- Tenho um concerto e um almoço.
+- Chave irada.
+
+840
+00:57:28,817 --> 00:57:31,777
+- É de ouro?
+- É só a Chave da Cidade.
+
+841
+00:57:31,778 --> 00:57:35,478
+Vern, como novato
+neste grupo de aberrações.
+
+842
+00:57:35,479 --> 00:57:37,226
+Faça um favor
+a você mesmo
+
+843
+00:57:37,755 --> 00:57:39,288
+e lide com isso.
+
+844
+00:57:39,700 --> 00:57:41,000
+Olha, novato.
+
+845
+00:57:41,001 --> 00:57:43,912
+Tudo que faço é lidar com isso.
+Tenho lidado com isso desde
+
+846
+00:57:43,913 --> 00:57:46,263
+que você usava fraldas
+porque era um bebê.
+
+847
+00:57:46,264 --> 00:57:48,356
+Na sede da polícia
+em 30 minutos.
+
+848
+00:57:49,052 --> 00:57:50,495
+Vejo você lá.
+
+849
+00:57:52,548 --> 00:57:55,132
+- Vejo você lá.
+- Ele acabou de dizer isso.
+
+850
+00:57:58,936 --> 00:58:00,237
+E aí, pessoal?
+
+851
+00:58:00,238 --> 00:58:02,459
+Olha quem chegou.
+Vern "O Falcão" Fenwick!
+
+852
+00:58:09,650 --> 00:58:11,245
+Agradeço pelo trabalho
+de vocês.
+
+853
+00:58:11,246 --> 00:58:13,114
+Pensem no que a cidade é
+para nós.
+
+854
+00:58:14,815 --> 00:58:16,115
+Para o Falcão...
+
+855
+00:58:16,850 --> 00:58:18,550
+Vamos tirar uma foto.
+
+856
+00:58:18,551 --> 00:58:20,206
+Para mostrar
+à família em casa.
+
+857
+00:58:20,207 --> 00:58:21,507
+Ouvi o que disse.
+
+858
+00:58:21,508 --> 00:58:22,808
+Isso.
+Vamos tirar lá.
+
+859
+00:58:22,809 --> 00:58:24,745
+- Estou te vendo aqui.
+- Pode segurar?
+
+860
+00:58:24,746 --> 00:58:27,104
+- Claro!
+- Tirar uma para todos vocês.
+
+861
+00:58:27,105 --> 00:58:28,405
+Tá legal.
+
+862
+00:58:34,703 --> 00:58:36,903
+- Gostam de panorâmica?
+- Claro.
+
+863
+00:58:36,904 --> 00:58:38,204
+Porque fica legal.
+
+864
+00:58:44,514 --> 00:58:47,014
+- Agora, Mikey.
+- Estou indo!
+
+865
+00:58:48,015 --> 00:58:49,315
+ENTRADA LIBERADA
+
+866
+00:58:49,316 --> 00:58:50,952
+- Isso!
+- Certo, sorriam!
+
+867
+00:58:58,950 --> 00:59:00,250
+MIRANDO
+NO ALVO
+
+868
+00:59:12,904 --> 00:59:14,667
+Tenho uma reunião
+em 10 minutos.
+
+869
+00:59:33,787 --> 00:59:35,160
+Cowabunga.
+
+870
+00:59:37,146 --> 00:59:38,446
+ÁREA RESTRITA
+
+871
+00:59:48,530 --> 00:59:49,830
+FOGO
+
+872
+00:59:52,525 --> 00:59:53,827
+O que foi, Mikey?
+
+873
+00:59:53,828 --> 00:59:55,517
+<i>- Mayday mayday!</i>
+- O que foi?
+
+874
+00:59:55,518 --> 00:59:59,600
+O Clã do Pé pegou o fluído roxo,
+precisamos de ajuda na polícia.
+
+875
+00:59:59,601 --> 01:00:01,746
+- Aguenta aí Mikey!
+- Estamos indo.
+
+876
+01:00:04,956 --> 01:00:06,744
+Temos que chegar
+acima da saída.
+
+877
+01:00:24,052 --> 01:00:26,379
+Ficou inSano?
+Não podemos ser vistos!
+
+878
+01:00:26,380 --> 01:00:28,836
+O fluído roxo é nossa chance
+de sermos normais
+
+879
+01:00:28,837 --> 01:00:30,572
+e está saindo
+pela porta da frente.
+
+880
+01:00:33,512 --> 01:00:34,812
+Parado!
+
+881
+01:00:38,850 --> 01:00:41,399
+- Não consigo vê-los!
+- Estão fugindo!
+
+882
+01:00:41,400 --> 01:00:43,000
+Está comigo ou não?
+
+883
+01:00:43,948 --> 01:00:45,248
+Vamos lá!
+
+884
+01:01:01,728 --> 01:01:03,378
+Rafa, o que está fazendo
+com isso?
+
+885
+01:01:03,379 --> 01:01:04,679
+Parados!
+
+886
+01:01:04,680 --> 01:01:07,907
+- Não se mexam!
+- Não, não, não...
+
+887
+01:01:07,908 --> 01:01:09,873
+- Mãos para o alto!
+- Parados!
+
+888
+01:01:09,874 --> 01:01:11,174
+Não se mexa!
+
+889
+01:01:11,175 --> 01:01:13,258
+<i>- Parados! Vamos atirar!</i>
+- Deitem no chão!
+
+890
+01:01:13,259 --> 01:01:15,509
+- Espere, somos os mocinhos!
+- Deitem no chão!
+
+891
+01:01:15,810 --> 01:01:17,110
+Está bem.
+
+892
+01:01:19,230 --> 01:01:20,759
+O que são estas coisas?
+
+893
+01:01:21,448 --> 01:01:22,930
+Eles são monstros.
+
+894
+01:01:24,099 --> 01:01:25,699
+São monstros!
+
+895
+01:01:26,273 --> 01:01:27,873
+Não somos monstros.
+
+896
+01:01:29,241 --> 01:01:31,420
+<i>Não!</i>
+Não atirem!
+
+897
+01:01:31,421 --> 01:01:33,321
+- Não, não!
+- Não atirem!
+
+898
+01:01:33,638 --> 01:01:34,938
+Vão.
+
+899
+01:01:35,416 --> 01:01:36,886
+Vão, agora!
+
+900
+01:01:45,818 --> 01:01:48,799
+Deitem no chão devagar.
+No chão!
+
+901
+01:01:48,800 --> 01:01:51,000
+Jones,
+só pode estar brincando.
+
+902
+01:01:54,001 --> 01:01:55,501
+Prendam os dois!
+
+903
+01:01:56,547 --> 01:02:00,447
+Jade, o que vimos fica aqui,
+as pessoas não precisam saber.
+
+904
+01:02:01,622 --> 01:02:04,373
+Está tudo no rádio
+da polícia.
+
+905
+01:02:04,374 --> 01:02:06,594
+Estão sendo caçados.
+O que houve lá?
+
+906
+01:02:06,595 --> 01:02:10,495
+Fala Rafa, nos expôs
+por um motivo tão egoísta.
+
+907
+01:02:10,496 --> 01:02:12,996
+- Iam pegar o fluído roxo!
+- Não sabia disso.
+
+908
+01:02:12,997 --> 01:02:15,697
+Roubar da polícia não havia
+como não sermos pegos.
+
+909
+01:02:15,698 --> 01:02:17,850
+Se não mentisse
+para seus irmãos de sangue.
+
+910
+01:02:17,851 --> 01:02:19,151
+Como mentiu para April?
+
+911
+01:02:19,152 --> 01:02:21,502
+Agora ela está levando a culpa
+pela sua bagunça.
+
+912
+01:02:24,956 --> 01:02:27,106
+Devia ter visto o olhar
+na cara deles.
+
+913
+01:02:28,063 --> 01:02:29,363
+Não estavam só...
+
+914
+01:02:30,094 --> 01:02:31,720
+Assustados.
+Havia...
+
+915
+01:02:33,112 --> 01:02:34,612
+Ódio de verdade.
+
+916
+01:02:36,815 --> 01:02:38,765
+Ficará tudo bem,
+meu filho.
+
+917
+01:02:38,766 --> 01:02:41,766
+As pessoas temem
+aquilo que não compreendem.
+
+918
+01:02:45,248 --> 01:02:47,410
+Não pode fugir disso.
+
+919
+01:02:48,543 --> 01:02:52,792
+Eu disse, Mestre Splinter.
+Rafa nunca escuta o que digo.
+
+920
+01:02:52,793 --> 01:02:55,543
+Sabia que não aguentariam
+a verdade sobre o fluído roxo
+
+921
+01:02:55,544 --> 01:02:56,844
+E eu estava certo.
+
+922
+01:02:56,845 --> 01:02:58,495
+- Leonardo!
+- Não sei o que fazer!
+
+923
+01:02:58,496 --> 01:02:59,950
+Donnie não larga
+o computador.
+
+924
+01:02:59,951 --> 01:03:01,601
+O cérebro do Rafa
+está nos bíceps.
+
+925
+01:03:01,602 --> 01:03:03,202
+A cabeça do Mikey,
+nas nuvens.
+
+926
+01:03:03,203 --> 01:03:06,378
+Não consigo fazê-los entender,
+pensar com um só mente.
+
+927
+01:03:06,379 --> 01:03:09,489
+Não deveria querer
+que eles pensassem igual.
+
+928
+01:03:09,490 --> 01:03:13,090
+São os pontos de vista distintos
+que tornam a equipe forte.
+
+929
+01:03:13,091 --> 01:03:15,771
+Um bom líder
+entende isso.
+
+930
+01:03:15,772 --> 01:03:17,899
+Um bom irmão...
+
+931
+01:03:17,900 --> 01:03:19,200
+Aceita isso.
+
+932
+01:03:20,552 --> 01:03:21,852
+<i>Galera?</i>
+
+933
+01:03:21,853 --> 01:03:23,350
+Achei uma coisa.
+
+934
+01:03:23,351 --> 01:03:24,651
+Fala comigo, Donnie.
+
+935
+01:03:24,652 --> 01:03:27,799
+O computador achou
+o sinal isotópico do fluído.
+
+936
+01:03:27,800 --> 01:03:30,700
+Posso rastrear as coordenadas
+exatas do Bebop e Rocksteady.
+
+937
+01:03:31,700 --> 01:03:33,000
+Achei eles!
+
+938
+01:03:33,001 --> 01:03:36,152
+Estão a 36 mil pés,
+viajando a 490 nós.
+
+939
+01:03:36,153 --> 01:03:38,003
+Eles conseguiram
+o poder de voar!
+
+940
+01:03:38,444 --> 01:03:39,944
+Bom para eles, sabe.
+
+941
+01:03:40,332 --> 01:03:42,032
+Estão em um avião,
+Mikey.
+
+942
+01:03:43,820 --> 01:03:46,836
+Parece que nossos amigos
+mutantes estão indo ao Brasil.
+
+943
+01:03:46,837 --> 01:03:48,137
+Como chegamos lá?
+
+944
+01:03:48,138 --> 01:03:50,718
+Entramos escondidos
+em um avião de carga no JFK.
+
+945
+01:03:51,420 --> 01:03:53,230
+Eles não são monstros,
+certo?
+
+946
+01:03:53,231 --> 01:03:56,566
+Os monstros daqui são Destruidor
+e dois mutantes que criou.
+
+947
+01:03:56,567 --> 01:03:57,928
+Bebop e Rocksteady.
+
+948
+01:03:57,929 --> 01:04:00,729
+Se acha que pode falar algo
+para dar credibilidade a ela,
+
+949
+01:04:00,730 --> 01:04:02,150
+está muito enganado.
+
+950
+01:04:02,151 --> 01:04:04,951
+Destruidor os mudou com ajuda
+do Baxter Stockman.
+
+951
+01:04:04,952 --> 01:04:06,410
+É com ele
+que tem que falar.
+
+952
+01:04:06,411 --> 01:04:09,180
+Engraçado mencionar
+Dr. Stockman porquê...
+
+953
+01:04:09,181 --> 01:04:13,562
+Terminamos de analisar algumas
+imagens do TCRI que ele nos deu.
+
+954
+01:04:13,563 --> 01:04:15,497
+- Ótimo.
+- Adivinha quem aparece.
+
+955
+01:04:21,519 --> 01:04:22,960
+Não é o que aconteceu.
+
+956
+01:04:22,961 --> 01:04:25,117
+A filmagem foi alterada.
+Foi editada.
+
+957
+01:04:25,118 --> 01:04:26,802
+Checamos a autenticidade.
+
+958
+01:04:27,303 --> 01:04:28,603
+É legítimo.
+
+959
+01:04:28,984 --> 01:04:30,384
+Quero um telefonema.
+
+960
+01:04:31,099 --> 01:04:33,559
+Sinto lhes dizer,
+mas as linhas foram cortadas
+
+961
+01:04:33,560 --> 01:04:35,760
+porque monstros invadiram
+o prédio.
+
+962
+01:04:35,761 --> 01:04:39,380
+Desculpe, mas legalmente tenho
+direito a um telefonema.
+
+963
+01:04:40,492 --> 01:04:43,121
+- Diga-me onde estão.
+- Eu não sei.
+
+964
+01:04:43,971 --> 01:04:45,771
+Mas, se soubesse,
+não te contaria.
+
+965
+01:04:46,477 --> 01:04:47,777
+Chefe...
+
+966
+01:04:48,677 --> 01:04:51,277
+As tartarugas não são
+quem você deveria perseguir.
+
+967
+01:04:53,897 --> 01:04:56,397
+MANAUS, BRASIL
+
+968
+01:05:10,827 --> 01:05:12,198
+<i>Cuidado, agora.</i>
+
+969
+01:05:12,199 --> 01:05:14,399
+<i>Para que serve isto?</i>
+
+970
+01:05:14,400 --> 01:05:16,400
+<i>Absolutamente nada, vadia!</i>
+
+971
+01:05:22,380 --> 01:05:24,080
+Nós achamos!
+
+972
+01:05:40,884 --> 01:05:42,312
+Olha isto!
+
+973
+01:05:44,670 --> 01:05:46,686
+Eu gostei!
+
+974
+01:05:47,839 --> 01:05:49,256
+<i>Chefe, chefe conseguimos!</i>
+
+975
+01:05:49,257 --> 01:05:52,577
+<i>Encontramos aquela coisa super,
+hiper, mega importante.</i>
+
+976
+01:05:52,578 --> 01:05:55,081
+<i>Saia da frente,
+ele tem que me ver, fala chefe!</i>
+
+977
+01:05:55,082 --> 01:05:58,182
+Eles têm a peça final
+e estão voltando.
+
+978
+01:05:58,684 --> 01:06:01,984
+<i>A contagem regressiva
+para o grande show começou.</i>
+
+979
+01:06:01,985 --> 01:06:03,912
+E estamos pronto
+para ação.
+
+980
+01:06:07,584 --> 01:06:10,767
+Nossos sistemas estão
+de prontidão.
+
+981
+01:06:12,146 --> 01:06:14,096
+Consegue sentir isto,
+Mestre Destruidor?
+
+982
+01:06:14,918 --> 01:06:17,815
+A magnitude do que estamos
+prestes a fazer?
+
+983
+01:06:19,313 --> 01:06:21,148
+Delicioso, não é?
+
+984
+01:06:32,570 --> 01:06:34,431
+Não deveriam ter tipo...
+
+985
+01:06:34,732 --> 01:06:38,518
+Lindas aeromoças distribuindo
+toalhinhas ou coisas do tipo?
+
+986
+01:06:38,519 --> 01:06:40,587
+Não aqui embaixo, Mikey.
+
+987
+01:06:41,055 --> 01:06:42,460
+Não para nós.
+
+988
+01:06:48,720 --> 01:06:50,020
+Caramba!
+
+989
+01:06:50,021 --> 01:06:52,420
+Bebop e Rocksteady estão
+voltando à Nova Iorque.
+
+990
+01:06:52,421 --> 01:06:54,222
+- O quê?
+- Já devem ter recuperado
+
+991
+01:06:54,223 --> 01:06:56,080
+o que faltava
+para abrir o portal.
+
+992
+01:06:56,785 --> 01:06:58,834
+Parece que nossos aviões
+vão se cruzar.
+
+993
+01:06:58,835 --> 01:07:00,534
+Isso. Com 915 metros
+de distância.
+
+994
+01:07:00,535 --> 01:07:02,477
+Posso traçar uma rota
+para interceptar,
+
+995
+01:07:02,478 --> 01:07:04,078
+mas teremos que pular.
+
+996
+01:07:04,079 --> 01:07:05,554
+Pular?
+
+997
+01:07:12,387 --> 01:07:13,687
+Caramba!
+
+998
+01:07:14,088 --> 01:07:16,409
+Rapazes, não sei se
+este plano é tão bom.
+
+999
+01:07:16,410 --> 01:07:19,006
+Qual é!
+Não seja medroso, Rafa.
+
+1000
+01:07:19,007 --> 01:07:20,496
+Vai ser divertido!
+
+1001
+01:07:24,704 --> 01:07:27,384
+Precisamos ir agora.
+Só temos 30 segundos.
+
+1002
+01:07:27,385 --> 01:07:28,685
+Vocês sabem o plano.
+
+1003
+01:07:30,030 --> 01:07:31,745
+- Rapazes.
+- O quê?
+
+1004
+01:07:31,746 --> 01:07:33,061
+Ele pulou.
+
+1005
+01:07:34,997 --> 01:07:36,306
+Ele pulou?
+
+1006
+01:07:36,307 --> 01:07:37,956
+Está certo.
+Um por todos.
+
+1007
+01:07:37,957 --> 01:07:39,657
+Espere!
+Você está sem paraquedas!
+
+1008
+01:07:40,821 --> 01:07:43,446
+Não preciso de paraquedas.
+Tenho minha prancha!
+
+1009
+01:07:45,420 --> 01:07:47,572
+Isso é demais!
+
+1010
+01:08:10,579 --> 01:08:12,551
+Estou fora.
+Estou fora...
+
+1011
+01:08:12,552 --> 01:08:13,852
+Estou fora do alvo!
+
+1012
+01:08:13,853 --> 01:08:15,153
+Precisa de carona, irmão?
+
+1013
+01:08:16,009 --> 01:08:18,692
+- Mais devagar, Mikey!
+- Prepare-se para o "ai"!
+
+1014
+01:08:20,348 --> 01:08:22,543
+Ai, ai!
+
+1015
+01:08:23,070 --> 01:08:24,370
+Peguei vocês!
+
+1016
+01:08:26,549 --> 01:08:27,849
+Segura, Mikey.
+
+1017
+01:08:33,402 --> 01:08:34,727
+Presos.
+
+1018
+01:08:36,632 --> 01:08:38,035
+Cadê o Rafa?
+
+1019
+01:08:41,737 --> 01:08:44,170
+Você consegue.
+Você consegue.
+
+1020
+01:08:47,149 --> 01:08:48,929
+O que Vin Diesel faria?
+
+1021
+01:08:49,760 --> 01:08:53,929
+Sem arrependimentos,
+sem medo.
+
+1022
+01:08:53,930 --> 01:08:56,731
+Sem arrependimentos,
+sem medo!
+
+1023
+01:08:59,578 --> 01:09:01,672
+Eu me arrependo!
+Eu tenho medo!
+
+1024
+01:09:03,065 --> 01:09:05,046
+Ele não está
+rápido demais?
+
+1025
+01:09:18,553 --> 01:09:19,853
+Rafa!
+
+1026
+01:09:22,580 --> 01:09:24,034
+Boa pegada!
+
+1027
+01:09:32,714 --> 01:09:35,014
+A boa notícia é,
+vocês estão de paraquedas.
+
+1028
+01:09:35,015 --> 01:09:36,921
+- Paraquedas.
+- A má notícia é...
+
+1029
+01:09:41,955 --> 01:09:44,256
+Este deve ter sido o motivo
+da vinda ao Brasil.
+
+1030
+01:09:44,257 --> 01:09:46,972
+É a coisa de abrir portas
+interdimensionais.
+
+1031
+01:09:46,973 --> 01:09:49,573
+Provavelmente há um nome
+mais técnico, mas...
+
+1032
+01:09:51,542 --> 01:09:53,394
+Rapazes.
+
+1033
+01:09:55,234 --> 01:09:56,701
+Caramba.
+
+1034
+01:10:00,125 --> 01:10:04,377
+Cara! trouxe o moicano de volta?
+Bom para você.
+
+1035
+01:10:04,378 --> 01:10:05,831
+Vocês são piadistas?
+
+1036
+01:10:05,832 --> 01:10:08,968
+Vamos ver quão engraçado será
+quando esmagarmos suas cabeças!
+
+1037
+01:10:12,997 --> 01:10:15,514
+Atenção!
+Cuidado!
+
+1038
+01:10:17,384 --> 01:10:18,684
+Mamãe!
+
+1039
+01:10:22,396 --> 01:10:23,696
+Rapazes!
+
+1040
+01:10:34,439 --> 01:10:36,761
+Cara, é sério?
+
+1041
+01:10:36,762 --> 01:10:39,097
+Minha culpa.
+Acabei me empolgando.
+
+1042
+01:10:43,825 --> 01:10:45,367
+Eu peguei!
+Eu peguei!
+
+1043
+01:10:45,368 --> 01:10:47,461
+- Eu pego de volta.
+- Eu não peguei.
+
+1044
+01:10:47,462 --> 01:10:49,987
+Não se preocupem, rapazes.
+Vou estabilizar o avião.
+
+1045
+01:10:52,372 --> 01:10:53,947
+E não tem cabine.
+
+1046
+01:10:58,478 --> 01:10:59,778
+Cuidado.
+
+1047
+01:10:59,779 --> 01:11:02,138
+Alguns itens podem ter
+se movido durante o voo.
+
+1048
+01:11:21,199 --> 01:11:23,316
+Como está indo aí em cima,
+Donnie?
+
+1049
+01:11:24,119 --> 01:11:27,154
+Está tudo ótimo.
+Estou indo super bem!
+
+1050
+01:11:48,361 --> 01:11:51,187
+Este porco está voando!
+
+1051
+01:12:03,523 --> 01:12:04,826
+Rafa!
+
+1052
+01:12:28,865 --> 01:12:31,695
+- Todo mundo está bem?
+- Estou bem.
+
+1053
+01:12:31,696 --> 01:12:33,296
+Estou bem.
+
+1054
+01:12:33,297 --> 01:12:35,181
+Espere, onde está o Rafa?
+
+1055
+01:12:39,099 --> 01:12:40,399
+Terra.
+
+1056
+01:12:44,200 --> 01:12:46,208
+Terra. Terra.
+Terra.
+
+1057
+01:12:54,626 --> 01:12:56,205
+Isso é embaraçoso.
+
+1058
+01:12:58,158 --> 01:12:59,976
+Vamos nadar, bebê!
+
+1059
+01:13:15,971 --> 01:13:17,413
+Peguei você.
+Peguei você.
+
+1060
+01:13:17,414 --> 01:13:19,616
+- Léo, não!
+- Presta atenção, Donnie!
+
+1061
+01:13:19,617 --> 01:13:21,024
+Estou passando.
+
+1062
+01:13:25,608 --> 01:13:26,920
+Peguei!
+
+1063
+01:13:33,319 --> 01:13:36,140
+Eu peguei!
+Eu peguei!
+
+1064
+01:13:38,984 --> 01:13:41,841
+Donnie!
+
+1065
+01:13:52,408 --> 01:13:53,766
+Obrigado, parceiro!
+
+1066
+01:13:53,767 --> 01:13:55,969
+- Meu camarada!
+- Meu camarada!
+
+1067
+01:13:57,148 --> 01:13:59,297
+Tchau, tartarugas!
+
+1068
+01:13:59,298 --> 01:14:00,921
+Legal da parte deles
+se despedir.
+
+1069
+01:14:02,003 --> 01:14:03,866
+- Levantem a cabeça.
+- O quê?
+
+1070
+01:14:22,833 --> 01:14:24,141
+Obrigado, rapazes.
+
+1071
+01:14:25,275 --> 01:14:26,807
+Trabalho em equipe
+de verdade.
+
+1072
+01:14:32,802 --> 01:14:34,912
+Se irá prestar queixa,
+faça isso logo.
+
+1073
+01:14:34,913 --> 01:14:36,672
+Você ainda deve
+um telefonema a ela.
+
+1074
+01:14:37,722 --> 01:14:40,069
+Eu não devo nada
+a ninguém.
+
+1075
+01:14:40,070 --> 01:14:42,864
+Até que me digam de onde
+aquelas tartarugas vieram.
+
+1076
+01:14:42,865 --> 01:14:44,165
+De Nova Hampshire.
+
+1077
+01:14:45,828 --> 01:14:48,278
+Você realmente é
+mais perdedor que imaginei.
+
+1078
+01:14:53,777 --> 01:14:57,043
+Não se preocupe com ela, Casey.
+Está apenas tentando te irritar.
+
+1079
+01:14:57,044 --> 01:14:58,442
+Não, ela tem razão.
+
+1080
+01:14:59,327 --> 01:15:01,009
+Ouço isso a vida toda.
+
+1081
+01:15:01,010 --> 01:15:03,628
+Sabe, só tenho
+um verdadeiro objetivo.
+
+1082
+01:15:04,129 --> 01:15:07,706
+Quero ser detetive
+da Polícia de Nova Iorque.
+
+1083
+01:15:07,707 --> 01:15:10,963
+Quero afastar os criminosos,
+não só colocá-los em gaiolas.
+
+1084
+01:15:12,416 --> 01:15:15,903
+Mas trabalhando na área
+você aprende duas coisas boas.
+
+1085
+01:15:16,290 --> 01:15:19,404
+Um, justiça vem de todas
+as formas e tamanhos.
+
+1086
+01:15:20,192 --> 01:15:21,492
+E dois...
+
+1087
+01:15:21,493 --> 01:15:24,591
+É bem mais fácil pegar do bolso
+de um policial do que imagina.
+
+1088
+01:15:27,651 --> 01:15:28,960
+Faça sua ligação.
+
+1089
+01:15:33,521 --> 01:15:35,365
+RESPIRAÇÃO DO FALCÃO
+
+1090
+01:15:40,709 --> 01:15:43,642
+- Vernon.
+- O'Neil.
+
+1091
+01:15:43,643 --> 01:15:44,943
+Ouça.
+Preciso que...
+
+1092
+01:15:46,965 --> 01:15:48,908
+O que é esse som?
+
+1093
+01:15:48,909 --> 01:15:51,060
+Uma renda extra.
+Respiração do Falcão.
+
+1094
+01:15:51,061 --> 01:15:54,473
+Tem pessoas querendo pagar $200
+por bolsa do meu ar raro.
+
+1095
+01:15:54,474 --> 01:15:55,924
+Certo,
+esqueça que perguntei.
+
+1096
+01:15:55,925 --> 01:15:57,929
+Casey e eu estamos
+presos.
+
+1097
+01:15:57,930 --> 01:16:00,556
+Que surpresa!
+Por que iriam interrogá-los?
+
+1098
+01:16:00,557 --> 01:16:02,397
+Só porque invadiram
+a sede deles...
+
+1099
+01:16:02,398 --> 01:16:04,820
+Estou com problemas maiores,
+está bem?
+
+1100
+01:16:04,821 --> 01:16:07,586
+Baxter Stockman alterou
+o vídeo da TCRI.
+
+1101
+01:16:07,587 --> 01:16:11,293
+Mas aposto que há outra cópia
+que mostra ele e o Destruidor
+
+1102
+01:16:11,294 --> 01:16:13,599
+transformando Bebop
+e Rocksteady em mutantes.
+
+1103
+01:16:13,600 --> 01:16:16,721
+Olhe...
+O que quer de mim?
+
+1104
+01:16:17,047 --> 01:16:19,909
+Quero que seja o herói
+que a cidade pensa que é.
+
+1105
+01:16:30,207 --> 01:16:33,205
+- Com licença?
+- Esta é uma área restrita.
+
+1106
+01:16:33,206 --> 01:16:34,899
+Restrita?
+
+1107
+01:16:35,528 --> 01:16:39,493
+Sei de algo que abre
+qualquer porta nesta cidade.
+
+1108
+01:16:40,181 --> 01:16:41,981
+A Chave da Cidade.
+
+1109
+01:16:41,982 --> 01:16:43,594
+Você é o Falcão?
+
+1110
+01:16:44,637 --> 01:16:47,410
+Você não ganhou o direito
+de dizer meu nome.
+
+1111
+01:16:47,411 --> 01:16:52,043
+Quer ganhar meu respeito?
+Desça e me traga um Mocachino.
+
+1112
+01:16:54,324 --> 01:16:56,878
+Vigilância secundária.
+Onde vocês estão?
+
+1113
+01:16:56,879 --> 01:17:01,840
+Fala sério, Vern.
+Era cinegrafista antes da fama.
+
+1114
+01:17:02,864 --> 01:17:06,564
+Uma câmera, duas câmeras,
+três câmeras.
+
+1115
+01:17:07,448 --> 01:17:09,883
+Cadê a quarta?
+
+1116
+01:17:11,357 --> 01:17:13,693
+Câmera escondida.
+Bingo!
+
+1117
+01:17:33,934 --> 01:17:35,757
+Bem a tempo.
+
+1118
+01:18:22,225 --> 01:18:25,070
+<i>Acha que ficar do lado de lá
+te torna um herói?</i>
+
+1119
+01:18:25,071 --> 01:18:27,292
+<i>Não pode me empurrar
+daquele jeito, irmão!</i>
+
+1120
+01:18:27,293 --> 01:18:29,406
+Agiu como idiota!
+Ia perder aquela coisa!
+
+1121
+01:18:29,407 --> 01:18:31,909
+- Estava na minha mão.
+- Agiu como estivesse só.
+
+1122
+01:18:31,910 --> 01:18:35,385
+Não é meu trabalho saber
+onde está. Comunique-se!
+
+1123
+01:18:35,386 --> 01:18:37,677
+O que você quer?
+É só lógica, zero habilidade.
+
+1124
+01:18:37,678 --> 01:18:39,969
+Falou o cara que é
+só instintos, zero freios.
+
+1125
+01:18:39,970 --> 01:18:42,463
+O que você sabe?
+É só emoção, zero cérebro.
+
+1126
+01:18:42,464 --> 01:18:44,573
+Como pôde?
+Pode saber muito de estratégia,
+
+1127
+01:18:44,574 --> 01:18:46,562
+mas nada sobre sentimento.
+
+1128
+01:18:52,330 --> 01:18:53,640
+Justo.
+
+1129
+01:18:55,570 --> 01:18:57,601
+Quer saber
+como me sinto?
+
+1130
+01:18:58,365 --> 01:19:00,119
+Podemos ser irmãos...
+
+1131
+01:19:03,124 --> 01:19:04,969
+Mas não somos
+uma equipe.
+
+1132
+01:19:31,952 --> 01:19:33,537
+Está funcionando!
+
+1133
+01:19:33,538 --> 01:19:35,414
+Isso!
+Conseguimos!
+
+1134
+01:19:35,415 --> 01:19:38,382
+Com força total,
+o portal será grande o bastante
+
+1135
+01:19:38,383 --> 01:19:40,161
+para o Tecnodromo vir
+peça por peça.
+
+1136
+01:19:40,162 --> 01:19:42,665
+Isto vai ser inSano!
+
+1137
+01:19:43,247 --> 01:19:45,778
+Galileu, Isaac Newton...
+
+1138
+01:19:46,267 --> 01:19:47,806
+Steve Jobs.
+
+1139
+01:19:48,619 --> 01:19:51,784
+Os nomes deles
+não serão nada
+
+1140
+01:19:51,785 --> 01:19:54,070
+depois
+do que acontecer aqui.
+
+1141
+01:20:13,020 --> 01:20:14,370
+Chefe Vincent.
+
+1142
+01:20:14,761 --> 01:20:16,104
+Sou Vern Fernwick.
+
+1143
+01:20:16,105 --> 01:20:17,924
+Você deve me conhecer por...
+
+1144
+01:20:18,520 --> 01:20:20,206
+Não importa.
+Ouça.
+
+1145
+01:20:20,207 --> 01:20:21,966
+Você precisa ver isto.
+
+1146
+01:20:22,267 --> 01:20:25,490
+<i>- Rock, quem é aquela?
+- O'Neil.</i>
+
+1147
+01:20:25,491 --> 01:20:27,290
+<i>Peguem aquele recipiente!</i>
+
+1148
+01:20:32,790 --> 01:20:34,093
+Deixem-os ir.
+
+1149
+01:20:36,160 --> 01:20:37,532
+Obrigada.
+
+1150
+01:20:38,286 --> 01:20:41,014
+- Falcão.
+- Chefe?
+
+1151
+01:20:41,522 --> 01:20:43,176
+Pode precisar disto.
+
+1152
+01:20:44,061 --> 01:20:45,590
+Bom trabalho.
+
+1153
+01:20:46,000 --> 01:20:50,558
+Agora tenho um javali
+e um rinoceronte para lidar.
+
+1154
+01:20:50,559 --> 01:20:52,058
+Obrigada.
+
+1155
+01:20:52,959 --> 01:20:54,260
+Disponha.
+
+1156
+01:20:54,261 --> 01:20:56,770
+Anuncie o mandado de prisão
+para o Dr. Stockman.
+
+1157
+01:20:56,771 --> 01:20:58,080
+E consiga...
+
+1158
+01:21:53,050 --> 01:21:55,001
+O que está havendo
+lá em cima, Donnie?
+
+1159
+01:21:56,259 --> 01:21:57,818
+Meu Deus.
+
+1160
+01:21:58,247 --> 01:21:59,771
+Destruidor conseguiu.
+
+1161
+01:22:00,437 --> 01:22:02,230
+O portal está abrindo.
+
+1162
+01:22:14,001 --> 01:22:15,411
+De onde aquilo veio?
+
+1163
+01:22:31,250 --> 01:22:32,550
+O que é aquilo?
+
+1164
+01:22:40,200 --> 01:22:42,195
+Incrível.
+Essa nave alienígena
+
+1165
+01:22:42,196 --> 01:22:43,736
+está vindo pedaço
+por pedaço.
+
+1166
+01:22:44,530 --> 01:22:46,461
+Estou entrando
+na base de dados.
+
+1167
+01:22:47,483 --> 01:22:50,004
+- Certo.
+- O nome da nave é...
+
+1168
+01:22:50,005 --> 01:22:52,012
+O Tecnodromo.
+
+1169
+01:22:52,013 --> 01:22:54,375
+O nome do comandante é...
+
+1170
+01:22:54,831 --> 01:22:56,189
+Krang.
+
+1171
+01:22:56,190 --> 01:22:59,264
+Não conheço o cara...
+Mas o odeio!
+
+1172
+01:22:59,265 --> 01:23:02,589
+Se Krang terminar essa coisa,
+não seria apenas uma nave.
+
+1173
+01:23:02,590 --> 01:23:05,226
+Seria uma nave de guerra
+que destruiria a vida aqui.
+
+1174
+01:23:05,227 --> 01:23:07,371
+Seria o fim do mundo.
+
+1175
+01:23:07,737 --> 01:23:09,649
+Mas há algo
+que podemos fazer.
+
+1176
+01:23:09,650 --> 01:23:11,799
+A atmosfera próxima
+ao Tecnodromo
+
+1177
+01:23:11,800 --> 01:23:14,793
+seria tóxica para qualquer um
+com um sistema cardiovascular.
+
+1178
+01:23:14,794 --> 01:23:16,106
+O que está dizendo?
+
+1179
+01:23:16,107 --> 01:23:18,572
+Podemos ser os únicos
+a sobreviver perto do portal
+
+1180
+01:23:18,573 --> 01:23:22,114
+e nos aproximarmos
+do Tecnodromo e desativá-lo.
+
+1181
+01:23:22,115 --> 01:23:23,495
+Mas como?
+Somos procurados.
+
+1182
+01:23:23,496 --> 01:23:25,082
+Pensam que somos monstros.
+
+1183
+01:23:25,083 --> 01:23:28,847
+Precisaremos da polícia conosco.
+Não tentando nos prender.
+
+1184
+01:23:30,309 --> 01:23:31,945
+A menos que...
+
+1185
+01:23:35,179 --> 01:23:36,819
+Um gole...
+
+1186
+01:23:36,820 --> 01:23:39,473
+Seremos os mesmos
+por dentro...
+
+1187
+01:23:39,839 --> 01:23:42,377
+Mas como humanos
+por fora.
+
+1188
+01:23:50,040 --> 01:23:53,132
+Sua juventude está acabando.
+
+1189
+01:23:53,133 --> 01:23:55,426
+Estão se tornando
+jovens adultos.
+
+1190
+01:23:56,048 --> 01:23:59,114
+A decisão é de vocês.
+
+1191
+01:24:01,751 --> 01:24:03,729
+Farei o que disserem.
+
+1192
+01:24:04,654 --> 01:24:05,998
+Vocês decidem.
+
+1193
+01:24:34,347 --> 01:24:36,393
+POSTO DE COMANDO DA POLÍCIA
+
+1194
+01:24:42,782 --> 01:24:44,545
+Você tem certeza
+de que eles vêm?
+
+1195
+01:24:46,154 --> 01:24:47,599
+Estão vindo.
+
+1196
+01:25:05,557 --> 01:25:07,904
+- Não atirem.
+- Não atirem.
+
+1197
+01:25:07,905 --> 01:25:09,492
+<i>Não atirem.</i>
+
+1198
+01:25:09,843 --> 01:25:12,745
+O que são vocês?
+
+1199
+01:25:13,481 --> 01:25:15,520
+Não gostamos de nos rotular.
+
+1200
+01:25:15,521 --> 01:25:17,640
+Alguns nos chamam
+de aberrações,
+
+1201
+01:25:17,941 --> 01:25:19,299
+monstros.
+
+1202
+01:25:19,300 --> 01:25:22,191
+Vamos dizer que somos quatro
+irmãos de Nova Iorque
+
+1203
+01:25:22,192 --> 01:25:25,133
+que odeiam a polícia
+e amam esta cidade.
+
+1204
+01:25:25,520 --> 01:25:28,049
+E agora somos a melhor esperança
+para a cidade.
+
+1205
+01:25:28,591 --> 01:25:30,924
+Por que eu deveria acreditar
+em vocês?
+
+1206
+01:25:30,925 --> 01:25:33,069
+Não precisa
+acreditar em nós.
+
+1207
+01:25:34,029 --> 01:25:35,656
+Acredite nele.
+
+1208
+01:25:39,099 --> 01:25:40,666
+Vá em frente, Vern.
+
+1209
+01:25:40,980 --> 01:25:44,446
+- Fale sobre o acordo?
+- Que acordo?
+
+1210
+01:25:46,916 --> 01:25:50,215
+Aquele acordo.
+
+1211
+01:25:51,157 --> 01:25:53,767
+O Falcão ainda é o Falcão.
+Exceto que...
+
+1212
+01:25:53,768 --> 01:25:57,126
+Eu tive uma pequena ajuda
+dos meus amigos.
+
+1213
+01:25:58,216 --> 01:26:02,371
+Foram eles que derrotaram
+o Destruidor antes.
+
+1214
+01:26:03,149 --> 01:26:04,782
+Eu só ajudei.
+
+1215
+01:26:04,783 --> 01:26:07,155
+Temos feito nossa parte
+para proteger a cidade.
+
+1216
+01:26:07,704 --> 01:26:09,301
+Das sombras.
+
+1217
+01:26:16,250 --> 01:26:18,737
+E achamos que temos
+algo a oferecer.
+
+1218
+01:26:22,116 --> 01:26:24,252
+Vamos precisar
+de uma estratégia.
+
+1219
+01:26:25,492 --> 01:26:26,961
+De instinto.
+
+1220
+01:26:28,409 --> 01:26:31,999
+- Lógica.
+- E muito coração.
+
+1221
+01:26:38,117 --> 01:26:39,417
+Carreguem as armas!
+
+1222
+01:26:39,418 --> 01:26:41,781
+April, Casey e Vern
+vão para o Píer 90.
+
+1223
+01:26:41,782 --> 01:26:44,145
+A força eletromagnética
+do portal vem de lá.
+
+1224
+01:26:44,146 --> 01:26:46,782
+- Estou mandando as coordenadas.
+- Mande uma equipe!
+
+1225
+01:26:47,855 --> 01:26:49,358
+Leve-nos
+ao edifício Chrysler.
+
+1226
+01:26:49,359 --> 01:26:52,698
+Vamos entrar na nave
+e derrotar o Krang.
+
+1227
+01:27:01,494 --> 01:27:03,198
+Vamos, O'Neill,
+entre!
+
+1228
+01:27:12,719 --> 01:27:14,763
+Instalei um respirador
+no capacete.
+
+1229
+01:27:14,764 --> 01:27:18,340
+Nos ajudará a sobreviver
+à atmosfera do Tecnodromo.
+
+1230
+01:27:18,341 --> 01:27:21,764
+E fiz uma versão portátil
+do teletransporte...
+
+1231
+01:27:24,173 --> 01:27:27,188
+Olha o que fizemos.
+Isso é inegável.
+
+1232
+01:27:27,189 --> 01:27:29,164
+Seremos deuses
+para futuras gerações.
+
+1233
+01:27:29,165 --> 01:27:30,935
+Eu serei um deus.
+
+1234
+01:27:30,936 --> 01:27:33,580
+Você será o que sempre foi.
+
+1235
+01:27:34,401 --> 01:27:35,843
+E o que é?
+
+1236
+01:27:35,844 --> 01:27:38,173
+Uma nota de rodapé.
+
+1237
+01:27:41,999 --> 01:27:44,983
+- Não.
+- Leve-o até Tóquio.
+
+1238
+01:27:46,379 --> 01:27:49,797
+Não, não, não!
+Não pode fazer isso comigo!
+
+1239
+01:27:49,798 --> 01:27:52,203
+Não, não!
+
+1240
+01:27:52,204 --> 01:27:54,739
+Eu fiz tudo o que pediu!
+Você prometeu!
+
+1241
+01:27:54,740 --> 01:27:58,813
+Eu sou uma lenda!
+Eu serei uma lenda!
+
+1242
+01:27:58,814 --> 01:28:00,633
+Não pode fazer isso!
+
+1243
+01:28:00,634 --> 01:28:02,709
+O mundo saberá o meu nome!
+
+1244
+01:28:02,710 --> 01:28:06,216
+Ninguém nunca saberá
+quem você é.
+
+1245
+01:28:18,439 --> 01:28:20,026
+Faltam 90 segundos.
+
+1246
+01:28:20,027 --> 01:28:23,748
+Eu tenho aparelhos, armas,
+e comunicação em espera.
+
+1247
+01:28:23,749 --> 01:28:25,250
+Só precisamos de cobertura.
+
+1248
+01:28:25,251 --> 01:28:28,695
+E precisamos achar o transmissor
+que está reunindo todas peças.
+
+1249
+01:28:28,696 --> 01:28:32,105
+Se conseguirmos mandar de volta,
+e April, Casey e Vern fecharem
+
+1250
+01:28:32,106 --> 01:28:33,450
+o portal ao nosso comando.
+
+1251
+01:28:33,451 --> 01:28:36,607
+- Adeus, Tecnodromo.
+- Adeus, Krang.
+
+1252
+01:28:37,350 --> 01:28:39,025
+Trabalho em equipe.
+
+1253
+01:28:39,833 --> 01:28:41,548
+Trabalho em equipe.
+
+1254
+01:28:46,411 --> 01:28:47,876
+Eles estão se separando!
+
+1255
+01:28:47,877 --> 01:28:50,541
+Por que não seguimos
+as tartarugas?
+
+1256
+01:28:50,542 --> 01:28:53,162
+Quando algo de mal acontece,
+fique com as tartarugas!
+
+1257
+01:29:19,958 --> 01:29:23,836
+- Comandante Krang.
+- Aí você está, Destruidor!
+
+1258
+01:29:23,837 --> 01:29:26,130
+Achei que nunca chegaria.
+
+1259
+01:29:26,131 --> 01:29:29,481
+Como pediu,
+o transmissor foi instalado.
+
+1260
+01:29:29,482 --> 01:29:33,829
+Quando o Tecnodromo se juntar,
+governaremos o planeta.
+
+1261
+01:29:33,830 --> 01:29:36,021
+Desculpe-me.
+Nós?
+
+1262
+01:29:36,022 --> 01:29:38,101
+Nós vamos governar?
+
+1263
+01:29:38,102 --> 01:29:41,955
+- Nós éramos uma equipe.
+- "Nós éramos uma equipe"!
+
+1264
+01:29:41,956 --> 01:29:46,447
+Equipes são para fracos,
+família é para os medrosos.
+
+1265
+01:29:46,448 --> 01:29:49,496
+A Terra é o meu brinquedo!
+
+1266
+01:29:49,497 --> 01:29:52,817
+E eu não gosto
+de compartilhar!
+
+1267
+01:29:52,818 --> 01:29:54,552
+Você me traiu!
+
+1268
+01:29:54,553 --> 01:29:58,356
+Na verdade,
+eu nem pensei em você.
+
+1269
+01:30:00,248 --> 01:30:02,173
+De volta
+ao baú de brinquedos
+
+1270
+01:30:02,174 --> 01:30:05,335
+com o resto das coisas
+que quebrei.
+
+1271
+01:30:05,336 --> 01:30:08,282
+<i>Seu pequeno terráqueo.</i>
+
+1272
+01:30:13,612 --> 01:30:16,013
+É hora de um novo jogo.
+
+1273
+01:30:16,014 --> 01:30:19,038
+Cuidado, Terra!
+É hora de brincar!
+
+1274
+01:30:21,493 --> 01:30:23,022
+<i>Saiam, vamos!</i>
+
+1275
+01:30:29,600 --> 01:30:31,060
+<i>Em suas posições!</i>
+
+1276
+01:30:31,885 --> 01:30:33,249
+Levantem os escudos!
+
+1277
+01:30:33,250 --> 01:30:36,505
+- Vamos levá-los para dentro.
+- Formem a barricada!
+
+1278
+01:30:55,238 --> 01:30:57,453
+- Casey!
+- Segurem-se!
+
+1279
+01:30:59,159 --> 01:31:00,459
+Vou entrar!
+
+1280
+01:31:11,519 --> 01:31:13,439
+Casey!
+Casey!
+
+1281
+01:31:28,567 --> 01:31:30,403
+Essa coisa está 57% pronta.
+
+1282
+01:31:30,404 --> 01:31:33,542
+Se não a pararmos,
+estará pronta em quatro minutos.
+
+1283
+01:31:34,616 --> 01:31:36,742
+Gente,
+o que estamos esperando?
+
+1284
+01:31:36,743 --> 01:31:38,813
+- Você consegue?
+- Sim.
+
+1285
+01:31:38,814 --> 01:31:42,494
+- Eu consigo.
+- Hora de surfar, Nova Iorque!
+
+1286
+01:32:07,322 --> 01:32:10,877
+- Ouviram isso?
+- Parece estranho.
+
+1287
+01:32:10,878 --> 01:32:13,510
+Estranho como uma nave espacial
+no céu?
+
+1288
+01:32:13,511 --> 01:32:15,040
+Não.
+
+1289
+01:32:15,846 --> 01:32:17,740
+Estranho como aquilo.
+
+1290
+01:32:24,875 --> 01:32:27,314
+Temos que ficar ligados
+em intrusos.
+
+1291
+01:32:27,315 --> 01:32:29,280
+E com o que os intrusos
+se parecem?
+
+1292
+01:32:29,281 --> 01:32:32,284
+Qualquer um que não seja
+um grande porco ou rinoceronte.
+
+1293
+01:32:33,560 --> 01:32:35,968
+Caramba!
+Escutem.
+
+1294
+01:32:35,969 --> 01:32:38,142
+Vocês cuidam
+do dispositivo do portal.
+
+1295
+01:32:41,972 --> 01:32:43,272
+E eu cuido deles.
+
+1296
+01:32:43,273 --> 01:32:45,175
+Como assim,
+cuidar do dispositivo?
+
+1297
+01:32:45,176 --> 01:32:49,801
+Bata em quem tiver protegendo,
+espere o sinal e desligue.
+
+1298
+01:32:49,802 --> 01:32:53,132
+- Não sabemos quantas são.
+- Você quer trocar?
+
+1299
+01:32:57,725 --> 01:32:59,385
+É, não.
+Cuidaremos do portal.
+
+1300
+01:32:59,386 --> 01:33:00,967
+É o que achei.
+
+1301
+01:33:00,968 --> 01:33:04,685
+Rapaziada!
+Lembram de mim?
+
+1302
+01:33:04,686 --> 01:33:08,041
+- Olha só quem é.
+- Tira, como vai a cachola?
+
+1303
+01:33:08,042 --> 01:33:11,290
+- Vamos!
+- Como quiser.
+
+1304
+01:33:11,291 --> 01:33:13,048
+Vamos nessa, baby!
+
+1305
+01:33:21,282 --> 01:33:23,683
+O scanner indica
+que a localização do transmissor
+
+1306
+01:33:23,684 --> 01:33:26,097
+é perto do módulo de comando
+a uns metros daqui.
+
+1307
+01:33:26,098 --> 01:33:28,200
+Não podemos deixar
+que se complete.
+
+1308
+01:33:28,201 --> 01:33:29,880
+E como vamos fazer isso?
+
+1309
+01:33:29,881 --> 01:33:31,848
+Vamos começar
+com aquela coisa.
+
+1310
+01:33:35,783 --> 01:33:37,163
+Deve ser o Krang.
+
+1311
+01:33:37,164 --> 01:33:39,415
+Certo, para dentro galera!
+
+1312
+01:33:58,342 --> 01:34:00,685
+Não é tão ruim.
+É só um robô idiota.
+
+1313
+01:34:04,011 --> 01:34:07,861
+- Estava esperando coisa pior.
+- E o que seria?
+
+1314
+01:34:07,862 --> 01:34:12,016
+Sei lá, talvez um bigode,
+um cavanhaque sinistro, sabe?
+
+1315
+01:34:15,675 --> 01:34:18,305
+É como um pedaço de chiclete
+mastigado! Com um rosto!
+
+1316
+01:34:18,306 --> 01:34:22,028
+Eu só avisarei uma vez.
+Saiam da minha nave.
+
+1317
+01:34:22,029 --> 01:34:23,692
+Donnie, vá ao painel.
+
+1318
+01:34:23,693 --> 01:34:26,360
+Vamos mandar esse chiclete
+de volta para onde veio.
+
+1319
+01:34:26,361 --> 01:34:29,520
+Chicletinho,
+veremos do que é feito.
+
+1320
+01:34:29,521 --> 01:34:32,650
+Mostrarei a vocês do que sou!
+Disso!
+
+1321
+01:34:35,028 --> 01:34:36,917
+Ele é mais forte
+do que pensei.
+
+1322
+01:34:39,752 --> 01:34:44,097
+É melhor correr!
+Não pode escapar do Bebop!
+
+1323
+01:34:54,851 --> 01:34:57,227
+O quê?
+Por que eu?
+
+1324
+01:35:04,275 --> 01:35:06,620
+- Vamos!
+- Vamos, Mikey!
+
+1325
+01:35:06,621 --> 01:35:09,084
+Você vai cair, Krang!
+
+1326
+01:35:12,733 --> 01:35:15,276
+Faltam 90 segundos
+para essa coisa completar.
+
+1327
+01:35:15,277 --> 01:35:17,108
+É com você, Donnie.
+
+1328
+01:35:18,187 --> 01:35:20,913
+Sem pressão, sem pressão,
+sem pressão.
+
+1329
+01:35:20,914 --> 01:35:24,685
+Sabe, estou ansioso
+para escravizar vocês.
+
+1330
+01:35:24,686 --> 01:35:28,007
+Uma jaula repleta de cágados
+parece uma boa ideia.
+
+1331
+01:35:28,008 --> 01:35:31,562
+Somos tartarugas, não cágados.
+Tem uma diferença enorme.
+
+1332
+01:35:31,563 --> 01:35:34,450
+Isso aí.
+As tartarugas lutam!
+
+1333
+01:35:35,850 --> 01:35:38,800
+Não acho que tenho
+outros de reserva?
+
+1334
+01:35:41,101 --> 01:35:42,401
+Isso aí!
+
+1335
+01:35:42,402 --> 01:35:45,050
+Galera, ele está literalmente
+se rearmando.
+
+1336
+01:35:48,851 --> 01:35:50,700
+Eu te peguei, otário.
+
+1337
+01:36:10,201 --> 01:36:13,350
+Você o viu, Rock? Sei
+que está aqui em algum lugar.
+
+1338
+01:36:16,080 --> 01:36:19,380
+- Donnie!
+- Só mais 10 segundos.
+
+1339
+01:36:19,381 --> 01:36:20,681
+Galera...
+
+1340
+01:36:20,682 --> 01:36:24,270
+Acho que sou muito baixo
+para andar neste brinquedo.
+
+1341
+01:36:24,271 --> 01:36:25,571
+Estúpidos...
+
+1342
+01:36:25,572 --> 01:36:27,171
+Répteis!
+
+1343
+01:36:28,772 --> 01:36:30,372
+Leo, segure-se!
+
+1344
+01:36:41,400 --> 01:36:44,540
+Isto está sendo
+uma encheção de saco.
+
+1345
+01:36:44,541 --> 01:36:47,515
+Sabe o que o Bebop faz
+com quem enche o saco dele?
+
+1346
+01:36:50,800 --> 01:36:52,665
+Venha aqui, garotinho.
+
+1347
+01:36:52,666 --> 01:36:54,766
+Largue o palitinho de picolé.
+
+1348
+01:36:55,867 --> 01:36:58,267
+Está valendo, querido!
+
+1349
+01:36:59,868 --> 01:37:02,000
+Olha...
+Ali está o portal.
+
+1350
+01:37:02,001 --> 01:37:04,854
+Ótimo...
+Ela tem uma espada.
+
+1351
+01:37:05,450 --> 01:37:07,860
+Temos uma calota.
+
+1352
+01:37:08,260 --> 01:37:10,900
+Cadê o sinalizador, Donnie?
+Estamos quase sem tempo.
+
+1353
+01:37:10,901 --> 01:37:13,501
+Já acabou o seu tempo!
+
+1354
+01:37:13,502 --> 01:37:17,602
+Prepare-se para ver
+sua cidade desmoronar.
+
+1355
+01:37:17,603 --> 01:37:19,203
+- E aí, Donnie?
+- Eu tinha razão.
+
+1356
+01:37:19,204 --> 01:37:21,250
+É um sistema de armas
+gigantesco.
+
+1357
+01:37:21,251 --> 01:37:22,651
+Ele está acionando-o agora!
+
+1358
+01:37:28,950 --> 01:37:31,050
+Consegui!
+Achei o sinalizador.
+
+1359
+01:37:31,051 --> 01:37:32,351
+É só que...
+
+1360
+01:37:33,051 --> 01:37:34,351
+Está lá...
+
+1361
+01:37:35,152 --> 01:37:36,452
+Em cima.
+
+1362
+01:37:36,953 --> 01:37:38,253
+Mikey, vá!
+
+1363
+01:37:38,254 --> 01:37:39,854
+Eu pego o sinalizador!
+
+1364
+01:37:40,155 --> 01:37:44,455
+Certo, crianças!
+Acabou a hora da brincadeira.
+
+1365
+01:38:00,450 --> 01:38:02,350
+Estou na vertical!
+
+1366
+01:38:02,351 --> 01:38:04,400
+Vocês também querem?
+
+1367
+01:38:09,101 --> 01:38:10,501
+Eu o peguei!
+
+1368
+01:38:11,702 --> 01:38:13,302
+Pegue-o, Rock!
+
+1369
+01:38:30,103 --> 01:38:31,603
+Pare, pare!
+
+1370
+01:38:39,450 --> 01:38:40,750
+Não...
+
+1371
+01:38:46,850 --> 01:38:48,150
+<i>Rock?</i>
+
+1372
+01:38:48,151 --> 01:38:49,750
+<i>Diga, Beps.</i>
+
+1373
+01:38:49,751 --> 01:38:51,351
+<i>Meu camarada!</i>
+
+1374
+01:38:52,251 --> 01:38:54,230
+Pega, Don!
+
+1375
+01:38:55,631 --> 01:38:56,931
+O sinalizador.
+
+1376
+01:38:56,932 --> 01:38:59,980
+Venha aqui, tartaruguinha!
+
+1377
+01:39:01,181 --> 01:39:03,381
+Deixa eu te dar um abraço.
+
+1378
+01:39:03,382 --> 01:39:05,212
+Adeus.
+
+1379
+01:39:05,213 --> 01:39:06,912
+Certo, certo.
+
+1380
+01:39:07,513 --> 01:39:09,013
+Rafa, vem comigo.
+
+1381
+01:39:15,350 --> 01:39:17,950
+- Uma ajudinha, galera?
+- Aguenta aí, irmãozinho!
+
+1382
+01:39:22,151 --> 01:39:24,751
+Ninguém mexe...
+
+1383
+01:39:25,752 --> 01:39:27,852
+Com o Mikey!
+
+1384
+01:39:37,253 --> 01:39:39,400
+Galera,
+derrotamos o Kraang.
+
+1385
+01:39:39,401 --> 01:39:41,101
+Mas a nave
+ainda está se montando.
+
+1386
+01:39:50,602 --> 01:39:51,902
+Vamos lá!
+
+1387
+01:39:59,903 --> 01:40:01,203
+Donnie!
+
+1388
+01:40:01,204 --> 01:40:02,803
+Drone ativado!
+
+1389
+01:40:17,550 --> 01:40:19,450
+<i>Será bem perto!</i>
+
+1390
+01:40:25,850 --> 01:40:27,980
+<i>Galera, agora!
+Fechem o portal agora!</i>
+
+1391
+01:40:27,981 --> 01:40:29,381
+Deixa comigo.
+
+1392
+01:40:42,850 --> 01:40:45,350
+- Isso!
+- Isso aí!
+
+1393
+01:40:45,351 --> 01:40:46,651
+- É!
+- Isso!
+
+1394
+01:41:00,850 --> 01:41:03,190
+Certo.
+Aqui é a nossa parada.
+
+1395
+01:41:08,791 --> 01:41:11,291
+Eu voltarei, tartarugas!
+
+1396
+01:41:11,292 --> 01:41:14,492
+Mil vezes mais forte!
+
+1397
+01:41:28,450 --> 01:41:30,850
+- Tudo bem, tudo bem.
+- É.
+
+1398
+01:41:30,851 --> 01:41:32,151
+Sabia que funcionaria.
+
+1399
+01:41:32,152 --> 01:41:35,552
+Achou mesmo que quatro
+adolescentes salvariam o mundo?
+
+1400
+01:41:35,553 --> 01:41:37,880
+Claro...
+Pessoal...
+
+1401
+01:41:37,881 --> 01:41:39,710
+Temos uma coisa
+que ninguém mais tem.
+
+1402
+01:41:40,911 --> 01:41:42,211
+Caminhão de lixo!
+
+1403
+01:41:42,212 --> 01:41:43,811
+Caminhão de lixo?
+
+1404
+01:41:43,812 --> 01:41:45,812
+- É...
+- Temos mesmo...
+
+1405
+01:41:45,813 --> 01:41:47,513
+- A outra coisa.
+- A outra!
+
+1406
+01:41:47,814 --> 01:41:50,314
+- O poder da tartaruga!
+- O poder da tartaruga!
+
+1407
+01:41:51,815 --> 01:41:54,100
+<i>Os presidiários foragidos,
+Rocksteady e Bebop,</i>
+
+1408
+01:41:54,101 --> 01:41:57,701
+<i>estão sob custódia da polícia.
+O Dr. Baxter continua livre.</i>
+
+1409
+01:41:57,702 --> 01:42:00,602
+As autoridades garantem
+que a cidade está segura,
+
+1410
+01:42:00,603 --> 01:42:03,103
+mas ainda há muitas dúvidas
+sobre a semana passada.
+
+1411
+01:42:03,104 --> 01:42:05,504
+O que foi aquela ameaça
+no céu?
+
+1412
+01:42:05,505 --> 01:42:07,350
+E como exatamente
+foi revertida?
+
+1413
+01:42:07,351 --> 01:42:08,860
+Mas a maior dúvida é...
+
+1414
+01:42:08,861 --> 01:42:12,961
+Isso importa mesmo? Precisamos
+de um nome e rosto aos heróis?
+
+1415
+01:42:12,962 --> 01:42:16,462
+<i>Ou basta saber
+que estão cuidando da gente</i>
+
+1416
+01:42:16,463 --> 01:42:17,863
+<i>das sombras.</i>
+
+1417
+01:42:17,864 --> 01:42:19,864
+<i>Pelo seu incrível valor</i>
+
+1418
+01:42:19,865 --> 01:42:21,165
+para esta comunidade,
+
+1419
+01:42:21,166 --> 01:42:25,565
+e pela sua firme cooperação
+com nossa Agência,
+
+1420
+01:42:25,566 --> 01:42:28,766
+eu os entrego
+a Chave da Cidade.
+
+1421
+01:42:28,767 --> 01:42:31,890
+Um símbolo
+da nossa apreciação,
+
+1422
+01:42:31,891 --> 01:42:35,391
+respeito
+e da nossa parceira continuada.
+
+1423
+01:42:36,292 --> 01:42:38,870
+Para vocês, irmãos.
+
+1424
+01:42:39,370 --> 01:42:40,670
+Leonardo.
+
+1425
+01:42:40,671 --> 01:42:42,270
+Rafael.
+
+1426
+01:42:42,271 --> 01:42:43,870
+Donatello.
+
+1427
+01:42:43,871 --> 01:42:45,470
+Michelangelo.
+
+1428
+01:42:48,971 --> 01:42:50,271
+Sobrenome?
+
+1429
+01:42:51,772 --> 01:42:55,150
+- Não temos.
+- Nunca pensei nisso. Injusto!
+
+1430
+01:42:56,350 --> 01:42:57,650
+Parabéns!
+
+1431
+01:43:08,250 --> 01:43:10,750
+Tenho uma dessas.
+Não é nada demais.
+
+1432
+01:43:12,450 --> 01:43:14,150
+Eu os ajudei.
+Eles são meus amigos.
+
+1433
+01:43:15,651 --> 01:43:17,751
+Tem planos
+para a próxima semana?
+
+1434
+01:43:18,251 --> 01:43:19,751
+Só minha partida de hóquei.
+
+1435
+01:43:19,752 --> 01:43:21,552
+Quer ir me ver jogar?
+
+1436
+01:43:21,553 --> 01:43:24,150
+Ver?
+Quero jogar contra você!
+
+1437
+01:43:24,551 --> 01:43:26,051
+E vou te destruir.
+
+1438
+01:43:26,652 --> 01:43:28,052
+Aposto que vai!
+
+1439
+01:43:30,153 --> 01:43:34,150
+- Olha minha chave!
+- Não vai durar muito tempo.
+
+1440
+01:43:35,754 --> 01:43:38,210
+Acho que deveriam dar mais
+uma chance às pessoas.
+
+1441
+01:43:38,211 --> 01:43:40,011
+Vão aceitar vocês agora.
+
+1442
+01:43:40,712 --> 01:43:42,612
+Provavelmente está certa.
+
+1443
+01:43:43,713 --> 01:43:45,013
+Mas...
+
+1444
+01:43:46,313 --> 01:43:48,914
+Acho que manteremos
+o nosso acordo.
+
+1445
+01:43:48,915 --> 01:43:52,914
+Se precisar da gente,
+a April sabe onde nos encontrar.
+
+1446
+01:43:52,915 --> 01:43:54,215
+Sério?
+
+1447
+01:43:54,616 --> 01:43:57,116
+Poderiam viver
+uma vida normal.
+
+1448
+01:43:57,616 --> 01:43:59,216
+Como a gente.
+
+1449
+01:43:59,717 --> 01:44:01,017
+Normal?
+
+1450
+01:44:02,718 --> 01:44:04,718
+Onde está a diversão nisso?
+
+1451
+01:44:22,758 --> 01:44:25,758
+<b>Entregue-se à sua inSanidade.
+Junte-se a nós!</b>
+
+1452
+01:44:25,759 --> 01:44:28,759
+<b>@inSanosTV
+www.insanos.tv</b>
+

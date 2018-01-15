@@ -1,0 +1,8551 @@
+1
+00:00:18,746 --> 00:00:23,946
+Traduzido e sincronizado por @tradutrouxa
+
+2
+00:00:24,575 --> 00:00:28,677
+E com aquele filme, <i>2001</i>, você nos
+projetou ao século XXI.
+
+3
+00:00:28,878 --> 00:00:34,417
+Trouxe meu filho Jonathan que, em
+2001, terá a idade que tenho hoje.
+
+4
+00:00:34,618 --> 00:00:39,521
+Talvez ele será melhor ajustado a esse
+tipo de mundo que você está prevendo.
+
+5
+00:00:39,722 --> 00:00:46,662
+A grande diferença é que, quando
+crescer, ele terá um desses em casa.
+
+6
+00:00:46,863 --> 00:00:50,066
+Não um grande como esse, mas um
+console com o qual ele poderá...
+
+7
+00:00:50,266 --> 00:00:55,972
+...se conectar e obter toda a informação
+necessária para seu dia-a-dia.
+
+8
+00:00:56,173 --> 00:00:59,508
+A conta do banco, os ingressos do cinema.
+
+9
+00:00:59,709 --> 00:01:04,948
+Toda a informação necessária para viver
+em uma sociedade moderna.
+
+10
+00:01:05,149 --> 00:01:12,121
+Isso estará compacto na casa dele. Terá uma
+tela de televisão, e um teclado.
+
+11
+00:01:12,422 --> 00:01:15,890
+Ele se comunicará com o computador,
+obterá informações,
+
+12
+00:01:16,090 --> 00:01:20,829
+- ...e o achará trivial como o telefone.
+- Como seria a vida socialmente?
+
+13
+00:01:21,030 --> 00:01:25,668
+Se as vidas giram em torno do computador,
+somos uma sociedade dependente dele?
+
+14
+00:01:25,869 --> 00:01:29,004
+De certa forma sim, mas também
+enriqueceremos nossa sociedade.
+
+15
+00:01:29,204 --> 00:01:32,908
+O computador possibilitará
+vivermos onde quisermos.
+
+16
+00:01:33,108 --> 00:01:37,346
+Um empresário poderá viver em quase
+qualquer canto do mundo...
+
+17
+00:01:37,547 --> 00:01:43,552
+e ainda fazer negócio, através disso.
+É uma coisa linda. Não estaremos presos.
+
+18
+00:01:43,753 --> 00:01:47,357
+Poderemos viver no interior ou
+onde bem entendermos.
+
+19
+00:01:51,928 --> 00:01:55,230
+<i>A tela diz que é um bug do programa
+mas o código de erro tá errado.</i>
+
+20
+00:01:55,430 --> 00:01:58,033
+- <i>É um erro do sistema.</i>
+- <i>Então qual o prognóstico?</i>
+
+21
+00:01:58,233 --> 00:02:00,770
+- <i>Não vai dizer "oi".</i>
+- <i>É claro que vai dizer "oi".</i>
+
+22
+00:02:00,970 --> 00:02:03,238
+- <i>É um erro do sistema.</i>
+- <i>Você fez esse demo.</i>
+
+23
+00:02:03,438 --> 00:02:06,742
+- Falem baixo.
+- Essa coisa tá sobrecarregada.
+
+24
+00:02:06,943 --> 00:02:10,347
+Funcionou ontem. Funcionou
+anteontem. Funcionou há três horas.
+
+25
+00:02:10,548 --> 00:02:13,583
+- Não tá agora, então pula o demo.
+- Foda-se.
+
+26
+00:02:13,783 --> 00:02:16,519
+Todo o resto tá funcionando. Pula o demo.
+
+27
+00:02:16,720 --> 00:02:18,021
+Ele precisa dizer "oi".
+
+28
+00:02:18,222 --> 00:02:21,623
+- Você não tá ouvindo. Não vai dizer "oi".
+- Só arruma...
+
+29
+00:02:21,824 --> 00:02:22,925
+- Arrumar?
+- É.
+
+30
+00:02:25,629 --> 00:02:27,263
+- Em quarenta minutos?
+- Arruma.
+
+31
+00:02:27,463 --> 00:02:29,330
+- Não posso!
+- Quem pode?
+
+32
+00:02:29,530 --> 00:02:31,335
+Eu posso. E não posso.
+
+33
+00:02:33,069 --> 00:02:34,636
+- Tá muito ruim?
+- Tá bem ruim.
+
+34
+00:02:34,837 --> 00:02:38,441
+- Não sei o que isso quer dizer.
+- Quer dizer que vai dar ruim.
+
+35
+00:02:38,642 --> 00:02:41,878
+Abaixem as vozes, Joel
+Pforzheimer está sentado ali.
+
+36
+00:02:42,079 --> 00:02:44,447
+Eu não tô nem... Quem é Joel Pforzheimer?
+
+37
+00:02:44,648 --> 00:02:45,914
+<i>GQ.</i>
+
+38
+00:02:46,115 --> 00:02:48,617
+Ele tá urubuzando há uma semana.
+Você nem notou?
+
+39
+00:02:48,818 --> 00:02:52,899
+Só faz parecer que tá
+bem. Ele tá logo ali.
+
+40
+00:02:53,099 --> 00:02:54,425
+Oi.
+
+41
+00:02:55,725 --> 00:02:58,128
+O que vocês estão dizendo?
+
+42
+00:02:58,329 --> 00:03:02,098
+É algo na velocidade, mas ainda
+não detectamos.
+
+43
+00:03:02,298 --> 00:03:06,401
+- O sintetizador tá rápido o suficiente?
+- Não, aí as taxas tão alteradas e caindo.
+
+44
+00:03:06,601 --> 00:03:09,772
+Dois segundos numa apresentação
+de duas horas. Porque não pular?
+
+45
+00:03:09,972 --> 00:03:14,307
+Nós não podemos. Dois dias atrás, passamos
+uma propaganda no Super Bowl que poderia...
+
+46
+00:03:14,507 --> 00:03:16,210
+ganhar o Oscar de Melhor Curta.
+
+47
+00:03:16,410 --> 00:03:19,180
+Tem mais gente que sabe
+da propaganda do que do jogo.
+
+48
+00:03:19,380 --> 00:03:22,855
+Na propaganda diziam que o Mac salvaria
+o mundo, não que diria "oi".
+
+49
+00:03:23,086 --> 00:03:28,724
+- Nós abrimos em cinco minutos.
+- Não abra. Estamos fazendo uma pausa.
+
+50
+00:03:28,925 --> 00:03:30,659
+- Parte do problema é...
+- O quê?
+
+51
+00:03:30,859 --> 00:03:35,988
+- Se for o hardware, não tenho como abrir.
+- Porquê não?
+
+52
+00:03:36,199 --> 00:03:38,535
+- Você conta ou eu conto?
+- Não começa, cara.
+
+53
+00:03:38,736 --> 00:03:41,904
+- Porque não tem como abrir?
+- Precisa de ferramentas especiais.
+
+54
+00:03:42,104 --> 00:03:46,442
+- Como assim? Pega uma chave-de-fenda.
+- Ele não queria que usuários o abrissem.
+
+55
+00:03:47,342 --> 00:03:50,347
+- Precisa de ferramentas especiais.
+- Isso é sério?
+
+56
+00:03:50,548 --> 00:03:54,483
+Tem um monte de engenheiros aqui.
+Nenhum deles tem?
+
+57
+00:03:54,683 --> 00:03:56,985
+- Não foram muitos que as receberam.
+- E você?
+
+58
+00:03:57,186 --> 00:04:01,758
+- Deixei no escritório, já era madrugada...
+- Ah, meu Deus.
+
+59
+00:04:01,959 --> 00:04:03,826
+- Pula o "oi".
+- Não.
+
+60
+00:04:04,027 --> 00:04:06,928
+- Qual a primeira regra do lançamento?
+- Não vai dar ruim.
+
+61
+00:04:07,128 --> 00:04:08,664
+- Deu ruim.
+- Andy!
+
+62
+00:04:08,865 --> 00:04:12,701
+- Qual Andy?
+- A outra, você tá aqui, porque eu...?
+
+63
+00:04:12,902 --> 00:04:14,669
+- Ele precisa falar com você.
+- Oi.
+
+64
+00:04:14,869 --> 00:04:17,440
+Precisamos apagar todas as luzes,
+até as da saída.
+
+65
+00:04:17,640 --> 00:04:20,009
+- Falamos com o gerente e os bombeiros.
+- E?
+
+66
+00:04:20,210 --> 00:04:22,377
+Não vão deixar desligar as luzes da saída.
+
+67
+00:04:22,577 --> 00:04:24,247
+Eu pago a multa.
+
+68
+00:04:24,448 --> 00:04:27,115
+A multa é eles entrarem aqui
+e evacuarem todo mundo.
+
+69
+00:04:27,315 --> 00:04:29,284
+Você falou que estamos mudando o mundo?
+
+70
+00:04:29,484 --> 00:04:32,855
+Falei, e a menos que mudemos as
+propriedades do fogo, não ligam.
+
+71
+00:04:33,056 --> 00:04:37,894
+Se alguém morrer pisoteado, valerá
+a pena pra quem sobreviver.
+
+72
+00:04:38,095 --> 00:04:40,997
+Pra quem morrer, não valerá
+tanto assim, mas ainda tá bom.
+
+73
+00:04:41,197 --> 00:04:43,199
+Precisa ficar escuro. Breu total.
+
+74
+00:04:43,400 --> 00:04:46,134
+Se livre desses sinais e não me fale como.
+
+75
+00:04:46,335 --> 00:04:48,539
+Arruma o demo.
+
+76
+00:04:51,976 --> 00:04:54,511
+Precisa de ferramentas especiais
+para abrir o Mac?
+
+77
+00:04:54,712 --> 00:04:58,915
+- Você sabia que era um sistema fechado.
+- Não achei que fosse literalmente, credo.
+
+78
+00:04:59,116 --> 00:05:03,752
+Se continuar alienando as pessoas à toa,
+não vai sobrar ninguém pro Mac dizer "oi".
+
+79
+00:05:03,953 --> 00:05:08,658
+Não é à toa. Se der ruim, a IBM vai dominar
+os próximos 50 anos como um vilão do Batman.
+
+80
+00:05:08,859 --> 00:05:12,895
+Lembra a empresa do telefone? Era assim
+que a Bell chamava. Empresa do telefone.
+
+81
+00:05:13,095 --> 00:05:16,866
+IBM será a empresa do computador, em
+dez anos será a empresa da informação,
+
+82
+00:05:17,067 --> 00:05:19,168
+e isso é bem ruim para a humanidade.
+
+83
+00:05:19,369 --> 00:05:21,971
+Então, não temos tempo de
+ser educados ou realistas.
+
+84
+00:05:22,172 --> 00:05:26,108
+Se formos, nosso próximo lançamento
+será na frente de 26 pessoas...
+
+85
+00:05:26,309 --> 00:05:28,944
+e alguém do boteco da esquina.
+
+86
+00:05:29,145 --> 00:05:34,951
+Não anunciamos o demo da voz. Podemos
+retirar e ninguém ficaria desapontado.
+
+87
+00:05:35,152 --> 00:05:41,291
+Você quer tentar ser racional, sabe,
+só pra saber o gostinho?
+
+88
+00:05:42,792 --> 00:05:48,031
+- Ok, tira o demo da voz.
+- Obrigada.
+
+89
+00:05:48,232 --> 00:05:51,668
+- E depois cancele o lançamento.
+- Ok, você me sacaneou.
+
+90
+00:05:51,869 --> 00:05:55,305
+Você pode achar irrelevante,
+mas se o computador não disser "oi",
+
+91
+00:05:55,506 --> 00:05:59,041
+John Sculley, que garanto que
+concorda comigo, também não dirá.
+
+92
+00:05:59,242 --> 00:06:02,711
+Sculley não vai cancelar o
+lançamento porque ele não é doido.
+
+93
+00:06:02,912 --> 00:06:06,449
+Ele também não é hacker e, quanto ao Mac,
+ele vai fazer o que eu pedir.
+
+94
+00:06:06,650 --> 00:06:09,485
+- O que tem aqui?
+- Nada pra você preocupar.
+
+95
+00:06:09,685 --> 00:06:12,754
+- Não abre.
+- Que porra é essa?
+
+96
+00:06:12,955 --> 00:06:15,692
+Porque tem um monte de... Quem fez isso?
+
+97
+00:06:15,893 --> 00:06:17,427
+- Alguém pensou...
+- Quem?
+
+98
+00:06:17,628 --> 00:06:23,233
+Não importa. Pensaram que seri uma boa
+colocar cópias dessa <i>Time</i> nas cadeiras.
+
+99
+00:06:23,434 --> 00:06:26,302
+Todas as cópias estão sendo
+tiradas do prédio.
+
+100
+00:06:26,503 --> 00:06:27,937
+Problema resolvido.
+
+101
+00:06:28,138 --> 00:06:30,872
+- Isso não é um Macintosh.
+- Eu sei.
+
+102
+00:06:31,073 --> 00:06:37,747
+Pensaram que seria uma boa ideia distribuir
+cópias da <i>Time</i> com um não-Macintosh...
+
+103
+00:06:37,948 --> 00:06:39,482
+...no lançamento do Macintosh?
+
+104
+00:06:39,682 --> 00:06:41,283
+O que tão distribuindo na HP?
+
+105
+00:06:41,484 --> 00:06:43,286
+Um monte de maçãs com a minha cara?
+
+106
+00:06:43,487 --> 00:06:46,889
+O raciocínio foi que, já que
+o computador é o Homem do Ano,
+
+107
+00:06:47,090 --> 00:06:50,759
+isso é bom para o nosso negócio, mas,
+como disse, estão sendo removidas.
+
+108
+00:06:50,960 --> 00:06:55,932
+O que eu quero é que você pegue essas
+duas mil cópias, bote na mesa do Kottke...
+
+109
+00:06:56,133 --> 00:06:58,033
+e diga que desejei Feliz Ano Novo.
+
+110
+00:06:58,234 --> 00:07:01,204
+- Tá bom.
+- Dei acesso completo a eles.
+
+111
+00:07:01,405 --> 00:07:03,906
+O campus todinho: Bandley, Apple II, Lisa.
+
+112
+00:07:04,107 --> 00:07:08,411
+Dei Sculley, Markkula. I
+Dei o Woz. Dei acesso a todo mundo!
+
+113
+00:07:08,612 --> 00:07:11,781
+Como chamar a pessoa que achou
+que isso seria uma boa ideia?
+
+114
+00:07:11,982 --> 00:07:14,016
+Não vou te falar quem foi.
+
+115
+00:07:14,217 --> 00:07:16,386
+Foi feito sem maldade e já está resolvido.
+
+116
+00:07:16,587 --> 00:07:20,923
+- Você tem meia hora e temos que conversar.
+- Tipo o quê?
+
+117
+00:07:21,124 --> 00:07:24,793
+Tipo "um milhão em noventa dias".
+
+118
+00:07:24,994 --> 00:07:26,994
+- Joanna...
+- Vinte mil no mês seguinte.
+
+119
+00:07:27,194 --> 00:07:28,362
+São essas as previsões.
+
+120
+00:07:28,562 --> 00:07:33,403
+Essa a minha área. Por favor,
+segure as expectativas.
+
+121
+00:07:33,604 --> 00:07:37,939
+- Segurar? Tô aumentando elas.
+- Não vamos vender um milhão tão rápido.
+
+122
+00:07:38,140 --> 00:07:44,312
+Todo mundo, <i>todo mundo mesmo</i>,
+está esperando pelo Mac.
+
+123
+00:07:44,513 --> 00:07:49,018
+Talvez. Mas o que acontece quando
+descobrirem que, por esse preço,
+
+124
+00:07:49,219 --> 00:07:52,120
+não dá pra fazer nada?
+
+125
+00:07:52,321 --> 00:07:54,823
+Já estava competitivo aos mil
+e quinhentos dólares,
+
+126
+00:07:55,023 --> 00:07:58,360
+mas depois que você trocou o
+Motorola 6809 pelo 68000...
+
+127
+00:07:58,561 --> 00:08:02,398
+Que roda os menus, as janelas,
+o cursor, os gráficos...
+
+128
+00:08:02,598 --> 00:08:05,734
+É, porque todo mundo precisa de
+retângulos com cantos redondos.
+
+129
+00:08:05,934 --> 00:08:09,907
+A classe econômica aterrisa na
+mesma hora que a primeira classe.
+
+130
+00:08:12,241 --> 00:08:17,747
+Não entendi porra nenhuma, mas foi
+assim que chegamos nesse preço,
+
+131
+00:08:17,948 --> 00:08:21,084
+que é o mesmo do PC, que faz muito mais!
+
+132
+00:08:21,285 --> 00:08:24,353
+Quem vai querer um PC?
+Que trouxa vai querer um...
+
+133
+00:08:24,554 --> 00:08:28,089
+Se eu quiser falar que tem uma mancha
+na sua blusa, eu aponto pra ela.
+
+134
+00:08:28,289 --> 00:08:31,827
+Não digo que tá catorze
+centímetros abaixo da gola,
+
+135
+00:08:32,028 --> 00:08:34,796
+três centímetros à
+direita do segundo botão,
+
+136
+00:08:34,996 --> 00:08:37,532
+enquanto tento lembrar
+a marca do refrigerante.
+
+137
+00:08:37,732 --> 00:08:39,034
+Não é assim que pensamos.
+
+138
+00:08:39,234 --> 00:08:43,740
+Se o objetivo era ser fácil de usar,
+você deveria ter colocado memória.
+
+139
+00:08:43,940 --> 00:08:49,455
+Você pode reclamar sobre memória, ou
+sobre preço, mas não sobre os dois.
+
+140
+00:08:49,655 --> 00:08:51,413
+Memória custa dinheiro.
+
+141
+00:08:51,614 --> 00:08:55,833
+Que bom que você tá se abrindo agora,
+porque temos meia hora sobrando.
+
+142
+00:08:56,033 --> 00:08:57,153
+Dá tempo de consertar!
+
+143
+00:08:57,354 --> 00:08:59,889
+Só estou pedindo para
+controlar as expectativas.
+
+144
+00:09:00,090 --> 00:09:02,357
+Olha o rosto deles quando verem o que é.
+
+145
+00:09:02,557 --> 00:09:07,230
+Não vão saber o que é ou porquê gostaram,
+mas vão saber que querem.
+
+146
+00:09:07,431 --> 00:09:11,099
+Não de imediato. Quando ouviram <i>A Sagração
+da Primavera</i> pela primeira vez,
+
+147
+00:09:11,299 --> 00:09:14,135
+arrancaram as cadeiras do teatro.
+Não compraram o álbum.
+
+148
+00:09:14,335 --> 00:09:18,339
+<i>A Sagração da Primavera</i> é a sinfonia mais
+revolucionária e provocativa do século.
+
+149
+00:09:18,539 --> 00:09:20,375
+Era um balé.
+
+150
+00:09:20,576 --> 00:09:24,246
+Mas Igor Stravinsky não disse que
+venderia vinte mil discos por mês.
+
+151
+00:09:24,447 --> 00:09:31,086
+Não sei porque estamos falando do Stravinsky
+sendo que Dan Kottke me fodeu na <i>Time</i>.
+
+152
+00:09:31,287 --> 00:09:37,360
+Olha. Claramente...
+Deixa eu te falar.
+
+153
+00:09:37,561 --> 00:09:40,562
+Claramente, o Daniel não achou que
+tivesse feito nada errado.
+
+154
+00:09:40,762 --> 00:09:44,033
+- Ao falar com a <i>Time</i> sobre isso?
+- É.
+
+155
+00:09:44,234 --> 00:09:46,067
+Não entendi.
+
+156
+00:09:46,268 --> 00:09:50,907
+Quando me contou a história, você
+disse que perguntou pro Dan:
+
+157
+00:09:51,108 --> 00:09:53,942
+"A <i>Time</i> te perguntou se eu
+tenho uma filha chamada Lisa?"
+
+158
+00:09:54,142 --> 00:09:55,378
+E o Dan disse, "Sim".
+
+159
+00:09:56,847 --> 00:10:02,451
+Ele te respondeu honestamente porque
+não achava que tivesse feito nada de errado.
+
+160
+00:10:02,652 --> 00:10:07,222
+Só que, Joanna... Acontece que não
+tenho uma filha chamada Lisa.
+
+161
+00:10:07,423 --> 00:10:11,159
+E agora a história é sobre eu negar
+paternidade e fazer exame de sangue.
+
+162
+00:10:11,360 --> 00:10:14,496
+E é por isso que tem uma...
+Não sei que porra é isso.
+
+163
+00:10:14,697 --> 00:10:20,570
+É por isso que tem um PC
+na capa, e não eu e o Mac.
+
+164
+00:10:20,771 --> 00:10:22,938
+Não sei o que te falar.
+
+165
+00:10:23,139 --> 00:10:29,279
+Eu deveria ter sido o Homem do Ano na <i>Time</i>,
+mas Dan Kottke nasceu.
+
+166
+00:10:34,116 --> 00:10:36,085
+- Bem...
+- O quê?
+
+167
+00:10:36,286 --> 00:10:40,188
+- Ela tá te esperando..
+- Quem?
+
+168
+00:10:40,389 --> 00:10:42,158
+- Chrisann.
+- Brennan?
+
+169
+00:10:42,359 --> 00:10:47,129
+Elas estão no corredor.
+Estão no auditório desde as sete da manhã.
+
+170
+00:10:47,330 --> 00:10:50,566
+Não vou ter uma sessão com a Chrisann agora.
+
+171
+00:10:50,767 --> 00:10:54,269
+Nós demos trezentas credenciais
+de imprensa pro lançamento.
+
+172
+00:10:54,470 --> 00:11:00,543
+Se você irritar a Chrisann,
+ela vai dar trezentas entrevistas,
+
+173
+00:11:00,744 --> 00:11:05,783
+e você vai sentir falta dessa
+treta com o Dan Kottke.
+
+174
+00:11:07,150 --> 00:11:10,219
+Deixa eu acabar com isso logo.
+
+175
+00:11:10,420 --> 00:11:12,520
+Mas não sai. Preciso de você aqui.
+
+176
+00:11:12,721 --> 00:11:14,156
+Quê? Não. Não vou ficar não.
+
+177
+00:11:14,356 --> 00:11:18,026
+Tem menos chance dela fazer
+barraco se você ficar aqui.
+
+178
+00:11:18,226 --> 00:11:24,933
+Acho isso tudo muito pessoal e...
+Não. Não vou ficar.
+
+179
+00:11:25,134 --> 00:11:29,639
+Por favor. Não quero ficar sozinho
+num recinto com a Chrisann.
+
+180
+00:11:32,509 --> 00:11:34,945
+Somos eu e você.
+
+181
+00:11:38,448 --> 00:11:39,917
+Tá bom.
+
+182
+00:11:47,624 --> 00:11:49,093
+Oi.
+
+183
+00:11:55,132 --> 00:11:58,600
+Que surpresa. Vamos entrar?
+
+184
+00:11:58,801 --> 00:12:00,837
+Obrigada.
+
+185
+00:12:03,073 --> 00:12:05,974
+- Você vem junto?
+- Claro, não vou largar ela no corredor.
+
+186
+00:12:06,174 --> 00:12:08,043
+Ok. É um corredor seguro, mas enfim.
+
+187
+00:12:08,243 --> 00:12:10,912
+Lembra da Joanna Hoffman?
+Gerente de marketing do Mac.
+
+188
+00:12:11,112 --> 00:12:13,182
+Bom te ver.
+
+189
+00:12:13,383 --> 00:12:15,650
+Bom te ver também. Oi, Lisa.
+
+190
+00:12:15,851 --> 00:12:18,653
+Uma vez você falou que gosta
+do jeito que eu falo,
+
+191
+00:12:18,854 --> 00:12:22,357
+e de tudo o que já me disseram,
+essa é minha coisa preferida.
+
+192
+00:12:22,558 --> 00:12:24,360
+- Você é da Polônia.
+- Sou sim.
+
+193
+00:12:24,561 --> 00:12:27,129
+- Sabe onde fica?
+- No topo da Terra.
+
+194
+00:12:27,330 --> 00:12:29,097
+Acho que esse é o Pólo Norte.
+
+195
+00:12:29,298 --> 00:12:31,399
+Bom, estamos um pouco atrasados, então...
+
+196
+00:12:31,599 --> 00:12:34,402
+- Vou deixá-los a sós.
+- Porque você faria isso quando...
+
+197
+00:12:34,602 --> 00:12:35,939
+Vou checar o Hertzfeld.
+
+198
+00:12:43,145 --> 00:12:45,548
+Estamos tentando fazer
+um computador dizer "oi",
+
+199
+00:12:45,749 --> 00:12:48,116
+mas ele está bem tímido.
+
+200
+00:12:48,317 --> 00:12:50,052
+Quer vir me ajudar? Ela pode?
+
+201
+00:12:50,253 --> 00:12:54,123
+- Claro.
+- Obrigado.
+
+202
+00:12:54,324 --> 00:12:56,257
+Meu pai deu meu nome pro computador.
+
+203
+00:12:56,457 --> 00:12:59,495
+Não sou seu...
+
+204
+00:12:59,696 --> 00:13:05,169
+- Você sabe o que é uma coincidência, Lisa?
+- Não.
+
+205
+00:13:06,370 --> 00:13:09,404
+Tipo, você conhece alguém.
+
+206
+00:13:09,605 --> 00:13:12,106
+Você fez amizade com alguém
+que também chama Lisa.
+
+207
+00:13:12,306 --> 00:13:13,576
+Seria uma coincidência.
+
+208
+00:13:13,777 --> 00:13:16,678
+<i>"Lisa"</i> quer dizer <i>"Local
+Integrated Systems Architecture."</i>
+
+209
+00:13:16,879 --> 00:13:19,215
+L-I-S-A.
+
+210
+00:13:20,683 --> 00:13:22,785
+É uma coincidência.
+
+211
+00:13:24,487 --> 00:13:26,654
+- Já acabou?
+- Sim.
+
+212
+00:13:27,490 --> 00:13:32,930
+Vem, vamos fazer aquele
+computador falar "oi".
+
+213
+00:13:34,197 --> 00:13:36,097
+Pode ir, Lisa.
+
+214
+00:13:36,298 --> 00:13:39,268
+Então foi o contrário?
+
+215
+00:13:39,469 --> 00:13:41,537
+Eu tenho o nome do computador?
+
+216
+00:13:41,738 --> 00:13:44,807
+Ninguém tem o nome de
+nada. É uma coincidência.
+
+217
+00:13:45,008 --> 00:13:47,144
+Vamos.
+
+218
+00:13:52,049 --> 00:13:53,383
+Qual o seu problema?
+
+219
+00:13:53,584 --> 00:13:56,183
+Qual o <i>seu</i> problema?
+Porque você fala isso pra ela?
+
+220
+00:13:56,383 --> 00:13:58,252
+Porque ainda diz que sou o pai dela?
+
+221
+00:13:58,452 --> 00:14:00,655
+- Um juiz disse que você é o pai dela.
+- Não.
+
+222
+00:14:00,855 --> 00:14:04,625
+Qual o seu prazer em falar pra <i>Time</i> que eu
+dormi com 28% dos homens do país?
+
+223
+00:14:04,825 --> 00:14:08,430
+- O que você ganha com isso?
+- Isso não foi nem de longe o que eu falei.
+
+224
+00:14:10,467 --> 00:14:13,168
+Tá bem aqui.
+
+225
+00:14:13,369 --> 00:14:15,537
+Primeiro, posso te falar algo sobre a <i>Time</i>?
+
+226
+00:14:15,737 --> 00:14:18,440
+Acho que é uma empresa de
+treinamento de assassinos.
+
+227
+00:14:18,640 --> 00:14:22,142
+- "Jobs insiste que", estou citando...
+- Eu não inventei a matemática.
+
+228
+00:14:22,342 --> 00:14:26,615
+"...28% da população masculina
+dos EUA poderia ser o pai."
+
+229
+00:14:26,816 --> 00:14:30,619
+Eu não disse que você dormiu com
+28% dos homens americanos.
+
+230
+00:14:30,820 --> 00:14:37,659
+Usei um algorítmo baseado no exame que disse
+que tenho 94,1% de chance de ser o pai.
+
+231
+00:14:37,860 --> 00:14:40,863
+Você está tentando me pintar
+publicamente como uma puta.
+
+232
+00:14:41,064 --> 00:14:43,465
+Não tô tentando fazer nada
+publicamente com você.
+
+233
+00:14:43,665 --> 00:14:45,867
+Dois milhões de pessoas
+leem a <i>Time</i>. Como...
+
+234
+00:14:46,067 --> 00:14:49,703
+Seria mais se eu estivesse na capa,
+mas Dan Kottke resolveu me ferrar...
+
+235
+00:14:49,903 --> 00:14:52,074
+- Me inscrevi pro Bolsa Família ontem.
+- Hã?
+
+236
+00:14:52,274 --> 00:14:54,878
+Me inscrevi pro Bolsa Família ontem.
+
+237
+00:14:56,178 --> 00:15:00,615
+Aquele artigo dizia que você vale mais
+de quatrocentos milhões na Bolsa,
+
+238
+00:15:00,816 --> 00:15:02,950
+e eu queria saber o que você pensa disso.
+
+239
+00:15:03,150 --> 00:15:07,523
+Penso que as ações da Apple estão bem
+desvalorizadas. Agora é a hora de investir.
+
+240
+00:15:07,724 --> 00:15:10,259
+Sua filha e a mãe dela...
+
+241
+00:15:10,460 --> 00:15:12,561
+- Chrisann...
+- ...estão no Bolsa Família.
+
+242
+00:15:12,761 --> 00:15:15,197
+Moramos num barraco em Menlo Park.
+
+243
+00:15:15,398 --> 00:15:18,835
+Não consigo pagar a conta do aquecedor.
+Ela dorme numa parka.
+
+244
+00:15:19,436 --> 00:15:21,537
+- A sua filha...
+- Ela não é minha filha!
+
+245
+00:15:21,738 --> 00:15:27,543
+Porque, de acordo com a <i>Time</i>,
+eu dormi com 28% dos EUA?
+
+246
+00:15:27,744 --> 00:15:30,948
+Todos exatamente nove
+meses antes da Lisa nascer?
+
+247
+00:15:36,419 --> 00:15:38,287
+Estou com o Andy aqui.
+
+248
+00:15:44,861 --> 00:15:47,331
+Com licença.
+
+249
+00:15:56,405 --> 00:15:57,572
+Conseguimos?
+
+250
+00:15:57,773 --> 00:15:59,575
+- Oi, Chris.
+- Oi, Andy.
+
+251
+00:15:59,776 --> 00:16:01,342
+- Como você tá?
+- Péssima.
+
+252
+00:16:01,543 --> 00:16:02,877
+Já botaram o papo em dia?
+
+253
+00:16:03,077 --> 00:16:06,213
+Me desculpe por dizer oi pro
+meu amigo, que te acha um babaca.
+
+254
+00:16:06,413 --> 00:16:08,115
+- Não te acho um...
+- Conseguimos?
+
+255
+00:16:08,315 --> 00:16:10,951
+- Não. Tem uma chance em seis de dar certo.
+- Merda.
+
+256
+00:16:11,151 --> 00:16:14,790
+Isso aqui não é um pit stop na Fórmula 1.
+Não dá pra ajeitar em segundos.
+
+257
+00:16:14,990 --> 00:16:17,458
+Você não teve segundos,
+você teve três semanas.
+
+258
+00:16:17,658 --> 00:16:20,528
+O universo foi criado em
+um terço desse tempo.
+
+259
+00:16:20,729 --> 00:16:23,398
+Algum dia você vai ter que
+nos contar como conseguiu.
+
+260
+00:16:26,303 --> 00:16:28,736
+Vou fazer o seguinte.
+
+261
+00:16:28,937 --> 00:16:32,874
+Vou anunciar o nome de todos
+que projetaram o lançamento.
+
+262
+00:16:33,075 --> 00:16:35,677
+Vou apresentar cada um
+e pedir pra levantarem.
+
+263
+00:16:35,878 --> 00:16:37,980
+A capa foi desenhada por Susan Kare.
+
+264
+00:16:38,181 --> 00:16:41,884
+A fonte que está na tela
+é obra de Steve Capps.
+
+265
+00:16:42,085 --> 00:16:45,221
+O plano de fundo e os ícones
+foram do Bruce Horn.
+
+266
+00:16:45,422 --> 00:16:50,859
+MacPaint, MacWrite, Alice,
+até a calculadora.
+
+267
+00:16:51,060 --> 00:16:56,666
+E depois vou dizer que o demo da voz
+que não funcionou é coisa do Andy Hertzfeld.
+
+268
+00:17:02,772 --> 00:17:04,238
+Steve...
+
+269
+00:17:04,439 --> 00:17:09,378
+Cinco pra seis é a sua chance de sobreviver
+a uma roleta russa, e você reverteu isso.
+
+270
+00:17:09,579 --> 00:17:13,880
+Então, a menos que você queira ser humilhado
+na frente de todo mundo que você conhece,
+
+271
+00:17:14,080 --> 00:17:17,052
+da Bolsa e da imprensa, é melhor
+não ficar aqui discutindo.
+
+272
+00:17:17,252 --> 00:17:19,921
+É melhor tentar tirar mais balas da arma.
+
+273
+00:17:20,122 --> 00:17:22,258
+Vai, Andy!
+
+274
+00:17:26,729 --> 00:17:28,397
+Espera. Você.
+
+275
+00:17:28,598 --> 00:17:30,299
+- Qual tamanho você veste?
+- Eu?
+
+276
+00:17:30,500 --> 00:17:32,901
+Alguém sabe o tamanho da blusa dele?
+Ou da minha?
+
+277
+00:17:33,201 --> 00:17:35,636
+Alguém sabe onde fica o
+psiquiatra mais próximo?
+
+278
+00:17:35,836 --> 00:17:37,106
+O disquete cabe no bolso.
+
+279
+00:17:38,107 --> 00:17:41,442
+Preciso de uma camisa com bolso
+na frente. Posso tirá-lo no palco.
+
+280
+00:17:41,642 --> 00:17:43,043
+- Uma camisa?
+- O disquete!
+
+281
+00:17:43,243 --> 00:17:46,446
+Preciso de uma camisa branca do
+meu tamanho com bolso na frente.
+
+282
+00:17:46,646 --> 00:17:51,753
+Claro, não há absolutamente nenhuma loja
+aberta a essa hora, em qual devo buscar?
+
+283
+00:17:52,054 --> 00:17:55,724
+Vai no lobby, ache alguém do
+meu tamanho com uma camisa branca.
+
+284
+00:17:55,925 --> 00:17:59,794
+Diga que podem ficar com a minha e
+eu darei um computador de graça.
+
+285
+00:17:59,995 --> 00:18:02,063
+Precisa ser branca? Azul não serve?
+
+286
+00:18:02,264 --> 00:18:06,802
+Não. O Mac é bege, eu sou bege, o disquete
+é azul, a camisa tem que ser branca.
+
+287
+00:18:07,003 --> 00:18:08,237
+Andy?
+
+288
+00:18:29,025 --> 00:18:32,828
+Olá, eu sou o Macintosh.
+
+289
+00:18:33,029 --> 00:18:36,732
+Me traga a cabeça do Andy Hertzfeld.
+
+290
+00:18:36,933 --> 00:18:39,166
+Tentei fazê-lo dizer "oi",
+mas ele é tímido.
+
+291
+00:18:39,366 --> 00:18:41,035
+É.
+
+292
+00:18:41,236 --> 00:18:42,603
+Então, é isso aí?
+
+293
+00:18:42,804 --> 00:18:45,207
+É isso aqui.
+
+294
+00:18:46,609 --> 00:18:48,110
+Eu não entendo.
+
+295
+00:18:48,311 --> 00:18:49,745
+Eu sei.
+
+296
+00:18:49,946 --> 00:18:51,812
+O que as pessoas vão fazer com isso?
+
+297
+00:18:52,012 --> 00:18:53,449
+Lisa, quantos anos você tem?
+
+298
+00:18:53,649 --> 00:18:56,184
+- Você sabe a idade dela.
+- Qual a sua idade, Lisa?
+
+299
+00:18:56,384 --> 00:18:57,454
+Cinco anos.
+
+300
+00:18:58,420 --> 00:19:00,524
+Vem sentar aqui um pouquinho.
+
+301
+00:19:04,494 --> 00:19:06,527
+Você sabe o que é isso aqui?
+
+302
+00:19:06,728 --> 00:19:09,630
+- É um computador.
+- Um computador!
+
+303
+00:19:09,831 --> 00:19:12,134
+Posso pegar sua mão emprestada, rapidinho?
+
+304
+00:19:13,402 --> 00:19:16,139
+Aponta aquela seta e clica.
+
+305
+00:19:17,940 --> 00:19:20,676
+Não precisa, mas se quiser, você
+pode brincar com ele.
+
+306
+00:19:20,877 --> 00:19:24,111
+Nada que você fizer vai quebrá-lo,
+então pode fazer o que quiser.
+
+307
+00:19:24,311 --> 00:19:28,883
+- O que você vai fazer?
+- Vou te pagar o que me mandaram pagar.
+
+308
+00:19:29,084 --> 00:19:31,786
+Trezentos e oitenta e cinco dólares por mês.
+
+309
+00:19:31,987 --> 00:19:36,157
+- Não fui eu quem decidiu a quantidade.
+- E eu estou perguntando como você se sente.
+
+310
+00:19:36,357 --> 00:19:37,458
+Se você se sente bem.
+
+311
+00:19:37,658 --> 00:19:40,661
+- Se parece certo que a sua filha...
+- Ela não é...
+
+312
+00:19:40,862 --> 00:19:47,402
+A sua filha e a mãe dela dependem do governo
+enquanto você vale milhões por essa coisa.
+
+313
+00:19:47,603 --> 00:19:51,439
+A Apple doa computadores para escolas
+carentes, e continuaremos com o Mac...
+
+314
+00:19:51,639 --> 00:19:56,844
+- Oi?
+- A Apple doa computadores para escolas.
+
+315
+00:19:57,045 --> 00:19:58,880
+O que isso tem a ver com...
+
+316
+00:19:59,081 --> 00:20:03,752
+Imagina uma criança desfavorecida que tem o
+professor preferido disponível todo dia.
+
+317
+00:20:03,952 --> 00:20:06,087
+Estamos a minutos de tornar isso possível.
+
+318
+00:20:06,287 --> 00:20:08,624
+Na sua cabeça, isso
+responde a minha pergunta?
+
+319
+00:20:08,824 --> 00:20:09,957
+Qual a pergunta?
+
+320
+00:20:10,959 --> 00:20:13,628
+Não fui eu quem te processou
+por negligência paterna.
+
+321
+00:20:13,828 --> 00:20:15,697
+Foi o Condado de San Mateo.
+
+322
+00:20:15,898 --> 00:20:19,399
+Não, deixa eu te explicar o que aconteceu,
+porque temos tempo de sobra.
+
+323
+00:20:20,437 --> 00:20:22,070
+Com licença, você tem visita.
+
+324
+00:20:22,271 --> 00:20:24,639
+Queria desejar boa sorte. Oi, Chrisann.
+
+325
+00:20:24,840 --> 00:20:27,444
+- Oi, Woz.
+- Espere aí.
+
+326
+00:20:30,979 --> 00:20:33,782
+- Só queria desejar boa sorte.
+- Valeu, pra você também.
+
+327
+00:20:33,982 --> 00:20:35,482
+- É uma manhã importante.
+- É.
+
+328
+00:20:35,682 --> 00:20:39,321
+Você tem que ver a galera lá fora.
+É uma multidão, tipo...
+
+329
+00:20:40,457 --> 00:20:43,524
+Não posso esperar você escolher
+uma metáfora, cara.
+
+330
+00:20:43,725 --> 00:20:46,462
+- Tá bem. Enfim, queria te pedir um favor.
+- É mesmo?
+
+331
+00:20:46,663 --> 00:20:49,231
+- Pode agradecer a equipe do Apple II?
+- Não posso.
+
+332
+00:20:49,432 --> 00:20:50,799
+Só reconheça.
+
+333
+00:20:51,000 --> 00:20:53,768
+Faça com que eles se levantem.
+
+334
+00:20:53,969 --> 00:20:56,770
+- Estamos lançando o Mac.
+- Seria bom pra elevar a moral.
+
+335
+00:20:56,970 --> 00:20:59,440
+Só mencione, para que eles
+possam ser aplaudidos.
+
+336
+00:20:59,640 --> 00:21:02,042
+- Só mencione.
+- Podemos deixar isso pra depois?
+
+337
+00:21:02,442 --> 00:21:03,442
+- Claro.
+- Obrigado.
+
+338
+00:21:03,742 --> 00:21:05,512
+Só quero que sejamos reconhecidos.
+
+339
+00:21:05,712 --> 00:21:08,649
+- Estou com a Chrisann ali. Já volto.
+- Tá bom.
+
+340
+00:21:15,024 --> 00:21:16,024
+Isso.
+
+341
+00:21:16,225 --> 00:21:17,391
+O quê?
+
+342
+00:21:17,592 --> 00:21:21,428
+Você me perguntou o que as pessoas
+vão fazer com isso. É isso que vão fazer.
+
+343
+00:21:22,899 --> 00:21:24,966
+É de um dos engenheiros.
+
+344
+00:21:25,167 --> 00:21:26,937
+Obrigado.
+
+345
+00:21:34,043 --> 00:21:36,146
+Você gostou?
+
+346
+00:21:39,082 --> 00:21:40,181
+Oi?
+
+347
+00:21:40,382 --> 00:21:42,950
+É abstrato.
+
+348
+00:21:43,151 --> 00:21:47,289
+Você usou o MacPaint.
+
+349
+00:21:50,759 --> 00:21:53,529
+Aperte aquela tecla e o "S" ao mesmo tempo.
+
+350
+00:21:56,198 --> 00:21:58,000
+Agora digite seu nome.
+
+351
+00:22:08,578 --> 00:22:10,580
+Sabe qual quadrado diz "Salvar"?
+
+352
+00:22:12,047 --> 00:22:15,217
+Certo. Clica nele.
+
+353
+00:22:22,958 --> 00:22:27,763
+Vou por dinheiro na sua conta e te comprar
+uma casa perto de uma escola boa.
+
+354
+00:22:27,964 --> 00:22:30,732
+Obrigada.
+
+355
+00:22:30,933 --> 00:22:33,735
+Woz quer conversar.
+
+356
+00:22:33,936 --> 00:22:36,204
+E Sculley está te procurando.
+
+357
+00:22:36,405 --> 00:22:39,107
+Acabamos?
+
+358
+00:22:40,043 --> 00:22:43,277
+Você pode me ensinar mais coisas?
+
+359
+00:22:43,478 --> 00:22:45,613
+No computador?
+
+360
+00:22:45,814 --> 00:22:47,583
+Lisa, me espere no corredor.
+
+361
+00:22:50,887 --> 00:22:53,187
+Coloca a jaqueta no corredor.
+
+362
+00:22:53,388 --> 00:22:54,623
+Tchau, Lisa.
+
+363
+00:22:55,691 --> 00:22:58,327
+- Tchau.
+- Lisa, no corredor. Agora.
+
+364
+00:22:58,528 --> 00:23:02,164
+Quando você diz que vai colocar
+dinheiro na minha conta, quanto é?
+
+365
+00:23:02,365 --> 00:23:04,768
+É dia de semana. Ela devia estar na aula.
+
+366
+00:23:06,636 --> 00:23:09,239
+Vou te dar o que você precisar.
+
+367
+00:23:25,888 --> 00:23:30,024
+Woz quer que eu mencione
+a equipe do Apple II.
+
+368
+00:23:30,225 --> 00:23:32,460
+Você deve ter visto que ela parece com você.
+
+369
+00:23:32,860 --> 00:23:36,655
+Não quero insultá-lo, mas seria olhar
+pra trás no pior momento possível.
+
+370
+00:23:36,866 --> 00:23:39,700
+- Eu sei que você me ouviu.
+- Eu te ouvi, Joanna.
+
+371
+00:23:39,901 --> 00:23:42,904
+It's just we're about to do this thing.
+
+372
+00:23:43,105 --> 00:23:48,043
+Às 9:41, o planeta vai sofrer
+uma mudança irreversível.
+
+373
+00:23:48,244 --> 00:23:50,779
+Os dois eventos mais
+importantes do século XX:
+
+374
+00:23:50,980 --> 00:23:53,649
+a vitória dos Aliados na guerra, e isso.
+
+375
+00:23:53,850 --> 00:23:55,016
+Isso.
+
+376
+00:23:55,217 --> 00:24:00,222
+Talvez não seja uma hora boa para brigar por
+eu não ser um bom pai pra minha não-filha.
+
+377
+00:24:00,423 --> 00:24:03,324
+- O teste disse...
+- Tô cagando pro que o teste disse.
+
+378
+00:24:03,525 --> 00:24:07,329
+Não ligo pros 94.1% nem pro algoritmo
+doido que você usou.
+
+379
+00:24:07,530 --> 00:24:09,830
+Vou comprar uma casa, dar dinheiro pra elas.
+
+380
+00:24:10,030 --> 00:24:12,167
+Uma garotinha acha que você é pai dela.
+
+381
+00:24:12,368 --> 00:24:16,671
+Essa é a única matemática que você precisa.
+
+382
+00:24:16,872 --> 00:24:20,207
+Ela acredita. O que você vai
+fazer a respeito disso?
+
+383
+00:24:20,408 --> 00:24:26,682
+Deus enviou seu filho numa missão suicida,
+mas gostamos dele porque ele fez árvores.
+
+384
+00:24:28,051 --> 00:24:30,918
+Venderemos um milhão nos
+primeiros noventa dias.
+
+385
+00:24:31,119 --> 00:24:32,987
+Vinte mil no mês seguinte.
+
+386
+00:24:33,188 --> 00:24:35,792
+Então talvez você queira
+me dar um tempo, Hoffman?
+
+387
+00:25:27,376 --> 00:25:29,377
+- Woz.
+- Ei.
+
+388
+00:25:29,578 --> 00:25:32,013
+Não tem nada nessa máquina
+que não vá te matar.
+
+389
+00:25:32,214 --> 00:25:34,348
+- Só estou olhando.
+- Vamos dar uma volta.
+
+390
+00:25:34,548 --> 00:25:36,350
+- Posso te falar uma coisa?
+- Sim.
+
+391
+00:25:36,551 --> 00:25:40,154
+Depois da reunião em Maui, a equipe do Apple
+II estava nervosa e triste.
+
+392
+00:25:40,354 --> 00:25:42,857
+- Sabe porquê?
+- Porque não mencionamos o Apple II?
+
+393
+00:25:43,057 --> 00:25:46,427
+Porque o Apple II não foi mencio...
+Sim, isso mesmo, você sacou.
+
+394
+00:25:46,628 --> 00:25:49,731
+- O Apple II não foi ignorado de propósito.
+- Eles sabem disso.
+
+395
+00:25:49,931 --> 00:25:53,334
+- Não quero fazer um auê...
+- Aí é com você.
+
+396
+00:25:53,535 --> 00:25:56,503
+- O Apple II é...
+- O Apple II acabou, meu amigo.
+
+397
+00:25:56,703 --> 00:25:59,808
+O Apple II tem pago as nossas
+contas pelos últimos sete anos.
+
+398
+00:26:00,009 --> 00:26:04,044
+E se você constranger essas pessoas, vai
+ter fuga em massa ocorrendo na empresa.
+
+399
+00:26:04,245 --> 00:26:07,214
+Markkula te tirou do Lisa, não fui
+eu nem eles, então não...
+
+400
+00:26:07,414 --> 00:26:11,319
+Markkula me tirou do Lisa porque
+não queria que ele fosse bom.
+
+401
+00:26:11,520 --> 00:26:14,188
+Te dei tudo o que você queria no Apple II.
+
+402
+00:26:14,389 --> 00:26:18,392
+Não é pedir muito? Você não
+perdeu nenhuma discussão.
+
+403
+00:26:18,593 --> 00:26:21,762
+Concorda que as entradas foram
+a razão do sucesso do Apple II?
+
+404
+00:26:21,962 --> 00:26:26,066
+Não é possível. Sete anos e você
+ainda tá nessa das entradas.
+
+405
+00:26:26,267 --> 00:26:29,004
+Você pirou. Esse argumento
+começou lá na garagem.
+
+406
+00:26:29,205 --> 00:26:33,809
+O que você tá falando?
+Porque só duas entradas?
+
+407
+00:26:34,010 --> 00:26:35,811
+A impressora e o modem.
+
+408
+00:26:36,012 --> 00:26:40,415
+Com oito entradas, dá pra... É importante
+colocarmos as oito entradas.
+
+409
+00:26:40,616 --> 00:26:43,318
+Bacana, mas não é isso que estamos fazendo.
+
+410
+00:26:43,519 --> 00:26:45,720
+- Ainda bem que ganhei aquela briga...
+- Woz.
+
+411
+00:26:45,920 --> 00:26:48,822
+...porque o sistema aberto é
+o que amam naquele computador,
+
+412
+00:26:49,022 --> 00:26:51,323
+é o porquê dele ter vendido
+e de ainda vender.
+
+413
+00:26:51,523 --> 00:26:55,964
+- Não vamos fazer um sistema aberto.
+- Claro que vamos, é o que o povo quer e...
+
+414
+00:26:56,165 --> 00:26:58,833
+O povo não sabe o que quer
+até que mostremos a eles.
+
+415
+00:26:59,034 --> 00:27:03,504
+Usuários sérios querem customizar,
+modificar, incrementar.
+
+416
+00:27:03,705 --> 00:27:07,042
+Querem que engenheiros como eu
+aumentem as possibilidades, sabe?
+
+417
+00:27:07,243 --> 00:27:10,879
+Placas de áudio e de vídeo melhores,
+displays melhores, memórias maiores.
+
+418
+00:27:11,080 --> 00:27:13,315
+Por isso temos três mil pessoas aqui agora.
+
+419
+00:27:13,515 --> 00:27:17,352
+As entradas possibilitaram que o
+Apple II rodasse programas tipo o VisiCalc,
+
+420
+00:27:17,552 --> 00:27:21,656
+que acredito ter sido responsável por vender
+uns vinte ou trinta mil computadores.
+
+421
+00:27:21,856 --> 00:27:24,325
+- Eles querem entradas.
+- Eles não podem opinar.
+
+422
+00:27:24,526 --> 00:27:28,562
+Quando Dylan escreveu "Shelter from
+the Storm," não pediu ajuda com a letra.
+
+423
+00:27:28,762 --> 00:27:31,733
+Peças de teatro não param pro
+público dar palpite no enredo.
+
+424
+00:27:31,933 --> 00:27:33,200
+- Pintores...
+- Os fãs...
+
+425
+00:27:33,400 --> 00:27:35,870
+Nos estamos à beira de... Fãs?
+
+426
+00:27:36,071 --> 00:27:38,206
+Uma impressora e um modem. Duas entradas.
+
+427
+00:27:39,108 --> 00:27:44,478
+Adoro o Apple II, mas não vou desenterrar
+um produto no lançamento de outro.
+
+428
+00:27:44,679 --> 00:27:47,882
+- Computadores não são pinturas.
+- Foda-se.
+
+429
+00:27:48,083 --> 00:27:51,285
+Vou falar "foda-se" pra isso até você
+morrer ou desistir.
+
+430
+00:27:51,486 --> 00:27:52,987
+- Steve...
+- Tenta.
+
+431
+00:27:53,188 --> 00:27:54,221
+- Steve.
+- Fala.
+
+432
+00:27:54,421 --> 00:27:56,925
+- Computadores não são pinturas.
+- Foda-se.
+
+433
+00:27:57,126 --> 00:27:59,995
+São sim, e o que eu quero
+é um sistema fechado.
+
+434
+00:28:00,196 --> 00:28:04,100
+Controle total. Totalmente
+incompatível com tudo.
+
+435
+00:28:08,137 --> 00:28:10,572
+Computadores não devem ter falhas humanas.
+
+436
+00:28:10,773 --> 00:28:14,009
+Não vou construir esse com as suas.
+
+437
+00:28:25,454 --> 00:28:26,553
+Steve!
+
+438
+00:28:27,590 --> 00:28:31,225
+Hoje é sobre o Macintosh.
+E o Mac é meu.
+
+439
+00:28:31,426 --> 00:28:32,994
+- Eu reconheço isso.
+- Obrigado.
+
+440
+00:28:33,195 --> 00:28:36,831
+Eu sei. Só mencione a equipe do Apple II,
+porque é o certo a se fazer.
+
+441
+00:28:37,032 --> 00:28:40,467
+Vamos saber logo se você é Leonardo
+da Vinci ou se acha que é,
+
+442
+00:28:40,668 --> 00:28:42,336
+mas enquanto isso, seria ótimo...
+
+443
+00:28:42,536 --> 00:28:45,139
+Enquanto isso, o Apple II acabou.
+
+444
+00:28:45,340 --> 00:28:47,207
+Sete anos. Foi uma boa jornada.
+
+445
+00:28:47,408 --> 00:28:49,746
+Você deveria voltar e pegar um assento.
+
+446
+00:28:51,647 --> 00:28:54,448
+O Mac é do Jef Raskin.
+
+447
+00:28:54,649 --> 00:28:56,051
+Me fala.
+
+448
+00:28:56,252 --> 00:28:58,018
+- Computadores não são...
+- Foda-se.
+
+449
+00:29:04,126 --> 00:29:06,062
+Cinco, seis...
+
+450
+00:29:07,362 --> 00:29:09,297
+- Conseguimos?
+- Preciso de mais tempo.
+
+451
+00:29:09,497 --> 00:29:11,231
+- Não tem jeito.
+- Vinte minutos.
+
+452
+00:29:11,431 --> 00:29:13,435
+- São 8:58.
+- Podemos atrasar.
+
+453
+00:29:13,636 --> 00:29:16,236
+Somos uma empresa de computação,
+não podemos atrasar.
+
+454
+00:29:16,437 --> 00:29:18,305
+- Então tenho outra ideia.
+- Qual?
+
+455
+00:29:18,506 --> 00:29:21,008
+É enganosa e praticamente antiética.
+
+456
+00:29:21,209 --> 00:29:23,078
+- Tô ouvindo
+- O demo roda no 512.
+
+457
+00:29:23,279 --> 00:29:25,045
+- Você testou?
+- Sim.
+
+458
+00:29:25,246 --> 00:29:29,383
+- Vai rodar o sistema do 128 em um 512?
+- Ninguém vai saber.
+
+459
+00:29:29,584 --> 00:29:32,087
+E você acha que isso é
+<i>praticamente</i> antiético?
+
+460
+00:29:32,288 --> 00:29:34,989
+Que outra opção eu tenho?
+
+461
+00:29:35,190 --> 00:29:38,693
+Por favor, me explica porque é
+tão importante que ele diga "oi".
+
+462
+00:29:38,894 --> 00:29:42,764
+Hollywood. Transformaram computadores
+em coisas assustadoras.
+
+463
+00:29:42,965 --> 00:29:47,200
+Tá vendo como parece um rosto feliz, com a
+entrada do disquete parecendo um sorriso?
+
+464
+00:29:47,400 --> 00:29:51,072
+É caloroso e precisa dizer "oi".
+
+465
+00:29:51,273 --> 00:29:53,408
+Precisa dizer "oi" porque ele <i>pode</i> dizer.
+
+466
+00:30:01,550 --> 00:30:03,517
+Não estamos cometendo fraude.
+
+467
+00:30:03,718 --> 00:30:06,620
+O 512 vai ser lançado em menos de um ano.
+
+468
+00:30:06,821 --> 00:30:09,792
+Me perdoa?
+
+469
+00:30:11,393 --> 00:30:15,629
+O computador em <i>2001</i> dizia "oi" o
+tempo todo e ainda me deixava cagada.
+
+470
+00:30:15,830 --> 00:30:17,967
+Me perdoa.
+
+471
+00:30:19,067 --> 00:30:21,602
+Só por isso.
+
+472
+00:30:21,803 --> 00:30:24,104
+E só por enquanto.
+
+473
+00:30:24,305 --> 00:30:30,078
+Senhoras e senhores, por favor recebam
+um dos fundadores, Mike Markkula.
+
+474
+00:30:35,650 --> 00:30:39,654
+Tá bem, certo.
+
+475
+00:30:39,855 --> 00:30:42,256
+Vá lá mudar o universo, Steven.
+
+476
+00:30:42,457 --> 00:30:44,559
+Te vejo em algumas horas.
+
+477
+00:30:44,760 --> 00:30:48,696
+Vou mostrá-los a parte formal
+dessa apresentação, a parte jurídica.
+
+478
+00:30:48,897 --> 00:30:52,332
+Graças a Deus, a cavalaria chegou.
+
+479
+00:30:52,533 --> 00:30:55,969
+Ouvi que você estava pior que
+o normal hoje. Achava isso impossível.
+
+480
+00:30:56,169 --> 00:30:59,206
+Aparentemente não sou
+mais o "Previsor do Steve".
+
+481
+00:30:59,407 --> 00:31:01,609
+Esse aqui é um Margaux de 1955.
+
+482
+00:31:01,810 --> 00:31:05,245
+- São nove da manhã.
+- É um Margaux de 1955.
+
+483
+00:31:07,615 --> 00:31:11,820
+Tô imaginando coisas ou você
+começou a se vestir como eu?
+
+484
+00:31:12,021 --> 00:31:15,322
+Foi ideia de jerico colocar o Markkula
+pra abrir com os relatórios.
+
+485
+00:31:15,522 --> 00:31:17,058
+É tipo jogar água no público.
+
+486
+00:31:17,258 --> 00:31:20,495
+Uma caixa d'água enorme virando
+no teto teria o mesmo efeito.
+
+487
+00:31:20,695 --> 00:31:22,362
+Seria melhor pra ele.
+
+488
+00:31:22,563 --> 00:31:24,832
+- Ah, só relaxa.
+- Porquê?
+
+489
+00:31:25,033 --> 00:31:27,802
+Não sei. Nunca me
+perguntaram o porquê antes.
+
+490
+00:31:28,003 --> 00:31:30,206
+Toma aqui.
+
+491
+00:31:35,643 --> 00:31:38,379
+Você é o único que vê o mundo como eu.
+
+492
+00:31:38,580 --> 00:31:41,217
+Ninguém vê o mundo como você.
+
+493
+00:31:42,450 --> 00:31:44,319
+Sou como Júlio César, John.
+
+494
+00:31:44,520 --> 00:31:46,888
+- Estou cercado por inimigos.
+- Não tá nada.
+
+495
+00:31:47,089 --> 00:31:50,190
+- O conselho...
+- Que nada. O conselho te aprova.
+
+496
+00:31:50,391 --> 00:31:51,825
+Só porque você está lá.
+
+497
+00:31:52,026 --> 00:31:56,397
+Acho que é um bom conselho, mas se quiser
+que eu os cutuque, podemos conversar.
+
+498
+00:31:56,598 --> 00:32:00,834
+Quero é que os empurre de
+uma janela, se for a saída mais próxima.
+
+499
+00:32:01,035 --> 00:32:03,238
+O olhar deles quando mostramos a propaganda.
+
+500
+00:32:03,439 --> 00:32:05,873
+Não vi, porque estavam
+batendo a cabeça na mesa.
+
+501
+00:32:06,074 --> 00:32:09,811
+Pois é. Um dia depois que
+passou, <i>só uma vez,</i>
+
+502
+00:32:10,012 --> 00:32:13,414
+o editor da <i>Adweek</i> chamou de
+"o melhor comercial de todos os tempos".
+
+503
+00:32:13,614 --> 00:32:16,148
+De todos os tempos! E é mesmo.
+
+504
+00:32:16,349 --> 00:32:20,085
+Se alguém fizer melhor, vai ser Chiat/Day,
+que o conselho quer substituir,
+
+505
+00:32:20,285 --> 00:32:22,055
+e vai ser Lee Clow,
+que acham doido.
+
+506
+00:32:51,486 --> 00:32:53,220
+Usamos skinheads como figurantes?
+
+507
+00:32:53,421 --> 00:32:55,689
+- Me disseram que sim.
+- É.
+
+508
+00:32:55,890 --> 00:32:58,559
+Pagamos skinheads? Dei
+dinheiro pra esse povo?
+
+509
+00:32:58,759 --> 00:33:01,527
+- Eles tinham o visual que você queria.
+- Os skinheads?
+
+510
+00:33:01,727 --> 00:33:03,931
+- Pois é.
+- Ok, vamos deixar isso em segredo.
+
+511
+00:33:15,945 --> 00:33:18,379
+- Quem mais sabe?
+- Sabe do quê?
+
+512
+00:33:18,580 --> 00:33:21,482
+- Que empregamos terroristas.
+- John...
+
+513
+00:33:21,683 --> 00:33:25,319
+Estavam errados sobre o comercial,
+mas é um bom conselho. São gente boa.
+
+514
+00:33:25,519 --> 00:33:27,453
+O único problema... É que são pessoas.
+
+515
+00:33:27,653 --> 00:33:31,225
+Pessoas. Nossa própria natureza
+humana é algo a ser superado.
+
+516
+00:33:31,426 --> 00:33:36,231
+Quando eu dirigia a Pepsi, nos dávamos
+bem ao focar em grupos dos 18 aos 55 anos...
+
+517
+00:33:36,432 --> 00:33:38,632
+- ...que não fossem terroristas.
+- Entendi.
+
+518
+00:33:38,833 --> 00:33:40,668
+Você não está cercado por inimigos.
+
+519
+00:33:40,868 --> 00:33:42,536
+Estamos quase lá.
+
+520
+00:33:42,737 --> 00:33:45,372
+Estou indeciso quanto ao Dylan.
+
+521
+00:33:45,573 --> 00:33:48,441
+- Talvez eu cite uma estrofe diferente.
+- Quais as opções?
+
+522
+00:33:48,641 --> 00:33:52,714
+<i>"For the loser now will be
+later to win,"</i> a que eu uso.
+
+523
+00:33:52,915 --> 00:33:55,550
+Ou <i>"Come mothers and fathers
+throughout the land...</i>
+
+524
+00:33:55,751 --> 00:33:58,185
+<i>...and don't criticize what
+you can't understand.</i>
+
+525
+00:33:58,385 --> 00:34:01,488
+- <i>Your sons and your daughters"...</i>
+- <i>"Are beyond your command."</i>
+
+526
+00:34:01,688 --> 00:34:05,860
+Acabei de perder pro Andy Hertzfeld. Ele
+apostou que você mudaria pra essa estrofe.
+
+527
+00:34:06,060 --> 00:34:09,165
+Temos quarenta e cinco
+segundos. Quero te perguntar algo.
+
+528
+00:34:10,432 --> 00:34:14,902
+Porque quem é adotado se sente
+rejeitado em vez de escolhido?
+
+529
+00:34:15,103 --> 00:34:16,169
+Isso foi aleatório.
+
+530
+00:34:16,369 --> 00:34:19,038
+<i>"Your sons and your daughters
+are beyond your command.</i>
+
+531
+00:34:19,238 --> 00:34:20,841
+<i>Your old road is rapidly aging."</i>
+
+532
+00:34:21,041 --> 00:34:25,347
+Então vai se fuder, eu sou Steve
+Jobs e os tempos estão mudando.
+
+533
+00:34:26,447 --> 00:34:28,016
+Não me sinto rejeitado.
+
+534
+00:34:28,217 --> 00:34:30,018
+- Certeza?
+- Absoluta.
+
+535
+00:34:30,219 --> 00:34:32,687
+Não é como se o bebê nacesse
+e os pais pensassem:
+
+536
+00:34:32,888 --> 00:34:35,556
+"Nah, não tamos a fim desse não."
+
+537
+00:34:35,757 --> 00:34:37,559
+Por outro lado, alguém te escolheu.
+
+538
+00:34:42,030 --> 00:34:44,132
+É como não ter controle.
+
+539
+00:34:45,968 --> 00:34:47,969
+Você descobre que não tem controle...
+
+540
+00:34:48,169 --> 00:34:51,407
+...quando os eventos mais importantes
+da sua vida começam.
+
+541
+00:34:53,842 --> 00:34:56,412
+Desde que você tenha controle.
+
+542
+00:34:57,713 --> 00:35:00,216
+Não entendo quem desiste do controle.
+
+543
+00:35:01,684 --> 00:35:05,018
+O que levou Hertzfeld a apostar?
+
+544
+00:35:05,219 --> 00:35:09,324
+Ele estava me alertando que ser a figura
+paterna da sua vida pode ser perigoso.
+
+545
+00:35:09,525 --> 00:35:12,726
+Guarda a grana. Vou usar
+a primeira estrofe mesmo.
+
+546
+00:35:12,927 --> 00:35:13,960
+Ótimo.
+
+547
+00:35:14,160 --> 00:35:16,196
+- O que ele quis dizer com isso?
+- Nada.
+
+548
+00:35:16,396 --> 00:35:19,000
+Estou orgulhoso de você.
+
+549
+00:35:19,201 --> 00:35:22,402
+Valeu, chefe.
+
+550
+00:35:22,603 --> 00:35:26,341
+<i>É com prazer que apresento
+meu amigo e CEO da Apple,</i>
+
+551
+00:35:26,542 --> 00:35:28,076
+<i>John Sculley.</i>
+
+552
+00:35:28,277 --> 00:35:29,743
+John?
+
+553
+00:35:29,944 --> 00:35:31,112
+Quê?
+
+554
+00:35:31,313 --> 00:35:34,150
+Lisa fez um desenho no Mac.
+
+555
+00:35:37,753 --> 00:35:41,054
+<i>O Macintosh, o computador pessoal
+quase mitológico da Apple,</i>
+
+556
+00:35:41,255 --> 00:35:44,659
+<i>tremeu na batalha contra
+o titã da indústria, o IBM.</i>
+
+557
+00:35:44,860 --> 00:35:48,395
+<i>As vendas, originalmente previstas
+de um milhão no primeiro trimestre,</i>
+
+558
+00:35:48,595 --> 00:35:52,567
+<i>foram de trinta e cinco mil
+unidades desde o lançamento</i>
+
+559
+00:35:52,768 --> 00:35:56,235
+<i>A insistência de Steve Jobs naquilo
+que é chamado de "controle total",</i>
+
+560
+00:35:56,435 --> 00:36:00,375
+<i>ou seja, incompatibilidade com a maioria
+dos hardwares e softwares externos,</i>
+
+561
+00:36:00,576 --> 00:36:03,678
+<i>foi a falha shakespeareana em uma
+máquina que</i> tinha <i>potencial.</i>
+
+562
+00:36:03,878 --> 00:36:06,480
+<i>Duas fábricas da Apple Computers
+foram fechadas hoje,</i>
+
+563
+00:36:06,681 --> 00:36:08,315
+<i>devido às vendas decepcionantes.</i>
+
+564
+00:36:08,515 --> 00:36:11,352
+<i>Sabe quantos Macs foram vendidos
+mês passado? Quinhentos.</i>
+
+565
+00:36:11,552 --> 00:36:16,656
+<i>Numa jogada pouco surpreendente,
+o conselho de diretores da Apple...</i>
+
+566
+00:36:16,857 --> 00:36:19,160
+<i>...decidiu demitir seu co-fundador,
+Steve Jobs.</i>
+
+567
+00:36:19,360 --> 00:36:21,494
+<i>Teria Jobs pulado fora, ou sido empurrado?</i>
+
+568
+00:36:21,694 --> 00:36:24,931
+<i>Seu ex-chefe, o CEO John
+Sculley, se recusa a comentar.</i>
+
+569
+00:36:25,132 --> 00:36:27,033
+<i>Contudo, em uma entrevista exclusiva,</i>
+
+570
+00:36:27,233 --> 00:36:31,038
+<i>Steve Wozniak detonou seu
+velho amigo Steve Jobs.</i>
+
+571
+00:36:31,239 --> 00:36:34,141
+<i>Ele definiu Jobs como "um
+cara ofensivo e cruel".</i>
+
+572
+00:36:34,342 --> 00:36:37,677
+<i>Jobs está retaliando com uma nova
+empresa e um novo computador.</i>
+
+573
+00:36:37,878 --> 00:36:39,781
+<i>Apple tem mais competição.</i>
+
+574
+00:36:39,982 --> 00:36:42,582
+<i>A Black Cube de Steve Jobs
+mira no mercado do ensino.</i>
+
+575
+00:36:42,782 --> 00:36:44,951
+<i>Poucos conseguem fazer o mundo esperar,</i>
+
+576
+00:36:45,152 --> 00:36:49,425
+<i>mas Steve Jobs está atingindo tal feito
+com sua nova empresa, a NeXT.</i>
+
+577
+00:36:57,698 --> 00:36:59,600
+<i>Parece estar um pouco fora de foco.</i>
+
+578
+00:36:59,801 --> 00:37:01,134
+<i>No slide?</i>
+
+579
+00:37:01,335 --> 00:37:02,904
+O chão, esse ponto aqui.
+
+580
+00:37:03,105 --> 00:37:05,038
+Acho que queremos o foco assim, mesmo.
+
+581
+00:37:05,238 --> 00:37:08,442
+Não leve a mal, só não curto
+essa estética circense.
+
+582
+00:37:08,643 --> 00:37:12,446
+Ok, vamos parar por aqui. Vamos lá
+pra cima reafinar os instrumentos.
+
+583
+00:37:12,647 --> 00:37:14,882
+Só um. Os outros trinta estão ok.
+
+584
+00:37:15,083 --> 00:37:18,118
+Enquanto isso, temos
+benfeitores na sala VIP.
+
+585
+00:37:18,319 --> 00:37:19,821
+Woz está aqui.
+
+586
+00:37:20,022 --> 00:37:22,656
+Steve Wozniak. Sim, muito obrigado.
+
+587
+00:37:22,857 --> 00:37:24,192
+<i>E o Andy Hertzfeld.</i>
+
+588
+00:37:24,393 --> 00:37:26,594
+Andy Hertzfeld. Obrigado.
+
+589
+00:37:26,795 --> 00:37:29,496
+<i>John Sculley também veio.</i>
+
+590
+00:37:29,697 --> 00:37:31,466
+É bacana que ele tenha vindo.
+
+591
+00:37:31,667 --> 00:37:33,801
+Jura? Não achei nada bacana.
+
+592
+00:37:34,002 --> 00:37:36,236
+Você precisa vê-los. Querem te parabenizar.
+
+593
+00:37:36,436 --> 00:37:39,272
+Se achassem meu trabalho bom,
+ainda estaríamos na Apple.
+
+594
+00:37:39,872 --> 00:37:42,576
+Se me desejassem sucesso, ficariam na deles.
+
+595
+00:37:42,777 --> 00:37:45,112
+- Posso falar?
+- Eles não querem me ver bem.
+
+596
+00:37:45,413 --> 00:37:47,581
+<i>Mas estou tranquilo. Superei a Apple.</i>
+
+597
+00:37:47,782 --> 00:37:51,752
+Superei o Mac e o Woz e o Sculley como
+superei as namoradas do colégio:
+
+598
+00:37:51,953 --> 00:37:53,554
+Arrumei outras.
+
+599
+00:37:53,755 --> 00:37:55,755
+- Posso falar uma coisa?
+- Pode.
+
+600
+00:37:55,956 --> 00:38:00,862
+Disse que não competiria com eles, mas fez
+uma máquina voltada ao mercado do ensino,
+
+601
+00:38:01,063 --> 00:38:06,833
+do qual eles supostamente têm o monopólio.
+Então, acho bacana estarem aqui.
+
+602
+00:38:07,034 --> 00:38:09,036
+Eles estão me processando.
+
+603
+00:38:09,237 --> 00:38:10,605
+Ainda assim.
+
+604
+00:38:10,806 --> 00:38:12,707
+Foi bacana da parte deles.
+
+605
+00:38:14,242 --> 00:38:16,176
+Não estão sendo bonzinhos.
+
+606
+00:38:16,377 --> 00:38:18,379
+Querem que pareça um divórcio amigável.
+
+607
+00:38:18,579 --> 00:38:22,047
+Ninguém lembra com carinho do Joe
+DiMaggio por ter largado a Marilyn.
+
+608
+00:38:24,119 --> 00:38:25,920
+Qual o seu problema?
+
+609
+00:38:26,121 --> 00:38:29,123
+Não sei, mas tenho certeza
+que tem a ver contigo.
+
+610
+00:38:29,324 --> 00:38:32,792
+Sabe, sou eu quem tem
+que te "explicar" pros outros.
+
+611
+00:38:32,993 --> 00:38:38,632
+Cem mil dólares para Paul Rand fazer um logo
+quando nem sabíamos o que a empresa fazia.
+
+612
+00:38:38,833 --> 00:38:42,069
+Um molde de seiscentos e
+cinquenta mil para o Cube...
+
+613
+00:38:42,270 --> 00:38:45,572
+porque Deus me livre se os ângulos
+forem de 90º1' ao invés de 90º.
+
+614
+00:38:45,772 --> 00:38:48,208
+Não, eu que livro os ângulos de serem 90º1'.
+
+615
+00:38:48,409 --> 00:38:51,077
+Aquela caixa poderia estar
+em exibição no Guggenheim.
+
+616
+00:38:51,277 --> 00:38:54,949
+Não dê a eles razão para dizerem
+publicamente que você é ressentido.
+
+617
+00:38:55,150 --> 00:38:56,717
+Faz isso por mim?
+
+618
+00:38:56,918 --> 00:38:58,319
+Eu não sou ressentido.
+
+619
+00:38:58,520 --> 00:38:59,953
+Tá bom.
+
+620
+00:39:00,154 --> 00:39:03,658
+Mas não dê motivo.
+
+621
+00:39:03,859 --> 00:39:05,159
+Não darei.
+
+622
+00:39:05,360 --> 00:39:07,728
+- Essa é a atitude certa.
+- Não é uma atitude.
+
+623
+00:39:07,928 --> 00:39:10,296
+Vão me chamar logo para
+conferir a iluminação.
+
+624
+00:39:10,496 --> 00:39:11,866
+- Acaba logo com isso.
+- Tá!
+
+625
+00:39:12,067 --> 00:39:15,335
+- Tá?
+- Tá.
+
+626
+00:39:15,536 --> 00:39:17,737
+- Mais uma coisa.
+- O quê?
+
+627
+00:39:17,938 --> 00:39:20,040
+Sem perguntas da imprensa depois.
+
+628
+00:39:20,241 --> 00:39:22,275
+Sem... Porquê?
+
+629
+00:39:22,476 --> 00:39:25,346
+Até que eu tenha respostas
+melhores, sem perguntas.
+
+630
+00:39:25,547 --> 00:39:29,450
+Se te perguntarem onde estou, você diz
+que me viu e que já volto.
+
+631
+00:39:31,218 --> 00:39:32,688
+Tá bom.
+
+632
+00:39:34,590 --> 00:39:36,857
+Quem vai primeiro?
+
+633
+00:39:37,058 --> 00:39:40,028
+Me traga Steve Wozniak.
+
+634
+00:39:48,336 --> 00:39:51,739
+Espera aí.
+
+635
+00:39:51,940 --> 00:39:54,274
+- Achei que você tinha ido pra aula.
+- Peraí...
+
+636
+00:39:54,474 --> 00:39:57,411
+Você tá uma hora atrasada pra aula.
+Achei que já tinha ido.
+
+637
+00:39:57,611 --> 00:39:59,379
+Não acordei minha mãe a tempo hoje.
+
+638
+00:39:59,579 --> 00:40:01,081
+Já aconteceu antes.
+
+639
+00:40:01,282 --> 00:40:07,821
+Acordo, me visto, tomo café, mas às vezes
+esqueço de olhar as horas depois.
+
+640
+00:40:08,022 --> 00:40:11,190
+- Porque sua mãe não usa um alarme?
+- É minha responsabilidade.
+
+641
+00:40:11,390 --> 00:40:13,893
+Não entendi o que isso tem
+a ver com você não...
+
+642
+00:40:14,094 --> 00:40:15,196
+Cadê sua mãe?
+
+643
+00:40:15,397 --> 00:40:17,297
+<i>Ela foi procurar um orelhão.</i>
+
+644
+00:40:17,498 --> 00:40:19,199
+Uma hora atrás, ela disse...
+
+645
+00:40:19,400 --> 00:40:21,034
+Não precisa levantar a mão.
+
+646
+00:40:21,235 --> 00:40:23,804
+- Você disse que é um pouquinho menor.
+- É sim.
+
+647
+00:40:24,005 --> 00:40:25,806
+- Acabei de medir.
+- Joanna...
+
+648
+00:40:26,007 --> 00:40:28,375
+Exatamente trinta centímetros
+nos quatro lados.
+
+649
+00:40:28,575 --> 00:40:29,610
+São seis lados.
+
+650
+00:40:29,810 --> 00:40:31,611
+Mas você não devia estar aqui agora.
+
+651
+00:40:31,811 --> 00:40:37,085
+Se quatro dos lados tiverem as mesmas
+medidas, os outros dois também terão.
+
+652
+00:40:38,186 --> 00:40:42,757
+A tampa, o fundo, a direita e esquerda têm
+um milímetro a menos que a frente e o fundo.
+
+653
+00:40:42,958 --> 00:40:44,257
+Não têm. Eu medi.
+
+654
+00:40:44,458 --> 00:40:46,793
+Lisa, sou meio que um expert em design.
+
+655
+00:40:46,994 --> 00:40:50,497
+E essa é uma régua de vinte centímetros.
+Não acha que pode ter errado?
+
+656
+00:40:50,697 --> 00:40:54,133
+Se eu tivesse outra régua, eu usaria,
+mas duvido que essa tá errada.
+
+657
+00:40:54,333 --> 00:40:57,537
+- Quando sua mãe voltar, você vai pra aula.
+- Porque é uma régua!
+
+658
+00:40:57,737 --> 00:40:58,973
+Porque eu teria errado?
+
+659
+00:40:59,174 --> 00:41:00,908
+- Você ouviu o que eu disse?
+- Sim.
+
+660
+00:41:01,108 --> 00:41:04,880
+Parece que você só fala
+o que quer e não ouve.
+
+661
+00:41:10,318 --> 00:41:13,154
+Eu tô ouvindo.
+
+662
+00:41:13,354 --> 00:41:16,492
+- Precisa de algo?
+- Não.
+
+663
+00:41:19,461 --> 00:41:21,094
+Porquê não é um cubo perfeito?
+
+664
+00:41:21,295 --> 00:41:24,331
+- Você já me perguntou isso.
+- Eu fico esquecendo a resposta.
+
+665
+00:41:25,367 --> 00:41:26,567
+É uma anomalia óptica.
+
+666
+00:41:26,768 --> 00:41:29,837
+Ao olho humano, um cubo
+perfeito não parece um cubo.
+
+667
+00:41:30,038 --> 00:41:32,773
+Então o fizemos com um milímetro
+a menos em dois lados.
+
+668
+00:41:32,973 --> 00:41:35,910
+- O que é uma anomalia?
+- Você já me perguntou isso também.
+
+669
+00:41:36,111 --> 00:41:38,412
+Não sei porque você fica fazendo isso.
+
+670
+00:41:41,015 --> 00:41:43,550
+É uma exceção. Algo que
+se sobressai em um padrão.
+
+671
+00:41:44,285 --> 00:41:46,353
+Você tem que ir pra escola. Pode entrar!
+
+672
+00:41:48,122 --> 00:41:50,324
+Acho que vocês já se conhecem.
+
+673
+00:41:50,525 --> 00:41:51,958
+Oi, amigo.
+
+674
+00:41:52,159 --> 00:41:55,029
+- Você parece bem.
+- Você também.
+
+675
+00:41:55,230 --> 00:41:58,998
+Me disseram que o George já
+arrumou pra você conferir o foco.
+
+676
+00:41:59,199 --> 00:42:00,600
+Vamos dar uma volta juntos.
+
+677
+00:42:00,800 --> 00:42:02,103
+- Essa é a Lisa?
+- É.
+
+678
+00:42:02,304 --> 00:42:04,004
+- Não pode ser a Lisa.
+- Mas é.
+
+679
+00:42:04,205 --> 00:42:06,905
+- A Lisa é um cotoquinho.
+- Eles crescem. Vamos logo.
+
+680
+00:42:07,105 --> 00:42:09,008
+- Lembra de mim?
+- Não, ela não lembra.
+
+681
+00:42:09,208 --> 00:42:11,077
+Sou amigo do seu pai, Steve Wozniak.
+
+682
+00:42:11,277 --> 00:42:14,047
+Desculpa, não me lembro de você.
+
+683
+00:42:14,248 --> 00:42:15,415
+Você é muito educada.
+
+684
+00:42:15,616 --> 00:42:17,118
+- Woz?
+- Oi.
+
+685
+00:42:17,319 --> 00:42:19,953
+Chrisann está num orelhão.
+Você poderia encontrá-la?
+
+686
+00:42:20,221 --> 00:42:21,788
+<i>Bela estreia.</i>
+
+687
+00:42:21,989 --> 00:42:23,223
+- Bela estreia.
+- É.
+
+688
+00:42:23,424 --> 00:42:26,159
+- Maravilhosa.
+- Maravilhosa.
+
+689
+00:42:26,360 --> 00:42:29,062
+Essa é a primeira vez em que
+não estamos no mesmo time.
+
+690
+00:42:29,262 --> 00:42:31,731
+É como se você estivesse
+lançando seu álbum solo.
+
+691
+00:42:31,931 --> 00:42:33,967
+Agradeço pelo convite.
+
+692
+00:42:34,168 --> 00:42:35,869
+Só quero ficar sem ressentimentos.
+
+693
+00:42:36,069 --> 00:42:38,405
+É isso o que eu quero.
+É por isso que vim aqui.
+
+694
+00:42:38,605 --> 00:42:41,141
+Quero que você saiba que tem o meu apoio.
+
+695
+00:42:41,341 --> 00:42:43,610
+Alguma chance de você
+apresentar no meu lugar?
+
+696
+00:42:43,810 --> 00:42:46,446
+- Te amo, Steve.
+- Também te amo, Woz.
+
+697
+00:42:46,647 --> 00:42:49,415
+Sabe, algumas coisas foram ditas.
+
+698
+00:42:49,616 --> 00:42:51,484
+Foram mesmo. Foram ditas em público.
+
+699
+00:42:51,684 --> 00:42:56,322
+- Foram publicadas. Você foi pressionado?
+- Eu fui o quê?
+
+700
+00:42:56,523 --> 00:43:02,062
+Olha só. É a área da orquestra
+do San Francisco Opera.
+
+701
+00:43:02,263 --> 00:43:04,330
+Se eu fui pressionado?
+
+702
+00:43:04,531 --> 00:43:07,433
+Conheci Seiji Ozawa em Tanglewood.
+
+703
+00:43:07,634 --> 00:43:09,870
+Um condutor monstruoso.
+
+704
+00:43:10,071 --> 00:43:12,471
+Artístico, cheio de nuances,
+não era desse mundo.
+
+705
+00:43:12,671 --> 00:43:16,543
+E eu perguntei o que um maestro
+faz que um metrônomo não faça.
+
+706
+00:43:16,744 --> 00:43:19,713
+- Surpreendentemente, ele...
+- Ele não te arrancou a cabeça?
+
+707
+00:43:19,913 --> 00:43:25,819
+Não. Ele disse: "os músicos tocam os
+instrumentos. Eu toco a orquestra"
+
+708
+00:43:26,020 --> 00:43:29,056
+Parece frase de efeito.
+Soa bem, não significa nada.
+
+709
+00:43:29,257 --> 00:43:33,194
+Markkula, Sculley... Eles te pediram
+para me detonar na mídia?
+
+710
+00:43:33,395 --> 00:43:35,228
+Eu tinha motivo pra estar com raiva.
+
+711
+00:43:35,429 --> 00:43:36,964
+- Eles pediram?
+- Não.
+
+712
+00:43:37,165 --> 00:43:38,499
+Mas te pediram pra falar.
+
+713
+00:43:38,700 --> 00:43:41,501
+A Apple estava sendo atacada,
+você tinha acabado de sair.
+
+714
+00:43:41,701 --> 00:43:45,371
+- Alguém tinha que falar.
+- Estou aqui. Foi a empresa que me deixou.
+
+715
+00:43:45,572 --> 00:43:50,243
+Eu te implorei. O Apple II era
+responsável por 70% das vendas.
+
+716
+00:43:50,444 --> 00:43:56,217
+O que você achou que aconteceria?
+Você não ligava pro Apple II ou pro Lisa.
+
+717
+00:43:56,418 --> 00:44:00,755
+Vamos ser claros: eu estava
+cagando pro Apple II e pro Lisa.
+
+718
+00:44:02,122 --> 00:44:04,357
+Ninguém me pressionou.
+
+719
+00:44:04,558 --> 00:44:10,897
+O que eu falei foi um reflexo
+sincero do que eu acreditava.
+
+720
+00:44:11,098 --> 00:44:12,933
+- Woz.
+- Oi?
+
+721
+00:44:13,134 --> 00:44:15,035
+Que merda é essa no seu pulso?
+
+722
+00:44:15,536 --> 00:44:18,005
+- Quer saber?
+- Não vejo a hora.
+
+723
+00:44:18,706 --> 00:44:23,009
+Todo mundo vai usar um desses em dez anos.
+É um Relógio Nixie, usando tubos Nixie.
+
+724
+00:44:23,210 --> 00:44:25,579
+Isso na verdade é
+tecnologia de 40 anos atrás.
+
+725
+00:44:25,779 --> 00:44:28,315
+Tubos de raios catódicos
+operando a 140 volts.
+
+726
+00:44:28,516 --> 00:44:32,085
+Giro meu pulso a 45º e aparece aqui.
+Horas, minutos e segundos.
+
+727
+00:44:32,286 --> 00:44:34,620
+Do jeito que nossas
+mentes funcionam. Olha só.
+
+728
+00:44:34,820 --> 00:44:38,592
+Ajuste como se estivesse em um avião
+e acabado de mudar de fuso horário.
+
+729
+00:44:38,793 --> 00:44:44,899
+Claro. É só desenroscar, apertar o botão...
+
+730
+00:44:45,100 --> 00:44:49,435
+Com licença. Aeromoça? Esse moço
+aqui parece estar ativando uma bomba.
+
+731
+00:44:49,636 --> 00:44:54,342
+- Você acha que parece uma bomba.
+- Estou em dúvida se é ou não.
+
+732
+00:44:55,443 --> 00:44:58,814
+- Acho que logo as pessoas se acostumam...
+- Não.
+
+733
+00:45:03,584 --> 00:45:06,654
+Eu estava com raiva.
+
+734
+00:45:06,855 --> 00:45:10,389
+Você estava falando mal do Apple II,
+e do jeito que tratava a equipe...
+
+735
+00:45:10,589 --> 00:45:13,192
+Woz. Você pode falar o que quiser.
+
+736
+00:45:13,393 --> 00:45:16,630
+Tenho que voltar pro palco, ainda
+temos dois minutos de ensaio.
+
+737
+00:45:16,831 --> 00:45:20,601
+Você viu como o que você falou foi
+condescendente? Talvez não, né.
+
+738
+00:45:20,802 --> 00:45:23,203
+Não quero te ver arrastado pra fora de um...
+
+739
+00:45:23,404 --> 00:45:26,473
+Posso falar o que quiser
+só porque você deixou?
+
+740
+00:45:26,674 --> 00:45:29,542
+Eu posso falar... Posso falar
+só porque você deixa?
+
+741
+00:45:29,743 --> 00:45:34,849
+- Calma, você vai ter um derrame, cara.
+- O que foi que você fez?
+
+742
+00:45:36,318 --> 00:45:38,252
+Porque a Lisa não ouviu falar de mim?
+
+743
+00:45:38,453 --> 00:45:42,221
+Porra, quantos alunos da quarta série
+você acha que ouviram falar de você?
+
+744
+00:45:42,421 --> 00:45:46,092
+Você não sabe codificar. Não é
+engenheiro nem designer.
+
+745
+00:45:46,293 --> 00:45:48,328
+Não consegue nem martelar um prego.
+
+746
+00:45:48,529 --> 00:45:49,964
+Eu fiz o circuito impresso.
+
+747
+00:45:50,165 --> 00:45:52,933
+A interface gráfica foi roubada
+de uma máquina da Xerox.
+
+748
+00:45:53,133 --> 00:45:56,470
+Jef Raskin era o líder da equipe do
+Mac antes de você expulsar ele.
+
+749
+00:45:56,670 --> 00:45:59,373
+Tudo... Outra pessoa desenhou o monitor.
+
+750
+00:45:59,574 --> 00:46:05,112
+Então como é que dez vezes por
+dia eu leio "Steve Jobs é um gênio"?
+
+751
+00:46:05,313 --> 00:46:06,980
+O que você faz?
+
+752
+00:46:07,181 --> 00:46:12,719
+Eu toco a orquestra. E você é um bom músico.
+Você senta logo ali, é o melhor da fila.
+
+753
+00:46:12,920 --> 00:46:15,054
+Eu vim aqui para esclarecer as coisas.
+
+754
+00:46:15,254 --> 00:46:17,791
+- Sabe porque vim aqui?
+- Você não acabou de falar?
+
+755
+00:46:17,991 --> 00:46:20,326
+Eu vim porque vão te arregaçar.
+
+756
+00:46:20,527 --> 00:46:23,330
+Seu computador não vai dar certo.
+
+757
+00:46:23,531 --> 00:46:28,735
+Universidades te avisaram que precisavam de
+uma máquina boa por dois mil, três mil.
+
+758
+00:46:28,936 --> 00:46:31,205
+Você jogou o preço pra
+seis mil e quinhentos.
+
+759
+00:46:31,405 --> 00:46:36,243
+Sem falar do HD opcional de três mil, que
+vão logo descobrir que não é opcional,
+
+760
+00:46:36,444 --> 00:46:39,479
+porque o disco óptico é muito
+fraco pra fazer qualquer coisa.
+
+761
+00:46:39,679 --> 00:46:43,417
+A impressora a laser de dois mil e
+quinhentos leva o total aos doze mil.
+
+762
+00:46:43,618 --> 00:46:48,321
+E, no mundo inteiro, só você liga que
+isso tudo seja em um cubo perfeito.
+
+763
+00:46:48,522 --> 00:46:50,524
+Vão acabar com você.
+
+764
+00:46:50,725 --> 00:46:55,161
+E eu vim pra ficar do seu lado enquanto tudo
+acontece, porque é isso que amigos fazem.
+
+765
+00:46:55,362 --> 00:47:00,034
+É isso que homens fazem.
+Não preciso do seu aval.
+
+766
+00:47:00,235 --> 00:47:04,069
+Te conheço desde sempre, então não
+fale comigo como se eu fosse qualquer um.
+
+767
+00:47:04,269 --> 00:47:07,708
+Só eu sei que esse cara aqui é
+um personagem que você inventou.
+
+768
+00:47:07,909 --> 00:47:12,478
+Estou do seu lado porque aquele
+cubo perfeito que não faz nada...
+
+769
+00:47:12,679 --> 00:47:17,959
+vai ser o maior erro da
+história da computação.
+
+770
+00:47:19,586 --> 00:47:22,690
+Agora me conta alguma novidade.
+
+771
+00:47:28,195 --> 00:47:29,897
+- Volto pro palco?
+- Não dá tempo.
+
+772
+00:47:30,097 --> 00:47:33,500
+Vão limpar o palco e abrir o teatro.
+
+773
+00:47:33,701 --> 00:47:37,203
+Se der ruim, tá bom, certo?
+
+774
+00:47:37,404 --> 00:47:40,339
+- Você solta alguma piada.
+- Vou fazer alguma piada.
+
+775
+00:47:40,540 --> 00:47:42,775
+Se der ruim, tá bom.
+
+776
+00:47:42,976 --> 00:47:46,446
+É um bom slogan. "NeXT.
+Se der ruim, tá bom."
+
+777
+00:47:46,647 --> 00:47:48,614
+Não tô falando só do demo, Steve.
+
+778
+00:47:48,815 --> 00:47:51,085
+Se der tudo errado, nada
+de engolir cianureto.
+
+779
+00:47:51,286 --> 00:47:53,853
+- Voltamos pra estaca zero.
+- Nada de estaca zero.
+
+780
+00:47:54,054 --> 00:47:56,622
+Se inventar o Edsel duas
+vezes, não tem mais volta.
+
+781
+00:47:56,822 --> 00:48:00,259
+Me fala qual é o plano. Você precisa
+me falar, porque eu não sei.
+
+782
+00:48:00,460 --> 00:48:04,098
+Você tá andando por aí
+como se tivesse blindado.
+
+783
+00:48:04,299 --> 00:48:08,134
+O plano se revelará quando você
+estiver pronta para vê-lo.
+
+784
+00:48:08,335 --> 00:48:10,603
+Vou precisar tomar ácido?
+
+785
+00:48:10,804 --> 00:48:12,172
+Pode ser que sim.
+
+786
+00:48:12,373 --> 00:48:13,540
+<i>Existe</i> algum plano?
+
+787
+00:48:13,741 --> 00:48:15,375
+Alguma vez te decepcionei?
+
+788
+00:48:15,576 --> 00:48:17,243
+<i>Toda</i> vez.
+
+789
+00:48:17,444 --> 00:48:19,212
+- Então tá bom.
+- Existe mesmo?
+
+790
+00:48:19,413 --> 00:48:21,214
+Joanna, eu tenho um plano.
+
+791
+00:48:21,415 --> 00:48:24,784
+Só não quero te colocar em uma posição
+em que você tenha que mentir.
+
+792
+00:48:26,688 --> 00:48:30,690
+Atrase quinze minutos para que o Avie possa
+organizar tudo e nos dar uma chance.
+
+793
+00:48:30,890 --> 00:48:32,693
+Deus do céu, quantas vezes vamos...
+
+794
+00:48:32,893 --> 00:48:34,693
+- Não vamos atrasar nunca!
+- Tá bom!
+
+795
+00:48:34,893 --> 00:48:37,498
+Não vamos começar atrasados.
+
+796
+00:48:37,699 --> 00:48:41,069
+Mas se não vamos atrasar,
+como é que fica a situação?
+
+797
+00:48:49,177 --> 00:48:53,614
+A Lisa anda me perguntando
+coisas que já falei pra ela.
+
+798
+00:48:53,815 --> 00:48:56,783
+Ela me faz perguntas que eu
+sei que ela já sabe a resposta.
+
+799
+00:48:56,983 --> 00:48:58,017
+Porquê isso?
+
+800
+00:48:58,217 --> 00:49:01,855
+Crianças fazem isso quando acham
+que um dos pais estão de mau humor.
+
+801
+00:49:02,056 --> 00:49:05,424
+Tentam te fazer falar sobre
+algo que você gosta.
+
+802
+00:49:05,625 --> 00:49:10,696
+É bem comum e pode ser tratado ao falar
+sobre algo que <i>ela</i> gosta.
+
+803
+00:49:10,897 --> 00:49:15,234
+Você tem alguma experiência
+ou treinamento nessa área?
+
+804
+00:49:15,435 --> 00:49:16,435
+Não.
+
+805
+00:49:16,636 --> 00:49:19,073
+Mande abrir o teatro.
+
+806
+00:49:25,613 --> 00:49:29,084
+- Cadê a Lisa?
+- Tá por aí.
+
+807
+00:49:30,885 --> 00:49:33,853
+- O que isso quer dizer?
+- Ela tá correndo pelo prédio.
+
+808
+00:49:34,054 --> 00:49:36,555
+Uma hora atrás você disse
+que a levaria pra escola.
+
+809
+00:49:36,755 --> 00:49:39,726
+Ela implorou pra deixá-la ficar.
+Outros pais adorariam...
+
+810
+00:49:39,927 --> 00:49:44,263
+É errado, tá? Moralmente e enquanto pais.
+
+811
+00:49:44,464 --> 00:49:47,800
+É errado que você use Lisa como
+uma forma de tirar dinheiro de mim.
+
+812
+00:49:48,000 --> 00:49:51,669
+Ela vai saber, se é que já não sabe, que
+essa é a utilidade dela pra você.
+
+813
+00:49:51,869 --> 00:49:55,638
+- Ela vai te odiar pro resto da vida.
+- Ela vai saber, se é que já não sabe,
+
+814
+00:49:55,838 --> 00:49:58,342
+que a mãe dela é uma mulher
+que enfrenta os homens.
+
+815
+00:49:58,542 --> 00:50:02,514
+- Enfrenta ao usá-los como sustento.
+- Ao não permitir ser aprisionada por eles.
+
+816
+00:50:03,418 --> 00:50:06,652
+Aprisionada? Não consigo me livrar de você.
+
+817
+00:50:06,853 --> 00:50:09,422
+Preciso de um médico e de um dentista.
+
+818
+00:50:09,623 --> 00:50:13,025
+Desisti da faculdade no primeiro
+semestre, mas posso dar uma olhada.
+
+819
+00:50:13,225 --> 00:50:15,360
+Você <i>vai</i> sustentar sua filha e a mãe dela.
+
+820
+00:50:15,560 --> 00:50:18,297
+Você pagou mil e quinhentos
+para abençoarem sua casa?
+
+821
+00:50:18,497 --> 00:50:20,099
+- Você me ouviu?
+- Pagou ou não?
+
+822
+00:50:20,299 --> 00:50:21,768
+Não lembro quanto foi, Steve.
+
+823
+00:50:21,969 --> 00:50:24,671
+- Foram mil e quinhentos.
+- Ninguém faz nada de graça.
+
+824
+00:50:24,871 --> 00:50:28,942
+- Não mesmo, cobram mil e quinhentos.
+- Como eu gasto... Merda. Sabe, não vou...
+
+825
+00:50:29,143 --> 00:50:32,645
+Você ia falar "Como eu gasto meu
+dinheiro não é da sua conta"?
+
+826
+00:50:32,846 --> 00:50:35,915
+Eu tenho sinusite e preciso
+de um dentista também.
+
+827
+00:50:36,116 --> 00:50:39,218
+Então você vê como suas finanças
+poderiam ser mais bem gastas.
+
+828
+00:50:39,418 --> 00:50:41,089
+Tipo em um cubo perfeito?
+
+829
+00:50:42,789 --> 00:50:45,259
+- Olha pra mim, Chrisann.
+- Quê?
+
+830
+00:50:45,460 --> 00:50:47,326
+- Você sabe quem eu sou, né?
+- Sei.
+
+831
+00:50:47,527 --> 00:50:50,496
+- E sabe que eu conheço pessoas.
+- Do que você está falando?
+
+832
+00:50:50,996 --> 00:50:54,533
+Olha pra mim. Quem eu conheço
+também conhece mais gente.
+
+833
+00:50:54,733 --> 00:50:55,735
+Como assim?
+
+834
+00:50:55,935 --> 00:51:00,744
+Se eu ouvir de novo que você jogou uma
+tigela na Lisa, meu telefone vai tocar...
+
+835
+00:51:00,975 --> 00:51:03,743
+e a voz do outro lado
+irá dizer que "tá tudo certo".
+
+836
+00:51:03,944 --> 00:51:06,013
+Assim, saberei que você morreu.
+
+837
+00:51:06,214 --> 00:51:11,618
+Eu joguei a tigela no chão. Não foi na
+cabeça dela. Ela nem estava perto.
+
+838
+00:51:11,819 --> 00:51:14,554
+Ela nem... Joguei a tigela no chão.
+
+839
+00:51:14,755 --> 00:51:17,658
+Ela é uma garotinha.
+Você está assustando ela.
+
+840
+00:51:17,859 --> 00:51:20,359
+Sou um homem crescido.
+Você está me assustando.
+
+841
+00:51:20,560 --> 00:51:24,630
+Colocar o lixo na rua é uma
+responsabilidade, limpar a mesa também.
+
+842
+00:51:24,831 --> 00:51:27,301
+Te acordar de manhã é bizarro pra caralho.
+
+843
+00:51:27,502 --> 00:51:30,304
+- Por favor, me ensine mais sobre ser mãe.
+- Já acabamos.
+
+844
+00:51:30,505 --> 00:51:33,607
+Significa muito, vindo de alguém
+que não assume a paternidade.
+
+845
+00:51:33,808 --> 00:51:36,909
+- Pare de gritar com a Lisa.
+- Eu dou a ela responsabilidades.
+
+846
+00:51:37,109 --> 00:51:40,643
+- Algum dia ela vai me agradecer.
+- Provavelmente enquanto você dorme.
+
+847
+00:51:40,843 --> 00:51:43,782
+Vai se fuder! Eu nunca... Nunca
+joguei nada na cabeça dela.
+
+848
+00:51:45,887 --> 00:51:48,721
+Eu nunca faria isso.
+
+849
+00:51:48,922 --> 00:51:53,227
+Palavras não se tornam realidade
+só porque saem da sua boca.
+
+850
+00:51:54,461 --> 00:51:58,065
+Vou colocar mais dinheiro na sua conta.
+
+851
+00:52:06,474 --> 00:52:09,144
+- Você foi bonzinho?
+- Fui, sim.
+
+852
+00:52:14,849 --> 00:52:18,484
+- Andy agora.
+- Hertzfeld ou Cunningham?
+
+853
+00:52:18,685 --> 00:52:23,190
+Hertzfeld. Ele tá conversando com o Avie
+Tevanian ali no backstage.
+
+854
+00:52:24,959 --> 00:52:29,264
+<i>Senhoras e senhores, o teatro está aberto.</i>
+
+855
+00:52:43,778 --> 00:52:48,013
+- ...na frente de milhares de pessoas.
+- Steve!
+
+856
+00:52:48,214 --> 00:52:50,917
+Pode ser mais tarde, Joel?
+Começamos em oito minutos.
+
+857
+00:52:51,118 --> 00:52:53,652
+- O que achou da imprensa hoje?
+- O que quer saber?
+
+858
+00:52:53,852 --> 00:52:56,556
+- Sobre a quantidade de gente.
+- Eu te falo por fora...
+
+859
+00:52:56,756 --> 00:52:58,158
+Queria ouvir algo do Steve.
+
+860
+00:52:58,359 --> 00:53:01,560
+Extraoficialmente, te digo que nunca
+vi nada assim na indústria.
+
+861
+00:53:01,760 --> 00:53:04,963
+Liguei no <i>Wall Street Journal</i>
+pra encomendar um anúncio pra hoje,
+
+862
+00:53:05,163 --> 00:53:06,500
+e sabe o que me disseram?
+
+863
+00:53:06,700 --> 00:53:10,804
+"Pra quê? Seria como avisar pras Lojas
+Americanas que amanhã é natal."
+
+864
+00:53:11,005 --> 00:53:15,107
+Viu a newsletter do Stewart Alsop? Desculpa,
+Joanna, preciso gravar algo do Steve.
+
+865
+00:53:15,308 --> 00:53:19,612
+A manchete era: "Querida NeXT, quando
+poderei pegar minha máquina?"
+
+866
+00:53:19,813 --> 00:53:23,683
+- Quando ele poderá?
+- Vamos anunciar daqui a dois meses.
+
+867
+00:53:23,884 --> 00:53:27,754
+Alsop não quer saber a data de envio.
+Ele quer saber quando vai ter uma.
+
+868
+00:53:27,955 --> 00:53:31,455
+Respeitamos muito Stewart Alsop, e queremos
+enviar uma máquina a ele...
+
+869
+00:53:31,655 --> 00:53:35,592
+em breve, para que ele possa escrever
+a respeito dela para seus assinantes.
+
+870
+00:53:35,792 --> 00:53:36,829
+- Quando?
+- Em breve.
+
+871
+00:53:37,029 --> 00:53:39,098
+Uns dias? Umas semanas?
+
+872
+00:53:39,299 --> 00:53:41,801
+Extraoficialmente.
+
+873
+00:53:42,002 --> 00:53:44,170
+- Extraoficialmente?
+- Totalmente.
+
+874
+00:53:44,371 --> 00:53:47,507
+- Cremos que...
+- Quando a máquina estiver pronta.
+
+875
+00:53:47,708 --> 00:53:49,109
+Está incompleta?
+
+876
+00:53:49,310 --> 00:53:50,411
+Está quase completa.
+
+877
+00:53:50,612 --> 00:53:53,513
+- Te vi ensaiar com o demo por três semanas.
+- Pois é.
+
+878
+00:53:53,714 --> 00:53:55,247
+- O que falta?
+- Uma coisinha.
+
+879
+00:53:55,447 --> 00:53:56,815
+- O quê?
+- Acho que já deu.
+
+880
+00:53:57,015 --> 00:54:00,486
+É extraoficialmente, e o Joel sempre foi
+bom em pegar as coisas no ar.
+
+881
+00:54:00,686 --> 00:54:02,022
+O que falta?
+
+882
+00:54:02,223 --> 00:54:06,260
+Basicamente, eu diria que não temos um SO.
+
+883
+00:54:08,896 --> 00:54:11,499
+- Um sistema operacional?
+- É.
+
+884
+00:54:12,733 --> 00:54:16,536
+- Como assim?
+- Bom, é o SO que comanda o computador.
+
+885
+00:54:16,737 --> 00:54:18,771
+Na verdade, ele meio que <i>é</i> o computador.
+
+886
+00:54:18,971 --> 00:54:21,874
+Então como está funcionando?
+Como vai rodar daqui a pouco?
+
+887
+00:54:22,074 --> 00:54:26,679
+- Como assim você não tem um SO?
+- Bom, Avie Tevanian é o chefe nisso...
+
+888
+00:54:26,880 --> 00:54:31,484
+e ele escreveu um programa demo.
+Construímos um carrão, esquecemos do motor.
+
+889
+00:54:31,685 --> 00:54:35,454
+Então colocamos uma bateria de carrinho
+de golfe pra fazê-lo andar um pouco.
+
+890
+00:54:35,654 --> 00:54:37,922
+Até agora, o computador
+só sabe rodar o demo.
+
+891
+00:54:38,122 --> 00:54:39,725
+Você só construiu o cubo preto?
+
+892
+00:54:40,025 --> 00:54:43,663
+Sim. Mas não é o cubo preto
+mais legal que você já viu?
+
+893
+00:54:43,864 --> 00:54:47,734
+Isso é... Extraoficialmente. Isso é
+uma estratégia ou um problema?
+
+894
+00:54:47,935 --> 00:54:51,737
+Não compartilhe quaisquer
+informações com esse homem.
+
+895
+00:54:51,938 --> 00:54:53,906
+Não é um problema.
+
+896
+00:54:54,107 --> 00:54:55,674
+Eu não entenderia nem se fosse.
+
+897
+00:54:55,875 --> 00:54:58,612
+Eu também não entendo,
+e o meu nome está na patente.
+
+898
+00:54:58,813 --> 00:55:01,882
+- Tem e-mail.
+- Bom, e-mail's não é mais só para os nerds.
+
+899
+00:55:02,083 --> 00:55:03,583
+Na verdade é, mas não será.
+
+900
+00:55:03,783 --> 00:55:08,522
+Um e-mail enviado em um computador da NeXT
+só será recebido por um computador da NeXT?
+
+901
+00:55:08,723 --> 00:55:10,524
+Fechado, controle total.
+
+902
+00:55:10,725 --> 00:55:14,293
+A nova lixeira tá errada. Queria
+dizer que agradeço seu esforço,
+
+903
+00:55:14,494 --> 00:55:18,964
+mas não posso, porque tá horrível.
+Volta pra outra.
+
+904
+00:55:19,165 --> 00:55:21,567
+Porque ainda temos três opções no relógio?
+
+905
+00:55:21,768 --> 00:55:24,871
+- Quatas opções você quer?
+- Duas. Compre ou não.
+
+906
+00:55:25,072 --> 00:55:27,674
+- Posso falar com você rapidinho?
+- Claro.
+
+907
+00:55:27,875 --> 00:55:32,112
+Olha, cara. O Avie está recompilando, mas
+disse que podem aparecer erros.
+
+908
+00:55:32,313 --> 00:55:36,815
+Se aparecerem só erros, vai ser um milagre.
+
+909
+00:55:37,016 --> 00:55:38,884
+Porque você tá traduzindo pro Avie?
+
+910
+00:55:39,085 --> 00:55:42,922
+Não queria que ele descobrisse da pior
+forma sua posição sobre erros,
+
+911
+00:55:43,123 --> 00:55:44,958
+mas você parece ter amansado.
+
+912
+00:55:45,159 --> 00:55:47,960
+Estou crescendo, Andy. Aprendendo a me amar.
+
+913
+00:55:48,161 --> 00:55:50,830
+Nunca pensei que amor-próprio
+fosse problema pra você.
+
+914
+00:55:51,030 --> 00:55:53,966
+Que tirada fantástica. Você precisa
+ir pegar o seu assento.
+
+915
+00:55:54,166 --> 00:55:56,668
+E a Lisa, entrando em uma
+escola para superdotados?
+
+916
+00:55:56,868 --> 00:55:59,004
+Testaram ela e, pelo visto, ela pode voar.
+
+917
+00:55:59,204 --> 00:56:01,440
+- Isso é importante.
+- Sei que é importante.
+
+918
+00:56:01,640 --> 00:56:03,576
+Por isso construí um bloco lá.
+
+919
+00:56:03,777 --> 00:56:06,880
+- Tenho certeza que ela não entrou por isso.
+- Jura?
+
+920
+00:56:07,081 --> 00:56:10,485
+Posso te mostrar algo da <i>Macworld?</i>
+
+921
+00:56:13,753 --> 00:56:17,790
+- Claro, estou à toa.
+- Vai te fazer bem.
+
+922
+00:56:17,991 --> 00:56:20,793
+- Joanna! Olha só!
+- Andy, ele só tem alguns minutos.
+
+923
+00:56:20,994 --> 00:56:23,862
+É o Guy Kawasaki escrevendo na
+<i>Macworld.</i> Você vai gostar.
+
+924
+00:56:24,062 --> 00:56:25,364
+Podemos apreciar depois?
+
+925
+00:56:25,565 --> 00:56:30,235
+Ele escreveu uma paródia em que a
+Apple compra a NeXT pelo seu SO.
+
+926
+00:56:30,436 --> 00:56:34,839
+Ele imagina um futuro próximo em que a Apple
+precisa do seu SO e precisa comprar a NeXT,
+
+927
+00:56:35,039 --> 00:56:36,842
+aí você volta como CEO.
+
+928
+00:56:37,043 --> 00:56:38,710
+Até inventou que o Gates falaria:
+
+929
+00:56:38,911 --> 00:56:43,284
+"Agora teremos mais inovações
+do Jobs para a Microsoft copiar."
+
+930
+00:56:45,019 --> 00:56:48,989
+- Você pode ler depois.
+- Obrigado.
+
+931
+00:56:49,190 --> 00:56:51,725
+Ela teria entrado sem você
+financiar um bloco novo.
+
+932
+00:56:51,925 --> 00:56:55,329
+Mesmo assim, é algo pra
+comentar nas entrevistas.
+
+933
+00:56:57,764 --> 00:57:00,266
+Tá certo... Boa sorte.
+
+934
+00:57:00,467 --> 00:57:02,403
+Obrigado.
+
+935
+00:57:04,005 --> 00:57:06,038
+Me dá isso. Vou jogar fora.
+
+936
+00:57:06,239 --> 00:57:09,708
+Vou guardar e ler depois.
+
+937
+00:57:09,909 --> 00:57:11,277
+Que foi?
+
+938
+00:57:11,478 --> 00:57:13,813
+Quê?
+
+939
+00:57:14,014 --> 00:57:15,848
+Está pronto pro Sculley?
+
+940
+00:57:16,049 --> 00:57:17,784
+Sai daí!
+
+941
+00:57:17,985 --> 00:57:19,685
+Lisa!
+
+942
+00:57:19,886 --> 00:57:21,588
+Você não pode gritar!
+
+943
+00:57:28,796 --> 00:57:30,698
+Lisa?
+
+944
+00:57:39,907 --> 00:57:42,477
+Você precisa ir.
+
+945
+00:57:43,711 --> 00:57:47,381
+Aqui é perigoso. Por isso peço
+pros outros virem pra cá.
+
+946
+00:57:49,115 --> 00:57:51,451
+Está se escondendo de quem, eu ou sua mãe?
+
+947
+00:57:51,652 --> 00:57:55,121
+Não estou me escondendo.
+
+948
+00:57:55,322 --> 00:57:57,592
+Vamos lá.
+
+949
+00:58:04,764 --> 00:58:07,299
+O que você está ouvindo?
+
+950
+00:58:07,500 --> 00:58:10,870
+Duas versões da mesma música.
+
+951
+00:58:11,071 --> 00:58:14,339
+Quando chego ao fim, rebobino
+e ouço de novo.
+
+952
+00:58:14,540 --> 00:58:17,844
+É a mesma música, mas
+as versões são diferentes.
+
+953
+00:58:18,045 --> 00:58:20,380
+- Que música?
+- Tá bem.
+
+954
+00:58:20,581 --> 00:58:23,415
+É uma música velhona
+chamada "Both Sides, Now."
+
+955
+00:58:23,616 --> 00:58:27,821
+- "Both Sides, Now"?
+- É.
+
+956
+00:58:28,022 --> 00:58:29,888
+É sobre o quê?
+
+957
+00:58:30,089 --> 00:58:34,293
+Sobre... Tem três estrofes:
+Nuvens, amor e vida.
+
+958
+00:58:34,494 --> 00:58:38,998
+A pessoa cantando diz que pensava em...
+
+959
+00:58:39,199 --> 00:58:40,866
+Pensava sobre...
+
+960
+00:58:41,067 --> 00:58:43,168
+- Nuvens, amor e vida?
+- Certo.
+
+961
+00:58:43,368 --> 00:58:47,040
+De certa forma, é, mas agora essa
+pessoa vê por uma nova ótica e...
+
+962
+00:58:47,241 --> 00:58:52,911
+E conclui que não sabe nadica de nada
+sobre as nuvens, do amor ou da vida.
+
+963
+00:58:53,112 --> 00:58:55,415
+É isso mesmo.
+
+964
+00:58:55,616 --> 00:59:00,955
+Pois é, Joni Mitchell. Não é uma música
+velhona, só se eu for um cara velhão.
+
+965
+00:59:02,088 --> 00:59:04,324
+Você precisa ir pra aula agora.
+
+966
+00:59:04,525 --> 00:59:07,527
+Quer saber as diferenças
+entre as duas versões?
+
+967
+00:59:07,728 --> 00:59:08,862
+Agora mesmo.
+
+968
+00:59:09,063 --> 00:59:12,431
+A primeira versão é meio menininha.
+
+969
+00:59:12,632 --> 00:59:17,402
+Não quis dizer que queria saber agora, e
+sim, que você tem que ir pra aula agora.
+
+970
+00:59:17,603 --> 00:59:19,105
+Eu poderia ficar e assistir.
+
+971
+00:59:19,306 --> 00:59:21,373
+Você está vadiando e isso é crime.
+
+972
+00:59:21,574 --> 00:59:23,976
+Não vou perder nada importante.
+
+973
+00:59:24,177 --> 00:59:26,880
+- Como você sabe?
+- Adiantei a matéria.
+
+974
+00:59:27,081 --> 00:59:31,984
+Os Peregrinos chegam no Novo Mundo.
+Depois, a Declaração de Independência.
+
+975
+00:59:32,185 --> 00:59:34,020
+Você pulou alguns séculos.
+
+976
+00:59:34,221 --> 00:59:36,922
+Steve? A Chrisann está lá fora.
+
+977
+00:59:43,798 --> 00:59:45,330
+Vamos.
+
+978
+00:59:45,531 --> 00:59:47,266
+Posso argumentar a favor de ficar?
+
+979
+00:59:47,467 --> 00:59:49,236
+Não.
+
+980
+01:00:07,822 --> 01:00:10,889
+- Ela estava comigo.
+- Vamos. Seu pai não nos quer aqui.
+
+981
+01:00:11,090 --> 01:00:13,960
+Não é verdade. Isso...
+
+982
+01:00:14,161 --> 01:00:16,328
+Você tem que ir pra aula, só isso.
+
+983
+01:00:16,529 --> 01:00:19,998
+Estou cometendo um crime
+agora, e não quero encrenca.
+
+984
+01:00:20,199 --> 01:00:22,569
+Você não está encrencada. Era brincadeira.
+
+985
+01:00:22,770 --> 01:00:24,103
+Tá bom.
+
+986
+01:00:24,304 --> 01:00:26,605
+Ei. Qual era a segunda versão?
+
+987
+01:00:26,806 --> 01:00:29,843
+Você falou que a primeira era
+"menininha". E a segunda?
+
+988
+01:00:31,278 --> 01:00:33,045
+Não consigo lembrar a palavra.
+
+989
+01:00:33,246 --> 01:00:34,848
+Tudo bem. Boa aula pra você.
+
+990
+01:00:35,049 --> 01:00:37,217
+- Arrependida.
+- Quê?
+
+991
+01:00:37,418 --> 01:00:40,418
+Tipo desejando poder voltar
+no tempo e fazer tudo diferente.
+
+992
+01:00:40,618 --> 01:00:47,527
+- Você é nova demais pra se sentir assim.
+- Não sou eu, é quem canta a música.
+
+993
+01:00:47,728 --> 01:00:51,499
+Entendi. Arrependida. Faz sentido porque...
+
+994
+01:00:54,034 --> 01:00:56,537
+Quero morar com você.
+
+995
+01:01:09,048 --> 01:01:11,150
+Seis minutos.
+
+996
+01:01:11,351 --> 01:01:13,754
+- Quer ver o Sculley?
+- Não.
+
+997
+01:01:22,528 --> 01:01:25,931
+Sabe quando eu falava que você
+precisa de um segurança?
+
+998
+01:01:26,132 --> 01:01:28,535
+É por isso.
+
+999
+01:01:33,273 --> 01:01:36,442
+Não sei como eu envelheci e você não.
+
+1000
+01:01:36,643 --> 01:01:39,478
+Algum pacto com o Capiroto
+que não me ofereceram.
+
+1001
+01:01:39,679 --> 01:01:42,247
+Sabe o que eu tenho pensado
+nos últimos quatro anos?
+
+1002
+01:01:42,447 --> 01:01:45,685
+Aparentemente, eu nunca soube
+o que se passava na sua cabeça.
+
+1003
+01:01:45,886 --> 01:01:48,453
+Nenhum recém-nascido tem controle.
+
+1004
+01:01:48,654 --> 01:01:50,389
+Sabe do que estou falando?
+
+1005
+01:01:50,590 --> 01:01:53,092
+Em 1984, antes do lançamento
+do Mac, você disse...
+
+1006
+01:01:53,292 --> 01:01:56,761
+Você disse que ser adotado significava
+que você não tinha o controle.
+
+1007
+01:01:56,961 --> 01:02:00,098
+- Vamos começar logo, então...
+- Porque acham que eu te demiti?
+
+1008
+01:02:00,298 --> 01:02:02,102
+Está tudo bem, John. Já superamos.
+
+1009
+01:02:05,639 --> 01:02:08,107
+Está bem mesmo?
+
+1010
+01:02:08,308 --> 01:02:10,745
+Não se faça de besta, você não dá conta.
+
+1011
+01:02:12,646 --> 01:02:16,449
+Você veio até aqui pra perguntar porque
+as pessoas acham que você me demitiu?
+
+1012
+01:02:16,649 --> 01:02:21,856
+- Porque pensam que te demiti?
+- Confirma uma coisa pra mim...
+
+1013
+01:02:22,990 --> 01:02:25,024
+Você gostou da propaganda, certo?
+
+1014
+01:02:25,225 --> 01:02:26,992
+O comercial... "1984." Você gostou.
+
+1015
+01:02:27,192 --> 01:02:30,029
+- Não vai comprar móveis?
+- Não é um processo fácil.
+
+1016
+01:02:30,230 --> 01:02:32,430
+É sim. Você compra um sofá e vai em frente.
+
+1017
+01:02:32,630 --> 01:02:35,734
+Me surpreende você aparecer
+pra discutir design de interiores.
+
+1018
+01:02:35,934 --> 01:02:37,369
+Gostei muito da propaganda.
+
+1019
+01:02:37,569 --> 01:02:38,970
+- É mesmo?
+- Sim, você sabe.
+
+1020
+01:02:39,170 --> 01:02:41,440
+Seu bosta mentiroso. Você tentou destruí-la.
+
+1021
+01:02:41,640 --> 01:02:44,242
+- Precisamos falar sobre o Mac.
+- Já passou da hora.
+
+1022
+01:02:44,442 --> 01:02:47,513
+Tá caro demais. Precisamos
+vender por mil e quinhentos.
+
+1023
+01:02:47,714 --> 01:02:52,652
+Dobrar o orçamento de marketing,
+aumentar o HD e investir no FileServer.
+
+1024
+01:02:52,853 --> 01:02:55,321
+- De onde você tirou essa ideia de...
+- Lee Clow.
+
+1025
+01:02:55,521 --> 01:02:57,089
+- O Lee está errado.
+- Mentindo?
+
+1026
+01:02:57,290 --> 01:02:59,357
+- Errado.
+- De onde tiraríamos o dinheiro?
+
+1027
+01:02:59,557 --> 01:03:01,460
+Do fim do Apple II.
+
+1028
+01:03:01,661 --> 01:03:03,662
+O Apple II é a única fonte de dinheiro.
+
+1029
+01:03:03,862 --> 01:03:07,566
+- Você concordou com o conselho.
+- Eu entendi as preocupações deles, mas...
+
+1030
+01:03:07,766 --> 01:03:11,534
+- Por não termos mostrado o produto?
+- Entre outras coisas, mas perguntei...
+
+1031
+01:03:11,734 --> 01:03:14,572
+Que coisas? Tô curioso. Você
+disse "entre outras coisas".
+
+1032
+01:03:14,772 --> 01:03:17,242
+Entre outras coisas, se
+passava em uma distopia.
+
+1033
+01:03:17,442 --> 01:03:20,846
+Num universo em que não vivemos.
+Sombrio e o oposto da nossa imagem.
+
+1034
+01:03:21,046 --> 01:03:22,681
+<i>E</i> nada do produto.
+
+1035
+01:03:22,882 --> 01:03:26,451
+Falaram da propaganda
+sem saber o que vendíamos.
+
+1036
+01:03:26,652 --> 01:03:28,487
+O Mac precisa ficar mais barato.
+
+1037
+01:03:28,688 --> 01:03:35,629
+Nada indica que o Mac falhou pelo preço.
+Ninguém gostou, porque ele não faz nada.
+
+1038
+01:03:36,430 --> 01:03:38,764
+Sistema fechado, controle total.
+
+1039
+01:03:38,965 --> 01:03:42,033
+Não sabíamos o que o público quer,
+mas certamente não é isso.
+
+1040
+01:03:42,233 --> 01:03:44,302
+Querem entradas, escolhas, alternativas.
+
+1041
+01:03:44,502 --> 01:03:46,504
+Um som diferente, misturar componentes.
+
+1042
+01:03:46,704 --> 01:03:50,643
+John, olha. Quem disse que o cliente
+está sempre certo era um cliente, garanto.
+
+1043
+01:03:50,843 --> 01:03:52,744
+- Tinha skinheads.
+- Ela os liberava.
+
+1044
+01:03:52,944 --> 01:03:56,080
+- Liberar skinheads?
+- Tinha bosta nenhuma a ver com skinheads!
+
+1045
+01:03:56,280 --> 01:03:59,317
+Eram a porra dos figurantes,
+ninguém sabe que eram skinheads!
+
+1046
+01:03:59,517 --> 01:04:03,389
+- O conselho estava preocupado...
+- Você inventou a propaganda do <i>way of life</i>.
+
+1047
+01:04:03,589 --> 01:04:07,627
+- E a "nossa marca" era <i>minha</i> marca.
+- Meu trabalho é sugerir ao conselho.
+
+1048
+01:04:07,828 --> 01:04:12,498
+Mostrávamos gente feliz com Pepsi. O mundo
+não ia desabar se comprassem Zap Cola.
+
+1049
+01:04:12,699 --> 01:04:15,868
+Recomende abaixar o preço e
+dobrar o investimento em marketing.
+
+1050
+01:04:16,068 --> 01:04:18,070
+- Não posso.
+- <i>E</i> mostrávamos o produto.
+
+1051
+01:04:18,270 --> 01:04:21,473
+Ele era aberto e consumido.
+
+1052
+01:04:21,774 --> 01:04:24,343
+Vai fazer o quê, recomendar
+que acabemos com o Mac?
+
+1053
+01:04:24,543 --> 01:04:26,046
+Já recomendei, Steve.
+
+1054
+01:04:27,180 --> 01:04:30,149
+Hã? Quando?
+
+1055
+01:04:30,350 --> 01:04:34,487
+Acha que a razão do seu sucesso era achar
+que o povo não sabia beber refrigerante?
+
+1056
+01:04:34,687 --> 01:04:37,989
+Não acabei com o anúncio, Steve,
+ele só foi ao ar por minha causa!
+
+1057
+01:04:38,189 --> 01:04:41,359
+Agorinha. Uma hora atrás.
+Voltei agora da casa do Markkula.
+
+1058
+01:04:41,560 --> 01:04:44,362
+O que ele disse?
+
+1059
+01:04:44,563 --> 01:04:46,466
+- O que ele falou?
+- Crie algo novo.
+
+1060
+01:04:46,667 --> 01:04:49,603
+Te dou uma equipe. Senta em Maui,
+num sofá em um resort.
+
+1061
+01:04:49,804 --> 01:04:56,755
+Espera aí. Você recomendou acabarmos com o
+Mac ou recomendou me tirar da equipe do Mac?
+
+1062
+01:04:56,976 --> 01:05:00,912
+Compramos três horários no Super Bowl.
+Dois de trinta segundos, um de sessenta.
+
+1063
+01:05:01,112 --> 01:05:05,216
+Depois que passou, queriam o dinheiro de
+volta e me pediram pra vender os horários.
+
+1064
+01:05:05,416 --> 01:05:09,352
+Chiat/Day vendeu os dois de 30 mas não
+o de 60, então avisei para o Lee Clow...
+
+1065
+01:05:09,552 --> 01:05:12,324
+que, se ele não vendesse o de
+30, não tinha problema.
+
+1066
+01:05:12,524 --> 01:05:14,893
+Se abaixarmos o preço e
+dobrarmos o orçamento...
+
+1067
+01:05:15,093 --> 01:05:17,763
+Ou um ou outro. Pra isso, só
+se tirarmos do Apple II.
+
+1068
+01:05:17,964 --> 01:05:20,533
+O Apple II devia te envergonhar.
+Ele me envergonha.
+
+1069
+01:05:20,734 --> 01:05:22,400
+Não envergonha os acionistas.
+
+1070
+01:05:22,600 --> 01:05:23,968
+Tô cagando pros acionistas!
+
+1071
+01:05:24,169 --> 01:05:26,471
+Te contratei pra não ter
+que ouvir falar deles!
+
+1072
+01:05:26,671 --> 01:05:29,808
+Os acioistas são meu problema,
+e o conselho os representa.
+
+1073
+01:05:30,009 --> 01:05:31,676
+É assim que funciona.
+
+1074
+01:05:31,877 --> 01:05:34,479
+Tem certeza que o Clow não
+enrolou por conta própria?
+
+1075
+01:05:34,679 --> 01:05:36,716
+Enrolou porque eu falei, Steve.
+
+1076
+01:05:36,917 --> 01:05:39,585
+Acha que ele correria esse risco?
+
+1077
+01:05:39,786 --> 01:05:42,688
+Acho que ele faria o necessário
+para proteger a propaganda.
+
+1078
+01:05:42,888 --> 01:05:45,724
+- Era eu quem protegia.
+- Você nem queria a propaganda...
+
+1079
+01:05:45,924 --> 01:05:49,359
+...porque estava tentando matar o Mac
+dois meses antes do lançamento.
+
+1080
+01:05:49,559 --> 01:05:50,563
+Você tá doido.
+
+1081
+01:05:52,832 --> 01:05:54,699
+- Posso te falar uma coisa?
+- Claro.
+
+1082
+01:05:54,900 --> 01:05:57,471
+Não faço a menor ideia do
+porquê de você estar aqui.
+
+1083
+01:05:58,838 --> 01:06:04,911
+A história da sua saída da Apple, além
+de mitológica, é mentirosa.
+
+1084
+01:06:05,112 --> 01:06:07,413
+- Vou eu mesmo ao conselho.
+- Não faça isso.
+
+1085
+01:06:07,614 --> 01:06:09,481
+- Eu <i>vou</i> fazer isso.
+- Você não pode.
+
+1086
+01:06:09,681 --> 01:06:11,817
+Porquê não?
+
+1087
+01:06:12,018 --> 01:06:15,122
+Eles acreditam que você não é
+mais necessário na empresa.
+
+1088
+01:06:19,425 --> 01:06:24,563
+Eu recebo cartas de ódio, ameaças de morte.
+
+1089
+01:06:24,764 --> 01:06:28,201
+Estão me mandando ameaças de morte.
+
+1090
+01:06:28,402 --> 01:06:32,072
+Meus filhos estão em perigo.
+Porque acham que eu te demiti?
+
+1091
+01:06:34,340 --> 01:06:35,942
+Joanna vai me chamar logo.
+
+1092
+01:06:36,143 --> 01:06:37,810
+- Steve?
+- Não foi ensaiado.
+
+1093
+01:06:38,011 --> 01:06:39,511
+Já tô indo.
+
+1094
+01:06:39,712 --> 01:06:41,746
+Te dei seu dia no tribunal.
+
+1095
+01:06:41,947 --> 01:06:44,548
+- Você <i>me deu</i>?
+- Dei ao conselho uma escolha simples.
+
+1096
+01:06:44,748 --> 01:06:48,653
+Perguntei se preferiam investir no Apple II
+ou no Mac, e escolheram o Apple II.
+
+1097
+01:06:48,853 --> 01:06:52,458
+- Os que queriam largar a propaganda.
+- Depois peguei um avião pra China.
+
+1098
+01:06:52,892 --> 01:06:55,527
+Sr. Sculley, tem uma chamada
+para você na Linha Um.
+
+1099
+01:06:55,727 --> 01:06:58,697
+Ou quase, porque me ligaram no saguão.
+
+1100
+01:06:58,898 --> 01:07:00,433
+- Quem ligou?
+- Não importa.
+
+1101
+01:07:00,634 --> 01:07:02,267
+<i>Importa pra mim. Quem te ligou?</i>
+
+1102
+01:07:02,467 --> 01:07:03,468
+John Sculley.
+
+1103
+01:07:03,668 --> 01:07:07,906
+<i>John, se você embarcar, vai estar
+desempregado no desembarque.</i>
+
+1104
+01:07:08,107 --> 01:07:11,509
+<i>Steve ligou para o conselho.
+Ele te quer fora daqui.</i>
+
+1105
+01:07:11,710 --> 01:07:14,813
+<i>Larguei as malas no avião. Minhas
+coisas ainda estão em Pequim.</i>
+
+1106
+01:07:15,013 --> 01:07:17,549
+Voltei pra Cupertino no meio da noite.
+
+1107
+01:07:17,750 --> 01:07:22,355
+Sei bem que horas são. Preciso
+do quorum aqui, e do Steve também.
+
+1108
+01:07:22,556 --> 01:07:24,857
+<i>Você me tirou do Mac, foi
+um péssimo negócio.</i>
+
+1109
+01:07:25,058 --> 01:07:27,726
+- A ligação do quorum foi homicídio.
+- Aí! Aí mesmo.
+
+1110
+01:07:27,927 --> 01:07:30,929
+É aí que você tá falando
+merda. Foi suicídio.
+
+1111
+01:07:31,130 --> 01:07:34,065
+Porque você sabia as suas cartas
+e eu te mostrei as minhas
+
+1112
+01:07:34,265 --> 01:07:36,934
+Te mostrei as minhas, e você
+foi com tudo mesmo assim.
+
+1113
+01:07:37,134 --> 01:07:40,605
+Achou que eu faria o quê? Aceito
+perder, mas não pagar multa.
+
+1114
+01:07:40,806 --> 01:07:43,308
+Eu não aceito perder.
+
+1115
+01:07:43,509 --> 01:07:46,845
+<i>Estamos perdendo valor no mercado,
+e o Mac está perdendo dinheiro.</i>
+
+1116
+01:07:47,045 --> 01:07:50,949
+Nossa esperança é o Apple II, que
+logo ficará com o SO obsoleto.
+
+1117
+01:07:51,150 --> 01:07:55,186
+Já há quem esteja arrumando as máquinas
+para rodar outros sistemas operacionais,
+
+1118
+01:07:55,386 --> 01:07:57,957
+feitos pra Intel. Não tem
+outra forma de dizer isso.
+
+1119
+01:07:58,158 --> 01:08:00,959
+Precisamos atualizar o Apple II.
+
+1120
+01:08:01,159 --> 01:08:03,562
+<i>Ao matar o Mac?</i>
+
+1121
+01:08:03,763 --> 01:08:05,364
+<i>O Mac não deu certo. É um fato.</i>
+
+1122
+01:08:05,564 --> 01:08:07,398
+- É caro demais.
+- Não temos prova...
+
+1123
+01:08:07,598 --> 01:08:12,722
+Eu sou a prova! Sou o maior expert do
+mundo nisso, John qual o seu currículo?
+
+1124
+01:08:12,973 --> 01:08:16,709
+Você dá instruções contraditórias, é
+indisciplinado, deixa todo mundo mal.
+
+1125
+01:08:16,910 --> 01:08:19,844
+Nossos engenheiros estão
+fugindo pra Sun, pra Dell, pra HP.
+
+1126
+01:08:20,045 --> 01:08:22,581
+<i>Wall Street não sabe quem
+está comandando o barco.</i>
+
+1127
+01:08:22,781 --> 01:08:24,049
+Estamos desvalorizados.
+
+1128
+01:08:24,250 --> 01:08:27,686
+E eu sou o CEO da Apple, Steve,
+é esse o meu currículo.
+
+1129
+01:08:27,887 --> 01:08:30,822
+Antes disso você vendia água
+carbonizada com sabor, certo?
+
+1130
+01:08:31,022 --> 01:08:34,427
+Eu sentei na porra duma garagem
+com o Wozniak e inventei o futuro.
+
+1131
+01:08:34,628 --> 01:08:37,862
+Porque os artistas comandam e os
+hackers pedem por um espetáculo.
+
+1132
+01:08:38,063 --> 01:08:39,064
+Tá bom.
+
+1133
+01:08:39,264 --> 01:08:40,865
+Esse cara tá descontrolado.
+
+1134
+01:08:41,066 --> 01:08:45,538
+Posso me demitir hoje, mas se quiserem
+que eu fique, têm que expulsar o Steve.
+
+1135
+01:08:45,739 --> 01:08:47,740
+Tirem ele daqui.
+
+1136
+01:08:47,941 --> 01:08:51,143
+Ele pode ficar com uma parte das
+ações e receber nossas notícias.
+
+1137
+01:08:51,343 --> 01:08:53,578
+<i>Ele terá que se desligar da Apple.</i>
+
+1138
+01:08:53,778 --> 01:08:57,384
+Tô falando sério. Quero que todos votem.
+
+1139
+01:08:58,985 --> 01:09:02,088
+Duvido, seu merda.
+
+1140
+01:09:02,289 --> 01:09:07,759
+Você fez um trabalho maravilhoso
+cativando a imprensa esses anos todos.
+
+1141
+01:09:07,960 --> 01:09:09,294
+Quer dizer, manipulando.
+
+1142
+01:09:09,495 --> 01:09:13,966
+Ninguém, nenhum redator ou editor-chefe
+sabe até hoje como foi.
+
+1143
+01:09:15,267 --> 01:09:17,035
+<i>Você forçou o conselho.</i>
+
+1144
+01:09:17,236 --> 01:09:19,371
+<i>Mesmo depois que te contei o que fariam.</i>
+
+1145
+01:09:19,572 --> 01:09:21,473
+E fizeram.
+
+1146
+01:09:21,674 --> 01:09:23,875
+Foi unânime.
+
+1147
+01:09:24,076 --> 01:09:30,048
+Lembro muito bem, John, pois
+foi a pior noite da minha vida.
+
+1148
+01:09:30,249 --> 01:09:36,289
+E eu os forcei a votar porque
+eu estava certo. Ainda acho que estou.
+
+1149
+01:09:37,758 --> 01:09:39,525
+Agora, eu sangrei aquela noite.
+
+1150
+01:09:39,726 --> 01:09:41,694
+<i>E eu não sangro.</i>
+
+1151
+01:09:41,895 --> 01:09:45,998
+<i>Mas o tempo passa e eu já não
+penso sobre isso com tanta frequência.</i>
+
+1152
+01:09:46,199 --> 01:09:50,669
+Entendo perfeitamente porque
+você está chateado.
+
+1153
+01:09:50,870 --> 01:09:53,237
+<i>E quero que as pessoas
+saibam a verdade também.</i>
+
+1154
+01:09:53,437 --> 01:09:56,741
+- Tá na hora.
+- Eu sei.
+
+1155
+01:09:56,942 --> 01:09:58,843
+Você vai acabar comigo, não vai?
+
+1156
+01:09:59,044 --> 01:10:04,482
+Até parece. Vou sentar no camarote
+enquanto você acaba consigo mesmo.
+
+1157
+01:10:04,683 --> 01:10:08,219
+Aí vou pedir uma janta com um Margaux
+de 1955 e dar alguns autógrafos.
+
+1158
+01:10:08,419 --> 01:10:10,856
+- Deus do céu.
+- Quer um conselho, Pepsiman?
+
+1159
+01:10:11,057 --> 01:10:13,592
+Não mande o Woz me detonar na imprensa.
+
+1160
+01:10:13,793 --> 01:10:16,195
+Qualquer um... Você, Markkula, Arthur Rock.
+
+1161
+01:10:16,396 --> 01:10:17,896
+Qualquer um, menos o Rain Man.
+
+1162
+01:10:18,097 --> 01:10:20,432
+Não manipule ele desse jeito.
+
+1163
+01:10:20,633 --> 01:10:24,102
+Independente do que você
+pense, sempre o protegerei.
+
+1164
+01:10:24,303 --> 01:10:26,205
+Vamos, Steve.
+
+1165
+01:10:27,573 --> 01:10:30,176
+É o que homens fazem.
+
+1166
+01:10:30,377 --> 01:10:32,512
+Não podemos atrasar.
+
+1167
+01:10:43,990 --> 01:10:47,494
+Não acho que dava pra ver
+que eu tava ressentido.
+
+1168
+01:10:48,795 --> 01:10:54,600
+Sabia que em Bandley a equipe do Mac dava
+um prêmio anual pra quem te enfrentasse?
+
+1169
+01:10:54,801 --> 01:10:55,834
+Não.
+
+1170
+01:10:56,034 --> 01:11:00,573
+- Eu venci. Três anos seguidos.
+- Legal.
+
+1171
+01:11:04,210 --> 01:11:05,811
+Isso aqui.
+
+1172
+01:11:06,012 --> 01:11:09,882
+Isso... Esse Guy Kawasaki
+na <i>Macworld.</i>
+
+1173
+01:11:10,083 --> 01:11:12,651
+Ele acidentalmente acertou, não é?
+
+1174
+01:11:12,852 --> 01:11:17,623
+Você enrolou no SO do NeXT pra ter tempo
+de descobrir o que a Apple precisa.
+
+1175
+01:11:19,159 --> 01:11:22,828
+Se fosse verdade, não me
+parece tão diabólico assim.
+
+1176
+01:11:23,029 --> 01:11:24,530
+Ei, estamos te aguardando.
+
+1177
+01:11:34,040 --> 01:11:37,543
+Sou a pessoa mais próxima de você,
+sou sua... Sua melhor amiga.
+
+1178
+01:11:37,744 --> 01:11:40,713
+Aquilo... Como você chama?
+
+1179
+01:11:40,914 --> 01:11:42,882
+Sua esposa do trabalho. O tempo todo.
+
+1180
+01:11:43,083 --> 01:11:44,883
+Os últimos três anos.
+
+1181
+01:11:48,921 --> 01:11:54,660
+Quando você mudou de ideia e começou a fazer
+a Máquina de Vingança do Steve Jobs?
+
+1182
+01:11:57,630 --> 01:11:59,697
+Estamos aguardando.
+
+1183
+01:11:59,898 --> 01:12:02,302
+Lembra do Skylab?
+
+1184
+01:12:04,070 --> 01:12:09,941
+Foi um satélite de recolhimento de dados
+que a NASA lançou nos anos 70.
+
+1185
+01:12:10,142 --> 01:12:12,611
+Acontece que, quando o lançaram,
+
+1186
+01:12:12,811 --> 01:12:15,146
+não sabiam como recuperá-lo.
+
+1187
+01:12:15,347 --> 01:12:20,619
+Mas sentiram que estavam próximos
+o suficiente dessa tecnologia.
+
+1188
+01:12:20,820 --> 01:12:22,087
+Eles estão vindo.
+
+1189
+01:12:22,288 --> 01:12:24,822
+Na verdade, eles não estavam próximos.
+
+1190
+01:12:25,023 --> 01:12:29,561
+Depois de oito anos, o Skylab
+desabou no Oceano Índico.
+
+1191
+01:12:29,762 --> 01:12:33,996
+<i>Mais um pouquinho pra direita ou esquerda,
+e milhares poderiam ter morrido.</i>
+
+1192
+01:12:34,196 --> 01:12:38,102
+Eu queria muito fazer um
+computador para universidades.
+
+1193
+01:12:38,303 --> 01:12:40,705
+A tecnologia só não
+acompanhou essa vontade.
+
+1194
+01:12:40,906 --> 01:12:42,975
+<i>Eu sei que estamos falidos.</i>
+
+1195
+01:12:43,176 --> 01:12:45,876
+<i>Senhoras e senhores, a
+apresentação começará em breve.</i>
+
+1196
+01:12:46,076 --> 01:12:48,580
+<i>Mas a Apple parou de inovar,
+e eu vi algo melhor.</i>
+
+1197
+01:12:48,781 --> 01:12:53,718
+Sei que ninguém vai investir num dicionário
+de treze mil dólares com caixa de som.
+
+1198
+01:12:53,919 --> 01:12:55,755
+Você sabe que eu sei disso.
+
+1199
+01:12:57,590 --> 01:12:59,258
+Mas a Apple, sim, vai investir.
+
+1200
+01:12:59,459 --> 01:13:02,828
+Porque o Avie Tevanian vai
+construir o SO que eles precisam.
+
+1201
+01:13:03,029 --> 01:13:05,731
+<i>Vão ter que me comprar também.</i>
+
+1202
+01:13:05,932 --> 01:13:11,671
+Por meio milhão de dólares em ações
+e controle total em todos os produtos.
+
+1203
+01:13:42,402 --> 01:13:46,372
+Senhoras e senhores, por favor recebam...
+
+1204
+01:13:50,009 --> 01:13:56,014
+<i>Mais de um ano depois de sua apresentação,
+o computador NeXT finalmente foi lançado.</i>
+
+1205
+01:13:56,215 --> 01:13:59,752
+<i>Parece que um raio caiu duas
+vezes na cabeça de Steve Jobs.</i>
+
+1206
+01:13:59,953 --> 01:14:04,289
+<i>Estudantes e educadores acham
+injustificável o preço alto da máquina.</i>
+
+1207
+01:14:04,490 --> 01:14:06,191
+<i>Adeus ao cubo negro.</i>
+
+1208
+01:14:06,392 --> 01:14:11,129
+<i>A NeXT vendeu sua fábrica para a Canon
+dispensou metade dos funcionários.</i>
+
+1209
+01:14:11,330 --> 01:14:14,165
+No mundo da computação, é matar ou morrer.
+
+1210
+01:14:14,366 --> 01:14:19,103
+A Apple Computers está em maus lençóis e
+dispensou dois mil e quinhentos empregados.
+
+1211
+01:14:19,304 --> 01:14:21,506
+<i>A Apple continua perdendo valor no mercado,</i>
+
+1212
+01:14:21,706 --> 01:14:26,678
+<i>sem inovações além do Newton, a
+menina dos olhos do CEO John Sculley.</i>
+
+1213
+01:14:26,879 --> 01:14:29,947
+<i>Se você quer ser móvel, você
+quer um palmtop Newton.</i>
+
+1214
+01:14:30,148 --> 01:14:31,717
+<i>Talvez seja melhor não querer.</i>
+
+1215
+01:14:31,917 --> 01:14:34,753
+<i>Ele transforma escrita de
+mão em digitalizada.</i>
+
+1216
+01:14:34,954 --> 01:14:38,692
+Ei, Dolph, anota aí no seu
+Newton. "Bater no Martin."
+
+1217
+01:14:42,462 --> 01:14:45,030
+<i>Em 1980, a Apple possuía
+30% do mercado.</i>
+
+1218
+01:14:45,231 --> 01:14:47,766
+<i>Hoje, eles têm apenas 3,2%.</i>
+
+1219
+01:14:47,967 --> 01:14:51,604
+<i>É o fim. John Sculley foi demitido da Apple.</i>
+
+1220
+01:14:52,938 --> 01:14:55,708
+E essa tal de internet?
+Você sabe algo a respeito?
+
+1221
+01:14:55,909 --> 01:14:58,444
+A internet é o futuro.
+
+1222
+01:14:58,645 --> 01:15:02,714
+Há vários rumores na Apple Computers a
+respeito de quem dirigirá a empresa.
+
+1223
+01:15:02,915 --> 01:15:05,383
+É uma reunião tecnológica memorável.
+
+1224
+01:15:05,584 --> 01:15:11,123
+<i>Está acontecendo. Em um acordo bilionário, a
+Apple comprou o sistema operacional da NeXT.</i>
+
+1225
+01:15:11,324 --> 01:15:14,426
+- <i>Será que o filho pródigo vai voltar?</i>
+- <i>Pode apostar que sim.</i>
+
+1226
+01:15:14,626 --> 01:15:15,861
+Olha só, o Mac voltou.
+
+1227
+01:15:16,062 --> 01:15:18,828
+- O cofundador da Apple, Steven Jobs...
+- Steve Jobs...
+
+1228
+01:15:19,331 --> 01:15:21,901
+<i>Steve Jobs voltou à Apple.</i>
+
+1229
+01:15:23,469 --> 01:15:28,173
+<i>Se vocês quiserem extrair as fotos das
+suas câmeras digitais, tem como.</i>
+
+1230
+01:15:28,374 --> 01:15:30,875
+<i>Estamos entrando na nova
+geração de entrada/saída.</i>
+
+1231
+01:15:31,075 --> 01:15:33,178
+USB de 12MB. Duas entradas.
+
+1232
+01:15:33,379 --> 01:15:36,048
+Estamos abandonando a
+entrada/saída original da Apple.
+
+1233
+01:15:36,248 --> 01:15:42,353
+Som estéreo embutido, um teclado maravilhoso
+e o <i>mouse</i> mais legal que vocês já viram.
+
+1234
+01:15:42,554 --> 01:15:46,424
+Dessa vez usamos ratos de verdade.
+
+1235
+01:15:46,625 --> 01:15:49,895
+Vamos abrir em dez minutos. Steven?
+
+1236
+01:15:50,095 --> 01:15:51,530
+Quer parar de palhaçada?
+
+1237
+01:15:51,731 --> 01:15:56,000
+Não creio, é o Steve Wozniak sentado ali.
+
+1238
+01:15:59,004 --> 01:16:02,441
+Se quiserem rir, perguntem
+ao Woz se ele tem horas.
+
+1239
+01:16:02,642 --> 01:16:06,410
+Eu tenho horas e o nosso tempo tá acabando.
+
+1240
+01:16:06,611 --> 01:16:11,348
+- "Um teclado maravilhoso"...
+- E o <i>mouse </i>mais legal que já viram.
+
+1241
+01:16:11,548 --> 01:16:13,785
+Essas coisas são assim hoje em dia.
+
+1242
+01:16:13,986 --> 01:16:18,456
+Eu gostaria de mostrar
+como elas serão amanhã.
+
+1243
+01:16:18,657 --> 01:16:21,360
+Eis o iMac.
+
+1244
+01:16:50,823 --> 01:16:52,324
+Isso foi legal.
+
+1245
+01:16:52,525 --> 01:16:54,526
+Porque eu gostei mais do que de costume?
+
+1246
+01:16:54,726 --> 01:16:56,494
+- Não sei.
+- Alguma coisa mudou.
+
+1247
+01:16:56,695 --> 01:16:58,196
+Ei, trouxa.
+
+1248
+01:16:58,397 --> 01:17:00,632
+Acho que ela está falando
+com algum de vocês.
+
+1249
+01:17:00,832 --> 01:17:03,235
+- Notou a diferença?
+- É isso que eu tô...
+
+1250
+01:17:03,436 --> 01:17:05,937
+As luzes da saída desligaram.
+
+1251
+01:17:06,138 --> 01:17:08,472
+- Breu total.
+- Você conseguiu.
+
+1252
+01:17:08,673 --> 01:17:10,843
+Ligamos as luzes no nosso painel.
+
+1253
+01:17:11,044 --> 01:17:14,078
+Elas apagam por sete segundos
+e depois voltam. Teoricamente.
+
+1254
+01:17:14,278 --> 01:17:17,115
+- Isso é legal?
+- Temos bastante certeza que não é.
+
+1255
+01:17:17,316 --> 01:17:19,884
+- Quer ver umas citações?
+- Vamos deixar pra depois.
+
+1256
+01:17:20,084 --> 01:17:21,253
+Não, ele vai gostar.
+
+1257
+01:17:21,454 --> 01:17:24,758
+- Vou te mostrar depois.
+- Vou pegar agora.
+
+1258
+01:17:26,159 --> 01:17:28,227
+- Desculpa.
+- Continuem de onde paramos.
+
+1259
+01:17:28,428 --> 01:17:31,395
+Só temos alguns minutos, então
+vamos fazer a revisão geral.
+
+1260
+01:17:31,595 --> 01:17:34,399
+Vamos usar uma câmera sem fio
+que roubamos da Panasonic.
+
+1261
+01:17:34,600 --> 01:17:37,535
+Vou mostrá-los como ele é.
+
+1262
+01:17:37,736 --> 01:17:40,538
+A coisa toda é transparente.
+Dá pra ver tudo ali dentro.
+
+1263
+01:17:40,739 --> 01:17:42,975
+Que tal, Woz?
+
+1264
+01:17:43,176 --> 01:17:46,544
+- Dá pra ver, mas não dá pra abrir.
+- Justo.
+
+1265
+01:17:46,745 --> 01:17:50,315
+Os autofalantes estão na frente,
+o infravermelho está aqui,
+
+1266
+01:17:50,516 --> 01:17:52,284
+drive de CD-ROM no meio.
+
+1267
+01:17:52,485 --> 01:17:55,020
+- Legal.
+- Entradas para headphones.
+
+1268
+01:17:55,221 --> 01:17:58,257
+Todos os conectores
+dentro dessa portinha aqui.
+
+1269
+01:17:58,458 --> 01:18:01,593
+Ethernet. USB.
+
+1270
+01:18:01,794 --> 01:18:08,432
+Apesar de ser Mac, miramos no uso principal
+desejado pelos consumidores, que é...
+
+1271
+01:18:08,633 --> 01:18:10,602
+Esperem, por favor.
+
+1272
+01:18:10,803 --> 01:18:13,571
+A resposta era "a internet."
+
+1273
+01:18:13,772 --> 01:18:15,674
+- Joanna?
+- Oi.
+
+1274
+01:18:16,808 --> 01:18:20,745
+Fica na minha frente. Quero olhar as
+citações, mas não quero que o Joel saiba.
+
+1275
+01:18:20,945 --> 01:18:22,349
+São todas ótimas.
+
+1276
+01:18:24,049 --> 01:18:27,851
+"Não é apenas o computador com design
+mais legal apresentado em muito tempo,
+
+1277
+01:18:28,051 --> 01:18:33,727
+como também a prova de que a empresa amada
+do Vale do Silício não mais é noctâmbula.
+
+1278
+01:18:35,394 --> 01:18:37,361
+É uma palavra. Quer dizer "sonâmbula".
+
+1279
+01:18:37,561 --> 01:18:41,399
+Steve? Desculpa, precisamos evacuar aqui
+se quisermos começar na hora certa.
+
+1280
+01:18:41,599 --> 01:18:44,967
+- Vamos começar na hora certa.
+- É claro que vamos. Pegue isso aqui.
+
+1281
+01:18:45,167 --> 01:18:48,173
+Galera, é isso aí. Vão limpar
+o palco e abrir o teatro.
+
+1282
+01:18:48,374 --> 01:18:49,708
+Eu amo vocês.
+
+1283
+01:18:57,951 --> 01:18:59,651
+Andy, vem aqui um minuto.
+
+1284
+01:18:59,852 --> 01:19:01,955
+- Qual Andy?
+- Hertzfeld.
+
+1285
+01:19:08,428 --> 01:19:12,431
+A <i>Forbes</i> está dizendo que é um
+"successo capaz de alterar a indústria."
+
+1286
+01:19:12,632 --> 01:19:14,634
+Olha só.
+
+1287
+01:19:17,036 --> 01:19:19,236
+Porque nunca transamos?
+
+1288
+01:19:19,437 --> 01:19:21,106
+A gente não se ama. Olha.
+
+1289
+01:19:23,175 --> 01:19:26,011
+- Sculley.
+- Olha o que ele disse.
+
+1290
+01:19:26,212 --> 01:19:31,383
+"Ele usou a mesma estratégia que fez a
+Apple tão bem sucedida há quinze anos:
+
+1291
+01:19:31,584 --> 01:19:34,621
+Criou produtos bons e
+investiu no marketing."
+
+1292
+01:19:35,722 --> 01:19:38,190
+- Foi bacana da parte dele.
+- Foi mesmo.
+
+1293
+01:19:38,391 --> 01:19:39,691
+Tô falando sério.
+
+1294
+01:19:39,892 --> 01:19:43,261
+É mais fácil avistar o J.D. Salinger
+do que o John Sculley.
+
+1295
+01:19:43,462 --> 01:19:46,933
+Não estava sendo sarcástico.
+Foi legal mesmo.
+
+1296
+01:19:48,067 --> 01:19:50,134
+- Voce ainda fala com ele?
+- Não.
+
+1297
+01:19:50,335 --> 01:19:52,169
+Não falou com ele desde 1988?
+
+1298
+01:19:52,370 --> 01:19:54,705
+Se tivesse falado, teria te contado.
+
+1299
+01:19:54,906 --> 01:19:56,141
+Não importa.
+
+1300
+01:19:56,342 --> 01:20:01,178
+Não quero que as pessoas achem que podem me
+enfrentar e que vou estar ok 15 anos depois.
+
+1301
+01:20:01,379 --> 01:20:04,182
+Eu tô brincando.
+
+1302
+01:20:04,383 --> 01:20:06,719
+O que você tem hoje?
+
+1303
+01:20:08,054 --> 01:20:10,089
+Vamos sair do palco.
+
+1304
+01:20:11,656 --> 01:20:15,359
+"A única coisa que a Apple está inovando
+agora é liderança multicolorida."
+
+1305
+01:20:15,559 --> 01:20:16,560
+Não se preocupe.
+
+1306
+01:20:16,760 --> 01:20:19,062
+- O que o Bill Gates tem contra mim?
+- Não sei.
+
+1307
+01:20:19,262 --> 01:20:21,466
+Vocês dois são doidos. Me escuta.
+
+1308
+01:20:21,667 --> 01:20:24,735
+Ele desistiu de uma faculdade
+melhor do que a que eu desisti.
+
+1309
+01:20:24,935 --> 01:20:28,139
+- Mas ele é um besta.
+- Se acerte com a Lisa.
+
+1310
+01:20:28,340 --> 01:20:31,343
+Sabe de uma coisa, Joanna? Limites
+
+1311
+01:20:31,544 --> 01:20:34,511
+Você apareceu no meu apartamento
+uma da manhã e o limpou.
+
+1312
+01:20:34,711 --> 01:20:35,713
+Cadê o limite?
+
+1313
+01:20:35,914 --> 01:20:37,649
+Aí. Digamos que está aí.
+
+1314
+01:20:37,850 --> 01:20:44,489
+Se eu te der algumas previsões de verdade,
+promete não repeti-las no palco?
+
+1315
+01:20:44,690 --> 01:20:48,426
+Como assim "previsões de verdade"?
+O que você anda me falando?
+
+1316
+01:20:48,626 --> 01:20:50,595
+Previsões moderadas.
+
+1317
+01:20:51,496 --> 01:20:54,030
+O departamento de marketing
+andou mentindo pra mim?
+
+1318
+01:20:54,230 --> 01:20:57,502
+Estamos reduzindo as expectativas
+para evitar que você as exploda.
+
+1319
+01:20:57,702 --> 01:20:59,238
+Quais as previsões de verdade?
+
+1320
+01:21:00,406 --> 01:21:03,275
+Vamos vender um milhão
+no primeiro trimestre.
+
+1321
+01:21:03,476 --> 01:21:05,209
+Vinte mil, um mês depois.
+
+1322
+01:21:05,410 --> 01:21:06,611
+- Puta merda.
+- Pois é.
+
+1323
+01:21:06,812 --> 01:21:08,346
+Tá vendo? É só esperar e...
+
+1324
+01:21:08,547 --> 01:21:14,785
+Além disso, 32% das compras serão de pessoas
+obtendo o primeiro computador de suas vidas.
+
+1325
+01:21:14,986 --> 01:21:19,490
+E 12% serão de pessoas que
+usam algum Windows.
+
+1326
+01:21:19,691 --> 01:21:22,227
+É isso que o Bill Gates tem contra você.
+
+1327
+01:21:23,696 --> 01:21:27,066
+E vai ser o computador mais
+rapidamente vendido do mundo.
+
+1328
+01:21:28,433 --> 01:21:35,344
+Você ressuscitou a empresa depois da
+demissão e corte dos produtos em massa.
+
+1329
+01:21:35,775 --> 01:21:39,178
+Então, Steven, acabou.
+
+1330
+01:21:40,780 --> 01:21:43,280
+Você vai vencer.
+
+1331
+01:21:43,481 --> 01:21:47,384
+Seria um pecado não aproveitar esse momento.
+
+1332
+01:21:47,584 --> 01:21:48,684
+Eu estou aproveitando.
+
+1333
+01:21:48,884 --> 01:21:50,020
+Se acerte com a Lisa.
+
+1334
+01:21:50,220 --> 01:21:51,655
+- Sabe...
+- Tem dó.
+
+1335
+01:21:51,856 --> 01:21:55,326
+Não gosto de ter menos
+privacidade que os outros.
+
+1336
+01:21:55,527 --> 01:21:58,896
+- Ser um multibilionário não ajuda nisso?
+- Não.
+
+1337
+01:21:59,197 --> 01:22:02,133
+- A Lisa só...
+- A Lisa só deixou acontecer.
+
+1338
+01:22:02,334 --> 01:22:05,669
+- Chrisann vendeu a casa e...
+- E a Lisa poderia ter feito o quê?
+
+1339
+01:22:05,870 --> 01:22:08,472
+Como ela iria impedir a própria
+mãe de vender a casa?
+
+1340
+01:22:08,672 --> 01:22:10,373
+Casa que eu comprei para as duas.
+
+1341
+01:22:10,573 --> 01:22:11,608
+Como ela impediria?
+
+1342
+01:22:11,808 --> 01:22:14,612
+Verbalizar discordância seria um bom começo.
+
+1343
+01:22:14,813 --> 01:22:20,819
+Não acha que está exagerando na reação a
+uma menina deixar a mãe vender a casa?
+
+1344
+01:22:21,020 --> 01:22:22,253
+Ela poderia ter tentado.
+
+1345
+01:22:22,453 --> 01:22:25,757
+Ela deveria ter impedido a mãe,
+aquela mãe que..
+
+1346
+01:22:25,958 --> 01:22:29,026
+Ela deixou Chrisann vender a
+casa e fez isso para me irritar.
+
+1347
+01:22:29,226 --> 01:22:32,864
+Ela poderia ter colocado uma bomba
+no aquecedor, eu não ligo.
+
+1348
+01:22:33,065 --> 01:22:35,667
+Você vai dar um jeito nisso agora.
+
+1349
+01:22:35,868 --> 01:22:38,736
+Ela tá esquisita há meses. Está contra mim.
+
+1350
+01:22:38,937 --> 01:22:40,804
+- Dá um jeito.
+- Mas que...
+
+1351
+01:22:41,005 --> 01:22:42,440
+Dá um jeito, Steve.
+
+1352
+01:22:42,641 --> 01:22:44,941
+- Vai com calma.
+- Dá um jeito ou eu me demito.
+
+1353
+01:22:45,141 --> 01:22:48,114
+Que tal? Eu me demito e você
+nunca mais vai me ver. Que tal?
+
+1354
+01:22:49,581 --> 01:22:52,551
+O que deu em você hoje?
+
+1355
+01:22:52,752 --> 01:22:55,920
+O que deu em mim nos últimos dezenove anos.
+
+1356
+01:22:57,889 --> 01:23:01,860
+Eu tenho sido testemunha e cúmplice.
+
+1357
+01:23:03,362 --> 01:23:07,365
+Eu te amo, Steve. Você sabe o quanto.
+
+1358
+01:23:07,566 --> 01:23:12,369
+Amo que você não liga pra quanto a pessoa
+ganha e sim pro que a pessoa <i>produz</i>.
+
+1359
+01:23:12,570 --> 01:23:16,208
+Mas o que você produz não deveria
+ser a melhor parte da sua existência.
+
+1360
+01:23:16,409 --> 01:23:21,413
+Quando se tem filhos, essa devia
+ser a sua melhor parte.
+
+1361
+01:23:21,714 --> 01:23:28,621
+E me causou duas décadas de agonia ver
+que a paternidade é a sua pior parte, Steve.
+
+1362
+01:23:30,822 --> 01:23:36,329
+É coisa pouca. É um probleminha de nada.
+
+1363
+01:23:37,495 --> 01:23:39,830
+Dê um jeito.
+
+1364
+01:23:40,031 --> 01:23:45,236
+Se acerte com ela, ou me encontre
+depois no meu novo emprego...
+
+1365
+01:23:45,437 --> 01:23:48,206
+Que será onde eu quiser.
+
+1366
+01:23:49,709 --> 01:23:51,977
+Não acho que seja coisa
+boba. Ela sabia que...
+
+1367
+01:23:52,178 --> 01:23:54,378
+- Não.
+- Comprei a casa para...
+
+1368
+01:23:54,579 --> 01:23:55,846
+- Não.
+- Como assim "não"?
+
+1369
+01:23:56,047 --> 01:24:00,884
+Não. A casa não é o porquê de
+você estar com raiva da Lisa.
+
+1370
+01:24:01,085 --> 01:24:03,887
+Te garanto que é sim.
+
+1371
+01:24:04,088 --> 01:24:08,560
+Já ouviu a frase "campo de
+distorção da realidade"?
+
+1372
+01:24:08,761 --> 01:24:12,731
+- Já.
+- "O campo de distorção do Steve"?
+
+1373
+01:24:12,932 --> 01:24:15,333
+Já ouvi. Já li. Joan Baez me contou.
+
+1374
+01:24:15,534 --> 01:24:18,401
+Esse tal campo, e aposto que foi
+você quem inventou isso,
+
+1375
+01:24:18,701 --> 01:24:20,704
+é o motivo pelo qual estamos aqui hoje.
+
+1376
+01:24:20,904 --> 01:24:23,142
+- Eu sei disso.
+- Se eu ganhasse um dólar...
+
+1377
+01:24:23,342 --> 01:24:26,878
+sempre que me dizem que algo é
+impossível, eu estaria ainda mais rico.
+
+1378
+01:24:27,078 --> 01:24:28,678
+- Sei também.
+- Qual o problema?
+
+1379
+01:24:28,914 --> 01:24:31,915
+- Meu problema não é a casa.
+- Jo, eu...
+
+1380
+01:24:32,116 --> 01:24:36,387
+É você ter falado que não ia pagar
+a mensalidade de Harvard.
+
+1381
+01:24:36,588 --> 01:24:38,423
+Aquela criança.
+
+1382
+01:24:38,624 --> 01:24:40,825
+Aquela criança sincera e honesta.
+
+1383
+01:24:41,026 --> 01:24:42,826
+Ela te falou que eu não ia pagar?
+
+1384
+01:24:43,027 --> 01:24:45,496
+Eu devia ter te acertado
+na cabeça há muito tempo.
+
+1385
+01:24:45,697 --> 01:24:48,233
+A Lisa te disse que eu
+não ia pagar a mensalidade?
+
+1386
+01:24:48,433 --> 01:24:52,303
+- Andy me contou.
+- Qual Andy?
+
+1387
+01:24:52,504 --> 01:24:54,371
+Hertzfeld.
+
+1388
+01:24:54,572 --> 01:24:55,874
+Como o Hertzfeld saberia?
+
+1389
+01:24:56,075 --> 01:24:59,910
+Ele mandou o cheque pra Harvard
+no valor do semestre todo.
+
+1390
+01:25:00,111 --> 01:25:02,847
+Tá me... Ele pagou a mensalidade?
+
+1391
+01:25:03,048 --> 01:25:05,717
+Não foi por isso que você pediu pra vê-lo?
+
+1392
+01:25:05,918 --> 01:25:07,719
+Não, chamei ele aqui por causa de...
+
+1393
+01:25:07,919 --> 01:25:10,722
+Você falou pra ela que
+não ia pagar a faculdade?
+
+1394
+01:25:10,923 --> 01:25:12,723
+- Sim, porque...
+- Pra quê isso?
+
+1395
+01:25:12,924 --> 01:25:15,959
+A mãe dela, que também é a fiadora...
+
+1396
+01:25:16,160 --> 01:25:17,928
+Hertzfeld? Eu estava resmungando.
+
+1397
+01:25:18,129 --> 01:25:20,498
+Eu estava só... Só falando.
+Você acha que eu...
+
+1398
+01:25:20,699 --> 01:25:24,602
+Eu estava puto porque a Lisa
+queria me estressar, Joanna.
+
+1399
+01:25:24,803 --> 01:25:28,572
+- Era o objetivo dela. Não sei...
+- Você claramente a assustou.
+
+1400
+01:25:28,773 --> 01:25:32,144
+Hertzfeld mandou cheque
+pra Harvard, pagando...
+
+1401
+01:25:33,345 --> 01:25:35,178
+- Ela já está aqui?
+- Creio que sim.
+
+1402
+01:25:35,378 --> 01:25:37,348
+Pode mandar trazê-la até aqui?
+
+1403
+01:25:37,549 --> 01:25:39,084
+Sim.
+
+1404
+01:25:40,486 --> 01:25:42,421
+Obrigado.
+
+1405
+01:25:45,825 --> 01:25:50,695
+Sabe, minha vó sempre dizia...
+
+1406
+01:25:50,896 --> 01:25:53,131
+Não quero saber, Yentl.
+
+1407
+01:25:54,733 --> 01:25:56,767
+- Vou mandar trazerem a Lisa.
+- Obrigado.
+
+1408
+01:25:56,968 --> 01:25:59,036
+Se vir o Hertzfeld...
+
+1409
+01:25:59,237 --> 01:26:00,972
+É o Andy.
+
+1410
+01:26:01,173 --> 01:26:04,109
+Falando no diabo.
+
+1411
+01:26:04,310 --> 01:26:05,377
+Vai.
+
+1412
+01:26:05,578 --> 01:26:07,412
+Pode entrar.
+
+1413
+01:26:09,415 --> 01:26:11,383
+Você está linda hoje.
+
+1414
+01:26:11,584 --> 01:26:12,951
+- Obrigada.
+- Ela não está?
+
+1415
+01:26:13,151 --> 01:26:16,488
+Ela tá maravilhosa. Sempre. Vai.
+
+1416
+01:26:18,390 --> 01:26:20,991
+- Acho que sei porque estou aqui.
+- Sabe?
+
+1417
+01:26:21,727 --> 01:26:24,396
+- Você já mandou o cheque?
+- Já.
+
+1418
+01:26:24,797 --> 01:26:28,731
+Então Harvard tem um cheque vindo do Andy
+Hertzfeld para a mensalidade da Lisa?
+
+1419
+01:26:28,931 --> 01:26:32,771
+Não acho que eles confiram de onde
+vem. Não vão saber que não é seu.
+
+1420
+01:26:32,972 --> 01:26:35,673
+Essa foi por pouco. Quase me envergonhou.
+
+1421
+01:26:35,874 --> 01:26:37,609
+Eu entendo como...
+
+1422
+01:26:37,810 --> 01:26:39,177
+Vou te reembolsar hoje.
+
+1423
+01:26:39,378 --> 01:26:42,746
+Entendo como você se sente.
+Peço desculpas. Mesmo.
+
+1424
+01:26:42,947 --> 01:26:45,016
+Mas deixe-me explicar.
+
+1425
+01:26:45,217 --> 01:26:48,385
+Nem consigo pensar numa metáfora
+para descrever o que você fez.
+
+1426
+01:26:48,585 --> 01:26:50,887
+Eu sabia que vocês se
+acertariam, como sempre.
+
+1427
+01:26:51,087 --> 01:26:54,591
+Mas, se o dinheiro não estivesse lá,
+ela perderia um semestre de aula.
+
+1428
+01:26:54,791 --> 01:26:57,728
+E ela teria que explicar
+pros amigos o porquê.
+
+1429
+01:26:57,929 --> 01:27:00,197
+E ela precisava de coisas.
+Precisava de meias.
+
+1430
+01:27:00,398 --> 01:27:04,436
+- Quê?
+- É frio em Cambridge. Precisava de meias.
+
+1431
+01:27:04,637 --> 01:27:09,206
+- Você deu meias pra ela?
+- Dei dinheiro pra ela comprar meias.
+
+1432
+01:27:09,407 --> 01:27:12,509
+Você não pode agir como intermediário dela.
+
+1433
+01:27:12,710 --> 01:27:15,745
+Você não pode passar por cima
+das minhas decisões. Entendeu?
+
+1434
+01:27:15,945 --> 01:27:19,683
+- Não pode agir como se fosse o pai dela.
+- Bom, alguém precisa ser.
+
+1435
+01:27:19,884 --> 01:27:21,785
+Que merda é essa que você falou?
+
+1436
+01:27:21,986 --> 01:27:25,656
+Eu a conheço desde os seis anos de idade.
+
+1437
+01:27:25,857 --> 01:27:27,859
+Também considero...
+
+1438
+01:27:28,060 --> 01:27:33,130
+Chrisann é minha amiga, fora do
+que... Fora do nosso convívio.
+
+1439
+01:27:33,331 --> 01:27:36,600
+- Então, como um conselheiro familiar.
+- Sou um amigo da família.
+
+1440
+01:27:36,800 --> 01:27:38,802
+Então você sabe que a Lisa faz terapia.
+
+1441
+01:27:39,002 --> 01:27:40,170
+- Sim.
+- Por anos.
+
+1442
+01:27:40,371 --> 01:27:42,474
+- Sim.
+- Sem o meu conhecimento.
+
+1443
+01:27:43,909 --> 01:27:45,776
+Isso não era da minha conta.
+
+1444
+01:27:45,977 --> 01:27:49,079
+Me surpreende o que você
+acha ser ou não da sua conta.
+
+1445
+01:27:49,280 --> 01:27:56,055
+Lisa tem feito terapia, ela gosta e adoraria
+que você e a Chrisann a acompanhassem.
+
+1446
+01:27:56,856 --> 01:28:01,493
+E você sabe disso porque
+foi você quem recomendou.
+
+1447
+01:28:01,694 --> 01:28:03,561
+Bom, conheço um cara.
+
+1448
+01:28:03,762 --> 01:28:07,066
+Foi você quem recomendou
+que ela fizesse terapia.
+
+1449
+01:28:08,634 --> 01:28:13,036
+Quer saber? Já faz tempo, e não lembro de...
+
+1450
+01:28:13,237 --> 01:28:16,106
+Você falou pra Chrisann que
+a Lisa deveria fazer terapia.
+
+1451
+01:28:16,307 --> 01:28:19,244
+Steve, você tá estereotipando.
+É perfeitamente norm...
+
+1452
+01:28:19,445 --> 01:28:21,612
+Não é...
+
+1453
+01:28:21,812 --> 01:28:23,281
+Que mal faz?
+
+1454
+01:28:23,682 --> 01:28:25,651
+Vamos descobrir.
+
+1455
+01:28:26,719 --> 01:28:28,151
+Chrisann é minha amiga.
+
+1456
+01:28:28,352 --> 01:28:31,522
+- Qual o motivo que você deu?
+- Você tá...
+
+1457
+01:28:31,723 --> 01:28:35,660
+Qual o motivo que você deu para a
+Chisann sobre a Lisa fazer terapia?
+
+1458
+01:28:35,861 --> 01:28:38,194
+Não lembro. Estávamos
+conversando e eu disse...
+
+1459
+01:28:38,394 --> 01:28:41,166
+É o que eu te disse, não faz mal algum.
+
+1460
+01:28:42,634 --> 01:28:46,171
+Você sugeriu que a Lisa precisasse
+de uma figura masculina presente?
+
+1461
+01:28:53,112 --> 01:28:54,680
+Sim.
+
+1462
+01:29:01,253 --> 01:29:06,659
+Acho milagre que ela não roube bancos
+com o Exército Simbionês de Libertação.
+
+1463
+01:29:09,295 --> 01:29:14,331
+Não existe razão alguma
+para ela ser uma pessoa boa.
+
+1464
+01:29:14,532 --> 01:29:16,535
+Mas ela é.
+
+1465
+01:29:18,937 --> 01:29:23,641
+Então eu ajudei, porque
+alguém tinha que fazê-lo.
+
+1466
+01:29:29,281 --> 01:29:32,218
+Vou te reembolsar hoje de tarde.
+
+1467
+01:29:43,963 --> 01:29:47,130
+Um tempão atrás, você me ameaçou.
+
+1468
+01:29:47,331 --> 01:29:48,800
+Como é?
+
+1469
+01:29:50,835 --> 01:29:53,937
+Você me ameaçou, uma vez. Já faz tempo.
+
+1470
+01:29:54,138 --> 01:29:58,209
+As pessoas se atraem por gente talentosa.
+Quem não tem talento se sente ameaçado.
+
+1471
+01:29:58,410 --> 01:30:00,277
+Talvez você deva fazer terapia.
+
+1472
+01:30:00,478 --> 01:30:02,879
+Não faz mal algum.
+
+1473
+01:30:03,080 --> 01:30:05,216
+Você <i>literalmente</i> me ameaçou.
+
+1474
+01:30:05,417 --> 01:30:07,752
+No Flint, logo antes do lançamento do Mac.
+
+1475
+01:30:07,953 --> 01:30:10,653
+Eu estava recompilando,
+tentando ajeitar o demo da voz.
+
+1476
+01:30:10,853 --> 01:30:14,392
+Você disse que me apontaria,
+do palco, se eu não conseguisse.
+
+1477
+01:30:14,593 --> 01:30:16,861
+- O coputador disse "oi"?
+- Disse.
+
+1478
+01:30:17,062 --> 01:30:20,263
+Não precisa me agradecer.
+
+1479
+01:30:20,464 --> 01:30:24,067
+Porque você quer que as pessoas te detestem?
+
+1480
+01:30:24,268 --> 01:30:27,237
+Não quero que me detestem.
+
+1481
+01:30:27,438 --> 01:30:30,342
+Só sou indiferente se gostam ou não.
+
+1482
+01:30:31,910 --> 01:30:34,847
+Já que é indiferente, sempre te detestei.
+
+1483
+01:30:36,180 --> 01:30:38,084
+Sério?
+
+1484
+01:30:39,351 --> 01:30:43,656
+Sempre gostei muito de você. É uma pena.
+
+1485
+01:30:45,823 --> 01:30:48,693
+- Vai lá e arrasa.
+- Valeu.
+
+1486
+01:31:10,381 --> 01:31:15,152
+O surpreendente, difícil de
+acreditar porém verdade,
+
+1487
+01:31:15,353 --> 01:31:21,494
+é que, a certa frequência, um chip PowerPC
+é duas vezes mais rápido que um Pentium II.
+
+1488
+01:31:34,372 --> 01:31:36,541
+Em outras palavras,
+
+1489
+01:31:37,742 --> 01:31:40,277
+um chip G3 de 266 megahertz
+
+1490
+01:31:40,478 --> 01:31:45,817
+é duas vezes mais rápido que um
+Pentium II de 266 megahertz.
+
+1491
+01:31:48,853 --> 01:31:53,124
+Ou... Um G3 de266
+
+1492
+01:31:53,325 --> 01:31:57,227
+equivale a 500 megahertz.
+
+1493
+01:31:57,428 --> 01:32:00,330
+<i>Sabe o que é uma coincidência, Lisa?</i>
+
+1494
+01:32:00,531 --> 01:32:02,999
+Confiram o Byte Marks da revista <i>Byte</i>,
+
+1495
+01:32:03,200 --> 01:32:05,670
+o padrão para qualquer...
+
+1496
+01:32:10,209 --> 01:32:13,646
+Pode entrar.
+
+1497
+01:32:16,482 --> 01:32:19,182
+Mandei alguém no salão.
+
+1498
+01:32:19,383 --> 01:32:21,517
+- A encontraram, e ela...
+- Onde ela está?
+
+1499
+01:32:21,717 --> 01:32:23,887
+Ela disse que prefere não voltar.
+
+1500
+01:32:24,087 --> 01:32:26,257
+- Porquê?
+- Só falou isso.
+
+1501
+01:32:26,458 --> 01:32:29,259
+- Vou lá eu mesmo.
+- Não dá. Você não pode.
+
+1502
+01:32:29,460 --> 01:32:31,027
+Vai dar barraco.
+
+1503
+01:32:33,898 --> 01:32:36,267
+- Com licença.
+- Ei, Joel.
+
+1504
+01:32:36,468 --> 01:32:38,402
+Andy disse que eu podia vir até aqui.
+
+1505
+01:32:38,602 --> 01:32:40,739
+- Qual Andy?
+- Andy Cunningham.
+
+1506
+01:32:41,839 --> 01:32:44,808
+Cansei. Algum deles precisa mudar de nome.
+
+1507
+01:32:45,009 --> 01:32:46,910
+Você chama a Cunningham de Andrea.
+
+1508
+01:32:47,111 --> 01:32:50,047
+Não interessa como eu os chamo.
+Eu sei de quem tô falando.
+
+1509
+01:32:50,248 --> 01:32:52,315
+Preciso é saber de quem os outros falam.
+
+1510
+01:32:52,515 --> 01:32:53,952
+Espera um segundinho.
+
+1511
+01:32:58,223 --> 01:33:00,792
+Pode trazer ela aqui, por favor?
+
+1512
+01:33:00,993 --> 01:33:02,459
+Falei com Andy.
+
+1513
+01:33:02,660 --> 01:33:04,227
+Hertzfeld.
+
+1514
+01:33:04,428 --> 01:33:07,464
+Nem com Errorex dá pra apagar
+a conversa da minha cabeça.
+
+1515
+01:33:07,665 --> 01:33:09,866
+Mas quero falar com a Lisa.
+
+1516
+01:33:10,067 --> 01:33:12,402
+Tá bom, só...
+
+1517
+01:33:12,603 --> 01:33:14,706
+- Fica calmo.
+- Tá bom.
+
+1518
+01:33:17,009 --> 01:33:18,744
+Obrigado.
+
+1519
+01:33:26,285 --> 01:33:28,019
+Ei, Steve.
+
+1520
+01:33:40,464 --> 01:33:43,834
+- Como você está?
+- Estou bem, Joel. E você?
+
+1521
+01:33:44,035 --> 01:33:47,303
+Não acho que eu me daria bem
+no seu ramo. Tudo muda muito rápido.
+
+1522
+01:33:47,503 --> 01:33:50,041
+Bom, o seu ramo está prestes
+a mudar rápido também.
+
+1523
+01:33:50,241 --> 01:33:53,009
+É a terceira vez em 14 anos
+que escrevo sobre você.
+
+1524
+01:33:53,210 --> 01:33:56,414
+Até agora, o que achou?
+
+1525
+01:33:56,615 --> 01:34:00,183
+Com licença... Avie está te procurando.
+Achou um novo tubarão
+
+1526
+01:34:00,384 --> 01:34:02,655
+- Quer vir pro backstage rapidinho?
+- Claro.
+
+1527
+01:34:05,957 --> 01:34:09,160
+- Quem é esse?
+- Alan Turing.
+
+1528
+01:34:09,361 --> 01:34:12,996
+Venceu sozinho a Segunda Guerra Mundial
+e, de quebra, criou o computador.
+
+1529
+01:34:13,196 --> 01:34:15,898
+- Mas ele não vai ser parte da campanha.
+- Porquê não?
+
+1530
+01:34:16,098 --> 01:34:17,535
+Porque você não reconheceu.
+
+1531
+01:34:18,870 --> 01:34:20,838
+Posso ver o novo tubarão?
+
+1532
+01:34:23,375 --> 01:34:25,543
+Gostei mais desse do que do antigo.
+
+1533
+01:34:25,744 --> 01:34:27,178
+- Tubarões.
+- Tubarões.
+
+1534
+01:34:27,379 --> 01:34:29,279
+- Quantos tubarões você viu?
+- Alguns.
+
+1535
+01:34:29,479 --> 01:34:32,883
+- Esse é o trigésimo-nono.
+- Estamos tranquilos.
+
+1536
+01:34:33,084 --> 01:34:35,553
+- Trinta e nove tubarões.
+- Tudo bem.
+
+1537
+01:34:35,754 --> 01:34:38,121
+- Sabe o que é especial nesse tubarão?
+- O quê?
+
+1538
+01:34:38,321 --> 01:34:42,293
+Não, tô te perguntando, porque também
+não sei. Me parece igual aos outros.
+
+1539
+01:34:42,494 --> 01:34:44,294
+Pode começar, quero ver de perfil.
+
+1540
+01:34:44,495 --> 01:34:46,163
+Esse é o 92-B.
+
+1541
+01:34:46,364 --> 01:34:50,368
+Aqui de perfil, e essa é a parte de trás.
+
+1542
+01:34:50,569 --> 01:34:55,172
+Detalhe: ele come notebooks
+da Pentium no café-da-manhã.
+
+1543
+01:34:55,373 --> 01:34:58,241
+É esse o tubarão certo.
+
+1544
+01:34:58,442 --> 01:35:00,511
+Gostei bastante dele.
+
+1545
+01:35:00,712 --> 01:35:05,015
+Ninguém acerta de primeira, mas deviam ter
+me mostrado esse aqui uns 20 tubarões atrás.
+
+1546
+01:35:05,215 --> 01:35:07,316
+- Provavelmente mostramos.
+- Encerrem tudo.
+
+1547
+01:35:07,516 --> 01:35:08,551
+Dez minutos.
+
+1548
+01:35:08,751 --> 01:35:12,956
+Ele se matou comendo uma
+maçã envenenada... Alan Turing.
+
+1549
+01:35:13,157 --> 01:35:16,694
+É. Deveriam fazer estátuas desse homem.
+
+1550
+01:35:16,895 --> 01:35:19,062
+Criancinhas deveriam saber o nome dele.
+
+1551
+01:35:19,262 --> 01:35:22,633
+A maçã mordida com a
+bandeira LGBT, é daí que veio?
+
+1552
+01:35:22,834 --> 01:35:25,503
+Não, escolhemos de uma
+lista de palavras amigáveis.
+
+1553
+01:35:25,704 --> 01:35:28,672
+Mas não seria sensacional se
+essa história fosse verdadeira?
+
+1554
+01:35:28,872 --> 01:35:34,011
+- Steve. Gostei do último tubarão.
+- Vai se fuder.
+
+1555
+01:35:34,212 --> 01:35:35,612
+Queria te pedir um favor.
+
+1556
+01:35:35,813 --> 01:35:39,583
+Há muito tempo você me pediu um favor
+antes de um lançamento e eu neguei.
+
+1557
+01:35:39,784 --> 01:35:42,118
+- Você queria que eu reconhecesse...
+- Espera.
+
+1558
+01:35:42,318 --> 01:35:46,289
+Se você for falar que errou,
+quero preparar esse jornalista.
+
+1559
+01:35:46,490 --> 01:35:50,628
+Eu estava totalmente certo e você
+estava espetacularmente errado.
+
+1560
+01:35:50,829 --> 01:35:53,129
+Mas ainda te devo uma, então é só falar.
+
+1561
+01:35:54,698 --> 01:35:59,369
+- Não pode ser o Apple II de novo.
+- Mencione a equipe do Apple II.
+
+1562
+01:35:59,570 --> 01:36:01,172
+- Que tal em particular?
+- Não.
+
+1563
+01:36:01,373 --> 01:36:02,706
+- É pegadinha isso?
+- Não.
+
+1564
+01:36:02,906 --> 01:36:07,012
+- Estou tentando lembrar que um chip de...
+- Só os principais.
+
+1565
+01:36:14,119 --> 01:36:15,686
+- Dá licença?
+- Claro.
+
+1566
+01:36:15,887 --> 01:36:18,188
+Só um minutinho.
+
+1567
+01:36:20,692 --> 01:36:25,096
+- Ela disse que prefere não vir.
+- Como assim?
+
+1568
+01:36:25,297 --> 01:36:28,932
+Ela tá com os amigos, e
+disse que prefere não vir.
+
+1569
+01:36:29,132 --> 01:36:32,536
+Puxa ela pra um canto. Não quero
+envergonhá-la na frente dos amigos.
+
+1570
+01:36:32,736 --> 01:36:37,209
+Mas diz que detonei o Andy e
+agora ninguém vai pagar a...
+
+1571
+01:36:38,477 --> 01:36:40,544
+Tá bom. Não fala isso.
+
+1572
+01:36:40,745 --> 01:36:46,417
+Faz aquele truque que você soa sábia
+graças ao seu trágico passado europeu.
+
+1573
+01:36:46,618 --> 01:36:49,385
+Você sabe que não nasci num
+vilarejo do século XIX, né?
+
+1574
+01:36:49,586 --> 01:36:51,554
+Por favor, diga a ela que é importante.
+
+1575
+01:36:51,755 --> 01:36:54,025
+- Tá tudo bem?
+- Sim.
+
+1576
+01:36:54,226 --> 01:36:55,925
+- Tem gente aqui, cara.
+- Eu sei.
+
+1577
+01:36:56,125 --> 01:36:59,562
+- Inclusive, um membro da imprensa.
+- Tô vendo.
+
+1578
+01:37:00,665 --> 01:37:03,936
+Só os principais, os que
+estão sendo demitidos.
+
+1579
+01:37:05,137 --> 01:37:07,405
+Olha só.
+
+1580
+01:37:07,606 --> 01:37:12,343
+Ano passado, a Apple perdeu
+um bilhão de dólares.
+
+1581
+01:37:12,544 --> 01:37:14,311
+Eu nem sabia que isso era possível.
+
+1582
+01:37:14,512 --> 01:37:16,780
+Você seria demitido em três meses.
+
+1583
+01:37:16,981 --> 01:37:19,583
+Fiz três economistas tentarem me explicar.
+
+1584
+01:37:19,784 --> 01:37:22,585
+A empresa toda teve que ser reorganizada.
+
+1585
+01:37:22,786 --> 01:37:25,388
+- Começa citando dois economistas.
+- Comecei com a...
+
+1586
+01:37:25,788 --> 01:37:28,825
+- Joel, pode vir comigo? Vamos ali pra trás.
+- Deixa ele aí.
+
+1587
+01:37:29,025 --> 01:37:32,596
+Comecei com a equipe do Apple II
+porque não o fabricamos mais.
+
+1588
+01:37:32,797 --> 01:37:36,333
+- Só os principais.
+- Pega um drinque e relaxa.
+
+1589
+01:37:36,534 --> 01:37:38,835
+Você não vai me dispensar agora, Steve.
+
+1590
+01:37:39,036 --> 01:37:41,705
+- Os principais merecem...
+- Ninguém é principal ali.
+
+1591
+01:37:41,905 --> 01:37:44,508
+Tá? Na equipe do Apple II,
+não tem ninguém principal.
+
+1592
+01:37:44,708 --> 01:37:47,645
+São os Player 2, e eles
+desencorajam os Player 1.
+
+1593
+01:37:47,846 --> 01:37:49,912
+Quero Players 1 na Apple, e não na Dell.
+
+1594
+01:37:50,112 --> 01:37:52,748
+Não são Player 2, e eu posso
+julgar melhor que você.
+
+1595
+01:37:52,948 --> 01:37:55,319
+Você estava a menos de
+três meses da demissão,
+
+1596
+01:37:55,519 --> 01:37:58,788
+parcialmente porque ninguém achou
+o Newton uma caixinha de merda.
+
+1597
+01:37:58,988 --> 01:38:01,023
+- Joel, vem aqui, por favor?
+- Deixa ele.
+
+1598
+01:38:01,660 --> 01:38:05,061
+Vocês projetaram uma caixinha de
+merda enquanto eu não estava perto.
+
+1599
+01:38:05,261 --> 01:38:09,131
+Tô falando do Apple II, que não só é parte
+crucial da história dessa empresa,
+
+1600
+01:38:09,331 --> 01:38:11,302
+como também da história da computação.
+
+1601
+01:38:11,502 --> 01:38:12,770
+Temporariamente.
+
+1602
+01:38:12,971 --> 01:38:15,471
+O mínimo que você pode
+fazer, se vai demiti-los...
+
+1603
+01:38:15,671 --> 01:38:18,974
+Vão morar em casas maiores que
+todos da fila do seguro desemprego.
+
+1604
+01:38:19,174 --> 01:38:22,480
+Reconheça. Mencione-os e
+o Apple II nesse lançamento.
+
+1605
+01:38:22,681 --> 01:38:23,748
+É um novo produto.
+
+1606
+01:38:23,949 --> 01:38:28,085
+A empresa toda foi construída pelo Apple
+II. <i>Você</i> foi construído pelo Apple II.
+
+1607
+01:38:28,386 --> 01:38:33,124
+Na verdade, fui destruído pelo Apple II e
+pelo sistema aberto que possibilitava que...
+
+1608
+01:38:33,325 --> 01:38:36,593
+hackers e fãs pudessem construir rádios
+ou sei lá o quê.
+
+1609
+01:38:36,794 --> 01:38:40,631
+E depois, quase destruiu a Apple quando
+você gastou todo seu dinheiro nele...
+
+1610
+01:38:40,831 --> 01:38:43,700
+e não produziu nada de novo.
+
+1611
+01:38:43,901 --> 01:38:45,669
+- O Newton.
+- A caixinha de merda.
+
+1612
+01:38:45,870 --> 01:38:49,775
+Vocês fizeram o Newton. Quer mesmo
+que as pessoas saibam disso?
+
+1613
+01:38:51,675 --> 01:38:54,646
+Isso é um lançamento, não
+um almoço na firma.
+
+1614
+01:38:54,847 --> 01:38:57,048
+A última coisa que
+quero é ligar o iMac ao...
+
+1615
+01:38:57,249 --> 01:39:00,217
+Ao único produto bem-sucedido
+que essa empresa já fez.
+
+1616
+01:39:00,418 --> 01:39:03,654
+Desculpa a sinceridade, mas é isso aí.
+
+1617
+01:39:03,855 --> 01:39:07,624
+O Lisa foi um fracasso. O Macintosh também.
+
+1618
+01:39:07,825 --> 01:39:14,431
+Não gosto de falar assim, mas cansei de
+ser o Ringo quando sei que fui o John.
+
+1619
+01:39:14,632 --> 01:39:15,833
+Todo mundo ama o Ringo.
+
+1620
+01:39:16,034 --> 01:39:18,903
+Cansei de você me rebaixando.
+
+1621
+01:39:20,705 --> 01:39:23,339
+Acha que o John virou o
+John ganhando uma briga, Woz?
+
+1622
+01:39:23,540 --> 01:39:27,311
+Acha que ele trapaceou ou acertou
+o George Harrison na cabeça?
+
+1623
+01:39:27,512 --> 01:39:29,445
+Ele era o John porque ele era o John.
+
+1624
+01:39:29,645 --> 01:39:33,584
+Ele era o John porque ele escreveu "Ticket
+to Ride." E eu escrevi o Apple II.
+
+1625
+01:39:33,785 --> 01:39:37,122
+- Pessoal? Vamos liberar o auditório.
+- Ninguém se mexe.
+
+1626
+01:39:39,456 --> 01:39:43,627
+Você fez um circuito impresso lindo que,
+aliás, você estava disposto a dar de graça.
+
+1627
+01:39:43,828 --> 01:39:46,095
+Não me fale sobre como
+você construiu a Apple.
+
+1628
+01:39:46,295 --> 01:39:49,597
+Sem eu, você seria o Player 1
+mais fácil da Homestead High School.
+
+1629
+01:39:49,797 --> 01:39:53,003
+Esse povo mata e morre por um
+elogio seu, então eis a sua chance.
+
+1630
+01:39:53,203 --> 01:39:56,941
+Reconheça que algo bom aconteceu
+sem você por perto.
+
+1631
+01:40:00,378 --> 01:40:02,612
+Não.
+
+1632
+01:40:02,813 --> 01:40:07,184
+Reconheça. É o certo a se fazer. É...
+
+1633
+01:40:08,820 --> 01:40:10,353
+É a coisa certa.
+
+1634
+01:40:10,554 --> 01:40:12,489
+Me desculpa, mas não.
+
+1635
+01:40:12,690 --> 01:40:15,892
+Então deixa eu reformular.
+
+1636
+01:40:16,093 --> 01:40:22,133
+Ninguém fez tanto pela democratização
+da computadorização quanto eu,
+
+1637
+01:40:22,434 --> 01:40:23,901
+mas você nunca me respeitou.
+
+1638
+01:40:24,102 --> 01:40:26,004
+Porquê será?
+
+1639
+01:40:27,272 --> 01:40:31,073
+Eu consideraria a possibilidade de ser
+porque você também nunca me respeitou.
+
+1640
+01:40:32,978 --> 01:40:34,712
+Que merda é essa?
+
+1641
+01:40:34,913 --> 01:40:38,183
+Nada. Obrigado pelo seu tempo.
+
+1642
+01:40:41,686 --> 01:40:44,788
+Consegui. Ela tá vindo.
+
+1643
+01:40:44,989 --> 01:40:47,358
+Você ficou a dois passos de matar a empresa.
+
+1644
+01:40:48,927 --> 01:40:51,162
+Com quem eu falo sobre isso?
+
+1645
+01:40:52,296 --> 01:40:54,498
+Estou te deixando manter o emprego.
+
+1646
+01:40:54,699 --> 01:40:56,902
+Você pode falar o que quiser.
+
+1647
+01:40:59,403 --> 01:41:03,374
+Sabe, quando me perguntavam
+qual a diferença entre nós dois,
+
+1648
+01:41:03,575 --> 01:41:08,411
+eu dizia que você era o visionário e
+eu gostava de montar as coisas.
+
+1649
+01:41:08,612 --> 01:41:10,414
+Quando perguntam agora,
+
+1650
+01:41:10,615 --> 01:41:12,850
+eu digo que o Steve é um escoto.
+
+1651
+01:41:13,051 --> 01:41:15,652
+Seus produtos são melhores que você, cara.
+
+1652
+01:41:15,853 --> 01:41:18,621
+É esse o objetivo, cara.
+
+1653
+01:41:18,822 --> 01:41:22,459
+Sendo assim, é essa a diferença.
+
+1654
+01:41:22,660 --> 01:41:25,462
+É algo não-binário.
+
+1655
+01:41:25,663 --> 01:41:29,034
+Dá pra ser decente e talentoso
+simultaneamente.
+
+1656
+01:41:50,722 --> 01:41:52,856
+Ele não falou sério.
+
+1657
+01:41:53,057 --> 01:41:54,960
+Falou, sim.
+
+1658
+01:41:57,429 --> 01:41:59,397
+Ele é um cara temperamental.
+
+1659
+01:42:00,598 --> 01:42:02,300
+Não é não.
+
+1660
+01:42:05,870 --> 01:42:09,505
+É como se todos ficassem bêbados e me
+contassem o que realmente pensam...
+
+1661
+01:42:09,706 --> 01:42:13,677
+cinco minutos antes de cada lançamento.
+
+1662
+01:42:13,878 --> 01:42:16,414
+Ela está indo para o seu camarim.
+
+1663
+01:42:27,025 --> 01:42:32,730
+Falei pra ficar bem com a Lisa, não pra
+resolver toda treta que você teve na vida.
+
+1664
+01:42:32,931 --> 01:42:36,767
+A última vez que não resolvi algo,
+perdi a capa da <i>Time.</i>
+
+1665
+01:42:36,968 --> 01:42:40,471
+Até hoje não sei porque o
+Dan Kottke estava puto comigo.
+
+1666
+01:42:40,672 --> 01:42:43,639
+- Kottke não te fez perder a capa da <i>Time.</i>
+- Claro que fez.
+
+1667
+01:42:43,839 --> 01:42:47,978
+Quer que eu prove sua capacidade de estar
+errado quando tem certeza que está certo?
+
+1668
+01:42:48,178 --> 01:42:51,615
+- Dan Kottke falou pra <i>Time</i> que eu estava...
+- Lembra da capa?
+
+1669
+01:42:51,816 --> 01:42:53,150
+- Da <i>Time?</i>
+- Sim.
+
+1670
+01:42:53,351 --> 01:42:54,918
+- Lembro
+- O que era?
+
+1671
+01:42:55,119 --> 01:42:57,486
+- Do que você tá falando?
+- O que tinha na capa?
+
+1672
+01:42:57,686 --> 01:42:58,788
+- Um computador.
+- Não.
+
+1673
+01:42:58,988 --> 01:43:00,990
+Era uma escultura de um computador.
+
+1674
+01:43:01,191 --> 01:43:03,561
+Era uma escultura.
+
+1675
+01:43:04,696 --> 01:43:07,865
+A <i>Time</i> precisaria ter encomendado
+com meses de antecedência.
+
+1676
+01:43:08,066 --> 01:43:10,466
+Você nem foi considerado
+para ser o Homem do Ano.
+
+1677
+01:43:10,666 --> 01:43:12,068
+Ninguém te fez perder nada.
+
+1678
+01:43:13,638 --> 01:43:16,673
+Do que mais você tem certeza?
+
+1679
+01:43:16,874 --> 01:43:19,575
+Não sei como não percebi isso.
+
+1680
+01:43:19,776 --> 01:43:21,711
+- Distorção da realidade.
+- Não, sério.
+
+1681
+01:43:21,911 --> 01:43:22,912
+Sério.
+
+1682
+01:43:23,112 --> 01:43:25,615
+Não tente discutir com a Lisa.
+
+1683
+01:43:25,816 --> 01:43:28,752
+Só assuma que errou.
+
+1684
+01:43:28,953 --> 01:43:30,856
+Pode entrar, querida.
+
+1685
+01:43:31,889 --> 01:43:34,424
+- Não sou "querida."
+- John.
+
+1686
+01:43:34,625 --> 01:43:36,627
+Entra. Sai do corredor.
+
+1687
+01:43:36,828 --> 01:43:40,263
+Vim por uma saída lateral. Volto do
+mesmo jeito. Ninguém vai me ver.
+
+1688
+01:43:40,463 --> 01:43:42,566
+- Como vai, Joanna?
+- Tô bem, John.
+
+1689
+01:43:42,767 --> 01:43:45,102
+Só surpresa por te ver.
+
+1690
+01:43:45,303 --> 01:43:47,804
+Estamos todos gratos pelo que
+você disse na <i>Forbes.</i>
+
+1691
+01:43:48,004 --> 01:43:50,507
+- Não precisava.
+- Foi um prazer.
+
+1692
+01:43:50,708 --> 01:43:53,944
+Se quiser, posso te levar para o
+fundo quando apagarem as luzes.
+
+1693
+01:43:54,144 --> 01:43:56,548
+- Só vim para desejar boa sorte.
+- <i>Tá bem.</i>
+
+1694
+01:43:57,915 --> 01:43:59,917
+Vocês têm só alguns minutos.
+
+1695
+01:44:00,118 --> 01:44:02,254
+- Pode tentar achar a...
+- Sim.
+
+1696
+01:44:06,457 --> 01:44:08,559
+Você é uma boa pessoa, John.
+
+1697
+01:44:20,905 --> 01:44:24,040
+Te trouxe um presente.
+
+1698
+01:44:24,241 --> 01:44:25,709
+Um Newton.
+
+1699
+01:44:25,910 --> 01:44:31,514
+Se deixar na caixa, dá pra você vender.
+É mais do que eu consigo.
+
+1700
+01:44:31,715 --> 01:44:33,484
+Tá tudo bem?
+
+1701
+01:44:33,685 --> 01:44:35,752
+Não muito.
+
+1702
+01:44:35,953 --> 01:44:38,754
+Joanna me falou algo.
+
+1703
+01:44:38,955 --> 01:44:42,025
+Uma coisa óbvia me passou despercebida e...
+
+1704
+01:44:42,226 --> 01:44:43,628
+Não importa.
+
+1705
+01:44:45,629 --> 01:44:49,098
+Olha, Wall Street vai esperar pra
+ver como você se sai como CEO,
+
+1706
+01:44:49,299 --> 01:44:52,368
+então não deixe nenhuma mudança
+no primeiro ano te incomodar.
+
+1707
+01:44:52,568 --> 01:44:54,472
+As ações vão mudar.
+
+1708
+01:44:55,506 --> 01:44:57,409
+Não preciso te ensinar nada.
+
+1709
+01:44:58,643 --> 01:45:01,943
+Esse é o seu jeito de dizer que eu não
+deveria ter matado o Newton?
+
+1710
+01:45:02,143 --> 01:45:05,281
+O animal mais eficiente do mundo é o condor.
+
+1711
+01:45:05,482 --> 01:45:08,084
+O animal mais ineficiente do
+mundo é o ser humano.
+
+1712
+01:45:08,285 --> 01:45:10,853
+Você não deveria ter matado só por birra.
+
+1713
+01:45:11,054 --> 01:45:14,290
+Não faz bem pros negócios. Não faça isso.
+
+1714
+01:45:14,491 --> 01:45:19,663
+Mas um humano com uma bicicleta
+vira o animal mais eficiente.
+
+1715
+01:45:19,864 --> 01:45:21,798
+E o computador certo...
+
+1716
+01:45:21,999 --> 01:45:24,601
+Um computador fácil de
+usar e que não é feio,
+
+1717
+01:45:24,802 --> 01:45:29,071
+que fica tão lindo na mesa quanto
+um abajur da Tensor...
+
+1718
+01:45:29,272 --> 01:45:34,076
+Esse vai ser uma bicicleta para a mente.
+
+1719
+01:45:34,277 --> 01:45:36,679
+Gostou?
+
+1720
+01:45:36,880 --> 01:45:39,081
+Eu estava retribuindo o favor.
+
+1721
+01:45:39,282 --> 01:45:45,289
+E se, ao invés de estar nas mãos
+certas, estivesse na mão de todos?
+
+1722
+01:45:45,490 --> 01:45:47,392
+Todos no planeta.
+
+1723
+01:45:48,893 --> 01:45:51,962
+Seria a maior mudança no <i>status quo</i> desde...
+
+1724
+01:45:52,163 --> 01:45:53,364
+Seria a maior de todas.
+
+1725
+01:45:53,565 --> 01:45:56,566
+Não sei porque você sempre se
+interessou na minha adoção,
+
+1726
+01:45:56,767 --> 01:46:00,603
+mas você disse que não é como se o bebê
+nascesse e os pais pensassem:
+
+1727
+01:46:00,804 --> 01:46:03,239
+"Nah, não tamos a fim desse não."
+Mas foi assim.
+
+1728
+01:46:03,439 --> 01:46:04,876
+E você tem esse computador.
+
+1729
+01:46:05,677 --> 01:46:07,977
+Se chama Macintosh.
+
+1730
+01:46:08,178 --> 01:46:13,216
+Um casal de advogados me adotou primeiro,
+mas me devolveram depois de um mês.
+
+1731
+01:46:13,417 --> 01:46:15,387
+Mudaram de ideia.
+
+1732
+01:46:16,987 --> 01:46:19,690
+Então meus pais me adotaram.
+
+1733
+01:46:19,891 --> 01:46:22,858
+Minha mãe biológica havia decidido
+que quem me adotasse...
+
+1734
+01:46:23,058 --> 01:46:25,795
+precisaria ser rico, católico
+e ter ensino superior.
+
+1735
+01:46:25,996 --> 01:46:28,331
+Paul e Clara Jobs não eram nada disso,
+
+1736
+01:46:28,532 --> 01:46:32,768
+então minha mãe biológica não
+queria assinar os papéis da adoção.
+
+1737
+01:46:32,969 --> 01:46:34,070
+O que aconteceu?
+
+1738
+01:46:34,271 --> 01:46:37,607
+Uma disputa judicial ocorreu
+por algum tempo.
+
+1739
+01:46:37,808 --> 01:46:40,877
+Minha mãe dizia que se recusou
+a me amar no primeiro ano.
+
+1740
+01:46:41,078 --> 01:46:42,912
+Sabe, caso tivessem que me devolver.
+
+1741
+01:46:43,112 --> 01:46:45,816
+Não dá pra se recusar a amar alguém, Steve.
+
+1742
+01:46:46,017 --> 01:46:48,685
+Parece que dá, sim.
+
+1743
+01:46:48,886 --> 01:46:52,822
+Que raios um recém-nascido pode fazer
+de tão ruim para que os pais o devolvam?
+
+1744
+01:46:53,023 --> 01:46:55,758
+Nada. Nada que um bebê faça...
+
+1745
+01:46:55,959 --> 01:46:59,029
+Já pensou em encontrar seu pai biológico?
+
+1746
+01:46:59,230 --> 01:47:00,731
+Já o encontrei.
+
+1747
+01:47:00,932 --> 01:47:02,600
+Pra ser sincero, você também.
+
+1748
+01:47:05,236 --> 01:47:07,070
+Se chama Macintosh.
+
+1749
+01:47:07,271 --> 01:47:09,740
+- Sr. Steve Jobs.
+- Jandali.
+
+1750
+01:47:09,941 --> 01:47:11,408
+Diga oi para o John Sculley.
+
+1751
+01:47:11,608 --> 01:47:14,777
+Jandali é dono do restaurante,
+e John é o CEO da Pepsi,
+
+1752
+01:47:14,978 --> 01:47:18,682
+<i>mas estou tentando convencê-lo a se mudar
+pra Cupertino, mudar o universo.</i>
+
+1753
+01:47:18,882 --> 01:47:20,182
+Você também é vegetariano?
+
+1754
+01:47:20,383 --> 01:47:21,785
+Tá de brincadeira.
+
+1755
+01:47:21,986 --> 01:47:23,387
+Não, eu como de tudo.
+
+1756
+01:47:23,588 --> 01:47:27,356
+Vamos começar pela salada mediterrânea...
+
+1757
+01:47:27,557 --> 01:47:31,261
+Minha irmã o encontrou.
+
+1758
+01:47:31,462 --> 01:47:33,764
+- Ele sabe?
+- Não. Ele até se gabou pra Mona...
+
+1759
+01:47:33,964 --> 01:47:35,999
+Disse que o Steve Jobs passa lá direto.
+
+1760
+01:47:36,200 --> 01:47:38,935
+- Você não quer...
+- Não.
+
+1761
+01:47:39,136 --> 01:47:41,840
+<i>Não acha que devia falar com ele?</i>
+
+1762
+01:47:43,206 --> 01:47:46,209
+Ele encontraria algum motivo
+para me processar.
+
+1763
+01:47:48,713 --> 01:47:53,450
+John, se você tá aqui pelo seu legado,
+forma uma fila atrás do Wozniak.
+
+1764
+01:47:53,651 --> 01:47:55,718
+O Wozniak vai ficar bem.
+
+1765
+01:47:55,919 --> 01:47:58,922
+Eu sou o cara que demitiu o Steve Jobs.
+
+1766
+01:47:59,123 --> 01:48:02,058
+Rico, católico e com ensino superior.
+
+1767
+01:48:02,259 --> 01:48:06,330
+Steve? Está na hora.
+
+1768
+01:48:09,200 --> 01:48:12,570
+Tenho que ir.
+
+1769
+01:48:14,772 --> 01:48:18,376
+Eu fiz isso? Estraguei tudo?
+
+1770
+01:48:21,245 --> 01:48:23,381
+Vamos deixar isso pra lá.
+
+1771
+01:48:24,848 --> 01:48:26,750
+Já passou da hora.
+
+1772
+01:48:31,222 --> 01:48:33,758
+Vem ser nosso CEO.
+
+1773
+01:48:34,991 --> 01:48:36,894
+Tá bom. Eu vou.
+
+1774
+01:48:45,335 --> 01:48:48,871
+Foi a stylus, John.
+
+1775
+01:48:49,072 --> 01:48:52,942
+- Quê?
+- Matei o Newton por causa da stylus.
+
+1776
+01:48:53,143 --> 01:48:57,481
+Se está segurando uma stylus, não pode usar
+as cinco que vieram acopladas no seu pulso.
+
+1777
+01:49:00,284 --> 01:49:02,487
+Poderíamos ter feito muito juntos.
+
+1778
+01:49:07,825 --> 01:49:10,394
+Poderíamos mesmo.
+
+1779
+01:49:26,777 --> 01:49:28,244
+Vou pagar sua mensalidade.
+
+1780
+01:49:28,445 --> 01:49:30,446
+Pirou? É claro que vou pagar.
+
+1781
+01:49:30,647 --> 01:49:33,984
+Devo ter entendido errado quando
+você disse que não ia pagar.
+
+1782
+01:49:34,185 --> 01:49:36,453
+Vender a casa foi algo hostil de se fazer.
+
+1783
+01:49:36,654 --> 01:49:38,254
+Ela precisava do dinheiro.
+
+1784
+01:49:38,455 --> 01:49:40,056
+Ela sempre precisa.
+
+1785
+01:49:40,257 --> 01:49:44,127
+Ela precisa de um médico. Ela tem sinusite.
+
+1786
+01:49:44,328 --> 01:49:47,998
+Ela tá com essa sinusite desde 1988.
+
+1787
+01:49:48,199 --> 01:49:51,200
+Vou cuidar da minha mãe.
+Desculpa se isso te incomoda.
+
+1788
+01:49:51,401 --> 01:49:55,405
+Me incomoda mesmo, porque você é uma
+criança e não devia cuidar da sua mãe.
+
+1789
+01:49:55,606 --> 01:49:57,440
+Foi assim que a sua morreu?
+
+1790
+01:49:57,641 --> 01:50:01,477
+Gente, dá licença, deixem eles conversarem.
+
+1791
+01:50:01,678 --> 01:50:05,816
+Quando a sua mãe tiver noventa anos
+e não conseguir comer, tudo bem.
+
+1792
+01:50:06,017 --> 01:50:11,320
+Mas agora ela tem 45 anos, está
+saudável e consegue comer sozinha.
+
+1793
+01:50:11,521 --> 01:50:14,524
+Você precisa ir bem na
+faculdade e ser jovem, e só.
+
+1794
+01:50:14,725 --> 01:50:17,694
+- Eu cuido da sua mãe.
+- Tá fazendo um trabalho maravilhoso.
+
+1795
+01:50:17,894 --> 01:50:20,196
+- O que você quer de mim?
+- Você que me chamou.
+
+1796
+01:50:20,396 --> 01:50:24,567
+Comprei uma casa pra ela por quatrocentos
+mil. Hoje, vale o dobro.
+
+1797
+01:50:24,768 --> 01:50:27,736
+Ela trocou por duas pedras filosofais
+e uma panela de sopa.
+
+1798
+01:50:27,936 --> 01:50:28,971
+A casa era dela.
+
+1799
+01:50:29,171 --> 01:50:30,772
+Ela usou o dinheiro pra viajar.
+
+1800
+01:50:30,972 --> 01:50:33,307
+Dinheiro que você fez ela
+se humilhar pra ter.
+
+1801
+01:50:33,507 --> 01:50:36,279
+Nem começa. Pedir dinheiro ao Andy?
+
+1802
+01:50:36,480 --> 01:50:38,114
+Isso foi tão absurdo que...
+
+1803
+01:50:38,315 --> 01:50:41,383
+Eu não pedi. O Andy que deu.
+
+1804
+01:50:41,584 --> 01:50:44,420
+Todo mundo tem um palpite?
+
+1805
+01:50:44,621 --> 01:50:47,958
+Desculpa, gente. Em trinta
+segundos, estaremos atrasados.
+
+1806
+01:50:48,159 --> 01:50:51,961
+Ela gasta o dinheiro com quinquilharia e
+depois revende por metade do preço.
+
+1807
+01:50:52,162 --> 01:50:54,663
+Isso com dinheiro que dei
+a ela pra cuidar de você.
+
+1808
+01:50:55,465 --> 01:50:59,066
+Você veio até mim, histérica, aos treze
+anos, pedindo pra morar comigo...
+
+1809
+01:50:59,266 --> 01:51:00,568
+Eu não estava histérica.
+
+1810
+01:51:00,768 --> 01:51:04,538
+- Sua mãe gritava com você todo dia.
+- Aos treze foi a segunda vez que pedi.
+
+1811
+01:51:04,875 --> 01:51:09,012
+Não acho que disse que você é uma
+má pessoa, mas se disse, me desculpa.
+
+1812
+01:51:12,148 --> 01:51:14,618
+Ei, alguma coisa te aconteceu na faculdade,
+
+1813
+01:51:14,819 --> 01:51:20,022
+alguma aula do primeiro semestre
+que todo calouro precisa ir...
+
+1814
+01:51:20,223 --> 01:51:22,892
+- Eu li a <i>Time.</i>
+- Quê?
+
+1815
+01:51:23,093 --> 01:51:26,495
+Tenho acesso à Internet no campus.
+Li uma cópia antiga da <i>Time,</i>
+
+1816
+01:51:26,696 --> 01:51:30,299
+e perguntei à minha mãe
+sobre a minha família.
+
+1817
+01:51:30,500 --> 01:51:32,067
+Aquilo foi...
+
+1818
+01:51:32,268 --> 01:51:34,169
+A <i>Time</i> escreveu um artigo horrendo.
+
+1819
+01:51:34,370 --> 01:51:36,171
+Você nunca deveria ter lido aquilo.
+
+1820
+01:51:36,371 --> 01:51:40,677
+Dois alunos de Estatística em Harvard estão
+tentando encontrar a equação que você...
+
+1821
+01:51:40,878 --> 01:51:44,446
+usou para dizer que 28% dos homens
+americanos poderiam ser meu pai.
+
+1822
+01:51:44,647 --> 01:51:45,848
+Querida, eu...
+
+1823
+01:51:46,049 --> 01:51:49,652
+Minha mãe pode ser problemática,
+mas qual a sua desculpa?
+
+1824
+01:51:49,853 --> 01:51:53,255
+Por isso não estou impressionada
+com a sua história, pai.
+
+1825
+01:51:53,456 --> 01:51:57,294
+Você sabia pelo que eu estava
+passando e não fez nada a respeito.
+
+1826
+01:51:57,495 --> 01:52:01,032
+Isso faz de você um covarde imenso.
+
+1827
+01:52:02,599 --> 01:52:06,435
+Não é por nada, mas "think" é um verbo,
+então "different" seria um advérbio.
+
+1828
+01:52:06,635 --> 01:52:08,804
+Seu slogan deveria ser "think differently".
+
+1829
+01:52:09,004 --> 01:52:12,907
+Você pode falar sobre a vanguarda de
+Bauhaus, Braun e "simples é sofisticado",
+
+1830
+01:52:13,107 --> 01:52:16,245
+sobre essa sua blusa preta e calça
+jeans e letras do Bob Dylan,
+
+1831
+01:52:16,445 --> 01:52:20,151
+mas essa coisa ainda vai parecer
+o forninho da Judy Jetson.
+
+1832
+01:52:40,537 --> 01:52:43,138
+Você vai se atrasar.
+
+1833
+01:52:43,339 --> 01:52:45,342
+- Sabe o que Lisa quer dizer?
+- Hã?
+
+1834
+01:52:45,543 --> 01:52:47,644
+O computador O Lisa. Sabe o que significa?
+
+1835
+01:52:47,844 --> 01:52:50,679
+Desculpa pelo que falei
+do iMac. Não falei sério.
+
+1836
+01:52:50,880 --> 01:52:54,683
+Pelas minhas costas, no escritório,
+sabe o que significa?
+
+1837
+01:52:54,884 --> 01:52:58,253
+<i>Local Integrated System Architecture.</i>
+Eu tinha cinco anos.
+
+1838
+01:52:58,454 --> 01:53:00,957
+- Porque você não mentiu?
+- Menti sim.
+
+1839
+01:53:01,992 --> 01:53:04,227
+Claro que dei o seu nome pro computador.
+
+1840
+01:53:04,428 --> 01:53:09,132
+<i>Local Integrated System Architecture</i>
+nem quer dizer nada.
+
+1841
+01:53:09,333 --> 01:53:12,068
+Porque você negou esse tempo todo?
+
+1842
+01:53:14,071 --> 01:53:15,973
+Sinceramente, não sei.
+
+1843
+01:53:18,275 --> 01:53:20,745
+Porque você disse que não era meu pai?
+
+1844
+01:53:24,080 --> 01:53:26,150
+Eu não presto.
+
+1845
+01:53:33,656 --> 01:53:37,194
+- Já passou das nove. Você vai se atrasar.
+- Não ligo.
+
+1846
+01:53:42,366 --> 01:53:44,567
+- Você está escrevendo para o <i>Crimson.</i>
+- Hã?
+
+1847
+01:53:44,767 --> 01:53:48,970
+Os estagiários da Apple que são de Harvard
+disseram que você escreve para o <i>Crimson.</i>
+
+1848
+01:53:49,170 --> 01:53:52,042
+Ah. É, um pouco. Dissertações.
+
+1849
+01:53:52,243 --> 01:53:54,811
+- Quero ler uma.
+- Tudo bem.
+
+1850
+01:53:55,012 --> 01:53:57,680
+Tô falando agora. Quero ler
+uma dissertação sua agora.
+
+1851
+01:53:57,880 --> 01:53:59,717
+Você tem que ir pro palco.
+
+1852
+01:54:01,317 --> 01:54:04,420
+O iMac não será lançado até que
+você me dê uma dissertação sua.
+
+1853
+01:54:04,620 --> 01:54:07,992
+O mundo está te esperando.
+
+1854
+01:54:14,598 --> 01:54:17,633
+Desculpa, gente.
+
+1855
+01:54:17,834 --> 01:54:19,202
+Boa sorte.
+
+1856
+01:54:32,148 --> 01:54:35,820
+- Vou colocar música no seu bolso.
+- Quê?
+
+1857
+01:54:37,620 --> 01:54:41,790
+Cem músicas. Mil músicas.
+Quinhentas músicas.
+
+1858
+01:54:41,991 --> 01:54:46,161
+Algo entre quinhentas e
+mil músicas no seu bolso,
+
+1859
+01:54:46,362 --> 01:54:49,499
+porque não aguento mais ver
+esse trambolho desse Walkman.
+
+1860
+01:54:49,700 --> 01:54:51,767
+Você carrega um tijolo que toca fita.
+
+1861
+01:54:51,968 --> 01:54:56,806
+Não estamos mais na Idade da Pedra.
+Então vou colocar mil músicas no seu bolso.
+
+1862
+01:54:57,007 --> 01:54:59,441
+- Você pode fazer isso?
+- Uhum.
+
+1863
+01:55:10,254 --> 01:55:12,223
+Quer assistir no backstage?
+
+1864
+01:55:13,723 --> 01:55:15,892
+Quero.
+
+1865
+01:55:31,808 --> 01:55:32,808
+Pode começar.
+
+1866
+01:56:31,235 --> 01:56:33,970
+Lembra o desenho que você
+fez no Mac original?
+
+1867
+01:56:36,639 --> 01:56:38,308
+Eu lembro.
+
+1868
+01:56:39,742 --> 01:56:42,245
+<i>Senhoras e senhores,</i>
+
+1869
+01:56:43,847 --> 01:56:45,983
+<i>Steve Jobs.</i>
+

@@ -1,0 +1,3873 @@
+1
+00:00:35,200 --> 00:00:37,045
+<i>O nosso sol está morrendo.</i>
+
+2
+00:00:38,052 --> 00:00:40,728
+<i>A Humanidade enfrenta a extinção.</i>
+
+3
+00:00:42,540 --> 00:00:47,139
+<i>Há sete anos, o projeto Icarus enviou
+uma missão para religar o Sol.</i>
+
+4
+00:00:47,534 --> 00:00:50,909
+<i>Mas essa missão se perdeu
+antes de alcançar a estrela.</i>
+
+5
+00:00:52,904 --> 00:00:57,322
+<i>Há 16 meses atrás, eu, Robert Capa,
+e uma equipe de sete,</i>
+
+6
+00:00:57,338 --> 00:01:00,863
+<i>deixamos a Terra congelada
+num Inverno solar.</i>
+
+7
+00:01:01,672 --> 00:01:08,007
+<i>A nossa carga: uma bomba estelar, com uma
+massa equivalente à ilha de Manhattan.</i>
+
+8
+00:01:08,828 --> 00:01:10,899
+<i>O nosso objetivo:</i>
+
+9
+00:01:11,548 --> 00:01:14,955
+<i>Criar uma estrela
+dentro de uma estrela.</i>
+
+10
+00:01:38,579 --> 00:01:42,882
+<i>Passamos os últimos meses
+amarrados a uma bomba. </i>
+
+11
+00:01:42,916 --> 00:01:44,696
+<i>A minha bomba.</i>
+
+12
+00:01:45,997 --> 00:01:48,542
+<i>Bem-vindos à Icarus II.</i>
+
+13
+00:02:20,025 --> 00:02:21,409
+Icarus?
+
+14
+00:02:21,484 --> 00:02:22,915
+<i>Sim, Dr. Searle?</i>
+
+15
+00:02:23,758 --> 00:02:27,525
+Por favor, altere o filtro
+do Portal de Observação.
+
+16
+00:02:27,625 --> 00:02:30,559
+<i>Aumentar ou diminuir o filtro,
+Dr. Searle?</i>
+
+17
+00:02:31,321 --> 00:02:33,185
+Diminuir.
+
+18
+00:02:37,026 --> 00:02:39,269
+Meu Deus...
+
+19
+00:02:41,557 --> 00:02:45,981
+Icarus, a que proximidade
+está da luminosidade total?
+
+20
+00:02:46,455 --> 00:02:50,538
+<i>A esta distância de 58 milhões de km,</i>
+
+21
+00:02:50,613 --> 00:02:54,195
+<i>está observando o Sol
+a 2% da luminosidade total.</i>
+
+22
+00:02:55,302 --> 00:02:57,211
+2%?
+
+23
+00:02:57,883 --> 00:02:59,777
+Pode me mostrar 4%?
+
+24
+00:02:59,852 --> 00:03:03,336
+<i>4% resultaria em danos
+irreversíveis para as suas retinas.</i>
+
+25
+00:03:10,545 --> 00:03:14,095
+<i>No entanto, você pode observar com 3,1%</i>
+
+26
+00:03:14,170 --> 00:03:17,450
+<i>por um período não superior
+a 30 segundos.</i>
+
+27
+00:03:17,605 --> 00:03:21,064
+Icarus, quero reprogramar
+o filtro para...
+
+28
+00:03:21,459 --> 00:03:24,690
+...3,1%.
+
+29
+00:03:59,060 --> 00:04:02,377
+É revigorante.
+É como...
+
+30
+00:04:02,452 --> 00:04:05,612
+tomar uma ducha de luz.
+- Ficamos um pouco desorientados.
+
+31
+00:04:05,627 --> 00:04:07,339
+Como no tanque de flutuação?
+
+32
+00:04:07,414 --> 00:04:09,239
+Na verdade, não...
+
+33
+00:04:13,542 --> 00:04:15,978
+- O que é isso, bife?
+- Frango.
+
+34
+00:04:16,645 --> 00:04:18,957
+Se não gosta, na próxima
+você faz o meu turno.
+
+35
+00:04:19,032 --> 00:04:22,213
+Na verdade, quando nós chegamos
+no espaço profundo,
+
+36
+00:04:22,288 --> 00:04:24,688
+fiz uma série de testes de escuridão
+total e flutuação, e...
+
+37
+00:04:24,726 --> 00:04:28,741
+O interessante sobre da escuridão é que...
+você flutua.
+
+38
+00:04:28,816 --> 00:04:31,499
+Você e a escuridão são
+diferentes um do outro
+
+39
+00:04:31,574 --> 00:04:35,550
+porque a escuridão é
+a ausência de algo, é um vácuo.
+
+40
+00:04:35,647 --> 00:04:38,512
+O branco total te envolve...
+
+41
+00:04:38,711 --> 00:04:40,801
+torna-se você.
+
+42
+00:04:42,250 --> 00:04:43,812
+É muito estranho.
+
+43
+00:04:44,496 --> 00:04:46,408
+Eu recomendo.
+
+44
+00:04:47,171 --> 00:04:49,511
+O estranho, Searle, é você
+é o psicólogo desta nave...
+
+45
+00:04:49,586 --> 00:04:51,842
+e eu sou, claramente
+mais são  que você.
+
+46
+00:04:54,506 --> 00:04:56,541
+Hmm, bom.
+
+47
+00:05:09,809 --> 00:05:12,071
+Se ninguém o vai dizer, eu digo.
+
+48
+00:05:12,474 --> 00:05:16,673
+A leitura do vento solar é muito maior
+do que antecipamos a esta distância.
+
+49
+00:05:16,674 --> 00:05:20,066
+Por enquanto, ainda podemos
+enviar mensagens para trás.
+
+50
+00:05:20,101 --> 00:05:22,030
+As frequências altas
+vão estar acima das interferências
+
+51
+00:05:22,054 --> 00:05:24,983
+e a estação lunar vai
+ser capaz de recebê-las.
+
+52
+00:05:25,418 --> 00:05:27,611
+Mas é possível que
+dentro de 24 horas,
+
+53
+00:05:27,635 --> 00:05:29,896
+não sejamos mais capazes
+de nos comunicar.
+
+54
+00:05:30,518 --> 00:05:32,247
+É possível?
+
+55
+00:05:33,000 --> 00:05:35,032
+Provável.
+
+56
+00:05:37,017 --> 00:05:38,907
+Vamos estar por conta própria.
+
+57
+00:05:38,942 --> 00:05:42,393
+Estamos a 89 milhões de km da Terra,
+eu diria que já estamos por conta própria.
+
+58
+00:05:42,428 --> 00:05:45,137
+Vamos lá, pessoal.
+Já esperávamos isto.
+
+59
+00:05:45,173 --> 00:05:47,368
+Nada demais,
+estamos voando para a zona morta
+
+60
+00:05:47,394 --> 00:05:49,425
+sete dias antes do previsto.
+
+61
+00:05:50,095 --> 00:05:53,569
+Mas se alguém quer enviar uma
+mensagem final para casa...
+
+62
+00:05:54,484 --> 00:05:56,417
+deve fazê-lo agora.
+
+63
+00:06:06,165 --> 00:06:08,710
+Bem, mãe e pai...
+
+64
+00:06:10,824 --> 00:06:12,757
+espero que estejam orgulhosos
+do seu filho...
+
+65
+00:06:13,261 --> 00:06:16,483
+...que está salvando a humanidade
+e tudo mais.
+
+66
+00:06:43,207 --> 00:06:45,304
+Quando receberem
+esta mensagem,
+
+67
+00:06:45,503 --> 00:06:47,797
+eu estarei na zona morta.
+
+68
+00:06:48,976 --> 00:06:51,072
+Chegamos mais cedo
+do que pensávamos.
+
+69
+00:06:51,846 --> 00:06:55,385
+Isto significa que não
+vão poder responder.
+
+70
+00:06:56,770 --> 00:07:00,985
+Só quero que saibam que
+não preciso de uma mensagem.
+
+71
+00:07:01,997 --> 00:07:05,471
+Porque... sei tudo
+o que vocês querem dizer.
+
+72
+00:07:12,878 --> 00:07:14,511
+Lembrem-se apenas que,
+
+73
+00:07:14,555 --> 00:07:19,109
+a luz leva oito minutos para
+viajar do Sol até à Terra.
+
+74
+00:07:19,184 --> 00:07:21,885
+O que significa que vão
+saber se conseguimos,
+
+75
+00:07:21,898 --> 00:07:24,607
+8 minutos após termos
+entregue a carga explosiva.
+
+76
+00:07:24,628 --> 00:07:28,963
+Tudo o que precisam de fazer é
+procurar por um céu mais brilhante.
+
+77
+00:07:29,075 --> 00:07:33,061
+Se acordarem um dia de manhã,
+e o dia estiver particularmente bonito
+
+78
+00:07:33,264 --> 00:07:35,263
+saberão que conseguimos.
+
+79
+00:07:37,649 --> 00:07:38,849
+Está bem?
+
+80
+00:07:39,183 --> 00:07:40,734
+Vou desligar.
+
+81
+00:07:42,113 --> 00:07:44,406
+Vejo-vos daqui a dois anos.
+
+82
+00:08:30,457 --> 00:08:33,166
+Icarus, aumente o filtro, ok?
+
+83
+00:08:33,189 --> 00:08:34,739
+<i>Sim, Corazon.</i>
+
+84
+00:08:39,785 --> 00:08:41,401
+Capitão?
+
+85
+00:08:44,199 --> 00:08:45,881
+capitão?
+
+86
+00:08:48,221 --> 00:08:50,668
+Acredito que você andou
+falando com o Searle.
+
+87
+00:08:53,252 --> 00:08:56,604
+- Tem aquele relatório para mim?
+- Sim, está aqui.
+
+88
+00:08:58,176 --> 00:09:02,280
+A produção do oxigênio está boa.
+Na verdade, estamos produzindo a mais.
+
+89
+00:09:02,280 --> 00:09:05,143
+Vai reduzir bastante
+quando nos aproximarmos.
+
+90
+00:09:05,143 --> 00:09:09,168
+Mas já temos reservas de oxigênio para
+chegar lá e para um quarto da volta.
+
+91
+00:09:11,808 --> 00:09:14,254
+Está pensando na Icarus I.
+
+92
+00:09:15,833 --> 00:09:21,854
+Seja o que for que lhes aconteceu, não
+creio que tenha sido falta de oxigênio.
+
+93
+00:09:22,140 --> 00:09:24,499
+Pelo menos, não devido à sua utilização.
+
+94
+00:09:26,167 --> 00:09:27,862
+Foda-se!
+
+95
+00:09:30,620 --> 00:09:32,260
+Foda-se.
+
+96
+00:09:34,574 --> 00:09:36,502
+- Mace!
+- Mace!
+
+97
+00:09:37,800 --> 00:09:39,612
+- O que está fazendo?
+- Vamos lá!
+
+98
+00:09:39,646 --> 00:09:40,979
+Foda-se!
+
+99
+00:09:41,752 --> 00:09:43,238
+Filho da mãe!
+
+100
+00:09:44,795 --> 00:09:47,573
+Ele esteve uma hora lá dentro!
+Não posso enviar a minha mensagem.
+
+101
+00:09:47,618 --> 00:09:50,023
+- O vento está alto demais!
+- Mace! Fica calmo.
+
+102
+00:09:50,098 --> 00:09:52,662
+Sinto muito, está bem? Jesus!
+
+103
+00:09:52,700 --> 00:09:55,146
+Searle, apresente-se no centro de comando.
+
+104
+00:09:55,471 --> 00:09:56,803
+<i>O que está acontecendo?</i>
+
+105
+00:09:57,209 --> 00:10:00,916
+Temos um excesso de testosterona
+no centro de comunicações.
+
+106
+00:10:04,887 --> 00:10:06,179
+Como é que isto funciona?
+
+107
+00:10:06,254 --> 00:10:08,469
+<i>É para falar da minha infância?</i>
+
+108
+00:10:08,535 --> 00:10:11,128
+<i>Provavelmente sei mais sobre
+a sua infância do que você.</i>
+
+109
+00:10:16,883 --> 00:10:18,864
+É o tempo.
+
+110
+00:10:21,103 --> 00:10:23,910
+Em 16 meses, habitua-se a tudo.
+
+111
+00:10:24,555 --> 00:10:25,854
+Você apenas...
+
+112
+00:10:26,427 --> 00:10:28,141
+perde a noção.
+
+113
+00:10:32,448 --> 00:10:34,636
+Sei que fiz besteira.
+
+114
+00:10:40,395 --> 00:10:42,168
+De agora em diante,
+
+115
+00:10:42,651 --> 00:10:45,010
+<i>não vou voltar a perder a noção.</i>
+
+116
+00:10:47,108 --> 00:10:48,658
+Receita,
+
+117
+00:10:49,498 --> 00:10:51,284
+sala terrestre,
+
+118
+00:10:51,750 --> 00:10:53,647
+durante duas horas.
+
+119
+00:10:53,878 --> 00:10:56,072
+E corta o cabelo, Mace.
+
+120
+00:11:10,832 --> 00:11:12,285
+Traz de volta as ondas.
+
+121
+00:11:12,321 --> 00:11:15,990
+<i>A receita do Dr. Searle
+especifica uma modulação tranquila.</i>
+
+122
+00:11:16,251 --> 00:11:18,119
+As ondas me fazem sentir tranquilo.
+
+123
+00:11:27,263 --> 00:11:28,596
+Outra vez.
+
+124
+00:11:46,061 --> 00:11:48,890
+- Ei, desculpa.
+- Antes de tudo, me deixa falar.
+
+125
+00:11:48,916 --> 00:11:51,559
+Capa! Sou eu quem
+está pedindo desculpa, certo?
+
+126
+00:11:52,486 --> 00:11:53,905
+Certo.
+
+127
+00:11:59,204 --> 00:12:00,787
+- É esse o seu pedido de desculpas?
+- Sim!
+
+128
+00:12:00,829 --> 00:12:02,893
+- Desculpas aceitas.
+- Certo.
+
+129
+00:12:27,658 --> 00:12:31,981
+<i>Foi detectado um sub contato,
+no quadrante superior esquerdo.</i>
+
+130
+00:12:31,981 --> 00:12:36,005
+<i>Que por volta das 17h se transformou
+numa pequena tempestade de asteróides.</i>
+
+131
+00:12:36,287 --> 00:12:38,335
+<i>Não maiores que uma gota de chuva.</i>
+
+132
+00:12:38,372 --> 00:12:43,402
+<i>Tivemos 19 perfurações e um contato
+secundário  no compartimento do motor.</i>
+
+133
+00:12:43,477 --> 00:12:46,159
+<i>Demoramos três turnos
+para consertar.</i>
+
+134
+00:12:46,184 --> 00:12:48,855
+<i>Perdemos potência,
+mas nada de grave.</i>
+
+135
+00:12:49,133 --> 00:12:51,722
+<i>Eu os vi atingirem-nos
+a partir do Portal de Observação.</i>
+
+136
+00:12:52,394 --> 00:12:55,215
+<i>Posso dizer que foi...</i>
+
+137
+00:12:55,602 --> 00:12:57,542
+<i>Foi...</i>
+
+138
+00:12:57,797 --> 00:13:00,129
+<i>lindo.</i>
+
+139
+00:13:00,806 --> 00:13:03,637
+<i>Posso dizer-vos que foi...</i>
+
+140
+00:13:04,150 --> 00:13:05,930
+<i>Foi...</i>
+
+141
+00:13:06,143 --> 00:13:08,101
+<i>lindo.</i>
+
+142
+00:13:23,710 --> 00:13:25,359
+- Mace.
+- Sim?
+
+143
+00:13:25,390 --> 00:13:28,815
+<i>O programa de manutenção permite
+mais 14 minutos,</i>
+
+144
+00:13:28,832 --> 00:13:32,535
+<i>para que o painel do computador principal
+permaneça fora do tanque de arrefecimento.</i>
+
+145
+00:13:33,340 --> 00:13:34,574
+Merda!
+
+146
+00:13:58,925 --> 00:14:01,910
+Rapazes... querem ver uma coisa?
+
+147
+00:14:08,035 --> 00:14:09,807
+... refletindo...
+
+148
+00:14:09,845 --> 00:14:13,823
+que mais se pode dizer?
+Senhoras e senhores,
+
+149
+00:14:14,951 --> 00:14:17,244
+Mercúrio.
+
+150
+00:15:49,260 --> 00:15:52,282
+Há 23 horas atrás, ao fazer a verificação
+dos sistemas de comunicação...
+
+151
+00:15:52,357 --> 00:15:55,391
+- Enquanto ouvia a sua música espacial?
+- Ao verificar as frequências,
+
+152
+00:15:55,466 --> 00:15:57,401
+ouvi uma transmissão.
+
+153
+00:15:58,831 --> 00:16:01,492
+Parece que ao navegarmos
+para o lado escuro de Mercúrio,
+
+154
+00:16:01,567 --> 00:16:04,981
+o interior de ferro do planeta
+funciona como uma antena.
+
+155
+00:16:05,022 --> 00:16:08,364
+Ainda há muita interferência,
+mas o sinal é suficientemente claro.
+
+156
+00:16:08,516 --> 00:16:12,350
+Icarus, por favor reproduza
+o arquivo de áudio 754/B.
+
+157
+00:16:12,362 --> 00:16:13,978
+<i>Sim, Harvey.</i>
+
+158
+00:16:32,095 --> 00:16:33,778
+O que é?
+
+159
+00:16:34,237 --> 00:16:36,466
+É a Icarus I.
+
+160
+00:16:37,488 --> 00:16:40,546
+- Este sinal é o pedido de socorro deles.
+- Jesus!
+
+161
+00:16:41,187 --> 00:16:44,311
+- É impossível, já se passaram sete anos.
+- É óbvio que não é impossível,
+
+162
+00:16:44,346 --> 00:16:47,154
+como você mesmo pode ouvir.
+- Quer dizer que ainda estão vivos?
+
+163
+00:16:47,192 --> 00:16:48,807
+- Não sabemos.
+- Mas podem estar.
+
+164
+00:16:48,836 --> 00:16:51,665
+O oxigênio deles é auto-regenerável,
+a água é reciclável.
+
+165
+00:16:51,714 --> 00:16:54,007
+E têm toda a energia
+solar que necessitam.
+
+166
+00:16:54,024 --> 00:16:56,503
+E a comida? Não há hipótese dos
+mantimentos terem durado 7 anos.
+
+167
+00:16:56,534 --> 00:16:58,249
+Isso depende.
+
+168
+00:16:58,294 --> 00:17:00,873
+Têm o suficiente para oito
+pessoas durante três anos.
+
+169
+00:17:00,893 --> 00:17:02,706
+Há uma diferença de quatro anos.
+É uma dieta das grandes.
+
+170
+00:17:02,745 --> 00:17:04,480
+Não sabemos o que
+aconteceu à Icarus I.
+
+171
+00:17:04,555 --> 00:17:07,151
+Pode ter sido um acidente
+ou outra coisa qualquer.
+
+172
+00:17:07,196 --> 00:17:09,424
+Podia não haver
+oito pessoas para alimentar.
+
+173
+00:17:09,445 --> 00:17:11,061
+Capa, nós sabemos onde eles estão?
+
+174
+00:17:11,089 --> 00:17:13,666
+Muito bem, Capa, essa é a questão.
+
+175
+00:17:14,291 --> 00:17:15,524
+Icarus.
+
+176
+00:17:16,150 --> 00:17:19,940
+Por favor, simule a nossa trajetória
+através da orbita de Mercúrio.
+
+177
+00:17:19,968 --> 00:17:21,301
+<i>Sim, Capitão.</i>
+
+178
+00:17:23,910 --> 00:17:27,068
+Agora procure a fonte do sinal
+vindo da Icarus I.
+
+179
+00:17:32,523 --> 00:17:34,531
+Eles quase conseguiram.
+
+180
+00:17:34,531 --> 00:17:37,660
+É por isso que ninguém captou
+o sinal deles, até agora.
+
+181
+00:17:37,749 --> 00:17:40,010
+Estava perdido na luz
+e no ruído de fundo.
+
+182
+00:17:40,031 --> 00:17:44,631
+- Vamos passar ao lado deles.
+- Entre de 10 ou 15 mil quilômetros.
+
+183
+00:17:45,240 --> 00:17:46,987
+Alguém pode ter sobrevivido?
+
+184
+00:17:47,112 --> 00:17:49,340
+Se o escudo estiver intacto.
+
+185
+00:17:49,958 --> 00:17:52,340
+Seremos capazes de ver eles?
+
+186
+00:17:52,821 --> 00:17:53,792
+Sim.
+
+187
+00:17:53,832 --> 00:17:56,793
+Preciso analisar tudo isto com cuidado.
+
+188
+00:17:56,839 --> 00:18:00,695
+Com muito cuidado, mas se
+tivesse que dar um palpite agora,
+
+189
+00:18:01,340 --> 00:18:04,104
+diria que podemos ajustar
+a nossa trajetória.
+
+190
+00:18:04,104 --> 00:18:05,780
+Podemos ir na direção deles.
+
+191
+00:18:05,780 --> 00:18:07,970
+Mas não faremos.
+
+192
+00:18:10,285 --> 00:18:13,628
+Só quero deixar bem
+claro que não iremos.
+
+193
+00:18:17,164 --> 00:18:19,075
+Tenho de soletrar?
+
+194
+00:18:19,811 --> 00:18:22,513
+Temos uma carga explosiva para entregar
+no coração da estrela mais próxima.
+
+195
+00:18:22,588 --> 00:18:25,110
+Estamos entregando essa carga explosiva
+porque essa estrela está morrendo,
+
+196
+00:18:25,185 --> 00:18:27,409
+e se ela morrer, nós morremos.
+
+197
+00:18:27,450 --> 00:18:29,468
+Morre tudo!
+É esta a nossa missão!
+
+198
+00:18:29,543 --> 00:18:32,770
+Não há literalmente nada mais importante
+do que completarmos a nossa missão.
+
+199
+00:18:32,845 --> 00:18:34,691
+- Fim da discussão!
+- Ele tem razão.
+
+200
+00:18:34,766 --> 00:18:36,597
+Ele tem razão?
+Claro que tenho razão!
+
+201
+00:18:36,672 --> 00:18:38,818
+Alguém aqui considera
+seriamente outra opção?
+
+202
+00:18:38,893 --> 00:18:40,957
+- Posso contra-argumentar?
+- Não!
+
+203
+00:18:41,004 --> 00:18:43,232
+- Capitão?
+- Diga.
+
+204
+00:18:44,120 --> 00:18:46,184
+Seria, obviamente,
+
+205
+00:18:46,379 --> 00:18:49,950
+absurdo alterar a nossa trajetória
+para ajudar a tripulação da Icarus I.
+
+206
+00:18:50,697 --> 00:18:54,400
+Mesmo sabendo que parte, ou mesmo
+toda a tripulação ainda está viva,
+
+207
+00:18:54,436 --> 00:18:56,628
+as suas vidas,
+são completamente dispensáveis,
+
+208
+00:18:56,703 --> 00:18:59,958
+diante do contexto da nossa missão.
+
+209
+00:19:00,359 --> 00:19:02,331
+- Assim como as nossas vidas.
+- Exatamente.
+
+210
+00:19:02,375 --> 00:19:04,068
+No entanto...
+
+211
+00:19:04,068 --> 00:19:07,460
+há algo a bordo da Icarus I
+que talvez justifique o desvio.
+
+212
+00:19:07,460 --> 00:19:11,463
+Como você disse, Mace, temos uma carga
+para entregar. Uma carga. Singular.
+
+213
+00:19:11,476 --> 00:19:16,806
+Tudo sobre a entrega e o efeito da
+carga explosiva é completamente teórico.
+
+214
+00:19:17,557 --> 00:19:19,173
+Falando de uma forma simples,
+
+215
+00:19:19,381 --> 00:19:21,248
+não sabemos se vai funcionar.
+
+216
+00:19:21,826 --> 00:19:24,470
+Mas uma coisa sabemos.
+
+217
+00:19:24,816 --> 00:19:28,032
+Se tivéssemos duas bombas
+tínhamos duas hipóteses.
+
+218
+00:19:28,287 --> 00:19:31,273
+Está supondo que seríamos
+capazes de pilotar a Icarus I.
+
+219
+00:19:31,318 --> 00:19:32,708
+- Sim.
+- Isso é supor que...
+
+220
+00:19:32,708 --> 00:19:36,537
+o que os impediu de completar a missão
+não foi uma falha ou dano na nave.
+
+221
+00:19:36,537 --> 00:19:37,547
+Sim.
+
+222
+00:19:37,937 --> 00:19:40,166
+- São muitas suposições.
+- São.
+
+223
+00:19:40,190 --> 00:19:42,603
+É uma avaliação de risco.
+A pergunta é:
+
+224
+00:19:42,641 --> 00:19:46,793
+Os riscos de um desvio compensam
+os benefícios de uma carga extra?
+
+225
+00:19:55,157 --> 00:19:58,412
+- Vamos votar.
+- Não, não vamos.
+
+226
+00:19:59,499 --> 00:20:01,563
+Não somos uma democracia.
+
+227
+00:20:02,480 --> 00:20:05,604
+Somos um conjunto de
+astronautas e cientistas.
+
+228
+00:20:05,645 --> 00:20:09,051
+Vamos tomar a melhor decisão para nós.
+
+229
+00:20:09,089 --> 00:20:10,541
+Tomada por você?
+
+230
+00:20:10,583 --> 00:20:12,680
+Pela pessoa mais qualificada
+para compreender,
+
+231
+00:20:12,697 --> 00:20:15,722
+a complexidade da entrega
+da carga explosiva.
+
+232
+00:20:15,920 --> 00:20:18,301
+O nosso físico.
+
+233
+00:20:24,825 --> 00:20:26,440
+Merda.
+
+234
+00:20:30,935 --> 00:20:34,922
+Icarus, quero que faça as contas sobre
+o sucesso da entrega da carga.
+
+235
+00:20:35,199 --> 00:20:37,678
+<i>Certo. Ponto de entrega atingido.</i>
+
+236
+00:20:37,726 --> 00:20:39,146
+Desacoplar a carga explosiva.
+
+237
+00:20:39,194 --> 00:20:42,514
+<i>Desacoplamento da
+bomba estelar iniciado.</i>
+
+238
+00:20:42,532 --> 00:20:45,397
+<i>A tripulação na zona de acomodação
+tem 4 minutos para sair, </i>
+
+239
+00:20:45,472 --> 00:20:47,632
+<i>e iniciar a viagem de regresso.</i>
+
+240
+00:20:49,164 --> 00:20:52,876
+Quatro minutos após a separação,
+os propulsores ligam-se automaticamente.
+
+241
+00:20:52,918 --> 00:20:56,773
+<i>Os propulsores da carga ligam-se
+automaticamente 4 minutos depois.</i>
+
+242
+00:20:57,184 --> 00:21:00,275
+<i>A entrar pelo buraco do núcleo
+no pólo sul.</i>
+
+243
+00:21:00,316 --> 00:21:04,467
+<i>Estrutura do campo magnético aberta.
+Temperatura: 20 538 graus.</i>
+
+244
+00:21:04,482 --> 00:21:08,086
+<i>A confiabilidade da projeção
+desceu abaixo dos 45%.</i>
+
+245
+00:21:08,109 --> 00:21:11,551
+<i>A projeção restante não está
+disponível para uma especulação útil.</i>
+
+246
+00:21:11,582 --> 00:21:15,318
+<i>Variáveis infinitas,
+precisão desconhecida.</i>
+
+247
+00:21:15,351 --> 00:21:18,652
+Aí está o problema.
+Entre os propulsores e a gravidade do Sol,
+
+248
+00:21:18,727 --> 00:21:23,524
+a velocidade da carga vai ser tão grande
+que o espaço e o tempo se vão misturar.
+
+249
+00:21:23,546 --> 00:21:26,474
+Tudo ficará distorcido,
+tudo será inquantificável.
+
+250
+00:21:26,521 --> 00:21:28,814
+Você tem que se decidir por um dos lados.
+
+251
+00:21:29,407 --> 00:21:32,368
+- Preciso de uma decisão.
+- Não é uma decisão, é um palpite.
+
+252
+00:21:33,440 --> 00:21:37,295
+É como atirar uma moeda ao ar
+e perguntar-me qual será o resultado.
+
+253
+00:21:38,398 --> 00:21:39,533
+E?
+
+254
+00:21:40,832 --> 00:21:42,317
+"Cara".
+
+255
+00:21:46,983 --> 00:21:50,751
+Esgotamos os materiais terrestres
+necessários para construir esta bomba.
+
+256
+00:21:50,774 --> 00:21:53,035
+Não vai haver outra.
+
+257
+00:21:54,761 --> 00:21:57,502
+A que transportamos é
+a nossa última hipótese.
+
+258
+00:21:57,617 --> 00:22:00,807
+A nossa última e melhor esperança.
+
+259
+00:22:04,581 --> 00:22:06,493
+O argumento do Searle é válido.
+
+260
+00:22:07,252 --> 00:22:09,513
+Duas últimas hipóteses
+são melhores que uma.
+
+261
+00:22:10,901 --> 00:22:12,834
+É isso.
+
+262
+00:22:28,770 --> 00:22:33,031
+<i>Impulso completo.
+Icarus deixando a órbita de Mercúrio.</i>
+
+263
+00:23:01,005 --> 00:23:03,509
+- Oi.
+- Oi.
+
+264
+00:23:08,740 --> 00:23:10,648
+Um sonho bom?
+
+265
+00:23:11,472 --> 00:23:13,144
+Deixa-me adivinhar,
+
+266
+00:23:13,179 --> 00:23:15,238
+a superfície do Sol?
+
+267
+00:23:16,928 --> 00:23:18,799
+É o único sonho que eu tenho.
+
+268
+00:23:19,476 --> 00:23:22,365
+Cada vez que fecho os olhos
+é sempre a mesma coisa.
+
+269
+00:23:24,282 --> 00:23:27,010
+Talvez deva falar com o
+Dr. Searle sobre isso.
+
+270
+00:23:27,439 --> 00:23:29,698
+Ver se ele pode te ajudar.
+
+271
+00:23:32,260 --> 00:23:34,036
+Talvez.
+
+272
+00:23:37,199 --> 00:23:39,326
+Só quero que saiba,
+
+273
+00:23:40,250 --> 00:23:42,707
+que acho que tomou a decisão correta.
+
+274
+00:23:47,263 --> 00:23:48,839
+O Mace não acha.
+
+275
+00:23:48,980 --> 00:23:52,172
+E creio que o Harvey
+e o Trey também não.
+
+276
+00:23:52,247 --> 00:23:53,807
+Sim, mas...
+
+277
+00:23:53,842 --> 00:23:55,514
+mas eu acho.
+
+278
+00:24:20,609 --> 00:24:22,805
+Cassie, desliga o alarme.
+O que aconteceu?
+
+279
+00:24:22,847 --> 00:24:24,594
+- Fiz besteira.
+- Não foi você quem fez besteira.
+
+280
+00:24:24,616 --> 00:24:26,461
+- A responsabilidade é minha.
+- Não devia ter...
+
+281
+00:24:26,483 --> 00:24:29,061
+- Vai direto ao assunto.
+- Para poder mudar a rota,
+
+282
+00:24:29,089 --> 00:24:31,318
+tive de reprogramar
+manualmente a Icarus.
+
+283
+00:24:31,349 --> 00:24:34,581
+Fiz eu próprio todos os cálculos
+e verifiquei-os duas e três vezes.
+
+284
+00:24:34,656 --> 00:24:36,132
+Estavam todos certos.
+
+285
+00:24:36,207 --> 00:24:39,244
+Então, inseri as novas
+coordenadas e nos pus a caminho.
+
+286
+00:24:39,319 --> 00:24:41,207
+Então qual é o problema?
+A trejetória está errada?
+
+287
+00:24:41,282 --> 00:24:43,079
+A trejetória está certa.
+
+288
+00:24:43,241 --> 00:24:46,967
+Muda o nosso ângulo de
+aproximação ao Sol em 1,1 graus.
+
+289
+00:24:47,292 --> 00:24:50,169
+Não reprogramou os escudos
+para o novo ângulo.
+
+290
+00:24:53,443 --> 00:24:55,735
+Por Deus, Trey.
+
+291
+00:24:55,762 --> 00:24:57,623
+Fiz besteira!
+
+292
+00:25:00,330 --> 00:25:03,796
+Estava com a cabeça cheia com velocidades,
+cálculos de combustível,
+
+293
+00:25:03,871 --> 00:25:08,249
+e milhões de diferentes...
+Fiz besteira! Está bem?
+
+294
+00:25:09,810 --> 00:25:13,481
+As pessoas cometem erros.
+Às vezes...
+
+295
+00:25:14,554 --> 00:25:16,176
+fazem besteira!
+
+296
+00:25:16,894 --> 00:25:19,340
+- Fiz besteira!
+- Trey!
+
+297
+00:25:24,937 --> 00:25:27,481
+O fato é que ainda estamos vivos.
+
+298
+00:25:28,853 --> 00:25:31,332
+Não apareceu nenhum
+buraco no casco da nave.
+
+299
+00:25:31,624 --> 00:25:35,807
+Não temos um clima de 10 000 graus.
+Então quais são os verdadeiros danos?
+
+300
+00:25:35,849 --> 00:25:38,487
+Não sabemos. A Icarus tentou
+realinhar os escudos sozinha,
+
+301
+00:25:38,562 --> 00:25:40,160
+quando o alarme disparou.
+
+302
+00:25:40,204 --> 00:25:42,203
+Mas todos os sensores
+exteriores arderam.
+
+303
+00:25:42,244 --> 00:25:44,458
+Portanto, não fazemos ideia
+do estado da zona afetada.
+
+304
+00:25:45,417 --> 00:25:48,011
+Só se um analista for lá fora.
+
+305
+00:25:49,463 --> 00:25:51,046
+Está bem.
+
+306
+00:25:51,325 --> 00:25:53,232
+Vou me vestir.
+
+307
+00:25:53,484 --> 00:25:55,035
+É um trabalho para dois homens.
+
+308
+00:25:55,354 --> 00:25:57,865
+Como segundo no comando,
+você não vai a lugar nenhum.
+
+309
+00:25:57,911 --> 00:26:00,027
+- Eu me voluntario.
+- Não, eu me voluntario.
+
+310
+00:26:00,465 --> 00:26:01,932
+Ótimo.
+
+311
+00:26:02,007 --> 00:26:03,999
+Eu voluntario o Capa.
+
+312
+00:26:08,131 --> 00:26:10,392
+Pode ser.
+Eu faço.
+
+313
+00:27:17,759 --> 00:27:20,817
+Fizemos isto mil vezes,
+durante o nosso treino.
+
+314
+00:27:21,448 --> 00:27:22,519
+Sim.
+
+315
+00:27:22,719 --> 00:27:24,237
+Vai ficar bem.
+
+316
+00:27:38,199 --> 00:27:41,566
+Pronto, Icarus.
+Vamos assumir o controle por um tempo.
+
+317
+00:27:41,594 --> 00:27:42,631
+<i>Está bem, Cassie.</i>
+
+318
+00:27:42,706 --> 00:27:45,861
+Vamos diminuir a velocidade e vamos
+rodar, para que a área danificada
+
+319
+00:27:45,936 --> 00:27:48,063
+fique oposta ao sol.
+Estamos entendidas?
+
+320
+00:27:48,134 --> 00:27:49,330
+<i>Sim, Cassie.</i>
+
+321
+00:27:49,405 --> 00:27:52,526
+Se rodar muito, vamos perder
+as torres de comunicação 3 e 4.
+
+322
+00:27:52,601 --> 00:27:56,148
+- Ainda bem que já não precisamos delas.
+- Não precisamos delas agora,
+
+323
+00:27:56,385 --> 00:27:59,556
+mas precisaremos delas para regressar.
+- Depois lidamos com isso.
+
+324
+00:27:59,701 --> 00:28:02,760
+Enquanto isso, vou tentar conseguir-nos
+o máximo de sombra que puder.
+
+325
+00:28:03,177 --> 00:28:04,604
+Muito bem, rapazes.
+
+326
+00:28:04,645 --> 00:28:06,388
+Vou abri-la.
+
+327
+00:28:39,177 --> 00:28:42,789
+<b>Câmera um: Kaneda.
+Câmera dois: Capa.</b>
+
+328
+00:28:43,009 --> 00:28:47,133
+<i> - Teste, Kaneda.
+- Um, dois, som.</i>
+
+329
+00:28:47,220 --> 00:28:49,088
+<i>Afirmativo.
+A imagem está boa.</i>
+
+330
+00:28:50,768 --> 00:28:53,156
+Capa pedindo confirmação.
+
+331
+00:28:53,231 --> 00:28:54,671
+<i>Afirmativo.</i>
+
+332
+00:28:58,437 --> 00:29:01,196
+<i>Saindo da câmara de despressurização
+com os módulos de manutenção.</i>
+
+333
+00:29:14,655 --> 00:29:17,813
+Vamos investigar a área danificada.
+
+334
+00:29:19,207 --> 00:29:21,074
+Certo, pessoal.
+
+335
+00:29:21,227 --> 00:29:23,324
+Devagar e com calma.
+
+336
+00:29:23,800 --> 00:29:25,667
+<i>Devagar e com calma.</i>
+
+337
+00:29:25,695 --> 00:29:26,929
+<i>Recebido.</i>
+
+338
+00:29:39,310 --> 00:29:42,598
+<i>Icarus, por favor, ajuste os escudos
+para permitir a flutuação.</i>
+
+339
+00:29:42,626 --> 00:29:43,926
+<i>Sim, Cassie.</i>
+
+340
+00:30:11,548 --> 00:30:14,125
+<i>Estabelecendo um novo
+alinhamento em relação ao Sol.</i>
+
+341
+00:30:16,420 --> 00:30:17,873
+Meu Deus.
+
+342
+00:30:18,077 --> 00:30:20,206
+Há variação de temperatura nos escudos.
+
+343
+00:30:20,231 --> 00:30:22,646
+São apenas os metais
+contraindo e expandindo.
+
+344
+00:30:22,896 --> 00:30:25,190
+Eu sei o que é, aviadorzinho.
+
+345
+00:30:33,269 --> 00:30:36,197
+Soa como se ela estivesse
+se despedaçando.
+
+346
+00:30:56,365 --> 00:31:00,133
+<i>Danos fatais para as
+torres de comunicação 3 e 4.</i>
+
+347
+00:31:00,335 --> 00:31:03,590
+Recebido Icarus. Perda das torres 3 e 4.
+Cancele o alarme.
+
+348
+00:31:03,623 --> 00:31:06,200
+Desligue os sensores das torres 3 e 4.
+
+349
+00:31:15,796 --> 00:31:18,156
+<i>Deviam ver a vista daqui, pessoal.</i>
+
+350
+00:31:19,527 --> 00:31:21,723
+<i>É bastante impressionante.</i>
+
+351
+00:31:34,524 --> 00:31:36,971
+<i>Há quatro painéis danificados.</i>
+
+352
+00:31:40,367 --> 00:31:43,076
+<i>Estão a cerca de 300
+metros de distância.</i>
+
+353
+00:31:55,126 --> 00:31:59,047
+Capa, vai com calma. Está consumindo
+o seu oxigênio muito depressa.
+
+354
+00:32:00,084 --> 00:32:01,588
+<i>Recebido.</i>
+
+355
+00:32:07,014 --> 00:32:11,131
+É isso. Diminui a respiração.
+Relaxe os movimentos.
+
+356
+00:32:30,215 --> 00:32:32,542
+<i>Estou me aproximando do primeiro painel.</i>
+
+357
+00:32:54,316 --> 00:32:57,243
+<i>Tivemos sorte.
+Conseguem ver isto?</i>
+
+358
+00:32:57,990 --> 00:33:00,949
+<i>- Conseguimos.
+- O hidráulico está queimado.</i>
+
+359
+00:33:01,396 --> 00:33:03,242
+<i>Vamos fechar isto.</i>
+
+360
+00:33:08,269 --> 00:33:10,082
+<b>SISTEMA HIDRÁULICO
+BOMBA PRINCIPAL</b>
+
+361
+00:33:24,727 --> 00:33:27,102
+Olhe isto.
+
+362
+00:33:27,177 --> 00:33:29,065
+Viu?
+
+363
+00:33:32,453 --> 00:33:34,226
+<i>O primeiro está fechado.</i>
+
+364
+00:33:34,301 --> 00:33:36,200
+Conseguem?
+
+365
+00:33:36,275 --> 00:33:38,058
+<i>Vai levar um bocado de tempo, mas...</i>
+
+366
+00:33:38,518 --> 00:33:40,293
+<i>Sim.</i>
+
+367
+00:33:41,029 --> 00:33:42,768
+<i>Conseguimos terminar.</i>
+
+368
+00:34:05,830 --> 00:34:08,532
+<i>A caminho do próximo painel.</i>
+
+369
+00:34:08,580 --> 00:34:10,888
+<i>Faltam três.</i>
+
+370
+00:34:28,739 --> 00:34:31,284
+Bom trabalho.
+Bom trabalho, amigo.
+
+371
+00:34:32,750 --> 00:34:35,459
+Não se martirize.
+Nós resolvemos isto.
+
+372
+00:34:37,620 --> 00:34:40,757
+- O que acontece, pessoal?
+- A nave está em movimento.
+
+373
+00:34:40,956 --> 00:34:43,903
+O nível de oxigênio. Merda!
+Acho que estamos perdendo oxigênio!
+
+374
+00:34:43,978 --> 00:34:45,979
+<i> Retomando o controle automático
+da Icarus II.</i>
+
+375
+00:34:46,054 --> 00:34:48,510
+- Negativo Icarus. O controle não é seu.
+- Negativo, Cassie.
+
+376
+00:34:48,585 --> 00:34:51,773
+<i>Em controle automático,
+repondo a nave na rotação original.</i>
+
+377
+00:34:51,848 --> 00:34:54,345
+- O quê?
+- Retorne o comando para controle manual.
+
+378
+00:34:54,420 --> 00:34:58,966
+<i>Negativo. A missão está em perigo.
+Controles de voo manuais removidos.</i>
+
+379
+00:34:58,971 --> 00:35:00,814
+- Porquê?
+- Negativo, Icarus. Negativo.
+
+380
+00:35:00,889 --> 00:35:04,385
+- Diga a razão imediatamente.
+- Fogo no jardim de oxigênio.
+
+381
+00:35:09,662 --> 00:35:10,895
+Não!
+
+382
+00:35:13,405 --> 00:35:16,433
+- Selar compartimento para conter o fogo!
+- Selando o setor.
+
+383
+00:35:16,667 --> 00:35:18,104
+Selando.
+
+384
+00:35:19,678 --> 00:35:23,053
+- Selar os setores do cinco ao nove!
+- Selando do cinco ao nove.
+
+385
+00:35:25,740 --> 00:35:28,799
+- Kaneda e Capa, voltem já para a nave.
+- Não podemos.
+
+386
+00:35:30,295 --> 00:35:33,004
+<i>Não podemos deixar os painéis.</i>
+
+387
+00:35:33,264 --> 00:35:36,191
+<i>A nave queimará se os escudos solares
+não forem reparados.</i>
+
+388
+00:35:36,234 --> 00:35:38,158
+- Eles vão morrer. Vão queimar.
+- Não.
+
+389
+00:35:38,233 --> 00:35:39,250
+Não vão nada.
+
+390
+00:35:39,292 --> 00:35:43,028
+<i>Comando de Sobreposição.
+Piloto Cassie. Comando de emergência 000.</i>
+
+391
+00:35:43,038 --> 00:35:46,959
+<i>Recebido o comando 000.
+Segunda confirmação humana requerida.</i>
+
+392
+00:35:47,007 --> 00:35:48,591
+Recebido.
+Mace!
+
+393
+00:35:49,488 --> 00:35:51,520
+- Mace?
+- Espera, Cassie.
+
+394
+00:35:51,998 --> 00:35:54,302
+<b>Conduta de controlo da temperatura.
+215 ºC</b>
+
+395
+00:35:54,337 --> 00:35:56,203
+Jesus Cristo!
+Harvey!
+
+396
+00:35:56,688 --> 00:35:59,430
+Oficial de comunicações, Harvey,
+confirmando o comando 000.
+
+397
+00:35:59,455 --> 00:36:02,709
+<i>Comando de sobreposição confirmado.
+Controlo manual devolvido.</i>
+
+398
+00:36:02,724 --> 00:36:03,991
+Não.
+
+399
+00:36:04,537 --> 00:36:07,628
+- Icarus, continue com o procedimento.
+- O quê?
+
+400
+00:36:08,026 --> 00:36:09,419
+<i>Capitão?</i>
+
+401
+00:36:09,778 --> 00:36:11,649
+- Me ajude.
+- Recebido, Mace.
+
+402
+00:36:12,315 --> 00:36:16,856
+<i>A prioridade da tripulação é proteger
+a carga explosiva e apagar o incêndio.</i>
+
+403
+00:36:16,931 --> 00:36:19,648
+<i>Icarus, retome o controlo da nave.</i>
+
+404
+00:36:19,723 --> 00:36:22,507
+- Afirmativo, Capitão.
+- Droga!
+
+405
+00:36:24,662 --> 00:36:27,510
+<i>Repondo a nave na rotação original.</i>
+
+406
+00:36:42,663 --> 00:36:43,939
+- Deixe-me entrar!
+- Negativo.
+
+407
+00:36:44,014 --> 00:36:46,437
+- Por favor!
+- As portas estão seladas.
+
+408
+00:36:46,537 --> 00:36:50,357
+Harvey! Seu filho da mãe,
+deixe-me entrar!
+
+409
+00:36:52,492 --> 00:36:54,338
+<i>Diagnóstico de risco concluído.</i>
+
+410
+00:36:54,360 --> 00:36:58,550
+<i>Sistema anti-fogo falhando.
+O fogo vai arder durante 6 horas.</i>
+
+411
+00:36:58,585 --> 00:37:00,876
+<i>60% de chance
+de falha de contenção.</i>
+
+412
+00:37:00,910 --> 00:37:05,192
+<i>75% de chance de efeitos colaterais
+para sistemas de suporte de vida.</i>
+
+413
+00:37:05,213 --> 00:37:06,928
+O que vamos fazer?
+
+414
+00:37:07,737 --> 00:37:09,895
+- Inundar com oxigênio.
+- O quê?
+
+415
+00:37:09,939 --> 00:37:12,321
+Vai provocar uma explosão
+que extinguirá o fogo.
+
+416
+00:37:12,356 --> 00:37:14,039
+Vamos perder todo o jardim.
+
+417
+00:37:14,080 --> 00:37:15,695
+Já perdemos.
+
+418
+00:37:15,720 --> 00:37:17,784
+<i>Mace, eu não sei...</i>
+
+419
+00:37:17,824 --> 00:37:21,493
+Icarus, abra os tanques de oxigênio.
+Corie, saia daí!
+
+420
+00:37:21,541 --> 00:37:23,574
+<i>Abrindo os tanques de oxigênio.</i>
+
+421
+00:37:27,376 --> 00:37:28,862
+Não!
+
+422
+00:37:44,152 --> 00:37:47,626
+<i>89% do escudo sob a luz do Sol.</i>
+
+423
+00:38:05,704 --> 00:38:08,663
+<i>Capa... regresse.</i>
+
+424
+00:38:08,697 --> 00:38:10,154
+<i>Eu acabo isto.</i>
+
+425
+00:38:10,229 --> 00:38:12,965
+Por favor, eu sou capaz de fazer.
+
+426
+00:38:14,299 --> 00:38:15,370
+Vai.
+
+427
+00:38:23,766 --> 00:38:27,233
+Capa regressando à câmara de
+despressurização. Receberam?
+
+428
+00:38:29,389 --> 00:38:32,289
+<i>Capa regressando à câmara de
+despressurização. Receberam?</i>
+
+429
+00:38:32,756 --> 00:38:34,787
+<i>Recebido, Capa.
+Venha.</i>
+
+430
+00:38:36,459 --> 00:38:39,615
+<i>91% do escudo sob a luz do Sol.</i>
+
+431
+00:39:03,172 --> 00:39:06,678
+<i>94% do escudo sob a luz do Sol.</i>
+
+432
+00:39:13,367 --> 00:39:14,822
+Capitão?
+
+433
+00:39:14,822 --> 00:39:17,942
+Estou no fim do escudo.
+Recebeu?
+
+434
+00:39:18,339 --> 00:39:20,620
+Tem de sair dai agora.
+Capitão!
+
+435
+00:39:20,695 --> 00:39:23,939
+<i>97% do escudo sob a luz do Sol.</i>
+
+436
+00:39:24,442 --> 00:39:27,405
+<i>Tenho que reparar os painéis
+até o escudo estar seguro.</i>
+
+437
+00:39:27,480 --> 00:39:30,696
+Tem de sair daí já!
+Capitão, está muito perto!
+
+438
+00:39:31,382 --> 00:39:32,975
+O Kaneda não vai conseguir.
+
+439
+00:39:33,024 --> 00:39:35,951
+<i>Saia daí!
+Saia daí agora!</i>
+
+440
+00:39:36,040 --> 00:39:38,322
+É longe demais.
+
+441
+00:39:38,397 --> 00:39:40,370
+<i>Saia daí!</i>
+
+442
+00:39:41,887 --> 00:39:44,284
+<i>Por que ele não sai?</i>
+
+443
+00:39:44,322 --> 00:39:47,340
+Kaneda? O que está vendo?
+
+444
+00:39:47,549 --> 00:39:49,987
+<i>Searle, diga-lhe para sair de lá!</i>
+
+445
+00:39:49,987 --> 00:39:53,032
+Kaneda. O que está vendo?
+
+446
+00:39:53,032 --> 00:39:54,913
+<i>Diga-lhe para sair agora!</i>
+
+447
+00:39:57,772 --> 00:39:59,070
+Kaneda!
+
+448
+00:40:09,984 --> 00:40:11,502
+Kaneda!
+
+449
+00:40:41,061 --> 00:40:43,840
+<i>Rotação do escudo completa.</i>
+
+450
+00:41:08,597 --> 00:41:12,447
+O resultado é o seguinte:
+O Trey está sedado no centro médico.
+
+451
+00:41:12,522 --> 00:41:15,641
+O Dr. Searle diagnosticou-o
+como um risco de suicídio.
+
+452
+00:41:16,758 --> 00:41:19,579
+Acho que nenhum de nós
+questiona esse diagnóstico.
+
+453
+00:41:19,654 --> 00:41:23,159
+Como segundo no comando,
+sou agora o capitão da Icarus II.
+
+454
+00:41:23,526 --> 00:41:25,413
+Graças, tanto ao Kaneda,
+
+455
+00:41:25,882 --> 00:41:28,731
+como ao Capa, os nossos
+escudos estão intactos.
+
+456
+00:41:29,038 --> 00:41:31,141
+Assim como a carga explosiva.
+
+457
+00:41:31,625 --> 00:41:34,709
+Mas o jardim do oxigênio
+está completamente destruído.
+
+458
+00:41:35,337 --> 00:41:38,683
+Além disso, uma grande quantidade
+de oxigênio queimou no incêndio.
+
+459
+00:41:39,379 --> 00:41:41,410
+Como estamos agora,
+
+460
+00:41:41,885 --> 00:41:46,455
+não temos reservas de oxigênio suficientes
+para efetuar a entrega da nossa carga.
+
+461
+00:41:47,925 --> 00:41:50,779
+E muito menos para sobreviver
+à viagem de regresso.
+
+462
+00:41:50,808 --> 00:41:53,221
+Então cancelem o desfile de chegada.
+
+463
+00:41:56,264 --> 00:42:00,232
+Agora não temos escolha
+senão ir até à Icarus I.
+
+464
+00:42:01,147 --> 00:42:03,515
+Se vamos completar a missão...
+
+465
+00:42:03,673 --> 00:42:06,434
+a Icarus I é a nossa
+única esperança.
+
+466
+00:42:17,833 --> 00:42:20,608
+Tecnicamente... você cometeu um erro.
+
+467
+00:42:20,683 --> 00:42:22,326
+O que quer dizer, Corie?
+
+468
+00:42:22,401 --> 00:42:25,908
+Disse que não há oxigênio suficiente
+para chegarmos ao ponto de entrega.
+
+469
+00:42:25,983 --> 00:42:27,954
+Mas há.
+
+470
+00:42:28,972 --> 00:42:33,256
+Só não há oxigênio suficiente
+para nos levar todos nós até lá.
+
+471
+00:42:33,563 --> 00:42:36,304
+Está sugerindo que
+deixemos o Trey suicidar-se?
+
+472
+00:42:36,339 --> 00:42:37,705
+Não.
+
+473
+00:42:38,623 --> 00:42:40,681
+E, de qualquer forma...
+
+474
+00:42:41,424 --> 00:42:43,456
+o Trey não seria o suficiente.
+
+475
+00:42:44,617 --> 00:42:47,056
+Temos de perder mais dois.
+
+476
+00:42:52,026 --> 00:42:55,144
+Três de sete.
+Isso são muitos palitos.
+
+477
+00:43:14,013 --> 00:43:16,018
+<b>CARGA TRANCADA
+CARGA DESTRANCADA</b>
+
+478
+00:43:34,579 --> 00:43:36,490
+<i>Capa, sou eu.</i>
+
+479
+00:43:42,214 --> 00:43:43,787
+É diferente.
+
+480
+00:43:43,862 --> 00:43:47,433
+Desconfiar que não vai conseguir
+voltar para casa.
+
+481
+00:43:47,606 --> 00:43:48,840
+E depois...
+
+482
+00:43:48,862 --> 00:43:50,773
+saber que não vai regressar.
+
+483
+00:43:52,699 --> 00:43:55,790
+A nossa sobrevivência depende
+do que conseguirmos salvar da Icarus I.
+
+484
+00:43:55,814 --> 00:43:56,950
+Não.
+
+485
+00:43:58,445 --> 00:44:00,411
+Vamos morrer aqui.
+
+486
+00:44:00,694 --> 00:44:02,277
+Como a outra tripulação.
+
+487
+00:44:03,049 --> 00:44:04,664
+Eu sei.
+
+488
+00:44:06,460 --> 00:44:08,076
+E você também.
+
+489
+00:44:11,918 --> 00:44:13,752
+Está assustado?
+
+490
+00:44:21,554 --> 00:44:23,716
+Quando a bomba estelar for ativada,
+
+491
+00:44:24,751 --> 00:44:26,684
+muito pouco acontecerá no início.
+
+492
+00:44:27,222 --> 00:44:28,642
+E então uma faísca,
+
+493
+00:44:28,677 --> 00:44:30,489
+uma existência singular,
+
+494
+00:44:30,530 --> 00:44:33,872
+flutuará por um instante,
+pairando no espaço.
+
+495
+00:44:33,921 --> 00:44:35,407
+E depois,
+
+496
+00:44:35,440 --> 00:44:40,518
+vai se dividir em duas, e essas
+vão se dividir outra vez e outra vez,
+
+497
+00:44:40,672 --> 00:44:42,288
+e outra vez.
+
+498
+00:44:45,618 --> 00:44:48,388
+A detonação será algo nunca imaginado.
+
+499
+00:44:49,245 --> 00:44:51,137
+Um Big Bang em escala menor.
+
+500
+00:44:51,179 --> 00:44:53,980
+Uma nova estrela nascerá a partir
+de uma moribunda.
+
+501
+00:44:54,847 --> 00:44:56,813
+Acho que vai ser lindo.
+
+502
+00:44:58,135 --> 00:45:00,648
+Não, não estou assustado.
+
+503
+00:45:05,034 --> 00:45:06,333
+Eu estou.
+
+504
+00:45:53,144 --> 00:45:57,359
+<i>- Searle e Capa. Estão esperando vocês.
+- Vamos.</i>
+
+505
+00:47:40,159 --> 00:47:42,223
+Cuidado.
+Vejam onde pisam.
+
+506
+00:47:47,204 --> 00:47:50,175
+- Cassie, está vendo isto no vídeo?
+- Vendo o quê?
+
+507
+00:47:50,815 --> 00:47:54,103
+O ar.
+Está cheio de... pó.
+
+508
+00:47:54,382 --> 00:47:57,501
+- Pele humana.
+- O quê?
+
+509
+00:47:57,576 --> 00:48:00,514
+90% de todo o pó
+é composto por pele humana.
+
+510
+00:48:05,291 --> 00:48:07,267
+Desculpem.
+
+511
+00:48:11,525 --> 00:48:12,795
+- Nenhuma luz?
+- Não.
+
+512
+00:48:12,870 --> 00:48:14,612
+Não é surpresa nenhuma.
+
+513
+00:48:15,503 --> 00:48:17,702
+Alguém com medo do escuro?
+
+514
+00:48:18,821 --> 00:48:21,774
+- Devíamos nos separar.
+- Não creio que isso seja boa ideia.
+
+515
+00:48:22,964 --> 00:48:27,002
+Acho que tem razão. Podemos ser
+surpreendidos por alienígenas.
+
+516
+00:48:27,588 --> 00:48:30,119
+A Icarus é grande. Não podemos
+fazer uma busca com eficácia,
+
+517
+00:48:30,219 --> 00:48:33,512
+se formos apenas um grupo.
+- Certo. Tem razão.
+
+518
+00:48:34,808 --> 00:48:37,774
+Mace, vá para o centro de controle ver
+se consegue ligá-la de novo.
+
+519
+00:48:39,147 --> 00:48:41,660
+Searle, verifique as áreas
+sociais e de acomodação.
+
+520
+00:48:42,305 --> 00:48:45,240
+Capa, vá para o depósito da carga.
+
+521
+00:48:45,608 --> 00:48:47,541
+Eu vou verificar o jardim.
+
+522
+00:48:47,914 --> 00:48:50,210
+<i>Vamos manter o contato, pessoal.</i>
+
+523
+00:49:26,278 --> 00:49:28,124
+Escutem todos.
+
+524
+00:49:29,055 --> 00:49:33,618
+Têm que ver isto. Sete anos de
+crescimento não monitorado.
+
+525
+00:49:33,999 --> 00:49:35,419
+<i>Conseguem ver?</i>
+
+526
+00:49:36,483 --> 00:49:39,595
+<i>É um ecossistema funcionando
+na perfeição!</i>
+
+527
+00:49:39,670 --> 00:49:42,062
+Estão vendo isto?
+Temos oxigênio, pessoal!
+
+528
+00:49:42,941 --> 00:49:45,307
+- É maravilhoso.
+- Oh, meu Deus.
+
+529
+00:49:45,382 --> 00:49:46,721
+<i>Corie, repare nas plantas.</i>
+
+530
+00:50:02,659 --> 00:50:04,761
+Que estranho.
+
+531
+00:50:04,947 --> 00:50:07,578
+Os subsistemas estão bem e
+os painéis solares também.
+
+532
+00:50:07,653 --> 00:50:11,497
+A nave deveria estar funcionado, mas não
+estou recebendo nada do computador de vôo.
+
+533
+00:50:18,195 --> 00:50:19,648
+Temos água.
+
+534
+00:50:22,845 --> 00:50:24,625
+Comida.
+
+535
+00:50:30,349 --> 00:50:31,999
+Não temos tripulação.
+
+536
+00:50:32,702 --> 00:50:33,827
+Não temos corpos.
+
+537
+00:50:40,971 --> 00:50:42,546
+Oh, meu Deus.
+
+538
+00:50:43,073 --> 00:50:45,138
+Mal consigo andar de tão
+densa que é.
+
+539
+00:50:49,217 --> 00:50:51,533
+<i>Sou o Pinbacker.</i>
+
+540
+00:50:54,095 --> 00:50:56,033
+<i>Comandante da Icarus I.</i>
+
+541
+00:50:59,815 --> 00:51:01,746
+<i>Abandonamos a nossa missão.</i>
+
+542
+00:51:02,847 --> 00:51:05,732
+<i>A nossa estrela está morrendo!</i>
+
+543
+00:51:07,098 --> 00:51:09,994
+<i>Toda a nossa ciência.</i>
+
+544
+00:51:11,306 --> 00:51:13,218
+<i>Todas as nossas esperanças.</i>
+
+545
+00:51:15,192 --> 00:51:17,753
+<i>Os nossos sonhos são tolices!</i>
+
+546
+00:51:19,141 --> 00:51:21,621
+<i>Diante disto,</i>
+
+547
+00:51:22,276 --> 00:51:23,859
+<i>nós somos,</i>
+
+548
+00:51:24,471 --> 00:51:27,465
+<i>pó, nada mais.</i>
+
+549
+00:51:28,515 --> 00:51:32,535
+<i>E a esse pó voltaremos.</i>
+
+550
+00:51:36,419 --> 00:51:42,108
+<i>Quando ele decide que devemos morrer,</i>
+
+551
+00:51:42,331 --> 00:51:44,941
+<i>não é nossa obrigação</i>
+
+552
+00:51:45,573 --> 00:51:47,767
+<i>desafiar Deus.</i>
+
+553
+00:51:51,660 --> 00:51:53,691
+Isto faz sentido para alguém?
+
+554
+00:51:53,721 --> 00:51:56,233
+A transmissão é
+de seis anos e meio atrás.
+
+555
+00:51:59,622 --> 00:52:02,538
+<i>Isso seria depois deles terem
+entrado na zona sem comunicações.</i>
+
+556
+00:52:02,613 --> 00:52:05,957
+Deve ter sido por volta do tempo em que
+deviam ter entregue a carga explosiva.
+
+557
+00:52:21,791 --> 00:52:24,009
+<i>A carga explosiva está operacional.</i>
+
+558
+00:52:24,648 --> 00:52:25,986
+Repita, Capa.
+
+559
+00:52:26,061 --> 00:52:29,036
+A carga explosiva está operacional.
+Está tudo bem.
+
+560
+00:52:30,017 --> 00:52:33,010
+É uma notícia ótima. Parece
+que temos aquilo pelo que viemos.
+
+561
+00:52:33,392 --> 00:52:36,087
+- Não, não temos.
+- Como, Mace?
+
+562
+00:52:36,901 --> 00:52:39,148
+Sei o que causou o
+pedido de socorro.
+
+563
+00:52:39,516 --> 00:52:42,519
+<i>É uma falha qualquer na refrigeração,
+o que significa que...</i>
+
+564
+00:52:42,594 --> 00:52:45,113
+<i>não interessa que o Capa
+tenha a sua carga.</i>
+
+565
+00:52:45,750 --> 00:52:48,525
+<i>Sem o computador principal,
+não podemos voar.</i>
+
+566
+00:52:49,541 --> 00:52:51,569
+<i>Foi sabotado.</i>
+
+567
+00:52:54,825 --> 00:52:57,193
+Nunca devíamos ter nos
+desviado da nossa missão.
+
+568
+00:53:14,248 --> 00:53:16,566
+Tenho algo a dizer...
+
+569
+00:53:18,329 --> 00:53:20,187
+sobre a tripulação.
+
+570
+00:53:39,852 --> 00:53:41,594
+O que aconteceu?
+
+571
+00:53:43,429 --> 00:53:45,804
+Tiveram uma revelação.
+
+572
+00:53:45,879 --> 00:53:47,671
+Viram a luz.
+
+573
+00:53:47,896 --> 00:53:49,968
+E queimaram.
+
+574
+00:53:50,043 --> 00:53:51,443
+Não me diga!
+
+575
+00:53:51,518 --> 00:53:54,640
+Desconfio que os filtros de observação
+foram completamente abertos.
+
+576
+00:53:54,715 --> 00:53:58,515
+Se não estivéssemos
+na sombra da Icarus II...
+
+577
+00:53:58,590 --> 00:54:00,168
+ficaríamos como eles.
+
+578
+00:54:00,203 --> 00:54:01,936
+São apenas emoções.
+
+579
+00:54:06,014 --> 00:54:08,276
+Icarus! Não desacople!
+Icarus!
+
+580
+00:54:12,907 --> 00:54:14,780
+Icarus, estabilize.
+
+581
+00:54:20,664 --> 00:54:21,684
+O que foi isto?
+
+582
+00:54:21,759 --> 00:54:23,998
+Voltem já para a câmara
+de despressurização.
+
+583
+00:54:28,499 --> 00:54:32,187
+<i>Temos um grave incidente.
+Estamos nos afastando de vocês.</i>
+
+584
+00:54:32,262 --> 00:54:35,159
+<i>- Repito, estamos nos afastando.
+- Vamos, abra!</i>
+
+585
+00:54:35,234 --> 00:54:36,840
+<i>Voltem para a câmara
+de despressurização.</i>
+
+586
+00:54:47,831 --> 00:54:48,350
+Cassie!
+
+587
+00:54:48,419 --> 00:54:50,964
+<i>A câmara de despressurização está
+desacoplando e não sabemos porquê.</i>
+
+588
+00:54:51,120 --> 00:54:53,675
+<i>A parte da Icarus I está
+totalmente destruída.</i>
+
+589
+00:54:53,750 --> 00:54:56,836
+<i>Posso manter a nossa posição, mas não
+vamos conseguir acoplar outra vez.</i>
+
+590
+00:54:57,367 --> 00:54:58,651
+<i>Tem outra coisa, rapazes.</i>
+
+591
+00:54:58,726 --> 00:55:01,565
+<i>Tem um brecha no casco. Posso vê-la.
+Estão perdendo atmosfera.</i>
+
+592
+00:55:01,996 --> 00:55:03,823
+Estamos perdidos.
+
+593
+00:55:04,328 --> 00:55:06,328
+Não, não estamos.
+
+594
+00:55:11,256 --> 00:55:13,170
+Pelo menos, um de nós não está.
+
+595
+00:55:30,543 --> 00:55:31,407
+O que aconteceu?
+
+596
+00:55:31,482 --> 00:55:35,061
+A câmara de despressurização está destruída.
+Só há um trage e o Capa ficou com ele.
+
+597
+00:55:42,707 --> 00:55:43,501
+Porquê o Capa?
+
+598
+00:55:43,576 --> 00:55:46,477
+- Porque nós somos de baixa prioridade.
+- Eu não sou de baixa prioridade.
+
+599
+00:55:46,552 --> 00:55:49,509
+É o oficial de comunicação numa
+nave que não tem meios de comunicação.
+
+600
+00:55:49,509 --> 00:55:50,856
+Sou o capitão!
+
+601
+00:55:51,187 --> 00:55:54,034
+A missão precisa de um
+capitão para mantê-la coesa.
+
+602
+00:55:54,527 --> 00:55:55,707
+Harvey...
+
+603
+00:55:55,782 --> 00:55:58,784
+O Capa é a única pessoa fora da Icarus
+capaz de operar a carga explosiva.
+
+604
+00:55:58,859 --> 00:56:01,451
+- Não há escolha.
+- Não. Não há escolha para você.
+
+605
+00:56:01,526 --> 00:56:04,014
+Capa, eu ordeno que tire esse traje.
+
+606
+00:56:07,578 --> 00:56:09,675
+Tire o traje!
+
+607
+00:56:12,722 --> 00:56:15,492
+É uma ordem direta.
+
+608
+00:56:18,067 --> 00:56:22,561
+Prometo que quando estiver a bordo da
+Icarus II farei tudo o que for possível...
+
+609
+00:56:22,636 --> 00:56:25,466
+Para quê?
+Para voltar com mais trages?
+
+610
+00:56:25,541 --> 00:56:27,194
+A câmara de despressurização
+está rasgada ao meio.
+
+611
+00:56:27,269 --> 00:56:30,133
+Assim que abrirmos a porta,
+como vamos repressurizar?
+
+612
+00:56:36,538 --> 00:56:37,694
+Cassie.
+
+613
+00:56:39,213 --> 00:56:40,363
+Diga.
+
+614
+00:56:40,398 --> 00:56:41,481
+<i>Escute...</i>
+
+615
+00:56:41,556 --> 00:56:43,618
+<i>Não podemos despressurizar para
+abrir a câmara para o Capa.</i>
+
+616
+00:56:43,693 --> 00:56:46,601
+<i>Portanto, a força do ar
+expelido vai expulsá-lo, certo?</i>
+
+617
+00:56:47,228 --> 00:56:48,048
+Certo.
+
+618
+00:56:48,123 --> 00:56:50,479
+<i>Se abrir a tua câmara,
+e alinharmos corretamente,</i>
+
+619
+00:56:50,554 --> 00:56:52,112
+<i>ele deslizará lá para dentro.</i>
+
+620
+00:56:53,406 --> 00:56:55,197
+E nós também.
+
+621
+00:56:57,515 --> 00:56:59,132
+Sem trajes?
+
+622
+00:56:59,854 --> 00:57:01,429
+Aproxime-se o máximo que puder.
+
+623
+00:57:01,504 --> 00:57:05,882
+- Vão ter 20 metros para percorrer.
+- A uma temperatura de -273º C.
+
+624
+00:57:07,174 --> 00:57:09,326
+Vai estar frio.
+
+625
+00:57:09,602 --> 00:57:11,355
+Mas vamos conseguir.
+
+626
+00:57:13,585 --> 00:57:15,625
+Alguém tem uma ideia melhor?
+
+627
+00:57:20,385 --> 00:57:22,098
+Entendido.
+
+628
+00:57:37,526 --> 00:57:39,062
+Mace.
+
+629
+00:57:39,498 --> 00:57:41,397
+Um problema.
+
+630
+00:57:41,901 --> 00:57:43,620
+O computador está desligado.
+
+631
+00:57:43,972 --> 00:57:46,915
+Um de nós vai ter que operar
+a porta manualmente...
+
+632
+00:57:47,790 --> 00:57:49,531
+da parte de dentro.
+
+633
+00:57:50,522 --> 00:57:52,539
+Merda!
+
+634
+00:57:54,497 --> 00:57:55,856
+Tem razão..
+
+635
+00:57:56,292 --> 00:57:59,693
+Seja como for,
+um de nós vai ficar para trás.
+
+636
+00:58:02,597 --> 00:58:05,183
+Estou vendo.
+Percebi.
+
+637
+00:58:05,258 --> 00:58:08,037
+Sou eu.
+É o que todos estão pensando?
+
+638
+00:58:11,015 --> 00:58:14,198
+Não, Harvey.
+Sou eu.
+
+639
+00:58:33,865 --> 00:58:35,526
+Está bem?
+
+640
+00:58:36,774 --> 00:58:38,148
+Capa...
+
+641
+00:58:38,537 --> 00:58:40,497
+somos apenas pó de estrelas.
+
+642
+00:58:53,175 --> 00:58:56,508
+<i>Mace, estamos alinhados.
+Está tudo a postos.</i>
+
+643
+00:59:01,691 --> 00:59:03,338
+Está pronto?
+
+644
+00:59:05,952 --> 00:59:08,537
+Muito bem.
+Só temos uma chance.
+
+645
+00:59:09,738 --> 00:59:11,855
+Cassie, está pronta?
+
+646
+00:59:11,930 --> 00:59:13,156
+- Pronta.
+- Harvey...
+
+647
+00:59:13,231 --> 00:59:16,444
+mantenha os olhos fechados
+e expire devagar.
+
+648
+00:59:16,519 --> 00:59:17,845
+Entendido.
+
+649
+00:59:21,500 --> 00:59:23,734
+Vamos lá!
+
+650
+00:59:56,813 --> 00:59:58,286
+Não!
+
+651
+01:00:07,977 --> 01:00:09,870
+<i>Detectada tripulação na
+câmara de despressurização.</i>
+
+652
+01:00:09,945 --> 01:00:12,240
+<i>Recomenda-se a selagem da porta
+exterior.</i>
+
+653
+01:00:12,315 --> 01:00:15,737
+<i>Perdi o Harvey. Perdi o Harvey!
+O Harvey se foi.</i>
+
+654
+01:00:15,812 --> 01:00:17,724
+<i>Detectada tripulação na
+câmara de despressurização.</i>
+
+655
+01:00:18,007 --> 01:00:21,045
+<i>Selando a porta exterior.</i>
+
+656
+01:00:28,310 --> 01:00:30,710
+<b>Trancada.
+Pressurizar.</b>
+
+657
+01:00:54,742 --> 01:00:56,418
+Respire, Mace.
+Respire!
+
+658
+01:00:56,493 --> 01:00:58,212
+- Minhas mãos! Minhas mãos!
+- Respire, Mace.
+
+659
+01:00:58,287 --> 01:00:59,134
+Capa?
+
+660
+01:00:59,209 --> 01:01:02,231
+Está bem, Mace. Respire.
+Respire.
+
+661
+01:01:19,669 --> 01:01:21,687
+- Capa, estás bem?
+- Sim.
+
+662
+01:01:22,138 --> 01:01:23,585
+Sim.
+
+663
+01:01:24,017 --> 01:01:25,793
+Vamos te tirar daí.
+
+664
+01:02:06,703 --> 01:02:08,226
+<i>Searle?</i>
+
+665
+01:02:08,776 --> 01:02:10,752
+<i>Vamos partir.</i>
+
+666
+01:02:14,934 --> 01:02:17,035
+<i>Vamos terminar a missão.</i>
+
+667
+01:02:18,662 --> 01:02:20,911
+<i>Estamos todos pensando em você,
+Searle.</i>
+
+668
+01:02:21,845 --> 01:02:23,346
+<i>Searle?</i>
+
+669
+01:02:24,120 --> 01:02:26,012
+<i>Vamos partir.</i>
+
+670
+01:02:31,561 --> 01:02:32,910
+<i>Te amamos.</i>
+
+671
+01:02:59,648 --> 01:03:04,801
+Verifiquei três vezes
+o arquivo de atividade da Icarus.
+
+672
+01:03:04,876 --> 01:03:06,971
+E o resultado é sempre o mesmo.
+
+673
+01:03:07,637 --> 01:03:11,665
+A menos que a Icarus esteja apagando os
+seus arquivos, não foi ela que fez.
+
+674
+01:03:11,749 --> 01:03:14,875
+E não havia nenhuma avaria
+no acoplamento da câmara.
+
+675
+01:03:14,950 --> 01:03:17,569
+O que significa que a câmara
+foi desacoplada manualmente.
+
+676
+01:03:19,066 --> 01:03:21,346
+A Cassie e eu estivemos
+sempre no centro de comando.
+
+677
+01:03:21,381 --> 01:03:23,615
+Eu estava com o Capa e com o Searle.
+
+678
+01:03:24,022 --> 01:03:27,573
+Acho que podemos assumir que
+não foi o Harvey.
+
+679
+01:03:27,608 --> 01:03:30,099
+O que nos deixa uma possibilidade.
+
+680
+01:03:31,139 --> 01:03:32,259
+O Trey.
+
+681
+01:03:32,334 --> 01:03:35,053
+O Trey está tão anestesiado que mal
+pode andar ou comer.
+
+682
+01:03:35,128 --> 01:03:38,755
+Dorme 23 horas por dia e se culpa
+por tudo que correu mal.
+
+683
+01:03:38,830 --> 01:03:40,551
+- Porque ele faria isso?
+- Não sabemos.
+
+684
+01:03:40,626 --> 01:03:43,612
+Mas há a possibilidade de ter sido
+ele e temos de levá-la a sério.
+
+685
+01:03:44,073 --> 01:03:46,026
+- Vamos drogá-lo ainda mais?
+- Isto...
+
+686
+01:03:46,396 --> 01:03:50,812
+não é apenas sobre a possibilidade dele
+ter sabotado a câmara de despressurização.
+
+687
+01:03:50,962 --> 01:03:52,707
+Há mais alguma coisa.
+
+688
+01:03:55,957 --> 01:04:00,062
+Quando o Searle e o Harvey morreram,
+perdemos dois para consumir oxigênio.
+
+689
+01:04:01,251 --> 01:04:03,124
+Com três pessoas...
+
+690
+01:04:03,124 --> 01:04:04,401
+<b>oxigênio - 21 Horas.</b>
+
+691
+01:04:04,401 --> 01:04:07,275
+teremos oxigênio para
+chegar ao ponto de entrega.
+
+692
+01:04:07,568 --> 01:04:09,780
+Pelo menos agora sabemos o
+que aconteceu na Icarus I.
+
+693
+01:04:09,855 --> 01:04:13,143
+- O mesmo que está acontecendo aqui.
+- Vai à merda, Capa!
+
+694
+01:04:13,218 --> 01:04:16,074
+O que quer que a gente lembre?
+A nossa humanidade perdida?
+
+695
+01:04:21,254 --> 01:04:23,160
+Eu faço.
+
+696
+01:04:23,851 --> 01:04:26,297
+Não vou passar a responsabilidade.
+
+697
+01:04:26,678 --> 01:04:28,203
+Como vai fazer?
+
+698
+01:04:29,817 --> 01:04:31,809
+Isso é entre mim e o Trey.
+
+699
+01:04:34,681 --> 01:04:37,754
+Desta vez, vamos votar.
+É preciso uma decisão unânime.
+
+700
+01:04:38,310 --> 01:04:40,717
+Vocês sabem qual é a minha opinião.
+
+701
+01:04:47,714 --> 01:04:49,302
+E a minha.
+
+702
+01:04:52,061 --> 01:04:53,871
+O que está perguntando?
+
+703
+01:04:54,691 --> 01:04:58,088
+Se a vida de um homem vale
+mais que o futuro da Humanidade?
+
+704
+01:05:02,183 --> 01:05:03,692
+Mate ele.
+
+705
+01:05:03,727 --> 01:05:05,088
+Cassie?
+
+706
+01:05:14,109 --> 01:05:17,246
+- Cassie.
+- Eu conheço o argumento.
+
+707
+01:05:17,319 --> 01:05:19,282
+Sei a lógica.
+
+708
+01:05:20,068 --> 01:05:24,121
+Você diz que precisa do meu voto.
+Eu digo que não pode ter.
+
+709
+01:05:33,055 --> 01:05:34,638
+O que fazemos?
+
+710
+01:05:40,472 --> 01:05:42,438
+Deus...
+
+711
+01:05:44,362 --> 01:05:46,591
+Sinto muito, Cassie.
+
+712
+01:05:52,004 --> 01:05:53,755
+Faça isso...
+
+713
+01:05:55,160 --> 01:05:57,078
+de alguma maneira...
+
+714
+01:05:57,508 --> 01:05:59,549
+de forma indolor.
+
+715
+01:07:01,710 --> 01:07:03,384
+Trey...
+
+716
+01:07:06,853 --> 01:07:08,850
+<i>Venham aqui todos!</i>
+
+717
+01:07:24,898 --> 01:07:27,755
+- Cortou os pulsos.
+- Ele assumiu a responsabilidade.
+
+718
+01:07:31,524 --> 01:07:33,570
+Todas estas mortes...
+
+719
+01:07:33,605 --> 01:07:34,869
+o Kaneda...
+
+720
+01:07:34,904 --> 01:07:38,632
+o Searle, o Harvey e o Trey.
+
+721
+01:07:39,531 --> 01:07:43,025
+Nenhuma delas teria ocorrido se
+não tivesses desviado a missão.
+
+722
+01:07:44,962 --> 01:07:47,727
+- O que quer que te diga?
+- Não quero que diga merda nenhuma!
+
+723
+01:07:47,802 --> 01:07:52,615
+Só quero que saiba que isto...
+te pertence.
+
+724
+01:07:55,145 --> 01:07:56,657
+Merda!
+
+725
+01:08:02,697 --> 01:08:03,996
+Merda!
+
+726
+01:08:15,832 --> 01:08:18,992
+Assim não, temos que limitar
+o nosso consumo de oxigênio.
+
+727
+01:08:51,668 --> 01:08:54,186
+- Icarus.
+- Sim, Capa?
+
+728
+01:08:54,261 --> 01:08:56,443
+Faça uma leitura biométrica
+de toda a tripulação,
+
+729
+01:08:56,489 --> 01:08:58,421
+verifique o consumo de oxigênio.
+
+730
+01:08:59,561 --> 01:09:01,005
+<i>verificando.</i>
+
+731
+01:09:01,718 --> 01:09:02,919
+Obrigado.
+
+732
+01:09:04,684 --> 01:09:06,708
+<i>Capa?</i>
+
+733
+01:09:06,783 --> 01:09:08,847
+- Sim?
+- Está morrendo.
+
+734
+01:09:08,879 --> 01:09:11,905
+- Toda a tripulação está morrendo.
+- Sabemos que estamos morrendo.
+
+735
+01:09:12,689 --> 01:09:15,814
+Desde que vivamos o suficiente
+para entregar a carga explosiva,
+
+736
+01:09:16,299 --> 01:09:18,461
+estaremos bem.
+- Capa?
+
+737
+01:09:18,486 --> 01:09:22,768
+<i>Atenção: vocês não viverão o suficiente
+para entregar a carga explosiva.</i>
+
+738
+01:09:25,625 --> 01:09:27,627
+Explique, por favor.
+
+739
+01:09:27,875 --> 01:09:31,540
+<i>12 horas até a tripulação deixar de ser
+capaz de realizar tarefas complexas.</i>
+
+740
+01:09:31,574 --> 01:09:35,080
+<i>14 horas até a tripulação deixar de
+ser capaz de realizar tarefas básicas.</i>
+
+741
+01:09:35,105 --> 01:09:36,613
+<i>16 horas até à morte.</i>
+
+742
+01:09:36,945 --> 01:09:39,003
+<i>Tempo de viagem até ao
+ponto de entrega: 19 horas.</i>
+
+743
+01:09:39,111 --> 01:09:41,657
+Tenho certeza que temos
+oxigênio suficiente...
+
+744
+01:09:41,699 --> 01:09:44,501
+para manter quatro tripulantes vivos.
+- Afirmativo.
+
+745
+01:09:44,576 --> 01:09:47,427
+- Quatro tripulantes podem sobreviver...
+- O Trey está morto.
+
+746
+01:09:47,502 --> 01:09:50,166
+Só há quatro pessoas na tripulação.
+- Negativo.
+
+747
+01:09:50,241 --> 01:09:52,954
+Afirmativo, Icarus. Quatro tripulantes
+O Mace, a Cassie, a Corazon e eu.
+
+748
+01:09:53,029 --> 01:09:54,965
+Cinco tripulantes.
+
+749
+01:10:00,244 --> 01:10:02,888
+- Icarus...
+- Sim?
+
+750
+01:10:06,078 --> 01:10:07,735
+Quem é o quinto tripulante?
+
+751
+01:10:08,057 --> 01:10:09,838
+Desconhecido.
+
+752
+01:10:12,216 --> 01:10:14,608
+Onde está o quinto tripulante?
+
+753
+01:10:14,683 --> 01:10:17,195
+<i>Na sala de observação.</i>
+
+754
+01:10:54,511 --> 01:10:56,772
+É um anjo?
+
+755
+01:10:59,337 --> 01:11:01,249
+A hora chegou?
+
+756
+01:11:04,802 --> 01:11:07,030
+Estou à espera há tanto tempo.
+
+757
+01:11:14,239 --> 01:11:15,725
+Quem é você?
+
+758
+01:11:17,611 --> 01:11:19,528
+Quem sou eu?
+
+759
+01:11:25,029 --> 01:11:27,441
+No final dos tempos...
+
+760
+01:11:27,902 --> 01:11:32,239
+chegará um momento em que
+apenas um homem restará.
+
+761
+01:11:33,731 --> 01:11:35,893
+E o momento vai passar.
+
+762
+01:11:37,902 --> 01:11:39,901
+E, então, teremos desaparecido.
+
+763
+01:11:42,665 --> 01:11:46,269
+Não haverá nada para provar
+que um dia estivemos aqui...
+
+764
+01:11:47,324 --> 01:11:49,236
+exceto o pó das estrelas.
+
+765
+01:11:51,487 --> 01:11:53,616
+O último homem...
+
+766
+01:11:53,739 --> 01:11:56,250
+sozinho com Deus.
+
+767
+01:11:58,904 --> 01:12:01,001
+Eu sou esse homem?
+
+768
+01:12:14,898 --> 01:12:16,613
+Meu Deus...
+
+769
+01:12:19,073 --> 01:12:20,624
+Meu Deus...
+
+770
+01:12:20,662 --> 01:12:22,278
+Pinbacker...
+
+771
+01:12:23,253 --> 01:12:25,825
+O seu Deus?
+
+772
+01:12:25,825 --> 01:12:27,599
+O meu!
+
+773
+01:12:39,985 --> 01:12:42,693
+Icarus, chame alguém.
+
+774
+01:12:58,304 --> 01:13:00,171
+Aqui!
+
+775
+01:13:07,985 --> 01:13:09,777
+<b>Trancada.</b>
+
+776
+01:13:52,506 --> 01:13:53,871
+Meu Deus...
+
+777
+01:13:55,092 --> 01:13:56,359
+Icarus.
+
+778
+01:14:02,393 --> 01:14:05,068
+<i>Atenção: você não tem
+autoridade para remover</i>
+
+779
+01:14:05,104 --> 01:14:07,650
+<i>os painéis do computador principal
+do sistema de refrigeração.</i>
+
+780
+01:14:07,680 --> 01:14:10,060
+<i>Por favor, coloque novamente os
+painéis no sistema de refrigeração.</i>
+
+781
+01:14:10,323 --> 01:14:13,666
+<i>Não consigo localizar os
+seus sinais biométricos...</i>
+
+782
+01:14:13,701 --> 01:14:17,557
+<i><b>TEMPERATURA MÁXIMA EXCEDIDA
+- Por favor, identifique-se.</b></i>
+
+783
+01:14:39,269 --> 01:14:41,294
+Está brincando.
+
+784
+01:14:58,177 --> 01:14:59,925
+Meu Deus...
+
+785
+01:15:08,153 --> 01:15:10,385
+Um bebé.
+
+786
+01:15:11,525 --> 01:15:13,154
+Temos um bebé.
+
+787
+01:15:13,825 --> 01:15:17,351
+Icarus, me liga com o Mace.
+Tenho algo maravilhoso para lhe mostrar.
+
+788
+01:15:17,875 --> 01:15:19,941
+Ou à Cassie, ou ao Capa.
+
+789
+01:15:20,888 --> 01:15:22,764
+Icarus?
+
+790
+01:15:27,281 --> 01:15:29,122
+Não resista.
+
+791
+01:15:30,429 --> 01:15:32,098
+Não resista.
+
+792
+01:15:58,630 --> 01:16:00,310
+<b>Destrancada.</b>
+
+793
+01:16:00,310 --> 01:16:02,558
+<b>Tranca manual.</b>
+
+794
+01:16:03,052 --> 01:16:04,309
+Mace!
+
+795
+01:16:38,598 --> 01:16:40,303
+Capa?
+
+796
+01:16:41,081 --> 01:16:44,029
+Mais alguém não consegue
+obter resposta da Icarus?
+
+797
+01:16:45,972 --> 01:16:48,067
+Alguém?
+
+798
+01:17:02,422 --> 01:17:03,895
+Capa?
+
+799
+01:17:32,333 --> 01:17:34,533
+Icarus, por que
+estamos em órbita?
+
+800
+01:17:37,230 --> 01:17:38,628
+Responda!
+
+801
+01:17:41,682 --> 01:17:44,160
+O quê?
+Jesus Cristo!
+
+802
+01:17:44,707 --> 01:17:46,738
+Capa! Capa!
+
+803
+01:17:49,767 --> 01:17:52,279
+<i>No traje, use o comunicador...</i>
+
+804
+01:17:52,620 --> 01:17:54,306
+<i>no capacete.</i>
+
+805
+01:17:54,381 --> 01:17:55,631
+Mace?
+
+806
+01:17:59,052 --> 01:18:00,450
+<i>Que diabos está acontecendo?</i>
+
+807
+01:18:00,462 --> 01:18:02,461
+Porque estamos em órbita?
+Não consigo falar com a Icarus.
+
+808
+01:18:02,496 --> 01:18:04,341
+<i>O Pinbacker está a bordo.</i>
+
+809
+01:18:04,378 --> 01:18:07,697
+<i>Está tentando parar a missão.
+Está tentando destruir a missão.</i>
+
+810
+01:18:07,719 --> 01:18:09,270
+<i>Está louco.</i>
+
+811
+01:18:20,087 --> 01:18:22,281
+<i>Mace, escute. Estou preso
+na câmara de descompressão.</i>
+
+812
+01:18:22,314 --> 01:18:25,187
+Jesus Cristo. O computador principal
+está fora do sistema de refrigeração.
+
+813
+01:18:30,540 --> 01:18:33,597
+O mecanismo não está estável!
+Não consigo carregar os painéis!
+
+814
+01:18:34,423 --> 01:18:36,686
+Mace, repita por favor.
+Repita!
+
+815
+01:18:37,655 --> 01:18:39,458
+A Icarus vai queimar.
+
+816
+01:18:43,091 --> 01:18:45,100
+Mace?
+Mace, responda.
+
+817
+01:20:55,924 --> 01:20:57,445
+Merda!
+
+818
+01:21:01,533 --> 01:21:03,051
+<b>CARGA TRANCADA
+CARGA DESTRANCADA</b>
+
+819
+01:21:12,600 --> 01:21:13,950
+Capa.
+
+820
+01:21:14,767 --> 01:21:16,029
+- Capa?
+- Mace?
+
+821
+01:21:16,124 --> 01:21:18,783
+Estamos em órbita.
+O computador está desligado.
+
+822
+01:21:19,138 --> 01:21:22,096
+<i>Não sei se consigo
+ligá-lo de novo.</i>
+
+823
+01:21:22,674 --> 01:21:26,377
+<i>Você tem que nos tirar de
+órbita manualmente.</i>
+
+824
+01:21:26,418 --> 01:21:29,410
+<i>A única forma de fazer isso é
+separando a carga explosiva.</i>
+
+825
+01:21:29,444 --> 01:21:31,027
+Entendeu, Capa?
+
+826
+01:21:31,284 --> 01:21:33,130
+<i>Lançar a bomba para o Sol.</i>
+
+827
+01:21:34,635 --> 01:21:36,154
+Separar a carga explosiva.
+
+828
+01:21:36,339 --> 01:21:38,665
+Você tem que chegar à bomba e...
+
+829
+01:21:38,829 --> 01:21:41,243
+detoná-la manualmente
+a partir do console.
+
+830
+01:21:41,298 --> 01:21:43,809
+Estou trancado na câmara!
+
+831
+01:21:43,809 --> 01:21:47,287
+Não sei como, mas isso.
+
+832
+01:21:48,264 --> 01:21:49,492
+<i>Certo.</i>
+
+833
+01:21:49,567 --> 01:21:52,096
+<i>Vou fazer.</i>
+
+834
+01:21:53,265 --> 01:21:55,136
+Entendido, Mace.
+
+835
+01:21:56,235 --> 01:21:57,775
+Entendido.
+
+836
+01:22:52,427 --> 01:22:53,595
+Capa!
+
+837
+01:22:53,785 --> 01:22:55,596
+<b>- Faça-o!
+Temperatura máxima excedida.</b>
+
+838
+01:23:09,068 --> 01:23:10,521
+Oh, Deus.
+
+839
+01:23:18,127 --> 01:23:20,038
+Faça-o, Capa!
+
+840
+01:23:25,107 --> 01:23:26,526
+Faça-o!
+
+841
+01:23:33,241 --> 01:23:34,540
+Mace?
+
+842
+01:26:28,024 --> 01:26:31,144
+<b>Procedimento para
+Separação de Emergência</b>
+
+843
+01:26:41,356 --> 01:26:43,241
+<b>IGNIÇÃO DOS PROPULSORES
+DA CARGA EXPLOSIVA</b>
+
+844
+01:27:39,208 --> 01:27:41,687
+<b>IGNIÇÃO DOS PROPULSORES
+DA CARGA EXPLOSIVA</b>
+
+845
+01:29:00,571 --> 01:29:02,700
+<i>O único sonho que alguma vez tive.</i>
+
+846
+01:29:02,944 --> 01:29:04,912
+<i>Era a superfície do sol?</i>
+
+847
+01:29:05,869 --> 01:29:09,277
+<i>Cada vez que fecho os olhos
+é sempre a mesma coisa.</i>
+
+848
+01:30:29,839 --> 01:30:31,586
+<b>CARGA TRANCADA
+CARGA DESTRANCADA</b>
+
+849
+01:31:05,818 --> 01:31:07,150
+Cassie?
+
+850
+01:31:15,753 --> 01:31:16,856
+Cassie?
+
+851
+01:31:17,922 --> 01:31:19,767
+Estamos voando em direcção ao Sol.
+
+852
+01:31:22,709 --> 01:31:25,536
+Cassie, não há muito tempo.
+Preciso saber, onde está ele?
+
+853
+01:31:25,611 --> 01:31:27,010
+Está aqui.
+
+854
+01:31:32,329 --> 01:31:36,887
+Durante sete anos,
+falei com Deus.
+
+855
+01:31:43,491 --> 01:31:47,706
+Ele me mandou levar
+todos nós para o céu.
+
+856
+01:32:36,270 --> 01:32:38,134
+Acabe com isto.
+
+857
+01:34:07,023 --> 01:34:09,852
+Por favor.
+
+858
+01:35:56,669 --> 01:35:59,497
+<i>Olá, mana...</i>
+
+859
+01:35:59,904 --> 01:36:02,304
+<i>Dá um beijo nos meninos.</i>
+
+860
+01:36:10,362 --> 01:36:12,378
+Vamos embora, rapazes.
+
+861
+01:36:12,426 --> 01:36:14,347
+Está na hora.
+
+862
+01:36:19,461 --> 01:36:23,252
+<i>Se acordarem um dia de manhã,
+e o dia estiver particularmente bonito...</i>
+
+863
+01:36:23,632 --> 01:36:25,413
+<i>...saberão que conseguimos.</i>
+
+864
+01:36:29,500 --> 01:36:31,416
+<i>Vou desligar.</i>
+
+865
+01:36:57,033 --> 01:36:59,880
+<i>Legendas por Jiloh</i>

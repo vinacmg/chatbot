@@ -1,0 +1,7468 @@
+1
+00:00:22,156 --> 00:00:24,656
+<b><i>Equipe inSanos
+apresenta</i></b>
+
+2
+00:00:25,157 --> 00:00:27,656
+<b><i>Legenda
+mychael.ds</i></b>
+
+3
+00:00:27,657 --> 00:00:30,156
+<b><i>Legenda
+GabeOKane²</i></b>
+
+4
+00:00:30,157 --> 00:00:32,656
+<b><i>Legenda
+Matvix²</i></b>
+
+5
+00:00:32,657 --> 00:00:35,156
+<b><i>Legenda
+GGoedert</i></b>
+
+6
+00:00:35,157 --> 00:00:37,656
+<b><i>Legenda
+Satsuki</i></b>
+
+7
+00:00:37,657 --> 00:00:40,156
+<b><i>Legenda
+LikaPoetisa³</i></b>
+
+8
+00:00:40,157 --> 00:00:42,656
+<b><i>Legenda
+Btarth</i></b>
+
+9
+00:00:42,657 --> 00:00:45,156
+<b><i>Legenda
+LucyLo</i></b>
+
+10
+00:00:45,157 --> 00:00:47,656
+<b><i>Revisão
+DSergio</i></b>
+
+11
+00:00:53,606 --> 00:00:57,214
+<i>Controle de Solo
+para o major Tom</i>
+
+12
+00:01:00,226 --> 00:01:04,531
+<i>Começando contagem regressiva,
+motores ligados</i>
+
+13
+00:01:07,712 --> 00:01:09,492
+<i>Cheque a ignição</i>
+
+14
+00:01:09,493 --> 00:01:14,486
+<i>E que o amor de Deus
+esteja com você</i>
+
+15
+00:01:25,051 --> 00:01:29,842
+<i>Aqui é o Controle de Solo
+para o major Tom</i>
+
+16
+00:01:29,843 --> 00:01:33,558
+<i>Você realmente teve sucesso</i>
+
+17
+00:01:34,887 --> 00:01:38,071
+<i>E os jornais querem saber</i>
+
+18
+00:01:38,072 --> 00:01:40,725
+<i>De quem são as camisetas
+que você usa</i>
+
+19
+00:01:41,923 --> 00:01:44,233
+<i>Agora é a hora de sair</i>
+
+20
+00:01:44,234 --> 00:01:47,817
+<i>Da cápsula se tiver coragem</i>
+
+21
+00:01:49,780 --> 00:01:54,185
+<i>Aqui é o major Tom
+para o Controle de Solo</i>
+
+22
+00:01:54,186 --> 00:01:58,246
+<i>Estou passando pela porta</i>
+
+23
+00:01:59,550 --> 00:02:05,532
+<i>E estou flutuando
+no jeito mais peculiar</i>
+
+24
+00:02:06,623 --> 00:02:08,551
+<i>E as estrelas parecem</i>
+
+25
+00:02:08,552 --> 00:02:13,108
+<i>Muito diferentes hoje</i>
+
+26
+00:02:14,115 --> 00:02:17,119
+<i>Agora</i>
+
+27
+00:02:17,120 --> 00:02:20,799
+<i>Estou sentado
+em uma lata</i>
+
+28
+00:02:21,300 --> 00:02:27,287
+<i>Bem acima do mundo</i>
+
+29
+00:02:28,741 --> 00:02:31,205
+<i>O Planeta Terra é azul</i>
+
+30
+00:02:31,206 --> 00:02:37,197
+<i>E não há nada
+que eu possa fazer</i>
+
+31
+00:02:58,092 --> 00:03:02,967
+<i>Embora eu tenha ultrapassado
+cem mil milhas</i>
+
+32
+00:03:02,968 --> 00:03:06,549
+<i>Estou me sentindo bem calmo</i>
+
+33
+00:03:07,753 --> 00:03:10,359
+<i>E eu acho que
+minha nave espacial</i>
+
+34
+00:03:10,360 --> 00:03:13,517
+<i>Sabe para onde ir</i>
+
+35
+00:03:14,714 --> 00:03:18,449
+<i>Diga para minha mulher
+que eu a amo muito</i>
+
+36
+00:03:18,450 --> 00:03:20,891
+<i>Ela sabe</i>
+
+37
+00:03:22,504 --> 00:03:25,459
+<i>Controle de Solo
+para major Tom</i>
+
+38
+00:03:25,460 --> 00:03:27,445
+<i>Seu circuito pifou</i>
+
+39
+00:03:27,446 --> 00:03:29,127
+<i>Há algo errado</i>
+
+40
+00:03:29,128 --> 00:03:32,000
+<i>Pode me ouvir, major Tom?</i>
+
+41
+00:03:32,601 --> 00:03:35,535
+<i>Pode me ouvir, major Tom?</i>
+
+42
+00:03:36,091 --> 00:03:38,895
+<i>Você pode ouvir...</i>
+
+43
+00:03:38,896 --> 00:03:42,481
+<i>Aqui estou flutuando
+em volta da minha lata</i>
+
+44
+00:03:43,543 --> 00:03:48,826
+<i>Bem acima da Lua</i>
+
+45
+00:03:50,430 --> 00:03:53,051
+<i>O Planeta Terra é azul</i>
+
+46
+00:03:53,052 --> 00:03:58,975
+<i>E não há nada
+que eu possa fazer</i>
+
+47
+00:04:00,172 --> 00:04:02,971
+<i>A parte exterior
+da estação espacial</i>
+
+48
+00:04:02,972 --> 00:04:05,720
+<i>está atingindo seu tamanho
+máximo em órbita.</i>
+
+49
+00:04:05,721 --> 00:04:10,564
+<i>Seu peso e tamanho podem
+se tornar uma ameaça à Terra.</i>
+
+50
+00:04:11,848 --> 00:04:13,148
+<i>Em sua vasta sabedoria,</i>
+
+51
+00:04:13,149 --> 00:04:16,652
+<i>o Comitê Central decidiu usar
+todos os recursos necessários</i>
+
+52
+00:04:16,653 --> 00:04:20,237
+<i>para tirar a estação espacial
+da gravidade da Terra.</i>
+
+53
+00:04:22,250 --> 00:04:25,635
+<i>Seu novo destino é
+a Corrente de Magalhães.</i>
+
+54
+00:04:25,636 --> 00:04:27,735
+<i>Como o grande explorador
+Fernão Magalhães,</i>
+
+55
+00:04:27,736 --> 00:04:31,678
+<i>a estação Alfa
+navegará para o desconhecido,</i>
+
+56
+00:04:32,174 --> 00:04:35,156
+<i>como um símbolo de nossos
+valores e conhecimentos.</i>
+
+57
+00:04:35,157 --> 00:04:38,180
+<i>Carregará uma mensagem
+de paz e união</i>
+
+58
+00:04:38,181 --> 00:04:40,712
+<i>para os lugares mais distantes
+do universo.</i>
+
+59
+00:04:41,013 --> 00:04:44,186
+<i>Nossos pensamentos e preces
+estarão com ela.</i>
+
+60
+00:04:44,187 --> 00:04:48,012
+Deus o abençoe e boa sorte.
+
+61
+00:04:59,356 --> 00:05:04,256
+VALERIAN
+E A CIDADE DOS MIL PLANETAS
+
+62
+00:05:10,121 --> 00:05:13,553
+400 ANOS DEPOIS
+
+63
+00:05:20,765 --> 00:05:25,641
+PLANETA MÜL
+CONSTELAÇÃO QN34
+
+64
+00:08:00,707 --> 00:08:03,311
+<i>Assim devolvemos à natureza</i>
+
+65
+00:08:03,312 --> 00:08:05,555
+<i>o que ela nos deu.</i>
+
+66
+00:08:13,456 --> 00:08:16,552
+<i>Dê essa pérola a minha filha,
+Princesa Lïho.</i>
+
+67
+00:11:00,223 --> 00:11:01,701
+<i>Papai!</i>
+
+68
+00:11:42,502 --> 00:11:43,922
+<i>Está quebrada.</i>
+
+69
+00:12:48,017 --> 00:12:50,571
+- Você está bem?
+- Sim. Foi só...
+
+70
+00:12:51,264 --> 00:12:52,574
+um pesadelo.
+
+71
+00:12:53,641 --> 00:12:54,941
+Não.
+
+72
+00:12:57,487 --> 00:12:58,787
+Mas sinto-me melhor agora.
+
+73
+00:12:58,788 --> 00:13:00,910
+Não deveríamos discutir
+nossa missão?
+
+74
+00:13:00,911 --> 00:13:02,900
+É a última coisa
+que quero fazer.
+
+75
+00:13:04,594 --> 00:13:06,335
+Não é muito profissional,
+major.
+
+76
+00:13:06,336 --> 00:13:09,730
+Olha só. Gabaritei
+meu último teste de memória.
+
+77
+00:13:09,731 --> 00:13:11,031
+Impressionante.
+
+78
+00:13:11,032 --> 00:13:14,068
+Infelizmente, esqueceu
+de algo bem importante hoje.
+
+79
+00:13:14,896 --> 00:13:17,095
+- E o que é?
+- Meu aniversário.
+
+80
+00:13:22,415 --> 00:13:24,330
+O que posso fazer
+para compensá-la?
+
+81
+00:13:24,331 --> 00:13:26,519
+<i>Iniciando descida
+em 3 minutos.</i>
+
+82
+00:13:27,992 --> 00:13:30,301
+Nada que consiga fazer
+em 3 minutos.
+
+83
+00:13:33,083 --> 00:13:34,467
+- Fala sério.
+- Não comece
+
+84
+00:13:34,468 --> 00:13:36,041
+o que não pode terminar.
+
+85
+00:13:36,042 --> 00:13:38,720
+<i>Aterrissando no Planeta Kyrian
+em 5 minutos.</i>
+
+86
+00:13:38,721 --> 00:13:40,021
+Desculpe.
+
+87
+00:13:40,600 --> 00:13:41,900
+Olha só,
+
+88
+00:13:41,901 --> 00:13:43,911
+sente atração por mim,
+não negue o óbvio.
+
+89
+00:13:43,912 --> 00:13:45,412
+- É óbvio assim?
+- Sim, claro.
+
+90
+00:13:45,413 --> 00:13:47,811
+Garotas certinhas
+e de boa educação
+
+91
+00:13:47,812 --> 00:13:50,176
+gostam de aventureiros espaciais
+como eu.
+
+92
+00:13:50,177 --> 00:13:51,777
+Minha educação ensinou-me
+
+93
+00:13:51,778 --> 00:13:54,176
+a ficar longe de caras
+como você.
+
+94
+00:13:54,177 --> 00:13:56,785
+Você não vai achar nada melhor
+do que eu por aí.
+
+95
+00:13:56,786 --> 00:13:58,882
+Dê uma boa olhada.
+
+96
+00:13:58,883 --> 00:14:01,540
+- Bonito. Inteligente.
+- Modesto.
+
+97
+00:14:01,541 --> 00:14:02,841
+- Corajoso.
+- Suicida.
+
+98
+00:14:02,842 --> 00:14:04,488
+- Determinado.
+- Arrogante.
+
+99
+00:14:04,489 --> 00:14:06,441
+- Fiel.
+- A você mesmo.
+
+100
+00:14:06,442 --> 00:14:08,541
+Sim, e a você.
+Você é minha parceira.
+
+101
+00:14:08,542 --> 00:14:10,255
+É. Não esqueça disso.
+
+102
+00:14:11,182 --> 00:14:12,482
+Olha só.
+
+103
+00:14:12,483 --> 00:14:14,830
+Por que pensa com o coração
+e não com a cabeça?
+
+104
+00:14:14,831 --> 00:14:17,385
+Não quero ser outro nome
+na sua lista de conquistas.
+
+105
+00:14:17,386 --> 00:14:19,044
+- Obrigada.
+- Do que está falando?
+
+106
+00:14:19,045 --> 00:14:21,334
+Alex, podemos mostrar
+a lista dele, por favor?
+
+107
+00:14:21,335 --> 00:14:22,880
+Não, não, não.
+
+108
+00:14:23,276 --> 00:14:25,709
+São só fotos
+de colegas de trabalho.
+
+109
+00:14:25,710 --> 00:14:27,010
+Colegas de trabalho?
+
+110
+00:14:27,011 --> 00:14:29,365
+Certo. Então,
+onde está a minha foto?
+
+111
+00:14:29,366 --> 00:14:31,039
+Não significam nada
+para mim.
+
+112
+00:14:31,040 --> 00:14:32,988
+Cometi alguns erros
+quando mais novo.
+
+113
+00:14:32,989 --> 00:14:34,619
+O último não faz
+muito tempo.
+
+114
+00:14:34,620 --> 00:14:37,063
+Mas com você é diferente.
+E você sabe disso.
+
+115
+00:14:37,453 --> 00:14:40,174
+Quero que meu coração seja seu
+e de mais ninguém.
+
+116
+00:14:40,175 --> 00:14:44,706
+Meu coração pertencerá ao homem
+que apague essa lista por mim.
+
+117
+00:14:46,957 --> 00:14:48,513
+É disso que estou falando.
+
+118
+00:14:50,130 --> 00:14:51,571
+Eu sou esse homem.
+
+119
+00:14:52,626 --> 00:14:56,143
+Olha só. Nós dois sabemos
+que você é bem charmoso.
+
+120
+00:14:56,144 --> 00:14:59,498
+Então por que perde o interesse
+numa garota quando a conquista?
+
+121
+00:14:59,499 --> 00:15:01,856
+Porque procuro
+pela mulher perfeita.
+
+122
+00:15:01,857 --> 00:15:04,105
+Mas você nunca parou
+para procurar.
+
+123
+00:15:04,106 --> 00:15:05,795
+Isso não é um crime.
+
+124
+00:15:05,796 --> 00:15:07,933
+Não, não é um crime.
+
+125
+00:15:07,934 --> 00:15:11,400
+Mas admita.
+Tem medo de compromisso.
+
+126
+00:15:12,235 --> 00:15:14,287
+Eu?
+Com medo de compromisso?
+
+127
+00:15:14,288 --> 00:15:15,733
+Está brincando comigo?
+
+128
+00:15:15,734 --> 00:15:17,963
+Nove anos de serviço.
+
+129
+00:15:17,964 --> 00:15:19,768
+Histórico impecável.
+
+130
+00:15:19,769 --> 00:15:21,536
+Sete medalhas de honra.
+
+131
+00:15:21,537 --> 00:15:24,596
+- Nunca perdi um parceiro.
+- Até agora.
+
+132
+00:15:24,597 --> 00:15:26,173
+<i>Reabastecimento completo.</i>
+
+133
+00:15:29,708 --> 00:15:31,292
+Alex,
+já inseriu as coordenadas?
+
+134
+00:15:31,293 --> 00:15:34,740
+<i>Tomei a liberdade, para poderem
+aproveitar mais a praia.</i>
+
+135
+00:15:34,741 --> 00:15:37,078
+- Obrigada.
+<i>- Às ordens.</i>
+
+136
+00:15:37,079 --> 00:15:39,587
+<i>Estarão deixando o exoespaço
+em 30 segundos.</i>
+
+137
+00:15:39,588 --> 00:15:41,198
+- Quer aterrissar?
+- Pode ser.
+
+138
+00:15:41,199 --> 00:15:43,621
+Alex, veja minha memória
+nos últimos 10 minutos.
+
+139
+00:15:43,622 --> 00:15:45,022
+Tive um sonho estranho.
+
+140
+00:15:46,810 --> 00:15:48,522
+Viu algo incomum?
+
+141
+00:15:48,523 --> 00:15:51,828
+<i>Sua atividade cerebral está
+mais intensa do que o normal.</i>
+
+142
+00:15:51,829 --> 00:15:54,016
+<i>Você recebeu ondas externas.</i>
+
+143
+00:15:54,017 --> 00:15:55,317
+Explique.
+
+144
+00:15:55,318 --> 00:15:57,404
+<i>Essas ondas não vêm
+da sua memória.</i>
+
+145
+00:15:57,405 --> 00:15:59,566
+<i>Alguém enviou
+as imagens a você.</i>
+
+146
+00:15:59,567 --> 00:16:00,986
+Você sabe quem ou de onde?
+
+147
+00:16:00,987 --> 00:16:04,143
+<i>Negativo. Podem ter vindo
+do presente ou do futuro</i>
+
+148
+00:16:04,144 --> 00:16:05,933
+<i>e de qualquer lugar
+do universo.</i>
+
+149
+00:16:05,934 --> 00:16:07,723
+Deixando o exoespaço.
+
+150
+00:16:07,724 --> 00:16:11,424
+<i>3, 2, 1.
+Saída.</i>
+
+151
+00:16:18,995 --> 00:16:20,338
+PLANETA KYRIAN
+
+152
+00:16:20,339 --> 00:16:23,093
+PLANETA KYRIAN
+CONSTELAÇÃO JR24
+
+153
+00:16:25,938 --> 00:16:27,447
+- Devagar.
+- Estamos atrasados.
+
+154
+00:16:27,448 --> 00:16:29,037
+Melhor atrasados
+do que mortos.
+
+155
+00:16:29,038 --> 00:16:30,727
+- Quer dirigir?
+- O quê?
+
+156
+00:16:30,728 --> 00:16:32,617
+Mantenha as mãos
+no controle.
+
+157
+00:16:32,618 --> 00:16:35,081
+Laureline, mantenha as mãos
+no controle.
+
+158
+00:16:35,897 --> 00:16:38,524
+Laureline, pode, por favor,
+pôr as mãos no controle?
+
+159
+00:16:38,525 --> 00:16:39,999
+Não reclame
+da minha direção.
+
+160
+00:16:40,000 --> 00:16:43,345
+Sim, desculpe. Você é ótima,
+a melhor motorista do universo.
+
+161
+00:16:43,346 --> 00:16:44,735
+Obrigada.
+
+162
+00:16:55,630 --> 00:16:57,847
+<i>- Intercom ativado.</i>
+- Obrigado.
+
+163
+00:16:57,848 --> 00:17:00,342
+Aterrissaremos em Kyrian
+em 2 minutos.
+
+164
+00:17:00,732 --> 00:17:02,370
+<i>Ministro na linha.</i>
+
+165
+00:17:03,730 --> 00:17:05,963
+<i>- Senhor.
+- Agentes Valerian e Laureline.</i>
+
+166
+00:17:05,964 --> 00:17:07,829
+<i>Acredito que tenham
+estudado a missão.</i>
+
+167
+00:17:07,830 --> 00:17:09,830
+<i>Quando aterrissarem,
+resgatem o Conversor</i>
+
+168
+00:17:09,831 --> 00:17:12,576
+<i>e tragam para Alfa
+para um missão supersecreta.</i>
+
+169
+00:17:12,577 --> 00:17:15,060
+<i>O Conversor
+é o último da espécie dele,</i>
+
+170
+00:17:15,061 --> 00:17:16,898
+<i>- contamos com vocês.</i>
+- Sim, senhor.
+
+171
+00:17:16,899 --> 00:17:18,686
+<i>O Capitão Gibson
+dará mais detalhes.</i>
+
+172
+00:17:18,687 --> 00:17:21,174
+<i>E por favor,
+coloquem roupas mais adequadas.</i>
+
+173
+00:17:21,175 --> 00:17:23,446
+Boa ideia.
+Saindo do modo manual.
+
+174
+00:17:23,447 --> 00:17:25,136
+<i>Controle manual desativado.</i>
+
+175
+00:17:27,002 --> 00:17:29,076
+<i>Intercom ativado.</i>
+
+176
+00:17:31,098 --> 00:17:33,286
+Lá vem eles.
+Intruder 980.
+
+177
+00:17:33,287 --> 00:17:35,030
+Verifique os parâmetros.
+
+178
+00:17:35,404 --> 00:17:38,079
+Duas pessoas a bordo.
+Sem parasitas.
+
+179
+00:17:57,730 --> 00:17:59,032
+Onde está a banda?
+
+180
+00:17:59,033 --> 00:18:01,117
+Planejam ir à missão
+vestidos assim?
+
+181
+00:18:01,118 --> 00:18:03,212
+Não devemos parecer
+com turistas?
+
+182
+00:18:03,213 --> 00:18:05,216
+O que esperava?
+Uma fantasia de panda?
+
+183
+00:18:05,217 --> 00:18:06,606
+Belo chapéu.
+
+184
+00:18:17,801 --> 00:18:19,605
+Major,
+essa é uma operação rápida.
+
+185
+00:18:19,606 --> 00:18:21,730
+Entrar no mercado,
+achar a loja do suspeito
+
+186
+00:18:21,731 --> 00:18:23,257
+e juntar-se
+ao Sargento Cooper.
+
+187
+00:18:23,258 --> 00:18:24,759
+Só trabalho
+com minha parceira.
+
+188
+00:18:24,760 --> 00:18:26,430
+- Olá.
+- Somos uma equipe.
+
+189
+00:18:26,431 --> 00:18:29,238
+A sargento Laureline chegará
+em exatos 20 min,
+
+190
+00:18:29,239 --> 00:18:31,428
+o que te dará 10s
+para fazer a troca.
+
+191
+00:18:31,429 --> 00:18:33,331
+Você leu o memorando?
+
+192
+00:18:33,901 --> 00:18:35,450
+Li.
+
+193
+00:18:35,451 --> 00:18:37,540
+- É claro.
+- Melhor que tenha lido.
+
+194
+00:18:41,754 --> 00:18:45,002
+Que tal darmos
+uma última olhada no memorando?
+
+195
+00:18:45,003 --> 00:18:46,865
+Não pode fazer mal.
+
+196
+00:19:08,629 --> 00:19:10,597
+Acha que sobrevive
+20 minutos sem mim?
+
+197
+00:19:10,598 --> 00:19:12,887
+Como seria possível?
+
+198
+00:19:12,888 --> 00:19:15,278
+Vá logo.
+Tome cuidado.
+
+199
+00:19:15,279 --> 00:19:17,831
+Você tem razão.
+
+200
+00:19:17,832 --> 00:19:21,291
+Esqueci completamente.
+Tenho uma pergunta para você.
+
+201
+00:19:22,039 --> 00:19:23,339
+Manda ver.
+
+202
+00:19:24,407 --> 00:19:25,715
+O que foi?
+
+203
+00:19:28,189 --> 00:19:29,725
+Casa comigo?
+
+204
+00:19:30,317 --> 00:19:32,954
+- Não é engraçado.
+- Laureline, é sério.
+
+205
+00:19:33,885 --> 00:19:36,007
+Pensei no que disse
+mais cedo e está certa,
+
+206
+00:19:36,008 --> 00:19:37,428
+preciso me jogar de cabeça.
+
+207
+00:19:37,429 --> 00:19:40,204
+- Preciso me comprometer.
+- Aqui, simples assim?
+
+208
+00:19:40,205 --> 00:19:41,918
+Por que não?
+Há tanta coisa aqui,
+
+209
+00:19:41,919 --> 00:19:44,836
+deve ter também um padre
+que aceitaria nos ajudar.
+
+210
+00:19:47,297 --> 00:19:48,697
+Vá.
+
+211
+00:19:52,350 --> 00:19:53,990
+Certo, vamos nessa.
+
+212
+00:20:18,404 --> 00:20:20,340
+<i>Lembramos
+que se quiserem aproveitar</i>
+
+213
+00:20:20,341 --> 00:20:22,041
+<i>a experiência
+do Mercado Principal,</i>
+
+214
+00:20:22,042 --> 00:20:24,504
+<i>devem colocar
+o equipamento disponível.</i>
+
+215
+00:20:24,505 --> 00:20:25,894
+<i>Obrigado.</i>
+
+216
+00:20:32,049 --> 00:20:33,368
+Sejam todos bem-vindos!
+
+217
+00:20:33,369 --> 00:20:36,001
+Bem-vindos!
+Por favor, aproximem-se.
+
+218
+00:20:36,002 --> 00:20:40,189
+Meu nome é Thaziit
+e serei seu guia hoje, está bem?
+
+219
+00:20:40,190 --> 00:20:42,662
+É a primeira vez de alguém
+no Mercado Principal?
+
+220
+00:20:42,663 --> 00:20:44,589
+Certo, ótimo!
+Maravilhoso!
+
+221
+00:20:44,590 --> 00:20:46,290
+Deixe-me lembrá-los
+
+222
+00:20:46,291 --> 00:20:48,982
+que o Mercado Principal
+fica em outra dimensão.
+
+223
+00:20:48,983 --> 00:20:50,980
+Não poderão vê-lo
+sem seus capacetes,
+
+224
+00:20:50,981 --> 00:20:54,076
+nem tocá-lo sem suas luvas.
+
+225
+00:20:55,770 --> 00:21:00,762
+Há milhares de lojas
+no Mercado Principal, sim.
+
+226
+00:21:00,763 --> 00:21:05,027
+Temos 1 hora. Agora, por favor,
+vejam as letras no topo,
+
+227
+00:21:05,028 --> 00:21:09,234
+e certifiquem-se de que o "H",
+de "humano", está todo verde.
+
+228
+00:21:09,235 --> 00:21:12,527
+Está bem? Então todos,
+por favor, juntem-se
+
+229
+00:21:12,528 --> 00:21:14,931
+logo atrás do seu guia,
+cujo nome é...?
+
+230
+00:21:14,932 --> 00:21:17,866
+- Thaziit!
+- Thaziit! Venham, vamos.
+
+231
+00:21:19,047 --> 00:21:21,357
+Sigam-me, por favor,
+e coloquem os capacetes.
+
+232
+00:21:21,358 --> 00:21:24,755
+Passem pelos portões.
+Ativem seus sistemas.
+
+233
+00:21:24,756 --> 00:21:26,345
+Vamos lá.
+
+234
+00:21:28,105 --> 00:21:29,910
+<i>Sistema ativado.</i>
+
+235
+00:21:37,687 --> 00:21:40,741
+Bem-vindo
+ao Mercado Principal!
+
+236
+00:22:05,083 --> 00:22:06,383
+Olá.
+
+237
+00:22:07,146 --> 00:22:08,446
+Sim, mas é claro.
+
+238
+00:22:08,447 --> 00:22:10,507
+Bill, pode pegar
+minha arma, por favor?
+
+239
+00:22:10,508 --> 00:22:12,641
+Obrigada.
+Diga "xis".
+
+240
+00:22:15,011 --> 00:22:16,501
+Obrigada, Bill.
+
+241
+00:22:26,763 --> 00:22:28,900
+- Tudo certo.
+- Obrigado.
+
+242
+00:22:38,427 --> 00:22:42,195
+<i>Venha comigo</i>
+
+243
+00:22:42,196 --> 00:22:46,066
+<i>Fique ao meu lado</i>
+
+244
+00:22:46,067 --> 00:22:48,045
+<i>- As estrelas são...</i>
+- Boa sorte.
+
+245
+00:22:48,046 --> 00:22:50,457
+- O que está fazendo, soldado?
+- Perdão, senhor.
+
+246
+00:22:50,458 --> 00:22:52,755
+- Fique de olho, certo?
+- Sim, senhor.
+
+247
+00:23:36,076 --> 00:23:38,845
+Pense só, amor.
+Um milhão de lojas!
+
+248
+00:23:38,846 --> 00:23:41,508
+Só o que pudermos carregar,
+certo?
+
+249
+00:23:41,509 --> 00:23:43,149
+- Prometo.
+- Certo.
+
+250
+00:24:01,454 --> 00:24:04,002
+- Temos 12 minutos.
+- Entendido.
+
+251
+00:24:27,025 --> 00:24:29,346
+- Achei a loja do suspeito.
+<i>- Ótimo.</i>
+
+252
+00:24:29,347 --> 00:24:32,792
+<i>Sgto. Cooper ajudará na entrada
+e a recuperar o bem roubado.</i>
+
+253
+00:24:50,955 --> 00:24:53,195
+- Major Valerian.
+- Sargento Cooper.
+
+254
+00:24:53,196 --> 00:24:56,129
+Como já sabe, precisa de óculos
+para ver a outra dimensão
+
+255
+00:24:56,130 --> 00:24:58,766
+e de uma materializadora
+para levar algo para lá.
+
+256
+00:24:59,798 --> 00:25:02,576
+- Especialmente uma arma.
+<i>- Autorizado.</i>
+
+257
+00:25:03,301 --> 00:25:04,749
+Coloque isto.
+
+258
+00:25:06,367 --> 00:25:08,575
+Use seu código genético
+no teclado da frente.
+
+259
+00:25:08,576 --> 00:25:11,763
+Para desfazer, use o código
+no teclado de trás. Fui claro?
+
+260
+00:25:11,764 --> 00:25:13,255
+Como um cristal.
+
+261
+00:25:23,449 --> 00:25:25,629
+- Boa sorte.
+- Valeu.
+
+262
+00:25:34,423 --> 00:25:39,423
+Tsûuri! Que bom te ver de novo.
+Por favor, sente-se.
+
+263
+00:25:40,778 --> 00:25:43,583
+- Você tem o que pedimos?
+- Sim, sim.
+
+264
+00:25:43,584 --> 00:25:45,337
+Mas foi bem difícil.
+
+265
+00:25:55,212 --> 00:25:58,246
+Perdi muita gente pegando isso
+para você.
+
+266
+00:25:58,247 --> 00:26:02,050
+Mas esta coisa
+não tem preço.
+
+267
+00:26:02,051 --> 00:26:04,260
+O que pode me dar em troca?
+
+268
+00:26:16,678 --> 00:26:18,993
+Incrível.
+
+269
+00:26:21,444 --> 00:26:24,052
+<i>Nunca achei que eu veria um.</i>
+
+270
+00:26:24,053 --> 00:26:28,193
+Você terá centenas disso
+assim que der o que prometeu.
+
+271
+00:26:29,194 --> 00:26:31,783
+Bem, temos um probleminha,
+meus amigos.
+
+272
+00:26:31,784 --> 00:26:34,515
+Se podem fazer mais desses bebês
+para mim,
+
+273
+00:26:34,516 --> 00:26:36,768
+por que eu mesmo não vou
+atrás deles?
+
+274
+00:26:39,036 --> 00:26:41,886
+Calma, meus cordeirinhos.
+
+275
+00:26:44,796 --> 00:26:46,627
+Precisamos muito
+desse Conversor.
+
+276
+00:26:46,628 --> 00:26:49,673
+- Sabe que nossa causa é nobre.
+- Eu sei.
+
+277
+00:26:49,674 --> 00:26:52,027
+Também luto
+por uma causa nobre.
+
+278
+00:26:52,028 --> 00:26:53,622
+A minha.
+
+279
+00:26:54,123 --> 00:26:57,169
+Vocês têm 10 segundos
+para soltar as armas.
+
+280
+00:26:58,734 --> 00:27:00,234
+Hora do show.
+
+281
+00:27:05,520 --> 00:27:07,020
+Cinco.
+
+282
+00:27:11,023 --> 00:27:12,637
+Quatro.
+
+283
+00:27:14,233 --> 00:27:15,817
+Três.
+
+284
+00:27:17,281 --> 00:27:18,840
+Dois.
+
+285
+00:27:20,233 --> 00:27:21,677
+Um.
+
+286
+00:27:22,227 --> 00:27:25,433
+<i>Agente Federal Valerian.
+Desculpe interromper o acordo,</i>
+
+287
+00:27:25,434 --> 00:27:28,658
+mas minha causa também é nobre.
+Chama-se lei.
+
+288
+00:27:30,698 --> 00:27:35,027
+- Não conheço vocês?
+- Aqui não é um salão de chá.
+
+289
+00:27:35,028 --> 00:27:36,736
+- O que quer de mim?
+- Igon Siruss,
+
+290
+00:27:36,737 --> 00:27:40,059
+você foi acusado de roubar
+um Conversor da Federação.
+
+291
+00:27:40,060 --> 00:27:44,816
+Antes de eu te prender,
+preciso reaver o item roubado.
+
+292
+00:27:44,817 --> 00:27:47,061
+<i>- Como está indo?</i>
+- Quase lá.
+
+293
+00:27:47,062 --> 00:27:50,041
+Valerian, estarei à esquerda
+a 3 metros de você.
+
+294
+00:27:50,042 --> 00:27:51,442
+Entendido.
+
+295
+00:27:52,331 --> 00:27:54,309
+- Pessoal?
+<i>- Vá em frente.</i>
+
+296
+00:28:01,179 --> 00:28:05,449
+Agora pegue-o gentilmente
+e coloque dentro da caixa.
+
+297
+00:28:07,683 --> 00:28:10,184
+- Conversor na caixa.
+- Entendido.
+
+298
+00:28:16,065 --> 00:28:17,579
+Sem rastros.
+Voltem à base.
+
+299
+00:28:17,580 --> 00:28:18,980
+- Bom trabalho.
+- Entendido.
+
+300
+00:28:18,981 --> 00:28:21,678
+- Valerian, saia daí.
+- Estou a caminho.
+
+301
+00:28:33,232 --> 00:28:35,999
+Vou achar você,
+Agente Federal Valerian.
+
+302
+00:28:36,000 --> 00:28:38,397
+Onde quer que esteja
+no universo,
+
+303
+00:28:38,398 --> 00:28:42,727
+vou te achar e vou te matar.
+
+304
+00:28:42,728 --> 00:28:44,380
+Boa sorte.
+
+305
+00:29:02,258 --> 00:29:04,983
+- Valerian teve problemas.
+- A missão é prioridade.
+
+306
+00:29:04,984 --> 00:29:06,934
+- Cooper, dê suporte.
+- Entendido.
+
+307
+00:29:30,083 --> 00:29:33,106
+<i>Ache e destrua.
+Prioridade máxima.</i>
+
+308
+00:29:33,107 --> 00:29:35,254
+<i>Foto do alvo a seguir.</i>
+
+309
+00:29:38,397 --> 00:29:41,526
+- Valerian, como está?
+- Bem. Acho que os despistei.
+
+310
+00:29:41,527 --> 00:29:43,377
+- Quer comprar?
+- Não, obrigado.
+
+311
+00:29:43,378 --> 00:29:45,154
+Estou à sua esquerda,
+a 60m.
+
+312
+00:29:45,155 --> 00:29:47,005
+- Meu teclado quebrou.
+- Quer energia?
+
+313
+00:29:47,006 --> 00:29:49,369
+Não, obrigado!
+<i>A caixa quebrou</i>.
+
+314
+00:29:49,370 --> 00:29:51,329
+Não consigo colocar
+meu braço.
+
+315
+00:29:51,330 --> 00:29:53,591
+Precisa de um advogado?
+
+316
+00:29:53,592 --> 00:29:56,711
+Agente Federal em serviço.
+Deixem-me em paz.
+
+317
+00:30:01,486 --> 00:30:03,710
+- Essa não.
+- Essa sim.
+
+318
+00:30:26,278 --> 00:30:27,887
+<i>Valerian, o que está fazendo?</i>
+
+319
+00:31:06,244 --> 00:31:08,002
+Muito engraçado.
+
+320
+00:31:08,632 --> 00:31:10,844
+- Qual é o seu nome?
+- Da.
+
+321
+00:31:10,845 --> 00:31:12,145
+Da?
+
+322
+00:31:14,681 --> 00:31:17,644
+Venha aqui.
+Tente isto.
+
+323
+00:31:17,645 --> 00:31:19,585
+É muito mais divertido.
+
+324
+00:31:25,472 --> 00:31:27,055
+Até mais.
+
+325
+00:31:36,195 --> 00:31:38,462
+Sim, tem hora para tudo,
+menino.
+
+326
+00:31:38,463 --> 00:31:40,313
+Não tem dever de casa
+para fazer?
+
+327
+00:31:43,346 --> 00:31:46,758
+Tudo bem. Vai se limpar.
+Corre pra mamãe.
+
+328
+00:31:50,179 --> 00:31:51,579
+Você é a mamãe?
+
+329
+00:31:54,607 --> 00:31:56,007
+Cuidado!
+
+330
+00:32:11,386 --> 00:32:12,886
+Desculpe!
+
+331
+00:32:21,545 --> 00:32:26,134
+<i>Para recuperar suas compras,
+ponha os itens na caixa metálica</i>
+
+332
+00:32:26,135 --> 00:32:29,182
+<i>e coloque seu código de DNA.
+Obrigado.</i>
+
+333
+00:32:29,183 --> 00:32:32,184
+Incrível.
+E tão prático.
+
+334
+00:32:32,185 --> 00:32:35,332
+Não quis dizer inútil?
+Não sabe nem para que serve.
+
+335
+00:32:35,333 --> 00:32:38,127
+Não seja ranzinza.
+É decorativo.
+
+336
+00:32:38,128 --> 00:32:40,597
+Tente ser civilizado
+pelo menos uma vez.
+
+337
+00:32:42,685 --> 00:32:45,622
+Civilizado.
+Sim, claro.
+
+338
+00:33:09,318 --> 00:33:11,445
+- Ei! Muito obrigado!
+- Desculpe!
+
+339
+00:33:18,119 --> 00:33:20,436
+- Eu não vi a parede.
+- Precisa de ajuda?
+
+340
+00:33:20,437 --> 00:33:22,684
+Só queria meu braço
+de volta, obrigado.
+
+341
+00:33:35,498 --> 00:33:38,930
+Se quer minha mão em casamento,
+deveria recuperar a sua antes.
+
+342
+00:33:38,931 --> 00:33:41,164
+- Isto é um sim?
+- Não se mexa.
+
+343
+00:33:43,820 --> 00:33:46,670
+- Como vou te ajudar se mexendo?
+- Mais rápido, por favor!
+
+344
+00:33:48,264 --> 00:33:49,812
+Por favor, não se mexa.
+
+345
+00:33:53,212 --> 00:33:54,624
+Foi detectado.
+
+346
+00:33:56,786 --> 00:33:59,770
+Desculpe incomodar,
+mas vem vindo um para cá.
+
+347
+00:33:59,771 --> 00:34:01,339
+Me dê um segundo.
+
+348
+00:34:02,471 --> 00:34:04,056
+Eu não tenho um segundo.
+
+349
+00:34:04,460 --> 00:34:06,274
+- Agora sim, está pronto.
+- Obrigado!
+
+350
+00:34:17,388 --> 00:34:19,437
+Eu não sei o que faria
+sem você.
+
+351
+00:34:31,596 --> 00:34:34,707
+<i>Para reaver suas compras,
+por favor insira seus itens</i>
+
+352
+00:34:34,708 --> 00:34:38,821
+<i>na caixa Transbattle
+e insira seu código de DNA.</i>
+
+353
+00:34:38,822 --> 00:34:40,199
+<i>Obrigado.</i>
+
+354
+00:34:46,876 --> 00:34:48,337
+Pegue.
+
+355
+00:34:48,936 --> 00:34:51,294
+<i>Detectaram vocês.
+Continuem e não mudem de rota.</i>
+
+356
+00:34:51,295 --> 00:34:53,704
+- O que devemos fazer?
+- Corram.
+
+357
+00:34:56,998 --> 00:34:58,976
+- Zito, dê cobertura.
+- Sim, senhor!
+
+358
+00:35:20,945 --> 00:35:23,099
+- Vamos logo.
+- Estou indo!
+
+359
+00:35:37,411 --> 00:35:39,812
+Zito, pegue aquela coisa
+atrás de nós.
+
+360
+00:35:43,344 --> 00:35:44,703
+Deixa comigo.
+
+361
+00:35:48,917 --> 00:35:50,667
+Pessoal, detenham-no.
+Detenham-no!
+
+362
+00:36:23,458 --> 00:36:25,085
+Alex, precisamos
+de você agora!--
+
+363
+00:36:32,877 --> 00:36:34,224
+Vamos.
+
+364
+00:37:11,616 --> 00:37:13,466
+Droga, ele arruinou
+meu vestido.
+
+365
+00:37:13,467 --> 00:37:15,466
+Alex, mude para o controle
+manual.
+
+366
+00:37:15,467 --> 00:37:17,317
+Preparar para entrar
+no exoespaço.
+
+367
+00:37:22,353 --> 00:37:25,253
+- Tem as coordenadas do lugar?
+- Sim, estou decodificando.
+
+368
+00:37:26,404 --> 00:37:29,122
+- Alex, o que foi isso?
+<i>- Temos um invasor.</i>
+
+369
+00:37:30,400 --> 00:37:33,206
+Que ótimo.
+Segure-se.
+
+370
+00:37:36,772 --> 00:37:39,454
+<i>Major Valerian, estão
+20 minutos atrasados.</i>
+
+371
+00:37:39,455 --> 00:37:41,336
+O tempo voa
+quando está se divertindo.
+
+372
+00:37:41,337 --> 00:37:42,694
+Estamos com o Conversor.
+
+373
+00:37:42,695 --> 00:37:45,045
+<i>Excelente, talvez possa
+dizer o que está fazendo</i>
+
+374
+00:37:45,046 --> 00:37:47,164
+<i>a 17 anos-luz
+do ponto de encontro.</i>
+
+375
+00:37:47,165 --> 00:37:49,095
+Parece muito ruim
+falando assim.
+
+376
+00:37:49,096 --> 00:37:52,230
+Eu diria que chegaremos
+em 9 minutos. Melhor?
+
+377
+00:37:52,231 --> 00:37:54,575
+<i>Informarei ao comandante
+que estão atrasados</i>
+
+378
+00:37:54,576 --> 00:37:57,212
+<i>- e direi que se desculpam.
+- Obrigado. Faça isso.</i>
+
+379
+00:38:00,144 --> 00:38:02,166
+Entrando no exoespaço
+em 5 segundos.
+
+380
+00:38:02,167 --> 00:38:04,500
+Alguém vai levar
+um tombo daqueles!
+
+381
+00:38:20,311 --> 00:38:23,239
+Vamos dar uma olhadinha
+em você.
+
+382
+00:38:24,677 --> 00:38:25,978
+Comigo não, gracinha.
+
+383
+00:38:25,979 --> 00:38:29,023
+Vem, não precisa ter medo.
+
+384
+00:38:29,024 --> 00:38:31,845
+Eu cuidarei de você.
+Vem.
+
+385
+00:38:33,709 --> 00:38:35,208
+Olá.
+
+386
+00:38:37,780 --> 00:38:40,589
+Você tem olhos incríveis.
+
+387
+00:38:43,309 --> 00:38:46,433
+Você está bem cascudo.
+Que tal te tratarmos
+
+388
+00:38:46,434 --> 00:38:48,396
+para voltar
+a se sentir melhor?
+
+389
+00:38:49,424 --> 00:38:50,923
+Gostou da ideia?
+
+390
+00:38:52,866 --> 00:38:54,166
+Vamos lá.
+
+391
+00:39:01,140 --> 00:39:04,095
+Um pouco de urânio de qualidade
+vai te deixar novo em folha.
+
+392
+00:39:08,525 --> 00:39:10,069
+Aguente firme, gracinha.
+
+393
+00:39:20,033 --> 00:39:24,068
+Alex, analise isto,
+por favor.
+
+394
+00:39:25,619 --> 00:39:27,786
+20 megatons de potência.
+
+395
+00:39:27,787 --> 00:39:30,734
+<i>De fato. Esta pérola
+é 10 vezes mais poderosa</i>
+
+396
+00:39:30,735 --> 00:39:33,090
+<i>- que nossa nave toda.</i>
+- De onde ela vem?
+
+397
+00:39:33,091 --> 00:39:37,106
+<i>De Mül. Um planeta que ficava
+na constelação Q34.</i>
+
+398
+00:39:37,107 --> 00:39:40,367
+- Ficava?
+<i>- Correto. Ele não existe mais.</i>
+
+399
+00:39:40,368 --> 00:39:42,467
+<i>Sumiu há 30 anos.</i>
+
+400
+00:39:42,468 --> 00:39:44,214
+Mostre-me como ele era.
+
+401
+00:39:44,841 --> 00:39:47,732
+<i>Vegetação abundante.
+Algumas espécies primitivas,</i>
+
+402
+00:39:47,733 --> 00:39:49,591
+<i>mas nenhuma
+de seu interesse.</i>
+
+403
+00:39:49,592 --> 00:39:51,577
+A que estava no meu sonho
+era bem...
+
+404
+00:39:52,333 --> 00:39:53,646
+Interessante.
+
+405
+00:39:54,223 --> 00:39:55,547
+Aproxime.
+
+406
+00:39:55,548 --> 00:39:56,848
+ACESSO NEGADO
+
+407
+00:39:56,849 --> 00:39:59,807
+<i>- Usar código de acesso.
+- Não será possível, major.</i>
+
+408
+00:39:59,808 --> 00:40:01,473
+<i>O acesso está restrito.</i>
+
+409
+00:40:01,474 --> 00:40:05,502
+<i>- A que nível hierárquico?
+- General, 5 estrelas.</i>
+
+410
+00:40:07,785 --> 00:40:11,102
+A criatura do meu sonho usava
+uma pérola dessa no pescoço.
+
+411
+00:40:11,103 --> 00:40:12,703
+<i>Informação registrada,
+major.</i>
+
+412
+00:40:13,708 --> 00:40:15,917
+<i>Saindo do exoespaço
+em 1 minuto.</i>
+
+413
+00:40:16,267 --> 00:40:19,152
+Ele é bem meigo, sabia?
+E bem sedutor.
+
+414
+00:40:19,153 --> 00:40:21,100
+Talvez você tenha
+um concorrente.
+
+415
+00:40:21,912 --> 00:40:23,752
+Eu gosto de competir.
+
+416
+00:40:26,654 --> 00:40:28,679
+Ainda estou aguardando
+sua resposta.
+
+417
+00:40:29,288 --> 00:40:31,731
+Sei que te encho o saco
+às vezes,
+
+418
+00:40:31,732 --> 00:40:33,784
+mas minha proposta
+é para valer.
+
+419
+00:40:33,785 --> 00:40:35,818
+Temos que finalizar
+a missão, major.
+
+420
+00:40:35,819 --> 00:40:38,327
+Ainda resta a parte
+da operação "confidencial".
+
+421
+00:40:38,328 --> 00:40:40,626
+Ou sua memória perfeita
+está falhando de novo?
+
+422
+00:40:40,627 --> 00:40:42,233
+<i>Cintos de segurança.</i>
+
+423
+00:40:44,578 --> 00:40:45,879
+Sabe de uma coisa?
+
+424
+00:40:46,717 --> 00:40:50,521
+Vou pedir 10 dias de licença,
+e vou te levar para a praia
+
+425
+00:40:50,522 --> 00:40:53,371
+mais bonita do universo.
+Uma de verdade, desta vez.
+
+426
+00:40:54,043 --> 00:40:57,606
+O lugar perfeito
+para uma lua de mel.
+
+427
+00:40:57,607 --> 00:40:58,925
+<i>10 segundos.</i>
+
+428
+00:40:58,926 --> 00:41:02,302
+A lua de mel vem após
+o casamento. Sabe disso, não?
+
+429
+00:41:02,611 --> 00:41:04,488
+- Sério?
+- Sério.
+
+430
+00:41:04,489 --> 00:41:08,259
+<i>3, 2, 1.
+Desacelerando.</i>
+
+431
+00:41:11,696 --> 00:41:15,344
+- Alex, o que está fazendo?
+<i>- Desculpe-me. Muito tráfego.</i>
+
+432
+00:41:15,345 --> 00:41:19,479
+- Quer que eu pilote?
+- Não! Não, não, não. Obrigado.
+
+433
+00:41:26,332 --> 00:41:30,271
+<i>Bem-vindos a Alfa.
+A Cidade dos Mil Planetas.</i>
+
+434
+00:41:33,573 --> 00:41:35,207
+Alex,
+você pode nos atualizar?
+
+435
+00:41:35,208 --> 00:41:36,738
+<i>Será um prazer.</i>
+
+436
+00:41:36,739 --> 00:41:39,859
+<i>A Estação Alfa cresceu
+7% este ano.</i>
+
+437
+00:41:40,441 --> 00:41:42,648
+<i>E desde que deixou
+a órbita da Terra,</i>
+
+438
+00:41:42,649 --> 00:41:45,724
+<i>já viajou 110 milhões
+de quilômetros.</i>
+
+439
+00:41:47,341 --> 00:41:48,656
+População?
+
+440
+00:41:48,657 --> 00:41:50,339
+<i>Quase 30 milhões.</i>
+
+441
+00:41:50,340 --> 00:41:52,906
+<i>3236 espécies</i>
+
+442
+00:41:52,907 --> 00:41:55,418
+<i>dos quatro cantos
+do universo vivem à bordo.</i>
+
+443
+00:41:55,419 --> 00:41:57,848
+<i>Espalhando seus conhecimentos
+e culturas.</i>
+
+444
+00:41:57,849 --> 00:42:00,108
+<i>Mais de 5 mil
+línguas em uso,</i>
+
+445
+00:42:00,109 --> 00:42:03,035
+<i>sem contar as diversas
+línguas computacionais.</i>
+
+446
+00:42:03,036 --> 00:42:04,371
+Demografia atual?
+
+447
+00:42:04,372 --> 00:42:06,472
+<i>Ao sul,
+estão as partes submersas</i>
+
+448
+00:42:06,473 --> 00:42:09,839
+<i>com 800 espécies vivendo
+em diferentes meios líquidos.</i>
+
+449
+00:42:09,840 --> 00:42:12,053
+<i>Como os benevolentes
+agricultores Poulongs,</i>
+
+450
+00:42:12,054 --> 00:42:13,727
+<i>que cultivam cobalto.</i>
+
+451
+00:42:14,301 --> 00:42:18,642
+<i>Ao norte, as terras gasosas
+são ocupadas pelos Azin-Mös,</i>
+
+452
+00:42:18,643 --> 00:42:21,528
+<i>cuja sensibilidade extrema
+os tornam especializados</i>
+
+453
+00:42:21,529 --> 00:42:24,685
+<i>em neurociência
+e componentes moleculares.</i>
+
+454
+00:42:24,686 --> 00:42:26,821
+<i>Eles podem construir
+todo tipo de células.</i>
+
+455
+00:42:26,822 --> 00:42:30,181
+<i>Ao leste está a vasta
+colônia de Omelites.</i>
+
+456
+00:42:30,182 --> 00:42:34,387
+<i>Eles controlam a TI,
+finanças e operações bancárias.</i>
+
+457
+00:42:34,782 --> 00:42:37,881
+<i>Finalmente, a oeste,
+em uma atmosfera pressurizada,</i>
+
+458
+00:42:37,882 --> 00:42:40,697
+<i>temos 9 milhões de humanos
+e espécies compatíveis.</i>
+
+459
+00:42:40,698 --> 00:42:41,998
+Lar, doce lar.
+
+460
+00:42:41,999 --> 00:42:44,528
+<i>A economia está em crise
+há um ano.</i>
+
+461
+00:42:44,529 --> 00:42:45,977
+<i>Querem um rápido resumo?</i>
+
+462
+00:42:45,978 --> 00:42:48,914
+Não, já tivemos
+muita diversão por hoje.
+
+463
+00:42:54,607 --> 00:42:56,571
+Intruder XB982.
+
+464
+00:42:56,572 --> 00:42:59,554
+Autorização para pousar
+na seção um. Acesso VIP.
+
+465
+00:42:59,555 --> 00:43:01,899
+Uau, estamos famosos.
+
+466
+00:43:19,196 --> 00:43:20,531
+Está atrasado, major.
+
+467
+00:43:20,532 --> 00:43:23,598
+Desculpe, senhor. Foi mais
+complicado que o previsto.
+
+468
+00:43:23,599 --> 00:43:25,865
+Sempre espere o pior
+e não se desapontará.
+
+469
+00:43:25,866 --> 00:43:27,166
+Nem a mim.
+
+470
+00:43:27,808 --> 00:43:30,570
+Vou manter isso em mente,
+senhor.
+
+471
+00:43:32,505 --> 00:43:34,498
+E você.
+Conferiu o Conversor?
+
+472
+00:43:34,499 --> 00:43:35,799
+Está em ótima forma.
+
+473
+00:43:35,800 --> 00:43:37,600
+Posso saber
+o que está acontecendo?
+
+474
+00:43:38,430 --> 00:43:39,731
+Sigam-me.
+
+475
+00:43:43,685 --> 00:43:44,985
+Confidencial.
+
+476
+00:43:47,919 --> 00:43:52,409
+Há um ano, descobrimos uma área
+radioativa no meio da estação.
+
+477
+00:43:53,199 --> 00:43:55,049
+Nenhum sinal
+consegue penetrar.
+
+478
+00:43:55,050 --> 00:43:57,685
+Mandamos diversas sondas
+e nenhuma voltou.
+
+479
+00:43:57,686 --> 00:43:59,860
+Então enviamos
+uma unidade especial.
+
+480
+00:43:59,861 --> 00:44:02,914
+A missão era chegar o mais perto
+possível da zona
+
+481
+00:44:02,915 --> 00:44:05,004
+e determinar
+a natureza da ameaça.
+
+482
+00:44:05,005 --> 00:44:06,330
+E?
+
+483
+00:44:06,922 --> 00:44:08,778
+Ninguém voltou vivo.
+
+484
+00:44:09,190 --> 00:44:12,124
+- Tem ideia de quem os atacou?
+- Não.
+
+485
+00:44:12,125 --> 00:44:14,683
+Esta é a situação hoje.
+
+486
+00:44:16,338 --> 00:44:20,378
+O ar na zona está irrespirável,
+altamente contaminado.
+
+487
+00:44:20,379 --> 00:44:24,116
+E continua a crescer.
+Como um tumor.
+
+488
+00:44:24,117 --> 00:44:26,424
+Um que precisamos
+eliminar o quanto antes.
+
+489
+00:44:26,425 --> 00:44:28,426
+Se não, o câncer
+continuará a se espalhar
+
+490
+00:44:28,427 --> 00:44:30,831
+e destruirá Alfa
+em menos de uma semana.
+
+491
+00:44:30,832 --> 00:44:33,113
+comandante, quem iria querer
+destruir Alfa?
+
+492
+00:44:33,114 --> 00:44:35,326
+Praticamente todas as espécies
+estão aqui.
+
+493
+00:44:35,327 --> 00:44:38,304
+É uma arma de destruição,
+então há um assassino.
+
+494
+00:44:38,305 --> 00:44:40,855
+Não importa quem seja,
+é uma ameaça a todos,
+
+495
+00:44:40,856 --> 00:44:43,120
+- e deve ser eliminada.
+- Por aqui.
+
+496
+00:44:50,514 --> 00:44:51,934
+<i>- Comandante.
+- Ministro.</i>
+
+497
+00:44:51,935 --> 00:44:55,491
+<i>O conselho lhe deu sinal verde.
+Mas recomendamos fortemente</i>
+
+498
+00:44:55,492 --> 00:44:58,344
+<i>que a lei internacional
+e todos os direitos civis</i>
+
+499
+00:44:58,345 --> 00:44:59,764
+<i>- sejam respeitados.</i>
+- Claro.
+
+500
+00:44:59,765 --> 00:45:02,665
+- Acompanharei pessoalmente.
+<i>- Agentes Valerian e Laureline</i>
+
+501
+00:45:02,666 --> 00:45:04,816
+<i>serão responsáveis
+por sua proteção pessoal.</i>
+
+502
+00:45:04,817 --> 00:45:09,041
+Senhor, não será necessário.
+Tenho uma unidade de K-Trons...
+
+503
+00:45:09,042 --> 00:45:11,522
+<i>São ordens diretas do governo,
+comandante.</i>
+
+504
+00:45:11,523 --> 00:45:15,278
+<i>Os agentes precisam relatar
+o resultado da operação.</i>
+
+505
+00:45:17,511 --> 00:45:18,869
+Como deseja.
+
+506
+00:45:18,870 --> 00:45:22,683
+<i>Senhores, senhora,
+boa sorte.</i>
+
+507
+00:45:26,103 --> 00:45:27,749
+Já que estaremos
+na mesma equipe,
+
+508
+00:45:27,750 --> 00:45:29,617
+você pode nos
+atualizar da operação.
+
+509
+00:45:29,618 --> 00:45:32,841
+Irei falar com o Conselheiro de
+Segurança em alguns minutos.
+
+510
+00:45:32,842 --> 00:45:36,088
+Vocês terão todos os detalhes
+que precisam saber.
+
+511
+00:45:37,618 --> 00:45:40,399
+Isso vai ser muito divertido.
+
+512
+00:45:49,469 --> 00:45:51,158
+Olá, gracinha.
+
+513
+00:45:51,159 --> 00:45:53,232
+Está parecendo bem melhor.
+
+514
+00:45:53,233 --> 00:45:56,767
+Eu me lembro de aprender
+sobre vocês na escola.
+
+515
+00:45:57,217 --> 00:46:00,491
+Estou louca para saber
+se o que dizem é verdade.
+
+516
+00:46:10,831 --> 00:46:13,336
+Preciso levá-lo
+às compras comigo.
+
+517
+00:46:21,697 --> 00:46:23,578
+Esperem por mim aqui.
+
+518
+00:46:39,258 --> 00:46:41,136
+- Alguma coisa?
+- Ainda não.
+
+519
+00:46:41,137 --> 00:46:45,239
+Não conseguimos nada dele.
+Mas tentarei algo novo.
+
+520
+00:46:49,508 --> 00:46:51,700
+Mais uma hora.
+
+521
+00:46:52,862 --> 00:46:55,242
+Se ele não falar,
+acabe com ele.
+
+522
+00:46:55,243 --> 00:46:56,543
+Sim, senhor.
+
+523
+00:47:06,226 --> 00:47:09,212
+Se qualquer coisa der errado
+com essa operação,
+
+524
+00:47:10,741 --> 00:47:12,881
+sabem o que precisam fazer.
+
+525
+00:47:31,925 --> 00:47:35,130
+Parece que estão levando
+minha proteção muito a sério.
+
+526
+00:47:35,131 --> 00:47:37,184
+A dele, na verdade.
+O último da espécie.
+
+527
+00:47:37,185 --> 00:47:39,385
+Ele deve mesmo ir
+em uma missão tão perigosa?
+
+528
+00:47:39,386 --> 00:47:42,998
+O Conversor Mül consegue
+reproduzir qualquer produto
+
+529
+00:47:42,999 --> 00:47:46,255
+em tempo recorde. Será muito
+útil se precisarmos negociar.
+
+530
+00:47:46,256 --> 00:47:50,050
+Com um exército de K-Trons, é
+uma surpresa precisar negociar.
+
+531
+00:47:50,702 --> 00:47:52,820
+Você cuida da minha
+segurança, major,
+
+532
+00:47:52,821 --> 00:47:55,505
+e eu cuido das negociações.
+
+533
+00:47:55,506 --> 00:47:57,387
+- Se me...
+- Não acho uma boa ideia.
+
+534
+00:47:57,388 --> 00:48:00,098
+Para sua segurança pessoal,
+a agente Laureline
+
+535
+00:48:00,099 --> 00:48:01,869
+cuidará do pequeno.
+
+536
+00:48:01,870 --> 00:48:04,509
+Acho que não, agente.
+É contra o protocolo.
+
+537
+00:48:04,510 --> 00:48:07,425
+- Sou de nível mais alto aqui...
+- O animal é o último vivo
+
+538
+00:48:07,426 --> 00:48:09,773
+da espécie, o universo
+inteiro está atrás dele.
+
+539
+00:48:09,774 --> 00:48:12,857
+Por isso o major Valerian
+prefere que eu cuide dele.
+
+540
+00:48:15,177 --> 00:48:16,657
+Certo.
+
+541
+00:48:17,597 --> 00:48:20,260
+Só não saiam de perto.
+
+542
+00:48:26,264 --> 00:48:28,519
+comandante,
+o Conselho o aguarda.
+
+543
+00:48:32,053 --> 00:48:33,548
+Vamos lá.
+
+544
+00:48:37,374 --> 00:48:39,125
+Fiquem aqui.
+
+545
+00:48:43,572 --> 00:48:46,809
+<i>- A caminho da reunião.
+- Entendido, general.</i>
+
+546
+00:48:54,251 --> 00:48:57,406
+Você fica na retaguarda.
+Eu vou para a linha de frente.
+
+547
+00:48:58,730 --> 00:49:00,779
+Sim, senhor.
+
+548
+00:49:02,564 --> 00:49:06,164
+FEDERAÇÃO HUMANA
+
+549
+00:49:08,155 --> 00:49:11,389
+Delegados, obrigado por
+responderem tão rapidamente.
+
+550
+00:49:11,690 --> 00:49:14,473
+Como o representante eleito
+pela Federação Humana,
+
+551
+00:49:14,474 --> 00:49:16,964
+pedi essa reunião do
+Conselho Oficial de Segurança
+
+552
+00:49:16,965 --> 00:49:20,751
+para atualizá-los do estado de
+emergência que nos encontramos.
+
+553
+00:49:20,752 --> 00:49:24,364
+Como já sabem, o coração
+da histórica estação Alfa
+
+554
+00:49:24,365 --> 00:49:26,064
+foi contaminado
+por uma força
+
+555
+00:49:26,065 --> 00:49:28,973
+cujo poder e origem
+desconhecemos.
+
+556
+00:49:28,974 --> 00:49:32,620
+A Federação Humana enviou vários
+pequenos grupos militares
+
+557
+00:49:32,621 --> 00:49:35,389
+para verificar
+a gravidade da ameaça.
+
+558
+00:49:35,390 --> 00:49:37,777
+Mas todas terminaram
+fracassadas.
+
+559
+00:49:37,778 --> 00:49:40,828
+Sem mencionar as perdas
+entre nossas tropas.
+
+560
+00:49:40,829 --> 00:49:43,732
+À luz desta alarmante
+e crescente ameaça a todos,
+
+561
+00:49:43,733 --> 00:49:47,021
+- a Federação Humana procura...
+- Tudo está bem?
+
+562
+00:49:47,022 --> 00:49:49,896
+Está perdendo.
+Aqui está muito divertido.
+
+563
+00:49:49,897 --> 00:49:52,566
+Não se preocupe.
+Estaremos na praia logo.
+
+564
+00:49:52,567 --> 00:49:54,669
+Podemos seguir para as
+perguntas que tenham
+
+565
+00:49:54,670 --> 00:49:57,072
+sobre os detalhes da operação.
+
+566
+00:50:01,939 --> 00:50:05,129
+Batalhão 13.
+Divisão de Ataques Especiais.
+
+567
+00:50:08,197 --> 00:50:10,270
+- Era tudo o que precisava.
+<i>- O quê?</i>
+
+568
+00:50:10,271 --> 00:50:11,878
+Doghan Daguis.
+
+569
+00:50:13,040 --> 00:50:15,190
+- Prazer em vê-la.
+- Agente Laureline.
+
+570
+00:50:15,191 --> 00:50:17,494
+- Esplêndida como sempre.
+- Digam o que querem.
+
+571
+00:50:17,495 --> 00:50:20,201
+- O dever nos chama.
+- Falamos mais de 5 mil línguas.
+
+572
+00:50:20,202 --> 00:50:22,486
+- Que pode ser útil.
+- Num momento como esse.
+
+573
+00:50:22,487 --> 00:50:25,894
+- Precisa dos nossos serviços?
+- Tenho meu próprio tradutor.
+
+574
+00:50:26,548 --> 00:50:28,723
+- Agora, vão.
+- Pergunte se eles sabem
+
+575
+00:50:28,724 --> 00:50:32,422
+- do planeta Mül.
+- Planeta Mül.
+
+576
+00:50:32,423 --> 00:50:35,053
+- O que sabem?
+- Que assunto sensível.
+
+577
+00:50:35,054 --> 00:50:36,455
+A melhor pessoa
+para dizer...
+
+578
+00:50:36,456 --> 00:50:38,898
+- É o major Sank.
+- Alex?
+
+579
+00:50:38,899 --> 00:50:43,219
+- Major Sank morreu há um ano.
+- Sim. Um morte curiosa.
+
+580
+00:50:43,220 --> 00:50:46,536
+- Não totalmente explicada.
+- Assassinato, alguns falam.
+
+581
+00:50:47,305 --> 00:50:49,408
+Major Sank era especialista
+no planeta Mül.
+
+582
+00:50:49,409 --> 00:50:51,947
+- Levou informações preciosas.
+- Ao túmulo com ele.
+
+583
+00:50:51,948 --> 00:50:54,214
+- Grande perda.
+- Se souberem de algo
+
+584
+00:50:54,215 --> 00:50:55,965
+deste planeta,
+estamos interessados.
+
+585
+00:50:55,966 --> 00:50:57,864
+Seria um prazer
+trabalhar para você.
+
+586
+00:50:57,865 --> 00:50:59,965
+- Antes de irmos...
+- Gostaríamos de dar...
+
+587
+00:50:59,966 --> 00:51:01,521
+- Uma informação...
+- De graça.
+
+588
+00:51:01,522 --> 00:51:02,905
+De graça?
+
+589
+00:51:02,906 --> 00:51:05,506
+- Devem estar doentes.
+- O Conversor é precioso.
+
+590
+00:51:05,507 --> 00:51:07,506
+- E muito desejado.
+- Mercenários virão.
+
+591
+00:51:07,507 --> 00:51:09,207
+- Para pegá-lo...
+- O quanto antes.
+
+592
+00:51:09,208 --> 00:51:11,558
+- Que mercenários?
+- A primeira dica foi grátis.
+
+593
+00:51:11,559 --> 00:51:14,571
+- Precisa pagar para mais.
+- Mas você tem desconto, claro.
+
+594
+00:51:18,411 --> 00:51:20,370
+General, temos um alerta
+na Seção B.
+
+595
+00:51:20,371 --> 00:51:23,323
+- Alex, o que é isso?
+<i>- 12 indivíduos se aproximando.</i>
+
+596
+00:51:23,324 --> 00:51:26,079
+<i>- Que tipo de indivíduos?
+- Indetectáveis, por enquanto.</i>
+
+597
+00:51:26,080 --> 00:51:28,251
+Parece que a dica de vocês
+perdeu o valor.
+
+598
+00:51:28,876 --> 00:51:30,532
+Agora saiam da minha frente.
+
+599
+00:51:31,600 --> 00:51:33,963
+- Vão, pombos.
+- Ela nos chamou de pombos.
+
+600
+00:51:33,964 --> 00:51:35,264
+- O que é pombo?
+- Não sei.
+
+601
+00:51:37,998 --> 00:51:39,625
+- De onde eles vêm?
+<i>- De todo lugar.</i>
+
+602
+00:51:39,626 --> 00:51:40,940
+<i>Estão indo pelas paredes.</i>
+
+603
+00:51:40,941 --> 00:51:42,854
+Preciso saber
+a identidade dos invasores.
+
+604
+00:51:42,855 --> 00:51:44,994
+Todos, por favor, evacuem.
+
+605
+00:51:45,295 --> 00:51:48,594
+<i>- Não consigo ler o DNA.</i>
+- O quê?
+
+606
+00:51:51,280 --> 00:51:54,007
+Senhor, a porta está trancada.
+Não podemos sair.
+
+607
+00:51:54,008 --> 00:51:55,963
+- Laureline.
+- Estou indo.
+
+608
+00:51:59,127 --> 00:52:01,230
+- Evacue o comandante.
+- Entendido.
+
+609
+00:52:01,231 --> 00:52:03,396
+General, vigie aquela porta.
+
+610
+00:52:03,397 --> 00:52:05,276
+- Comandante.
+- O que está havendo?
+
+611
+00:52:05,277 --> 00:52:07,160
+- Precisamos evacuar.
+- Vamos.
+
+612
+00:52:09,742 --> 00:52:13,295
+- Não está funcionando.
+- Alex, abra a porta.
+
+613
+00:54:08,887 --> 00:54:10,609
+- O que foi aquilo?
+- Os Pearls.
+
+614
+00:54:10,610 --> 00:54:14,314
+Eles levaram o comandante.
+Pegue isso, libere o general,
+
+615
+00:54:14,315 --> 00:54:16,614
+vá para a sala de comando,
+para rastreá-los.
+
+616
+00:54:16,615 --> 00:54:18,015
+Está bem.
+
+617
+00:54:30,231 --> 00:54:32,440
+- Estamos com energia de novo?
+- Sim, senhor.
+
+618
+00:54:32,441 --> 00:54:34,337
+Todos de volta a seus postos!
+
+619
+00:54:39,002 --> 00:54:41,735
+Status do major Valerian,
+emergência nível 5.
+
+620
+00:54:41,736 --> 00:54:43,087
+Confirmado.
+
+621
+00:54:44,674 --> 00:54:47,414
+- Valerian, tenho visual.
+<i>- Certo, mas eu os perdi.</i>
+
+622
+00:54:47,415 --> 00:54:48,962
+<i>Tente localizar
+o comandante.</i>
+
+623
+00:54:55,514 --> 00:54:56,814
+<i>Certo, os encontrei.</i>
+
+624
+00:54:56,815 --> 00:55:00,236
+Estão perto do desembarque,
+vão levá-lo para a nave.
+
+625
+00:55:01,221 --> 00:55:02,758
+Certo.
+
+626
+00:55:02,864 --> 00:55:04,523
+<i>Qual o caminho mais
+curto até lá?</i>
+
+627
+00:55:04,824 --> 00:55:07,042
+Norte, nordeste.
+A 113 graus.
+
+628
+00:55:07,043 --> 00:55:10,384
+60, 70, 80...
+
+629
+00:55:10,689 --> 00:55:12,154
+90.
+
+630
+00:55:12,668 --> 00:55:14,308
+Isso dá de cara
+com a parede.
+
+631
+00:55:14,309 --> 00:55:16,450
+Você disse que queria
+o caminho mais curto.
+
+632
+00:55:57,607 --> 00:56:00,759
+Pode ser o caminho mais curto,
+mas não é o mais fácil.
+
+633
+00:56:08,493 --> 00:56:11,669
+Continue.
+Você está quase lá.
+
+634
+00:56:23,953 --> 00:56:26,816
+Eles embarcaram numa nave
+sem identificação, desconhecida.
+
+635
+00:56:26,817 --> 00:56:28,693
+Valerian, eles embarcaram.
+Novo plano.
+
+636
+00:56:28,694 --> 00:56:31,431
+140º a leste.
+Alex vai te buscar.
+
+637
+00:56:36,165 --> 00:56:39,063
+<i>- 81?</i>
+- Isso, 81. Direto.
+
+638
+00:56:40,997 --> 00:56:43,623
+- É 81 mesmo? Tem certeza?
+- Sim, tenho certeza.
+
+639
+00:56:43,624 --> 00:56:46,493
+Porque acabei de passar
+e estou caindo no espaço.
+
+640
+00:56:49,843 --> 00:56:52,112
+Desculpe, foi erro meu.
+Era número 18.
+
+641
+00:56:52,113 --> 00:56:54,645
+Sem problemas.
+Todos cometemos erros.
+
+642
+00:56:54,646 --> 00:56:56,268
+Alguma ideia
+para me tirar daqui?
+
+643
+00:56:56,269 --> 00:56:58,444
+Alex? Pegue-o na 81.
+
+644
+00:57:10,935 --> 00:57:12,911
+Entrei, pode fechar.
+
+645
+00:57:21,664 --> 00:57:23,678
+Foco na praia.
+
+646
+00:57:32,433 --> 00:57:34,929
+Não sei de onde
+vocês vieram,
+
+647
+00:57:34,930 --> 00:57:37,180
+mas sei para onde
+vou mandá-los.
+
+648
+00:57:51,857 --> 00:57:53,547
+<i>Valerian? Aguarde.</i>
+
+649
+00:57:53,548 --> 00:57:55,987
+<i>Estamos analisando
+o sistema de defesa.</i>
+
+650
+00:58:00,169 --> 00:58:02,757
+Major, o escudo de proteção
+deles é bem sofisticado,
+
+651
+00:58:02,758 --> 00:58:05,406
+- não há com entrar.
+- Vou tentar uma coisa maior.
+
+652
+00:58:10,002 --> 00:58:11,443
+Merda!
+
+653
+00:58:15,661 --> 00:58:17,875
+Laureline, em qual delas
+está o comandante?
+
+654
+00:58:17,876 --> 00:58:20,512
+<i>À esquerda, nível baixo.
+Rápido.</i>
+
+655
+00:58:22,166 --> 00:58:24,393
+<i>É essa mesmo,
+não perca de vista.</i>
+
+656
+00:58:36,163 --> 00:58:38,113
+Valerian, tenha cuidado.
+
+657
+00:58:55,354 --> 00:58:57,166
+A Intruder é grande demais.
+
+658
+00:58:57,167 --> 00:58:58,848
+Vou pegar o Skyjet.
+
+659
+00:58:59,247 --> 00:59:00,645
+CUIDADO
+- Está bem.
+
+660
+00:59:16,601 --> 00:59:19,245
+Valerian, você está perto
+da zona morta.
+
+661
+00:59:19,246 --> 00:59:21,178
+Alcance-os
+antes que eu te perca.
+
+662
+00:59:21,179 --> 00:59:23,047
+Estou trabalhando nisso.
+
+663
+00:59:39,337 --> 00:59:41,271
+<i>Valerian, você precisa ir
+mais rápido.</i>
+
+664
+00:59:41,272 --> 00:59:42,584
+Vamos lá.
+
+665
+00:59:49,736 --> 00:59:52,490
+Valerian, tem 10 segundos
+antes que eu perca seu sinal.
+
+666
+00:59:52,491 --> 00:59:53,950
+Toma essa!
+
+667
+00:59:57,322 --> 00:59:58,767
+Quem é o sabichão agora?
+
+668
+00:59:58,768 --> 01:00:01,381
+Valerian,
+você tem 5 segundos.
+
+669
+01:00:03,831 --> 01:00:05,179
+Essa não.
+
+670
+01:00:05,180 --> 01:00:06,657
+Não sou eu.
+
+671
+01:00:09,697 --> 01:00:12,206
+- Valerian?
+<i>- Não consigo fazê-los parar.</i>
+
+672
+01:00:12,207 --> 01:00:13,623
+Vamos lá.
+
+673
+01:00:14,060 --> 01:00:15,367
+Vamos lá!
+
+674
+01:00:15,368 --> 01:00:18,750
+<i>Entrando na zona vermelha.</i>
+
+675
+01:00:18,751 --> 01:00:20,812
+Valerian, você me escuta?
+
+676
+01:00:21,558 --> 01:00:23,021
+Laureline!
+
+677
+01:00:23,022 --> 01:00:24,811
+Estou perdendo o controle!
+
+678
+01:00:24,812 --> 01:00:26,366
+Laureline!
+
+679
+01:00:27,598 --> 01:00:29,706
+Valerian, responda-me!
+
+680
+01:00:29,707 --> 01:00:32,489
+- Valerian, responda-me.
+- Major, responda.
+
+681
+01:00:32,490 --> 01:00:35,381
+<i>- Alex, pode ajudar?
+- Há muita interferência,</i>
+
+682
+01:00:35,382 --> 01:00:37,524
+<i>eu perdi o sinal do major.</i>
+
+683
+01:00:40,659 --> 01:00:42,290
+Valerian?
+
+684
+01:00:42,726 --> 01:00:44,364
+Valerian!
+
+685
+01:00:46,418 --> 01:00:48,773
+Valerian, está na escuta?
+
+686
+01:00:48,974 --> 01:00:50,418
+Nós o perdemos.
+
+687
+01:00:50,419 --> 01:00:53,162
+- Sargento, aonde vai?
+- Pegar meu Skyjet.
+
+688
+01:00:53,496 --> 01:00:55,942
+- Você não vai atrás dele.
+- Por que não?
+
+689
+01:00:55,943 --> 01:00:58,015
+Ali é controlado por inimigos.
+É perigoso.
+
+690
+01:00:58,016 --> 01:01:01,078
+- Inimigos que não conhecemos.
+- Inimigos que nos atacaram.
+
+691
+01:01:01,079 --> 01:01:03,420
+Pondo-nos para dormir,
+sem ferir nenhum de nós?
+
+692
+01:01:03,421 --> 01:01:06,076
+Por que poupariam nossas vidas?
+Me dê um bom motivo.
+
+693
+01:01:06,494 --> 01:01:08,496
+- Eu não sei.
+- O Valerian já viu
+
+694
+01:01:08,497 --> 01:01:11,128
+essas criaturas antes.
+São do planeta Mül.
+
+695
+01:01:11,129 --> 01:01:13,982
+O planeta Mül foi destruído
+há 30 anos.
+
+696
+01:01:13,983 --> 01:01:15,283
+Isso não faz sentido.
+
+697
+01:01:15,284 --> 01:01:17,095
+Nossa missão não faz sentido,
+senhor.
+
+698
+01:01:17,096 --> 01:01:18,565
+Alguém está mentindo
+para nós.
+
+699
+01:01:18,566 --> 01:01:21,840
+Enquanto você descobre quem é,
+vou salvar meu parceiro.
+
+700
+01:01:29,888 --> 01:01:33,760
+General, o major Valerian
+é um agente valioso.
+
+701
+01:01:33,761 --> 01:01:35,623
+Não pode se dar ao luxo
+de perdê-lo.
+
+702
+01:01:35,624 --> 01:01:38,639
+Não, não posso perder vocês dois
+em um único dia.
+
+703
+01:01:38,640 --> 01:01:40,544
+Contenham-na.
+
+704
+01:01:45,238 --> 01:01:47,138
+Coloque-nos
+em alerta máximo.
+
+705
+01:01:47,530 --> 01:01:50,834
+- E encontre o comandante.
+- Sim, senhor.
+
+706
+01:02:09,305 --> 01:02:12,306
+Escutem, não quero dizer
+como fazer seu trabalho,
+
+707
+01:02:12,307 --> 01:02:14,263
+mas não acham
+que deveriam me algemar?
+
+708
+01:02:14,264 --> 01:02:17,048
+Primeiro, porque é o protocolo,
+segundo porque estou
+
+709
+01:02:17,049 --> 01:02:19,280
+bem tentada a escapar.
+
+710
+01:02:34,206 --> 01:02:35,870
+Bom trabalho, rapazes.
+
+711
+01:02:41,523 --> 01:02:43,449
+Nós precisamos conversar.
+
+712
+01:02:47,138 --> 01:02:49,733
+- Olha, tenha cuidado.
+- Rápido.
+
+713
+01:02:49,734 --> 01:02:53,032
+Ajudem-me a achar o Valerian
+ou estas balas acharão vocês.
+
+714
+01:02:53,033 --> 01:02:55,158
+- Você primeiro.
+- Não!
+
+715
+01:02:55,159 --> 01:02:56,715
+É para evitar
+essas situações...
+
+716
+01:02:56,716 --> 01:02:58,962
+- Que as informações...
+- São divididas em 3.
+
+717
+01:02:58,963 --> 01:03:00,699
+- Mate-nos.
+- E a informação morre.
+
+718
+01:03:00,700 --> 01:03:02,266
+Seria uma pena.
+
+719
+01:03:02,267 --> 01:03:05,335
+Está bem. Terão que fazer fiado,
+não tenho nada comigo.
+
+720
+01:03:05,336 --> 01:03:07,514
+- Que tristeza.
+- O comandante poderia usar
+
+721
+01:03:07,515 --> 01:03:10,065
+- o Conversor para nos pagar.
+- Mas ele foi raptado.
+
+722
+01:03:10,066 --> 01:03:12,215
+Isso, porque o Conversor
+estava com ele.
+
+723
+01:03:12,216 --> 01:03:15,320
+- A não ser que por segurança...
+- Outro alguém estava com ele.
+
+724
+01:03:16,224 --> 01:03:18,155
+Como vocês conseguiram
+essa informação?
+
+725
+01:03:18,156 --> 01:03:19,751
+- Não é informação.
+- É palpite.
+
+726
+01:03:19,752 --> 01:03:21,487
+Sabemos
+como os humanos funcionam.
+
+727
+01:03:21,488 --> 01:03:23,258
+São tão previsíveis.
+
+728
+01:03:23,259 --> 01:03:25,161
+Obviamente nunca conheceram
+uma mulher.
+
+729
+01:03:25,522 --> 01:03:27,249
+- Está bem!
+- Acalme-se.
+
+730
+01:03:27,250 --> 01:03:30,038
+- O que quer saber?
+- O local exato do Valerian.
+
+731
+01:03:30,039 --> 01:03:32,131
+- Difícil dizer.
+- Sabemos como rastrear.
+
+732
+01:03:32,132 --> 01:03:33,764
+Com precisão.
+
+733
+01:03:33,765 --> 01:03:35,878
+- Por quanto?
+- 100 baduls.
+
+734
+01:03:35,879 --> 01:03:38,376
+- Para cada um.
+- Nem sonhando.
+
+735
+01:03:38,838 --> 01:03:40,538
+Isto é tudo que tenho.
+
+736
+01:03:41,439 --> 01:03:43,489
+Diamantes são menos valiosos
+que baduls.
+
+737
+01:03:43,490 --> 01:03:45,874
+- A negociação acabou.
+- Confiamos em você.
+
+738
+01:03:45,875 --> 01:03:47,941
+- E pelas circunstâncias...
+- Aceitamos.
+
+739
+01:03:47,942 --> 01:03:50,313
+Que bom.
+Agora levem-me até o Valerian.
+
+740
+01:03:50,314 --> 01:03:52,320
+- Agora!
+- Siga-nos.
+
+741
+01:03:52,321 --> 01:03:54,900
+Phillips, vá para o local
+onde o major sumiu.
+
+742
+01:03:54,901 --> 01:03:57,856
+Marlow, localize e traga
+a agente Laureline.
+
+743
+01:03:58,159 --> 01:04:01,275
+- Neza, informe o ministro.
+- Sim, senhor.
+
+744
+01:04:01,276 --> 01:04:03,525
+Dê-me alguns minutos,
+por favor.
+
+745
+01:04:07,307 --> 01:04:08,747
+Confidencial.
+
+746
+01:04:09,377 --> 01:04:11,933
+Preciso de todas as informações
+do planeta Mül.
+
+747
+01:04:14,703 --> 01:04:17,007
+Quem tem autoridade
+sobre esse arquivo?
+
+748
+01:04:17,008 --> 01:04:18,666
+CONFIDENCIAL
+ACESSO NEGADO
+
+749
+01:04:28,280 --> 01:04:30,212
+Não gosto deste lugar.
+
+750
+01:04:33,003 --> 01:04:34,819
+Me dá isso.
+
+751
+01:04:40,964 --> 01:04:43,870
+Estou com um mau pressentimento
+sobre essa ideia.
+
+752
+01:04:50,045 --> 01:04:51,646
+Na mosca!
+
+753
+01:04:56,251 --> 01:04:58,343
+- O que vocês querem?
+- Queremos pescar...
+
+754
+01:04:58,344 --> 01:05:01,329
+- Uma água-viva.
+- Macho, se possível.
+
+755
+01:05:04,588 --> 01:05:07,708
+- Não está na época.
+- Pega isto.
+
+756
+01:05:09,902 --> 01:05:11,716
+Macho é mais difícil
+de pegar.
+
+757
+01:05:11,717 --> 01:05:13,092
+Toma.
+
+758
+01:05:14,928 --> 01:05:16,793
+Bem-vindos a bordo.
+
+759
+01:05:23,811 --> 01:05:25,874
+A coisa, abaixe.
+
+760
+01:05:25,875 --> 01:05:28,960
+- A coisa, abaixe.
+- Isto aqui?
+
+761
+01:05:40,719 --> 01:05:43,755
+Ali.
+Bromossauro.
+
+762
+01:05:49,290 --> 01:05:50,702
+Eles são perigosos?
+
+763
+01:05:50,703 --> 01:05:54,246
+Não. Só precisa ter cuidado
+para eles não te sugarem.
+
+764
+01:06:05,983 --> 01:06:08,968
+Ali.
+Aquele ali é macho.
+
+765
+01:06:14,229 --> 01:06:15,531
+Como você sabe?
+
+766
+01:06:15,532 --> 01:06:18,512
+Eles são bem menores
+do que as fêmeas.
+
+767
+01:06:30,105 --> 01:06:32,594
+Como sabe que aquele ali
+tem uma água-viva?
+
+768
+01:06:32,595 --> 01:06:34,937
+Todos os machos têm.
+Os Bromosauros esguicham
+
+769
+01:06:34,938 --> 01:06:38,397
+água pura, que as águas-vivas
+não podem viver sem.
+
+770
+01:06:38,398 --> 01:06:40,457
+Por isso vivem neles
+o ano inteiro.
+
+771
+01:06:40,458 --> 01:06:43,932
+E é por causa disso que são
+super sensíveis.
+
+772
+01:06:49,640 --> 01:06:53,862
+Com calma e devagar...
+
+773
+01:06:53,863 --> 01:06:55,641
+Posso ajudar?
+Eu piloto bem.
+
+774
+01:07:14,482 --> 01:07:16,486
+- Coloca o cinto.
+- O quê?
+
+775
+01:07:30,204 --> 01:07:31,936
+Coloca o cinto.
+
+776
+01:07:32,361 --> 01:07:34,062
+Você disse
+que não eram agressivos.
+
+777
+01:07:34,063 --> 01:07:36,359
+Exceto quando se mexe
+com os amiguinhos deles.
+
+778
+01:07:36,360 --> 01:07:37,757
+Que ótimo.
+
+779
+01:08:09,120 --> 01:08:11,049
+Aliás, sou o Bob.
+
+780
+01:08:11,964 --> 01:08:13,365
+Oi.
+
+781
+01:08:17,499 --> 01:08:18,810
+Não temos tempo.
+
+782
+01:08:18,811 --> 01:08:21,367
+O córtex da água-viva
+é extremamente frágil.
+
+783
+01:08:21,368 --> 01:08:24,794
+- Mostre imagens do Valerian.
+- E ela mostrará o que viu.
+
+784
+01:08:24,795 --> 01:08:26,497
+Claro, mas como?
+
+785
+01:08:26,498 --> 01:08:29,005
+- Tem que pôr na sua cabeça.
+- Até seus ombros.
+
+786
+01:08:29,006 --> 01:08:31,013
+- Estão brincando.
+- Nunca em trabalho.
+
+787
+01:08:31,014 --> 01:08:33,439
+- É tipo uma osmose.
+- Vai poder se comunicar.
+
+788
+01:08:33,440 --> 01:08:35,102
+- Mas cuidado.
+- Não fique lá...
+
+789
+01:08:35,103 --> 01:08:37,365
+- Mais de 1 minuto.
+- Ele vai se alimentar...
+
+790
+01:08:37,366 --> 01:08:40,594
+- Das suas lembranças.
+- Que ótimo.
+
+791
+01:08:41,259 --> 01:08:44,125
+Devo saber mais alguma coisa
+antes de enfiar minha cabeça
+
+792
+01:08:44,126 --> 01:08:46,666
+- nessa boca?
+- Na verdade, não é a boca.
+
+793
+01:08:46,667 --> 01:08:48,535
+- Pode começar.
+- Boa sorte.
+
+794
+01:08:52,672 --> 01:08:53,982
+- Não esqueça.
+- 1 minuto.
+
+795
+01:08:53,983 --> 01:08:55,575
+Nem um segundo a mais.
+
+796
+01:08:57,616 --> 01:08:59,588
+Sei que guardei aqui
+em algum lugar.
+
+797
+01:08:59,589 --> 01:09:01,214
+Achei.
+
+798
+01:09:02,928 --> 01:09:04,760
+Eca!
+
+799
+01:09:07,711 --> 01:09:09,494
+Lá vamos nós.
+
+800
+01:09:10,336 --> 01:09:12,205
+<i>Isso é bem emocionante.</i>
+
+801
+01:09:13,509 --> 01:09:15,165
+<i>Valerian?</i>
+
+802
+01:09:21,604 --> 01:09:23,628
+<i>Valerian, responda.</i>
+
+803
+01:09:26,054 --> 01:09:28,578
+<i>O que eu posso fazer
+para recompensar?</i>
+
+804
+01:09:33,966 --> 01:09:35,516
+30 segundos.
+
+805
+01:09:37,512 --> 01:09:39,505
+<i>Até a morte!</i>
+
+806
+01:09:42,608 --> 01:09:44,506
+<i>Laureline!</i>
+
+807
+01:09:46,537 --> 01:09:48,587
+<i>Valerian!</i>
+
+808
+01:09:50,328 --> 01:09:51,959
+<i>Valerian.</i>
+
+809
+01:09:52,279 --> 01:09:54,169
+40 segundos.
+
+810
+01:10:03,169 --> 01:10:05,270
+- 50 segundos. Tire!
+- Agora!
+
+811
+01:10:05,271 --> 01:10:07,122
+55 segundos!
+
+812
+01:10:07,823 --> 01:10:09,506
+<i>Valerian!</i>
+
+813
+01:10:10,348 --> 01:10:11,819
+<i>Valerian.</i>
+
+814
+01:10:14,762 --> 01:10:16,524
+<i>Valerian!</i>
+
+815
+01:10:18,298 --> 01:10:20,803
+- Cuidado.
+- Incrível!
+
+816
+01:10:20,804 --> 01:10:22,773
+- 1 minuto...
+- E 10 segundos.
+
+817
+01:10:22,774 --> 01:10:24,283
+Um recorde!
+
+818
+01:10:29,756 --> 01:10:33,517
+L630.
+
+819
+01:10:33,836 --> 01:10:36,967
+ESUL desativado.
+
+820
+01:10:36,968 --> 01:10:38,792
+Alguma ideia
+do que isso significa?
+
+821
+01:10:38,793 --> 01:10:40,310
+Nível 630 leste.
+
+822
+01:10:40,311 --> 01:10:43,399
+- Uma rede de sulfato.
+- Desativada.
+
+823
+01:10:43,400 --> 01:10:46,201
+Certo, obrigada.
+
+824
+01:10:46,202 --> 01:10:48,737
+Você precisa
+de um mapa detalhado?
+
+825
+01:10:49,567 --> 01:10:52,185
+A sargento Laureline
+foi rastreada até aqui.
+
+826
+01:10:52,186 --> 01:10:54,161
+O que ela faz
+sob o Mar de Galana?
+
+827
+01:10:54,162 --> 01:10:55,530
+Não faço ideia, senhor.
+
+828
+01:10:55,531 --> 01:10:58,570
+Ela roubou um veículo,
+entrou na zona vermelha
+
+829
+01:10:58,571 --> 01:11:00,473
+e perdemos o sinal dela.
+
+830
+01:11:01,781 --> 01:11:03,761
+Deve ter ido atrás do major.
+
+831
+01:11:03,762 --> 01:11:06,859
+<i>General, há três civis aqui
+dizendo ter informações</i>
+
+832
+01:11:06,860 --> 01:11:08,391
+<i>que podem interessar
+ao senhor.</i>
+
+833
+01:11:08,392 --> 01:11:09,920
+Mande-os entrarem.
+
+834
+01:11:13,820 --> 01:11:15,573
+Então, são vocês.
+
+835
+01:11:15,969 --> 01:11:18,308
+Com todo o nosso respeito,
+general.
+
+836
+01:11:18,309 --> 01:11:20,095
+- Que seja saudável.
+- E próspero.
+
+837
+01:11:20,096 --> 01:11:22,622
+- Querem o quê?
+- Temos informações importantes.
+
+838
+01:11:22,623 --> 01:11:24,969
+- E queremos vender.
+- 100 baduls.
+
+839
+01:11:24,970 --> 01:11:26,486
+Para cada um.
+
+840
+01:11:27,269 --> 01:11:28,649
+Podem falar.
+
+841
+01:11:34,123 --> 01:11:36,807
+L 630 E
+SUL - DESATIVADO
+
+842
+01:11:39,559 --> 01:11:41,553
+Valerian!
+
+843
+01:11:49,986 --> 01:11:51,864
+Sai daí, lagarto!
+
+844
+01:12:02,634 --> 01:12:05,672
+Valerian?
+Valerian, está me ouvindo?
+
+845
+01:12:09,688 --> 01:12:11,604
+Valerian, acorde!
+
+846
+01:12:11,605 --> 01:12:13,289
+Valerian, por favor.
+
+847
+01:12:13,290 --> 01:12:15,786
+Fique comigo, Valerian.
+Vamos lá!
+
+848
+01:12:27,005 --> 01:12:29,815
+- O que está fazendo aqui?
+- Eu vim buscar você.
+
+849
+01:12:29,816 --> 01:12:32,347
+Você acabou com o Skyjet,
+lembra?
+
+850
+01:12:33,009 --> 01:12:34,365
+Lembro.
+
+851
+01:12:35,078 --> 01:12:36,716
+Perdi o controle na curva.
+
+852
+01:12:36,717 --> 01:12:39,156
+Você quase morreu.
+Teve sorte que eu te achei.
+
+853
+01:12:39,157 --> 01:12:41,165
+E o comandante,
+sabe onde ele está?
+
+854
+01:12:41,166 --> 01:12:42,468
+Não há sinal dele.
+
+855
+01:12:42,469 --> 01:12:44,446
+A nave deles entrou
+na zona vermelha.
+
+856
+01:12:45,354 --> 01:12:46,988
+Precisamos encontrá-lo.
+
+857
+01:12:47,734 --> 01:12:49,549
+- Vamos.
+- Espere.
+
+858
+01:12:52,893 --> 01:12:54,738
+- É só isso?
+- Como assim?
+
+859
+01:12:54,739 --> 01:12:57,072
+Nenhum "obrigado",
+ou "muito bem"?
+
+860
+01:12:57,809 --> 01:12:59,811
+Eu faria o mesmo por você.
+
+861
+01:13:05,475 --> 01:13:07,040
+Seu moleque!
+
+862
+01:13:07,599 --> 01:13:10,348
+Calma! Confio mais em você
+do que em mim mesmo,
+
+863
+01:13:10,349 --> 01:13:12,374
+- não é o que queria?
+- Não.
+
+864
+01:13:12,982 --> 01:13:15,518
+Você é uma mulher incrível,
+Laureline.
+
+865
+01:13:15,519 --> 01:13:16,969
+Por isso quero casar
+com você.
+
+866
+01:13:16,970 --> 01:13:19,751
+Por que me casaria
+com um convencido ingrato...
+
+867
+01:13:19,752 --> 01:13:21,709
+Porque não consegue
+viver sem ele.
+
+868
+01:13:21,710 --> 01:13:24,828
+Porque você vai sempre
+atrás dele sempre que ele some.
+
+869
+01:13:26,405 --> 01:13:29,290
+Só estava fazendo
+meu trabalho, major.
+
+870
+01:13:29,291 --> 01:13:31,985
+Agora pode, por favor,
+me deixar voltar para a missão?
+
+871
+01:13:31,986 --> 01:13:34,343
+Posso. Claro.
+
+872
+01:13:34,344 --> 01:13:36,902
+- Que bom.
+- Sargento.
+
+873
+01:13:43,139 --> 01:13:44,466
+Capitão, o que é isso?
+
+874
+01:13:44,467 --> 01:13:46,974
+Só respondo
+ao comandante Arün Filitt.
+
+875
+01:13:46,975 --> 01:13:48,819
+- Eu não...
+- Sou o general Okto-Bar!
+
+876
+01:13:48,820 --> 01:13:52,279
+Na ausência do comandante,
+eu estou no comando da Alfa!
+
+877
+01:13:52,280 --> 01:13:53,975
+Prendam este homem!
+
+878
+01:13:54,318 --> 01:13:56,231
+Soltem este daqui.
+
+879
+01:14:00,352 --> 01:14:02,845
+Peço desculpas
+pelos maus tratos.
+
+880
+01:14:03,165 --> 01:14:06,579
+Vamos te prender,
+mas os médicos cuidarão de você.
+
+881
+01:14:09,765 --> 01:14:11,655
+Ajude-nos.
+
+882
+01:14:12,332 --> 01:14:14,145
+Se precisa da minha ajuda,
+
+883
+01:14:14,534 --> 01:14:16,824
+terá que me contar
+tudo o que sabe.
+
+884
+01:14:17,741 --> 01:14:20,082
+Mas, primeiro,
+por que estão nos atacando?
+
+885
+01:14:20,083 --> 01:14:22,358
+Porque vocês têm
+
+886
+01:14:23,256 --> 01:14:25,625
+o que precisamos.
+
+887
+01:14:38,517 --> 01:14:41,210
+Não disse que a garota
+no seu sonho tinha um Conversor
+
+888
+01:14:41,211 --> 01:14:43,084
+- igual ao meu?
+- Isso mesmo.
+
+889
+01:14:43,085 --> 01:14:45,207
+Se os animais são nativos
+do planeta deles,
+
+890
+01:14:45,208 --> 01:14:48,372
+dá para entender por que querem
+recuperar o último da espécie.
+
+891
+01:14:48,373 --> 01:14:51,810
+Sim, e raptaram o comandante
+porque acharam que ele o tinha.
+
+892
+01:14:51,811 --> 01:14:54,668
+Quando descobrirem que ele
+não tem, eu virarei o alvo.
+
+893
+01:14:54,669 --> 01:14:56,726
+Relaxa, não te deixarei ir
+a lugar nenhum.
+
+894
+01:14:56,727 --> 01:14:59,143
+Não, não deixarei você
+ir para lugar nenhum.
+
+895
+01:15:16,883 --> 01:15:18,343
+Que borboleta linda.
+
+896
+01:15:18,344 --> 01:15:20,715
+Claro, mas seja como for,
+não a toque.
+
+897
+01:15:20,716 --> 01:15:23,196
+- Por quê?
+- Porque algumas são...
+
+898
+01:15:25,699 --> 01:15:27,477
+Valerian!
+
+899
+01:15:28,277 --> 01:15:30,129
+Laureline!
+
+900
+01:15:30,639 --> 01:15:32,455
+Já estou indo!
+
+901
+01:15:57,358 --> 01:16:00,732
+Solte-me, grandão,
+coloque-me no chão!
+
+902
+01:16:03,287 --> 01:16:05,575
+Desculpe,
+não sou comestível.
+
+903
+01:16:06,986 --> 01:16:08,741
+Valerian!
+
+904
+01:16:14,835 --> 01:16:16,987
+<i>Major? Agora eu consigo
+ler seu sinal.</i>
+
+905
+01:16:16,988 --> 01:16:18,619
+Valerian!
+
+906
+01:16:30,010 --> 01:16:31,712
+ÁREA RESTRITA
+PROIBIDO A ESTRANHOS
+
+907
+01:16:31,713 --> 01:16:33,459
+Alex, alguma ideia?
+
+908
+01:16:33,460 --> 01:16:35,392
+<i>O único jeito de entrar
+sem criar</i>
+
+909
+01:16:35,393 --> 01:16:39,172
+<i>um grave incidente diplomático
+é se passar por um deles.</i>
+
+910
+01:16:39,173 --> 01:16:41,829
+<i>Sugiro que tente achar
+um Glamopod.</i>
+
+911
+01:16:43,982 --> 01:16:45,640
+BECO DO PARAÍSO
+- Obrigado, Alex.
+
+912
+01:16:54,994 --> 01:16:58,498
+- Fez a busca por DNA?
+- Fiz.
+
+913
+01:16:58,499 --> 01:17:01,031
+Mas não combinou com nenhuma
+das 800 mil espécies
+
+914
+01:17:01,032 --> 01:17:03,286
+- que temos no banco de dados.
+- Como assim?
+
+915
+01:17:03,287 --> 01:17:05,916
+Ou pertence a uma espécie
+completamente diferente...
+
+916
+01:17:05,917 --> 01:17:08,354
+- Ou?
+- Ou a espécie foi deletada
+
+917
+01:17:08,355 --> 01:17:10,120
+do banco de dados
+de propósito.
+
+918
+01:17:12,828 --> 01:17:16,751
+General. O major reapareceu
+perto da zona vermelha.
+
+919
+01:17:16,752 --> 01:17:19,868
+- Em qual distrito ele está?
+- No Beco do Paraíso.
+
+920
+01:17:21,694 --> 01:17:23,627
+Notifique à todas as unidades.
+
+921
+01:17:26,561 --> 01:17:28,339
+<i>Todas as unidades,
+alerta de busca.</i>
+
+922
+01:17:28,340 --> 01:17:30,632
+<i>Major Valerian, inofensivo.</i>
+
+923
+01:17:31,077 --> 01:17:32,825
+<i>Encontrem-no e vigiem.</i>
+
+924
+01:17:34,269 --> 01:17:36,282
+- Posso ajudá-lo?
+- Claro que pode.
+
+925
+01:17:36,283 --> 01:17:37,868
+Anda.
+
+926
+01:17:39,981 --> 01:17:41,288
+Muito bem.
+
+927
+01:17:41,289 --> 01:17:43,307
+Primeiro entregue-me sua arma.
+
+928
+01:17:45,457 --> 01:17:46,817
+Fique quieto.
+
+929
+01:18:08,155 --> 01:18:09,903
+Olá, doçura!
+
+930
+01:18:10,933 --> 01:18:12,749
+Quer se balançar?
+
+931
+01:18:19,365 --> 01:18:21,646
+Doçura, quer voar?
+
+932
+01:18:21,647 --> 01:18:23,488
+Sou alérgico a penas.
+
+933
+01:18:24,277 --> 01:18:27,710
+- Meu herói.
+- Cara errado.
+
+934
+01:18:35,294 --> 01:18:37,908
+Não sei falar francês.
+
+935
+01:18:41,578 --> 01:18:42,996
+Olá.
+
+936
+01:18:46,319 --> 01:18:48,920
+Sai, sai.
+Seu pervertido.
+
+937
+01:18:48,921 --> 01:18:50,955
+Olá, cowboy.
+
+938
+01:18:50,956 --> 01:18:54,649
+Veio ao lugar certo, o melhor
+clube de dança de toda estação.
+
+939
+01:18:54,650 --> 01:18:57,047
+Falo com você em um segundo.
+
+940
+01:18:57,609 --> 01:18:59,821
+Estou procurando algo especial.
+
+941
+01:18:59,822 --> 01:19:02,640
+Claro que quer.
+O que quiser,
+
+942
+01:19:02,641 --> 01:19:04,296
+eu tenho.
+
+943
+01:19:04,297 --> 01:19:08,066
+- Não tenho tanta certeza.
+- Então, diga-me o que quer.
+
+944
+01:19:08,067 --> 01:19:10,654
+- Glamopod.
+- Está com sorte.
+
+945
+01:19:10,655 --> 01:19:13,647
+Tenho a melhor do universo.
+Vamos lá!
+
+946
+01:19:17,073 --> 01:19:18,685
+Vamos lá.
+
+947
+01:19:30,304 --> 01:19:32,170
+Eu trabalho para o governo.
+
+948
+01:19:35,861 --> 01:19:37,945
+Se quer evitar
+um incidente diplomático,
+
+949
+01:19:37,946 --> 01:19:40,052
+é melhor me deixar sair,
+agora.
+
+950
+01:19:44,242 --> 01:19:46,971
+Ouça, não vim aqui
+para me trocar.
+
+951
+01:19:46,972 --> 01:19:49,848
+Eu preciso partir,
+compreende?
+
+952
+01:19:55,129 --> 01:19:56,552
+Não dá para acreditar.
+
+953
+01:19:56,553 --> 01:19:59,065
+Não vim aqui para vestir
+este vestido estúpido.
+
+954
+01:19:59,066 --> 01:20:02,473
+Chame seu chefe ou um tradutor
+para que possamos nos comunicar.
+
+955
+01:20:03,779 --> 01:20:07,249
+Entende o que estou dizendo?
+
+956
+01:20:19,021 --> 01:20:20,645
+Tudo bem.
+
+957
+01:20:25,292 --> 01:20:28,250
+É aqui que vai deixar
+suas coisas, soldado.
+
+958
+01:20:28,251 --> 01:20:30,263
+Prefiro ficar com elas.
+Estou em missão.
+
+959
+01:20:30,264 --> 01:20:32,769
+Infelizmente,
+regras são regras,
+
+960
+01:20:32,770 --> 01:20:35,623
+e este é um lugar onde
+fazemos amor, não guerra.
+
+961
+01:20:38,443 --> 01:20:40,351
+Aqui está seu ingresso.
+
+962
+01:20:41,014 --> 01:20:42,976
+Não o perca.
+
+963
+01:20:43,344 --> 01:20:47,312
+- Vamos fazer um acordo?
+- Não vamos falar de negócios,
+
+964
+01:20:47,313 --> 01:20:49,671
+apenas falar de prazer.
+
+965
+01:20:49,672 --> 01:20:54,189
+Que tipo de música gosta?
+De tecno, macro, bio, nano?
+
+966
+01:20:54,190 --> 01:20:57,564
+- Prefiro retrô.
+- Eu também. As velhas e boas.
+
+967
+01:20:58,227 --> 01:21:00,081
+Sente-se aí.
+
+968
+01:21:00,082 --> 01:21:03,756
+Relaxe.
+E aproveito o espetáculo.
+
+969
+01:23:36,412 --> 01:23:39,255
+Por quanto tempo
+vou fazer isso?
+
+970
+01:23:47,714 --> 01:23:49,973
+Então,
+o que vai ser, soldado?
+
+971
+01:23:49,974 --> 01:23:51,421
+Veja, aquilo foi...
+
+972
+01:23:51,422 --> 01:23:54,357
+muito legal, mas não é
+o que estou procurando.
+
+973
+01:23:54,358 --> 01:23:57,344
+Tenho muito mais truques,
+é só dizer o que tem em mente.
+
+974
+01:23:57,345 --> 01:23:58,965
+Tenho várias coisas
+em mente.
+
+975
+01:23:58,966 --> 01:24:00,943
+Mas não tenho tempo
+para isso, eu passo.
+
+976
+01:24:01,718 --> 01:24:04,398
+Tenho um problema
+e preciso muito de sua ajuda.
+
+977
+01:24:04,399 --> 01:24:07,129
+- Não gostou da apresentação?
+- Não, não, eu...
+
+978
+01:24:07,569 --> 01:24:09,655
+Eu amei.
+
+979
+01:24:09,656 --> 01:24:12,516
+- Absolutamente.
+- Comecei desde pequena anos.
+
+980
+01:24:12,517 --> 01:24:15,064
+Aprendi nas melhores escolas.
+
+981
+01:24:15,065 --> 01:24:17,225
+Faço qualquer um
+ou qualquer coisa.
+
+982
+01:24:17,226 --> 01:24:20,567
+- Claro que sim.
+- Sei Shakespeare, se preferir.
+
+983
+01:24:20,568 --> 01:24:22,320
+Gosta de poesia?
+
+984
+01:24:22,321 --> 01:24:24,824
+- Claro.
+- Rimbaud, Verlaine?
+
+985
+01:24:24,825 --> 01:24:26,617
+Escolha difícil.
+
+986
+01:24:31,437 --> 01:24:33,770
+"Tenho medo de um beijo,
+
+987
+01:24:36,393 --> 01:24:38,567
+como o beijo da abelha.
+
+988
+01:24:39,251 --> 01:24:41,492
+Sofro assim,
+
+989
+01:24:42,085 --> 01:24:44,306
+e acordo sem parar.
+
+990
+01:24:45,571 --> 01:24:48,156
+Tenho medo de um beijo."
+
+991
+01:24:54,232 --> 01:24:56,730
+E se eu disser
+o que tenho mesmo em mente?
+
+992
+01:24:58,306 --> 01:25:00,300
+Pare de gritar.
+
+993
+01:25:00,301 --> 01:25:01,913
+Como conseguiu a arma?
+
+994
+01:25:05,272 --> 01:25:08,933
+Major Valerian,
+aconselho a abaixar a arma.
+
+995
+01:25:09,662 --> 01:25:11,614
+E eu aconselho você
+a se sentar.
+
+996
+01:25:11,615 --> 01:25:13,753
+Tudo bem.
+Tudo bem.
+
+997
+01:25:13,754 --> 01:25:16,630
+- Por favor, não atire em mim.
+- Que porra é essa?
+
+998
+01:25:16,631 --> 01:25:18,616
+Esse é você
+quando tinha 10 anos.
+
+999
+01:25:18,617 --> 01:25:20,563
+Não vai atirar em si mesmo,
+vai?
+
+1000
+01:25:20,564 --> 01:25:23,229
+- Volte ao normal, por favor?
+- Certo, certo.
+
+1001
+01:25:24,623 --> 01:25:27,472
+Não, esse normal não,
+o outro normal.
+
+1002
+01:25:27,473 --> 01:25:29,064
+Certo, certo.
+
+1003
+01:25:31,650 --> 01:25:33,361
+Obrigado.
+Qual é o seu nome?
+
+1004
+01:25:33,362 --> 01:25:34,935
+O qual desejar, doçura.
+
+1005
+01:25:34,936 --> 01:25:38,032
+Não tenho tempo para jogos.
+Vamos, qual seu nome?
+
+1006
+01:25:41,985 --> 01:25:43,514
+Bubble.
+
+1007
+01:25:44,048 --> 01:25:45,940
+Bubble, perdi minha parceira,
+
+1008
+01:25:45,941 --> 01:25:48,207
+se me ajudar a encontrá-la,
+eu te liberto.
+
+1009
+01:25:49,589 --> 01:25:52,868
+De que vale quando se é
+imigrante ilegal longe de casa?
+
+1010
+01:25:52,869 --> 01:25:55,222
+Trabalho com o governo,
+darei sua identidade,
+
+1011
+01:25:55,223 --> 01:25:56,651
+tem minha palavra.
+
+1012
+01:25:59,163 --> 01:26:03,220
+- Se eu for, Jolly me matará.
+- Ele nunca mais matará ninguém.
+
+1013
+01:26:08,039 --> 01:26:11,226
+Então, o que acha, Bubble?
+
+1014
+01:26:12,349 --> 01:26:14,993
+Gostou mesmo
+da minha apresentação?
+
+1015
+01:26:14,994 --> 01:26:17,087
+A melhor que já vi.
+
+1016
+01:26:21,231 --> 01:26:24,510
+- Obrigada.
+- De nada.
+
+1017
+01:26:30,298 --> 01:26:32,700
+Então, vou dar um tempo.
+
+1018
+01:26:33,122 --> 01:26:35,168
+Vocês dois,
+fiquem de olho no soldado.
+
+1019
+01:26:35,169 --> 01:26:37,929
+Ele parece bem esquisito.
+
+1020
+01:26:42,109 --> 01:26:43,891
+Certo, Bubble,
+saia de cima de mim.
+
+1021
+01:26:43,892 --> 01:26:45,964
+Tudo bem, estou saindo.
+
+1022
+01:26:51,369 --> 01:26:52,973
+Você está bem?
+
+1023
+01:26:53,534 --> 01:26:55,270
+Obrigado!
+
+1024
+01:26:58,885 --> 01:27:00,607
+- Você irá lá?
+- Irei.
+
+1025
+01:27:00,608 --> 01:27:03,817
+Forasteiros não podem entrar,
+preciso me parecer com um deles.
+
+1026
+01:27:03,818 --> 01:27:06,605
+Não, não vou.
+Nunca fiz um boulan-bathor.
+
+1027
+01:27:06,606 --> 01:27:08,458
+O quê?
+É uma artista ou não?
+
+1028
+01:27:08,459 --> 01:27:11,226
+Sim, mas preciso dominar
+o personagem
+
+1029
+01:27:11,227 --> 01:27:15,173
+e adquirir os movimentos,
+comportamento, trejeitos,
+
+1030
+01:27:15,174 --> 01:27:19,201
+- o desenvolvimento e a voz.
+- Improvisar não mata ninguém.
+
+1031
+01:27:19,202 --> 01:27:20,588
+Vamos lá.
+
+1032
+01:27:22,443 --> 01:27:24,547
+Tudo bem.
+
+1033
+01:27:24,942 --> 01:27:26,507
+Vire-se.
+
+1034
+01:27:34,585 --> 01:27:36,322
+Isso não é nada legal.
+
+1035
+01:27:36,870 --> 01:27:38,754
+Eu devia fazer as unhas.
+
+1036
+01:27:45,258 --> 01:27:48,964
+Não acha que o chapéu
+pode estar meio exagerado?
+
+1037
+01:27:51,405 --> 01:27:53,204
+Deixa para lá.
+
+1038
+01:27:56,800 --> 01:28:00,080
+- O que está fazendo?
+- Tentando pegar o jeito.
+
+1039
+01:28:00,081 --> 01:28:03,538
+- Depressa, estão olhando.
+- Falei que precisava praticar.
+
+1040
+01:28:03,539 --> 01:28:05,733
+Esse é um papel complicado.
+
+1041
+01:28:06,301 --> 01:28:09,105
+Muito melhor.
+Está indo bem.
+
+1042
+01:28:14,089 --> 01:28:15,536
+General.
+
+1043
+01:28:15,720 --> 01:28:17,668
+Achamos o sinal
+do major de novo.
+
+1044
+01:28:17,669 --> 01:28:20,018
+Finalmente.
+Onde ele está?
+
+1045
+01:28:20,333 --> 01:28:23,310
+- No território boulan-bathor.
+- Boulan...
+
+1046
+01:28:24,529 --> 01:28:28,012
+- Ninguém entra lá.
+- E com certeza não sai.
+
+1047
+01:28:30,080 --> 01:28:32,153
+Precisamos de reforço,
+avise o Ministro.
+
+1048
+01:28:32,154 --> 01:28:33,460
+Sim, senhor.
+
+1049
+01:28:42,873 --> 01:28:45,808
+- Como perdeu sua parceira?
+- Porque sou idiota.
+
+1050
+01:28:45,809 --> 01:28:47,939
+- Como assim?
+- Eu só flerto e brinco.
+
+1051
+01:28:47,940 --> 01:28:50,232
+Prefere ser legal
+a ser honesto.
+
+1052
+01:28:50,233 --> 01:28:53,122
+- É minha história.
+- Com que idade perdeu sua mãe?
+
+1053
+01:28:53,123 --> 01:28:54,509
+Não faça isso agora.
+
+1054
+01:28:54,510 --> 01:28:56,424
+Tudo bem ficar vulnerável
+às vezes.
+
+1055
+01:28:56,425 --> 01:28:58,223
+Não atrapalhe a missão,
+por favor.
+
+1056
+01:28:58,224 --> 01:28:59,552
+Não toque em nada.
+
+1057
+01:28:59,553 --> 01:29:01,856
+Não faz mal mostrar fraqueza.
+
+1058
+01:29:01,857 --> 01:29:04,549
+- Não sou bom nisso.
+- Ela vai se sentir importante.
+
+1059
+01:29:04,550 --> 01:29:07,946
+Acredite, ela já é a coisa
+mais importante na minha vida.
+
+1060
+01:29:14,850 --> 01:29:16,681
+Ele quer que nos juntemos
+a eles.
+
+1061
+01:29:16,682 --> 01:29:18,675
+Não acho uma boa ideia.
+
+1062
+01:29:18,676 --> 01:29:21,368
+Não parece
+que ele está dando escolha.
+
+1063
+01:29:34,685 --> 01:29:39,107
+- O que está havendo?
+- Hora do almoço do Boulan III.
+
+1064
+01:29:50,048 --> 01:29:52,845
+Servir mesas.
+O pior pesadelo de um artista.
+
+1065
+01:29:52,846 --> 01:29:54,711
+Não comente
+que fiz isso a ninguém.
+
+1066
+01:29:54,712 --> 01:29:57,340
+Devia agradecer por não sermos
+o prato principal.
+
+1067
+01:30:15,268 --> 01:30:16,898
+Vou vomitar.
+
+1068
+01:30:38,293 --> 01:30:41,843
+- Lá está ela.
+- Tem razão, ela é nota 10.
+
+1069
+01:31:09,665 --> 01:31:11,028
+Oi.
+
+1070
+01:31:23,131 --> 01:31:26,146
+- Algo está errado.
+- Uma dança como distração?
+
+1071
+01:31:26,147 --> 01:31:27,469
+Não, obrigado.
+
+1072
+01:31:37,685 --> 01:31:40,585
+- Vocês estão ferrados!
+- Acho que devíamos ir.
+
+1073
+01:31:40,586 --> 01:31:42,550
+Devia me deixar cuidar disso.
+
+1074
+01:31:45,063 --> 01:31:47,514
+- Valerian!
+- Aqui!
+
+1075
+01:32:10,381 --> 01:32:11,712
+Oi.
+
+1076
+01:32:13,683 --> 01:32:16,788
+Seja um bom menino.
+Senta!
+
+1077
+01:32:16,789 --> 01:32:18,279
+- Fique.
+- Laureline...
+
+1078
+01:32:18,280 --> 01:32:21,038
+- Sou eu, Valerian.
+- O quê?
+
+1079
+01:32:28,404 --> 01:32:31,086
+- Bubble, sai de mim.
+- Está bem, vamos lá.
+
+1080
+01:32:32,838 --> 01:32:34,282
+Com licença, Alteza.
+
+1081
+01:32:42,654 --> 01:32:44,410
+Olá, querida.
+
+1082
+01:32:51,368 --> 01:32:52,801
+Eu mereci isso.
+
+1083
+01:32:57,047 --> 01:32:58,365
+Cuidado!
+
+1084
+01:32:59,072 --> 01:33:01,337
+Ela é uma moça,
+não pode bater nela.
+
+1085
+01:33:10,892 --> 01:33:13,539
+Vamos conversar,
+vai se machucar.
+
+1086
+01:33:15,568 --> 01:33:17,020
+Eu avisei.
+
+1087
+01:33:36,843 --> 01:33:38,854
+Isso é o que chamo
+de parceiro.
+
+1088
+01:33:41,272 --> 01:33:43,873
+Bravo!
+Isso foi incrível!
+
+1089
+01:33:43,874 --> 01:33:45,945
+Estou muito impressionada.
+
+1090
+01:33:47,267 --> 01:33:48,630
+Oi.
+
+1091
+01:33:49,525 --> 01:33:50,843
+Oi.
+
+1092
+01:34:04,326 --> 01:34:05,813
+Confie em mim.
+
+1093
+01:34:32,271 --> 01:34:34,252
+3º regimento se aproximando,
+senhor.
+
+1094
+01:34:34,919 --> 01:34:37,529
+- Notícia de nossos agentes?
+- Não.
+
+1095
+01:34:38,678 --> 01:34:41,727
+- Pediram resgate do comandante?
+- Negativo.
+
+1096
+01:34:41,728 --> 01:34:44,114
+- O Ministro está na linha.
+- Está bem.
+
+1097
+01:34:46,889 --> 01:34:48,230
+<i>Meus respeitos, Ministro.</i>
+
+1098
+01:34:48,231 --> 01:34:50,468
+<i>General, foi autorizado
+pelo conselho</i>
+
+1099
+01:34:50,469 --> 01:34:52,345
+<i>a assumir o comando
+da operação.</i>
+
+1100
+01:34:52,346 --> 01:34:54,144
+<i>- Parabéns.</i>
+- Obrigado, senhor.
+
+1101
+01:34:54,145 --> 01:34:58,415
+Mas preciso de acesso total
+aos dados do comandante.
+
+1102
+01:34:58,734 --> 01:35:01,504
+<i>De acordo com as regras,
+isso é impossível</i>
+
+1103
+01:35:01,505 --> 01:35:04,968
+<i>- sem a autorização dele.
+- O comandante pode estar morto.</i>
+
+1104
+01:35:05,551 --> 01:35:10,548
+Para ter sucesso nessa tarefa,
+preciso saber de tudo.
+
+1105
+01:35:14,041 --> 01:35:16,618
+<i>- Acesso concedido.</i>
+- Obrigado, senhor.
+
+1106
+01:35:21,926 --> 01:35:23,543
+Abrir arquivo confidencial.
+
+1107
+01:35:25,446 --> 01:35:27,412
+Abrir arquivo
+sobre o planeta Mül.
+
+1108
+01:35:27,848 --> 01:35:29,801
+<i>Pedido autorizado.</i>
+
+1109
+01:35:31,693 --> 01:35:33,917
+Conflito nos territórios do sul.
+
+1110
+01:35:35,063 --> 01:35:39,625
+A guerra causou
+a destruição do planeta Mül.
+
+1111
+01:35:39,626 --> 01:35:41,979
+Conte-me mais sobre o planeta.
+
+1112
+01:35:41,980 --> 01:35:44,368
+O planeta era inabitado.
+
+1113
+01:35:45,677 --> 01:35:47,717
+Quem estava no comando
+dessa operação?
+
+1114
+01:35:47,718 --> 01:35:49,326
+ACESSO NEGADO
+
+1115
+01:35:51,790 --> 01:35:53,415
+Isso não cheira bem.
+
+1116
+01:36:12,912 --> 01:36:14,318
+Eu disse
+que tinha uma porta.
+
+1117
+01:36:14,319 --> 01:36:17,888
+Alguém não estudou o plano antes
+de ir correndo, como sempre.
+
+1118
+01:36:17,889 --> 01:36:20,375
+Preferia que eu chegasse
+depois do evento?
+
+1119
+01:36:20,376 --> 01:36:24,311
+Poderia me levar a um lugar
+que não seja uma lata de lixo.
+
+1120
+01:36:24,964 --> 01:36:26,328
+Bubble?
+
+1121
+01:36:28,708 --> 01:36:30,186
+Bubble, onde está?
+
+1122
+01:36:30,622 --> 01:36:32,926
+- Onde ela está?
+- Estava atrás de nós.
+
+1123
+01:36:33,127 --> 01:36:34,572
+Estou aqui.
+
+1124
+01:36:41,358 --> 01:36:44,292
+- O que foi?
+- Fui atingida durante a luta.
+
+1125
+01:36:44,293 --> 01:36:45,679
+Bubble?
+
+1126
+01:36:46,172 --> 01:36:47,805
+Diga-me o que fazer.
+
+1127
+01:36:49,403 --> 01:36:51,184
+Não pode fazer nada.
+
+1128
+01:36:52,096 --> 01:36:53,827
+De onde eu venho
+
+1129
+01:36:53,828 --> 01:36:56,059
+a vida é mais dolorosa
+que a morte.
+
+1130
+01:36:56,060 --> 01:36:57,495
+Não diga isso.
+
+1131
+01:36:58,584 --> 01:37:00,677
+Infelizmente, é verdade.
+
+1132
+01:37:02,207 --> 01:37:05,679
+A vida é uma droga quando
+não se tem uma identidade.
+
+1133
+01:37:06,528 --> 01:37:08,098
+Você tem uma identidade.
+
+1134
+01:37:09,450 --> 01:37:11,908
+É a maior artista que já vi.
+
+1135
+01:37:16,452 --> 01:37:17,870
+Obrigada.
+
+1136
+01:37:24,055 --> 01:37:26,866
+Foi um prazer
+me apresentar para você.
+
+1137
+01:37:28,147 --> 01:37:30,012
+Eu deixo meu reino a você.
+
+1138
+01:37:31,460 --> 01:37:33,227
+Cuide bem dele.
+
+1139
+01:37:33,228 --> 01:37:36,310
+- Vou cuidar.
+- E mais importante...
+
+1140
+01:37:36,775 --> 01:37:39,860
+- Sim?
+- Cuide bem dela.
+
+1141
+01:37:44,080 --> 01:37:46,091
+Ame-a sem medida.
+
+1142
+01:37:46,472 --> 01:37:50,939
+"É um amor pobre
+aquele que se pode medir."
+
+1143
+01:38:14,435 --> 01:38:15,799
+Vamos.
+
+1144
+01:38:33,282 --> 01:38:35,141
+Todas as naves aterrissaram,
+general.
+
+1145
+01:38:35,142 --> 01:38:38,040
+Quero a seção Um em operação
+o quanto antes.
+
+1146
+01:38:38,041 --> 01:38:39,828
+O que aqueles K-Trons
+fazem ali?
+
+1147
+01:38:40,780 --> 01:38:42,637
+O comandante os programou
+ele mesmo.
+
+1148
+01:38:42,638 --> 01:38:45,745
+- Não podem ser desativados.
+- Ótimo.
+
+1149
+01:38:46,063 --> 01:38:47,857
+É tudo que precisamos.
+
+1150
+01:38:54,374 --> 01:38:57,023
+- Tem ideia para onde vamos?
+- Sim, claro.
+
+1151
+01:38:57,024 --> 01:38:58,456
+Digo...
+
+1152
+01:39:00,037 --> 01:39:01,860
+- Eu acho.
+- Tem certeza
+
+1153
+01:39:01,861 --> 01:39:05,117
+- ou acha que sabe?
+- Sei que parece estranho...
+
+1154
+01:39:07,012 --> 01:39:08,330
+Mas a princesa
+
+1155
+01:39:08,331 --> 01:39:09,889
+está me guiando.
+
+1156
+01:39:09,890 --> 01:39:11,847
+A princesa?
+
+1157
+01:39:11,848 --> 01:39:14,003
+- Ela está guiando você?
+- Sim.
+
+1158
+01:39:14,004 --> 01:39:18,813
+Olha, é difícil explicar,
+mas é como se ela
+
+1159
+01:39:19,214 --> 01:39:21,193
+estivesse comigo
+o tempo todo.
+
+1160
+01:39:21,194 --> 01:39:22,494
+Espere.
+
+1161
+01:39:23,358 --> 01:39:26,683
+Está me dizendo
+que tinha uma mulher
+
+1162
+01:39:26,684 --> 01:39:30,193
+dentro de você
+desde o começo?
+
+1163
+01:39:30,892 --> 01:39:32,810
+Laureline, podemos ir,
+por favor?
+
+1164
+01:39:32,811 --> 01:39:34,122
+É claro.
+
+1165
+01:39:35,034 --> 01:39:36,334
+Primeiro as damas.
+
+1166
+01:39:37,135 --> 01:39:38,535
+Muito engraçado.
+
+1167
+01:39:43,101 --> 01:39:44,685
+<i>Rápido, desembarcando.</i>
+
+1168
+01:39:48,652 --> 01:39:51,238
+Capitão Kris, estação Um
+operacional. General?
+
+1169
+01:39:51,239 --> 01:39:54,710
+Prossigam. Uma unidade
+de K-Trons vai se unir a vocês.
+
+1170
+01:39:54,711 --> 01:39:56,400
+Isso não será necessário.
+
+1171
+01:39:56,401 --> 01:39:58,408
+Ordens do comandante,
+não minhas.
+
+1172
+01:39:58,409 --> 01:39:59,809
+Entendido.
+
+1173
+01:40:00,265 --> 01:40:01,565
+Vamos!
+
+1174
+01:40:18,608 --> 01:40:21,024
+Fomos manipulados
+desde o começo.
+
+1175
+01:40:21,025 --> 01:40:23,000
+- Como assim?
+- Estamos numa zona morta
+
+1176
+01:40:23,001 --> 01:40:24,790
+e estamos respirando.
+
+1177
+01:40:24,791 --> 01:40:27,431
+Não parece haver sinal
+de contaminação.
+
+1178
+01:40:31,079 --> 01:40:34,934
+O comandante sabe bem
+a origem desse mal terrível.
+
+1179
+01:40:36,666 --> 01:40:37,966
+O quê?
+
+1180
+01:40:43,720 --> 01:40:45,120
+Pearls.
+
+1181
+01:40:45,121 --> 01:40:48,424
+Meu nome é Tsûuri.
+Sou filho do imperador.
+
+1182
+01:40:48,425 --> 01:40:50,470
+Ótimo. Que tal
+nos apresentar ao seu pai?
+
+1183
+01:40:50,471 --> 01:40:52,160
+Ele os aguarda.
+
+1184
+01:40:54,608 --> 01:40:56,859
+Tente falar com o general.
+Tragam todos aqui.
+
+1185
+01:40:56,860 --> 01:40:58,160
+Ganharei tempo.
+
+1186
+01:40:58,161 --> 01:41:01,793
+Que tal você ir buscar reforços,
+para variar?
+
+1187
+01:41:06,876 --> 01:41:08,539
+Inacreditável.
+
+1188
+01:41:34,994 --> 01:41:36,394
+Sigam-me.
+
+1189
+01:42:16,951 --> 01:42:19,054
+Gostaria que conhecessem
+meu pai,
+
+1190
+01:42:19,055 --> 01:42:20,744
+o imperador.
+
+1191
+01:42:30,909 --> 01:42:35,886
+Meu nome é Haban-Limaï
+e essa é minha esposa, Aloï.
+
+1192
+01:42:35,887 --> 01:42:39,853
+<i>Melo hiné.</i>
+É um prazer recebê-los aqui.
+
+1193
+01:42:39,854 --> 01:42:43,113
+Meu filho sentiu a presença
+da irmã,
+
+1194
+01:42:43,114 --> 01:42:45,935
+a Princesa Lïhio-Minaa,
+em você.
+
+1195
+01:42:49,443 --> 01:42:51,563
+Parece
+que ela escolheu você.
+
+1196
+01:42:53,073 --> 01:42:54,477
+O que quer dizer?
+
+1197
+01:42:57,401 --> 01:43:01,099
+No momento em que morremos,
+liberamos toda a energia
+
+1198
+01:43:01,100 --> 01:43:04,243
+que resta em nosso corpo
+na forma de uma onda
+
+1199
+01:43:04,244 --> 01:43:06,862
+que viaja através do tempo
+e do espaço.
+
+1200
+01:43:06,863 --> 01:43:09,241
+Às vezes, ela encontra
+um hóspede benevolente.
+
+1201
+01:43:09,242 --> 01:43:11,834
+Lïhio-Minaa escolheu você
+
+1202
+01:43:11,835 --> 01:43:14,616
+para ser o guardião
+da alma dela.
+
+1203
+01:43:17,525 --> 01:43:18,967
+Eu te falei.
+
+1204
+01:43:27,414 --> 01:43:29,206
+Minha filha.
+
+1205
+01:43:33,963 --> 01:43:36,471
+Estou tão feliz
+em ver você.
+
+1206
+01:43:36,472 --> 01:43:38,147
+Eu também.
+
+1207
+01:43:39,398 --> 01:43:40,977
+Quero dizer,
+
+1208
+01:43:41,378 --> 01:43:43,167
+ela também está.
+
+1209
+01:43:46,747 --> 01:43:50,794
+O que aconteceu exatamente
+com você e seu povo?
+
+1210
+01:43:50,795 --> 01:43:53,624
+Nosso planeta era
+um verdadeiro paraíso
+
+1211
+01:43:53,625 --> 01:43:56,824
+no qual vivíamos em harmonia
+com os elementos.
+
+1212
+01:43:56,825 --> 01:44:00,267
+<i>Nossa principal atividade era
+a pescaria de pérolas</i>
+
+1213
+01:44:00,268 --> 01:44:02,549
+<i>que possuíam
+uma energia fenomenal.</i>
+
+1214
+01:44:02,550 --> 01:44:04,478
+<i>Elas fertilizavam
+nossas terras,</i>
+
+1215
+01:44:04,479 --> 01:44:06,738
+<i>controlavam os ventos
+e as marés.</i>
+
+1216
+01:44:06,739 --> 01:44:09,332
+<i>Três vezes por ano
+dávamos à terra</i>
+
+1217
+01:44:09,333 --> 01:44:11,326
+<i>o que o mar
+nos havia dado.</i>
+
+1218
+01:44:11,327 --> 01:44:16,274
+Vivemos assim em harmonia
+<i>por muitos séculos.</i>
+
+1219
+01:44:17,764 --> 01:44:20,230
+<i>Até o dia do apocalipse.</i>
+
+1220
+01:44:23,232 --> 01:44:25,866
+<i>No céu sobre nosso planeta</i>
+
+1221
+01:44:25,867 --> 01:44:29,682
+<i>outros povos lutavam
+uma terrível guerra.</i>
+
+1222
+01:44:29,683 --> 01:44:33,066
+<i>Uma guerra entre povos
+que nem mesmo conhecíamos.</i>
+
+1223
+01:45:20,335 --> 01:45:21,773
+Mísseis carregados, senhor.
+
+1224
+01:45:21,774 --> 01:45:24,021
+Use os mísseis de compulsão.
+
+1225
+01:45:25,331 --> 01:45:26,831
+Tem certeza, senhor?
+
+1226
+01:45:27,532 --> 01:45:29,332
+Sim, eu tenho.
+
+1227
+01:45:30,598 --> 01:45:32,375
+Ao seu comando.
+
+1228
+01:45:37,331 --> 01:45:39,236
+Com a graça de Deus.
+
+1229
+01:46:04,520 --> 01:46:06,458
+Sua filha morreu
+durante a batalha.
+
+1230
+01:46:06,459 --> 01:46:09,461
+Sim.
+E outros 6 milhões de nós.
+
+1231
+01:46:13,649 --> 01:46:15,831
+O que aconteceu
+após a explosão?
+
+1232
+01:46:15,832 --> 01:46:18,544
+Vagamos pelo espaço
+por muitos anos
+
+1233
+01:46:18,545 --> 01:46:21,988
+<i>a bordo de uma nave
+que salvamos dos destroços.</i>
+
+1234
+01:46:21,989 --> 01:46:24,492
+<i>E parte dela
+estava danificada.</i>
+
+1235
+01:46:30,284 --> 01:46:33,706
+<i>Aquele novo ambiente
+era bem diferente do nosso</i>
+
+1236
+01:46:33,707 --> 01:46:37,525
+<i>e no começo precisamos de tempo
+para entendê-lo</i>
+
+1237
+01:46:37,526 --> 01:46:42,211
+<i>e absorver a vasta quantidade
+de conhecimento contido nele.</i>
+
+1238
+01:46:49,780 --> 01:46:53,193
+<i>Aprendemos línguas,
+matemática,</i>
+
+1239
+01:46:53,194 --> 01:46:57,423
+<i>física, química e filosofia.</i>
+
+1240
+01:46:59,052 --> 01:47:02,713
+<i>Aprendemos sobre os milhares
+de planetas, estrelas e luas</i>
+
+1241
+01:47:02,714 --> 01:47:05,654
+<i>e do universo que nunca soubemos
+da existência.</i>
+
+1242
+01:47:07,962 --> 01:47:10,375
+<i>E aprendemos sobre
+as complexas espécies</i>
+
+1243
+01:47:10,376 --> 01:47:12,465
+<i>que habitavam esse universo.</i>
+
+1244
+01:47:13,091 --> 01:47:15,099
+<i>Inclusive os humanos,</i>
+
+1245
+01:47:15,100 --> 01:47:17,915
+<i>aqueles que destruíram
+nosso planeta.</i>
+
+1246
+01:47:19,358 --> 01:47:23,253
+<i>O tempo não diminuiu
+a lembrança de nossa perda,</i>
+
+1247
+01:47:23,862 --> 01:47:25,658
+<i>mas permitiu-nos
+deixar para trás</i>
+
+1248
+01:47:25,659 --> 01:47:28,753
+<i>a raiva pelos responsáveis
+por causá-la.</i>
+
+1249
+01:47:35,215 --> 01:47:37,032
+<i>Assim, um dia,</i>
+
+1250
+01:47:37,033 --> 01:47:39,367
+<i>recebemos a visita
+de sucateiros</i>
+
+1251
+01:47:39,368 --> 01:47:40,957
+<i>que viajavam a galáxia.</i>
+
+1252
+01:47:40,958 --> 01:47:44,422
+<i>Após alguns anos,
+eles já estavam cheios.</i>
+
+1253
+01:47:47,583 --> 01:47:51,695
+<i>E eles foram vender aquela carga
+num enorme empreendimento.</i>
+
+1254
+01:47:53,666 --> 01:47:56,112
+- Alfa.
+- Sim.
+
+1255
+01:47:56,113 --> 01:48:00,797
+<i>A Cidade dos Mil Planetas,
+onde por centenas de anos</i>
+
+1256
+01:48:00,798 --> 01:48:05,062
+<i>tantas espécies compartilharam
+seu conhecimento e inteligência</i>
+
+1257
+01:48:05,063 --> 01:48:06,552
+<i>uns com os outros.</i>
+
+1258
+01:48:07,561 --> 01:48:10,507
+<i>Nas sombras de Alfa,
+vivemos despercebidos,</i>
+
+1259
+01:48:10,508 --> 01:48:14,327
+<i>o tempo todo observando
+e aprendendo com cada um deles.</i>
+
+1260
+01:48:17,563 --> 01:48:21,183
+<i>Até que adquirimos conhecimento
+e material suficiente</i>
+
+1261
+01:48:21,184 --> 01:48:23,488
+<i>para construirmos
+nossa própria nave.</i>
+
+1262
+01:48:35,929 --> 01:48:38,411
+Nosso planeta se foi,
+para sempre,
+
+1263
+01:48:38,412 --> 01:48:41,750
+mas com o que aprendemos
+agora somos capazes de replicar
+
+1264
+01:48:41,751 --> 01:48:44,500
+e restaurar
+nosso mundo perdido.
+
+1265
+01:48:45,543 --> 01:48:49,002
+- Incrível.
+- Faltam somente 2 coisas.
+
+1266
+01:48:49,003 --> 01:48:50,692
+Um Conversor Mül.
+
+1267
+01:48:51,348 --> 01:48:52,948
+E uma pérola.
+
+1268
+01:48:52,949 --> 01:48:56,201
+A única que Tsûuri
+conseguiu salvar.
+
+1269
+01:49:12,260 --> 01:49:14,006
+Somos sobreviventes.
+
+1270
+01:49:14,007 --> 01:49:15,796
+Mas isso nos faz testemunhas.
+
+1271
+01:49:15,797 --> 01:49:19,162
+Testemunhas de um passado
+que os humanos querem apagar
+
+1272
+01:49:19,163 --> 01:49:21,083
+e esquecer para sempre.
+
+1273
+01:49:22,179 --> 01:49:26,676
+Podemos perdoar.
+Mas como podemos esquecer?
+
+1274
+01:49:27,288 --> 01:49:30,243
+Então não havia outra opção
+além de roubarem o Conversor
+
+1275
+01:49:30,244 --> 01:49:31,944
+e Tsûuri contratou
+um profissional.
+
+1276
+01:49:31,945 --> 01:49:33,323
+Igon Siruss.
+
+1277
+01:49:35,441 --> 01:49:38,225
+O major Valerian interveio
+e recuperou o Conversor.
+
+1278
+01:49:38,226 --> 01:49:39,915
+O que os deixou
+com só uma opção.
+
+1279
+01:49:39,916 --> 01:49:42,471
+Raptar o comandante
+e obrigá-lo a dizer a verdade.
+
+1280
+01:49:42,472 --> 01:49:44,630
+Agora conhecem
+nossa história.
+
+1281
+01:49:44,631 --> 01:49:47,758
+Nosso destino está
+nas suas mãos.
+
+1282
+01:50:03,628 --> 01:50:05,320
+Major.
+
+1283
+01:50:05,321 --> 01:50:07,610
+Prenda essas criaturas
+imediatamente.
+
+1284
+01:50:07,611 --> 01:50:10,072
+Eles mataram nossos homens
+e são muito perigosos.
+
+1285
+01:50:10,073 --> 01:50:12,546
+Eles são Pearls,
+do planeta Mül.
+
+1286
+01:50:12,547 --> 01:50:15,286
+Eu ouvi a história ridícula.
+Isso é impossível.
+
+1287
+01:50:15,287 --> 01:50:17,084
+Mül era inabitado.
+
+1288
+01:50:17,085 --> 01:50:19,666
+A existência deles
+prova o contrário, não é?
+
+1289
+01:50:19,667 --> 01:50:22,160
+Estou dizendo
+que não havia vida no planeta.
+
+1290
+01:50:22,161 --> 01:50:25,107
+Os detectores foram claros.
+Prenda-os.
+
+1291
+01:50:25,108 --> 01:50:28,478
+- Como pode ter tanta certeza?
+- Porque eu li os relatórios.
+
+1292
+01:50:28,479 --> 01:50:30,276
+E você estava a bordo.
+
+1293
+01:50:32,811 --> 01:50:35,991
+Sim.
+Sim, eu estava a bordo.
+
+1294
+01:50:36,874 --> 01:50:40,115
+E havia coisas mais importantes
+para nos preocuparmos.
+
+1295
+01:50:40,116 --> 01:50:41,766
+Nossos cruzadores
+foram dizimadas.
+
+1296
+01:50:41,767 --> 01:50:44,532
+Perdemos 500 mil soldados
+em um dia.
+
+1297
+01:50:45,633 --> 01:50:47,576
+Era uma carnificina total.
+
+1298
+01:50:47,577 --> 01:50:50,080
+Estavam tão preocupados
+que não viram os detectores
+
+1299
+01:50:50,081 --> 01:50:51,955
+indicando sinal de vida
+no planeta.
+
+1300
+01:50:51,956 --> 01:50:55,186
+Ou ainda pior.
+Talvez sabiam que era habitado
+
+1301
+01:50:55,187 --> 01:50:56,875
+e o sacrificou.
+
+1302
+01:50:56,876 --> 01:50:59,636
+Comandante,
+o planeta é habitado.
+
+1303
+01:50:59,637 --> 01:51:02,446
+- Por formas de vida primitivas.
+- Não, comandante.
+
+1304
+01:51:02,447 --> 01:51:04,321
+Detectei uma língua complexa
+
+1305
+01:51:04,322 --> 01:51:06,797
+- e grande atividade cerebral.
+- Major.
+
+1306
+01:51:07,698 --> 01:51:11,893
+Estamos fazendo história aqui,
+e nem você nem selvagens
+
+1307
+01:51:11,894 --> 01:51:13,898
+ficarão no caminho.
+
+1308
+01:51:15,370 --> 01:51:17,690
+Quando soube
+que os sobreviventes de Mül
+
+1309
+01:51:17,691 --> 01:51:19,550
+estavam vivendo em Alfa,
+
+1310
+01:51:19,551 --> 01:51:22,252
+decidiu apagar qualquer traço
+do seu erro.
+
+1311
+01:51:23,178 --> 01:51:25,534
+Em vez
+de aceitar as consequências.
+
+1312
+01:51:26,035 --> 01:51:28,648
+Não quero sobreviventes.
+
+1313
+01:51:28,649 --> 01:51:32,333
+E destruiu todas as provas
+que o major tinha contra você.
+
+1314
+01:51:42,646 --> 01:51:46,653
+O que esperavam que eu fizesse?
+Era a única saída.
+
+1315
+01:51:52,204 --> 01:51:55,119
+Admitir um erro dessa escala
+teria exposto nosso governo
+
+1316
+01:51:55,120 --> 01:51:57,581
+a perdas colossais
+e pedidos de compensação.
+
+1317
+01:51:57,582 --> 01:51:59,394
+Nossa economia quebraria.
+
+1318
+01:51:59,395 --> 01:52:02,377
+Em um segundo,
+perderíamos nossa supremacia
+
+1319
+01:52:02,378 --> 01:52:05,399
+e nossa liderança.
+Haveria sanções imediatas.
+
+1320
+01:52:05,400 --> 01:52:08,556
+E provavelmente seríamos banidos
+de Alfa e proibidos de acessar
+
+1321
+01:52:08,557 --> 01:52:11,149
+o maior mercado de conhecimento
+e inteligência.
+
+1322
+01:52:11,150 --> 01:52:14,444
+É isso que iam querer
+para seus compatriotas?
+
+1323
+01:52:15,857 --> 01:52:18,391
+Levando-os à ruína
+e degradação,
+
+1324
+01:52:18,392 --> 01:52:21,647
+forçando-os
+a regredir milhares de anos?
+
+1325
+01:52:21,648 --> 01:52:25,202
+Nosso conselho achou adequado
+proteger nossos cidadãos
+
+1326
+01:52:25,203 --> 01:52:28,311
+em primeiro lugar sempre.
+Esse não é seu dever?
+
+1327
+01:52:28,312 --> 01:52:31,683
+E o meu?
+E o de vocês?
+
+1328
+01:52:38,045 --> 01:52:41,337
+Ou prefeririam arriscar
+destruir nossa economia
+
+1329
+01:52:41,338 --> 01:52:43,961
+- devido a um bando de...
+- Selvagens?
+
+1330
+01:52:43,962 --> 01:52:46,683
+Você está sob influência
+dessas criaturas.
+
+1331
+01:52:46,684 --> 01:52:50,585
+Não misture as coisas.
+Ele é a ameaça!
+
+1332
+01:52:50,586 --> 01:52:52,430
+Ele é o inimigo!
+
+1333
+01:52:58,945 --> 01:53:03,233
+Você é o seu próprio
+pior inimigo, comandante.
+
+1334
+01:53:03,234 --> 01:53:05,975
+A não ser que se reconcilie
+com seu passado,
+
+1335
+01:53:05,976 --> 01:53:08,408
+você não terá um futuro.
+
+1336
+01:53:14,619 --> 01:53:16,119
+Major...
+
+1337
+01:53:16,450 --> 01:53:19,832
+Ordeno que você prenda
+esse homem.
+
+1338
+01:53:20,573 --> 01:53:23,022
+Podemos conversar
+de homem para homem?
+
+1339
+01:53:26,692 --> 01:53:28,361
+Agente, o que está fazendo?
+
+1340
+01:53:30,261 --> 01:53:32,149
+Eu o ensinei a fazer isso.
+
+1341
+01:53:33,755 --> 01:53:35,553
+Ótima conversa.
+
+1342
+01:53:41,162 --> 01:53:43,099
+Andem, andem!
+
+1343
+01:53:49,525 --> 01:53:51,387
+Seção Um entrou
+na zona vermelha.
+
+1344
+01:53:51,388 --> 01:53:53,936
+Prepare a Seção Dois
+para entrar também.
+
+1345
+01:53:53,937 --> 01:53:57,508
+Isso foi divertido, mas temos
+que voltar para nosso povo.
+
+1346
+01:53:57,509 --> 01:54:00,614
+Tome.
+Isto é seu.
+
+1347
+01:54:02,017 --> 01:54:03,948
+Vamos consertar tudo,
+prometo.
+
+1348
+01:54:04,249 --> 01:54:06,356
+Vamos levar o...
+Calma, o que está fazendo?
+
+1349
+01:54:06,357 --> 01:54:09,173
+- Estou devolvendo o Conversor.
+- Não.
+
+1350
+01:54:09,174 --> 01:54:11,983
+- A pérola é inútil sem isso.
+- Sim, mas...
+
+1351
+01:54:13,621 --> 01:54:16,213
+- Podem nos dar um segundo?
+- O quê?
+
+1352
+01:54:18,221 --> 01:54:20,043
+Esse Conversor pertence
+ao governo.
+
+1353
+01:54:20,044 --> 01:54:22,945
+Pode ser o último
+do universo.
+
+1354
+01:54:22,946 --> 01:54:25,370
+Entrou na do comandante
+de que o que é meu é meu
+
+1355
+01:54:25,371 --> 01:54:29,177
+- e o que é seu também é meu?
+- É o Juramento de Fidelidade.
+
+1356
+01:54:29,178 --> 01:54:32,086
+- Não cabe a nós devolver.
+- A Federação errou
+
+1357
+01:54:32,087 --> 01:54:35,636
+- e precisa se retratar.
+- Mas não cabe a nós decidir.
+
+1358
+01:54:35,637 --> 01:54:38,543
+- Deixe isso com o Tribunal.
+- Estão a 18 anos luz daqui.
+
+1359
+01:54:38,544 --> 01:54:40,744
+Só nós podemos consertar isso.
+
+1360
+01:54:40,745 --> 01:54:45,418
+Laureline, sou um soldado.
+Sigo as regras.
+
+1361
+01:54:45,749 --> 01:54:47,853
+É o que faz eu ser quem sou.
+
+1362
+01:54:53,750 --> 01:54:55,311
+Viu?
+
+1363
+01:54:56,847 --> 01:55:00,418
+Por isso não quero me casar,
+você não sabe o que é amor.
+
+1364
+01:55:00,419 --> 01:55:02,421
+Qual é, isso não tem nada a ver
+com amor.
+
+1365
+01:55:02,422 --> 01:55:04,518
+É aí que você se engana.
+
+1366
+01:55:05,119 --> 01:55:08,648
+O amor é mais poderoso
+que qualquer coisa, Valerian.
+
+1367
+01:55:09,149 --> 01:55:11,465
+Ele quebra
+todas as regras, leis
+
+1368
+01:55:11,466 --> 01:55:14,352
+e supera qualquer exército
+ou governo.
+
+1369
+01:55:14,353 --> 01:55:16,321
+Olhe só para ela.
+
+1370
+01:55:17,222 --> 01:55:19,788
+Por um segundo,
+coloque-se no lugar dela.
+
+1371
+01:55:19,789 --> 01:55:22,623
+Ela perdeu seu povo inteiro
+e sua filha.
+
+1372
+01:55:22,624 --> 01:55:24,957
+E está disposta a perdoar.
+
+1373
+01:55:24,958 --> 01:55:27,046
+Isso é amor verdadeiro.
+
+1374
+01:55:27,047 --> 01:55:29,873
+É a confiança que deposita
+em outra pessoa e...
+
+1375
+01:55:30,544 --> 01:55:33,620
+Achei que eu podia ser
+essa pessoa para você.
+
+1376
+01:55:34,841 --> 01:55:37,047
+- Mas, claramente...
+- Você pode ser.
+
+1377
+01:55:38,430 --> 01:55:40,254
+Você é.
+
+1378
+01:55:41,482 --> 01:55:43,646
+Eu morreria por você.
+
+1379
+01:55:43,647 --> 01:55:46,804
+Não estou pedindo
+para que morra por mim.
+
+1380
+01:55:47,542 --> 01:55:50,585
+Estou pedindo
+que confie em mim.
+
+1381
+01:56:10,568 --> 01:56:13,201
+Tudo bem.
+Dê para eles.
+
+1382
+01:56:18,279 --> 01:56:20,064
+Obrigada.
+
+1383
+01:56:29,721 --> 01:56:32,182
+Nós somos os culpados
+pela perda do seu planeta
+
+1384
+01:56:32,183 --> 01:56:35,616
+e seria uma honra ajudar
+a recuperá-lo.
+
+1385
+01:56:36,475 --> 01:56:38,148
+Tome.
+
+1386
+01:56:45,209 --> 01:56:47,009
+<i>Melinama.</i>
+
+1387
+01:56:51,817 --> 01:56:53,610
+Significa "obrigada".
+
+1388
+01:57:01,801 --> 01:57:04,393
+Espalhem-se, espalhem-se!
+
+1389
+01:57:29,812 --> 01:57:31,716
+Capitão, estamos com você.
+
+1390
+01:57:31,717 --> 01:57:33,763
+Algum sinal de contaminação
+ou radiação?
+
+1391
+01:57:33,764 --> 01:57:35,514
+Nada de nenhum dos dois.
+
+1392
+01:57:36,515 --> 01:57:38,223
+Não faz sentido.
+
+1393
+01:59:09,711 --> 01:59:12,209
+Você não queria ir à praia?
+
+1394
+01:59:17,611 --> 01:59:20,010
+Nossa filha fez
+uma boa escolha.
+
+1395
+01:59:20,722 --> 01:59:23,158
+Ela pode descansar
+em paz agora.
+
+1396
+01:59:31,127 --> 01:59:32,655
+Precisamos ir agora.
+
+1397
+01:59:32,656 --> 01:59:34,517
+Que vocês e seu povo vivam
+em paz
+
+1398
+01:59:34,518 --> 01:59:37,802
+onde quer que se aventurem
+no espaço e no tempo.
+
+1399
+01:59:49,028 --> 01:59:51,939
+Explosivos colocados, general.
+Aguardando ordem.
+
+1400
+01:59:51,940 --> 01:59:55,331
+Certo. Evacuem a zona.
+Vocês têm 4 minutos.
+
+1401
+01:59:57,316 --> 01:59:58,866
+Entendido.
+
+1402
+02:00:01,708 --> 02:00:05,255
+Pai, há centenas de soldados
+em volta da nave.
+
+1403
+02:00:05,256 --> 02:00:08,458
+- Sairemos em um minuto.
+- Vocês não têm um minuto.
+
+1404
+02:00:08,459 --> 02:00:10,517
+Podem se comunicar
+com o mundo exterior?
+
+1405
+02:00:10,518 --> 02:00:12,476
+Ficaremos indefesos
+se permitirmos isso.
+
+1406
+02:00:12,477 --> 02:00:15,654
+Se eu não contatá-los,
+ficarão indefesos para sempre.
+
+1407
+02:00:22,017 --> 02:00:23,882
+Só um contato.
+
+1408
+02:00:26,330 --> 02:00:28,530
+- Interrompa o sinal.
+- Obrigado.
+
+1409
+02:00:35,167 --> 02:00:38,226
+As paredes pararam de se mexer.
+<i>Algo está acontecendo.</i>
+
+1410
+02:00:38,567 --> 02:00:41,520
+Mantenha seu posto.
+Estamos analisando os dados.
+
+1411
+02:00:42,611 --> 02:00:44,011
+Não acredito
+que fariam isso.
+
+1412
+02:00:44,012 --> 02:00:47,146
+- O general segue o protocolo.
+- Odeio o protocolo.
+
+1413
+02:00:47,147 --> 02:00:49,839
+Capitão, os dados mostram
+que construíram uma nave
+
+1414
+02:00:49,840 --> 02:00:51,407
+atrás da parede.
+
+1415
+02:00:56,746 --> 02:00:58,838
+Contato com o inimigo.
+
+1416
+02:00:59,815 --> 02:01:01,464
+Dê-me uma discrição física.
+
+1417
+02:01:01,465 --> 02:01:04,165
+Mesmas criaturas
+que sequestraram o comandante.
+
+1418
+02:01:09,562 --> 02:01:11,968
+Mostraram algum sinal
+de hostilidade?
+
+1419
+02:01:15,381 --> 02:01:17,155
+Na verdade, não.
+
+1420
+02:01:17,847 --> 02:01:20,757
+- Eles estão armados?
+<i>- Não.</i>
+
+1421
+02:01:24,089 --> 02:01:25,395
+General?
+
+1422
+02:01:25,396 --> 02:01:28,607
+Estamos recebendo sinal
+de um módulo Destiny 2005.
+
+1423
+02:01:28,608 --> 02:01:31,775
+- O quê?
+- Parece o major Valerian.
+
+1424
+02:01:35,359 --> 02:01:37,869
+- Pode transmitir.
+- Major, está com o general.
+
+1425
+02:01:37,870 --> 02:01:40,395
+<i>- Major?
+- Sim, com a sargento Laureline,</i>
+
+1426
+02:01:40,396 --> 02:01:42,024
+estamos vivos
+e dentro da parede.
+
+1427
+02:01:42,025 --> 02:01:43,404
+<i>Cancele o ataque agora.</i>
+
+1428
+02:01:43,405 --> 02:01:45,506
+Major, não consigo ler
+sua cadeia de DNA.
+
+1429
+02:01:45,507 --> 02:01:47,636
+Sabe o procedimento.
+<i>Preciso ter certeza.</i>
+
+1430
+02:01:47,637 --> 02:01:49,589
+Não há tempo
+para procedimentos idiotas.
+
+1431
+02:01:49,590 --> 02:01:52,723
+Estamos com toda uma espécie
+que já dizimamos uma vez.
+
+1432
+02:01:52,724 --> 02:01:54,154
+<i>Os Pearls do planeta Mül.</i>
+
+1433
+02:01:54,155 --> 02:01:55,763
+<i>Então mande seus homens
+recuarem</i>
+
+1434
+02:01:55,764 --> 02:01:57,617
+<i>antes que cometa
+um segundo genocídio!</i>
+
+1435
+02:01:57,618 --> 02:01:59,025
+Esse é o temperamento dela.
+
+1436
+02:01:59,026 --> 02:02:00,643
+O planeta Mül
+não era habitado.
+
+1437
+02:02:00,644 --> 02:02:02,465
+Qual é!
+Sabe que isso não é verdade.
+
+1438
+02:02:02,466 --> 02:02:04,865
+O comandante estava lá,
+ele deu as ordens!
+
+1439
+02:02:04,866 --> 02:02:06,619
+E depois organizou
+esse procedimento
+
+1440
+02:02:06,620 --> 02:02:08,470
+para eliminar
+quaisquer sobreviventes.
+
+1441
+02:02:08,471 --> 02:02:11,478
+Uma prova viva do erro dele.
+<i>Pare o procedimento.</i>
+
+1442
+02:02:11,479 --> 02:02:15,047
+Talvez por isso o comandante
+interrogava aquela criatura.
+
+1443
+02:02:19,893 --> 02:02:21,922
+O comandante está com vocês?
+
+1444
+02:02:25,709 --> 02:02:28,432
+Vamos!
+Hora de acordar.
+
+1445
+02:02:29,491 --> 02:02:31,356
+- Tem uma ligação.
+- O quê?
+
+1446
+02:02:33,085 --> 02:02:36,170
+Vamos lá, meu amigo.
+É hora de confessar.
+
+1447
+02:02:36,897 --> 02:02:38,252
+Alô?
+
+1448
+02:02:38,253 --> 02:02:40,966
+Sem código de DNA,
+mas a voz combina.
+
+1449
+02:02:41,317 --> 02:02:44,134
+Aqui é o general Okto-Bar,
+você me escuta, comandante?
+
+1450
+02:02:45,214 --> 02:02:47,224
+O que está acontecendo?
+
+1451
+02:02:47,225 --> 02:02:49,959
+<i>Estamos prontos
+para ativar os explosivos</i>
+
+1452
+02:02:49,960 --> 02:02:52,770
+de acordo com as ordens
+que o senhor deu.
+
+1453
+02:02:53,456 --> 02:02:56,055
+O senhor confirma
+essas ordens?
+
+1454
+02:02:56,056 --> 02:02:58,489
+Ou o senhor tem alguma coisa
+para me dizer
+
+1455
+02:02:58,490 --> 02:03:01,897
+<i>que me permita impedir
+o ataque?</i>
+
+1456
+02:03:05,614 --> 02:03:07,530
+Eu sou um soldado.
+
+1457
+02:03:10,165 --> 02:03:14,537
+E um soldado sempre escolhe
+a morte no lugar da humilhação.
+
+1458
+02:03:18,770 --> 02:03:20,994
+Aniquilem todos.
+
+1459
+02:03:43,089 --> 02:03:44,445
+Que diabos está fazendo?
+
+1460
+02:03:44,446 --> 02:03:45,784
+Eu não dei as ordens!
+
+1461
+02:03:45,785 --> 02:03:47,739
+Capitão!
+Cessar fogo imediatamente!
+
+1462
+02:03:47,740 --> 02:03:50,717
+Não somos nós!
+São os K-Trons atirando em nós!
+
+1463
+02:03:52,368 --> 02:03:53,681
+Vamos!
+
+1464
+02:03:57,244 --> 02:03:59,356
+Vou dar apoio a Tsûuri.
+
+1465
+02:03:59,357 --> 02:04:01,927
+- Fique de olho nele.
+- Ele não vai a lugar algum.
+
+1466
+02:04:05,480 --> 02:04:08,167
+Abaixem-se!
+Protejam-se!
+
+1467
+02:04:10,193 --> 02:04:11,906
+Alex, carregue minha arma
+com tudo.
+
+1468
+02:04:11,907 --> 02:04:13,376
+<i>- Entendido.</i>
+- Obrigado.
+
+1469
+02:04:30,190 --> 02:04:33,798
+- Neza, pare a contagem agora!
+- Sim, senhor.
+
+1470
+02:04:56,172 --> 02:04:57,629
+Rápido, Neza!
+
+1471
+02:05:25,900 --> 02:05:27,817
+Rápido, Neza!
+
+1472
+02:05:33,935 --> 02:05:35,415
+Vamos lá!
+
+1473
+02:05:41,619 --> 02:05:44,601
+- Quanto tempo nós temos?
+- 6 segundos!
+
+1474
+02:05:48,434 --> 02:05:50,121
+Rápido!
+
+1475
+02:06:23,459 --> 02:06:24,993
+Neza?
+
+1476
+02:06:33,015 --> 02:06:34,864
+Procure por sobreviventes.
+
+1477
+02:06:36,349 --> 02:06:38,591
+PROCESSO DE VERIFICAÇÃO
+
+1478
+02:07:00,535 --> 02:07:02,263
+Capitão, relate a situação.
+
+1479
+02:07:02,264 --> 02:07:04,806
+Não sobrou nada,
+apenas um buraco.
+
+1480
+02:07:04,807 --> 02:07:08,033
+Eles partiram com a nave.
+Sumiu tudo.
+
+1481
+02:07:08,034 --> 02:07:10,625
+E nossos agentes,
+Valerian e Laureline?
+
+1482
+02:07:10,626 --> 02:07:12,884
+<i>- Não, nada.
+- E o comandante?</i>
+
+1483
+02:07:12,885 --> 02:07:14,287
+<i>Tem alguém aí?</i>
+
+1484
+02:07:14,288 --> 02:07:15,930
+- Espere.
+- Veio de lá.
+
+1485
+02:07:19,963 --> 02:07:21,359
+Há um corpo.
+
+1486
+02:07:21,360 --> 02:07:24,942
+Tirem-me daqui,
+seus incompetentes!
+
+1487
+02:07:26,103 --> 02:07:28,172
+É o comandante.
+
+1488
+02:07:28,508 --> 02:07:30,460
+- Ele está vivo?
+- Afirmativo.
+
+1489
+02:07:30,461 --> 02:07:32,844
+- Vivinho da silva.
+<i>- Que bom.</i>
+
+1490
+02:07:35,749 --> 02:07:37,576
+Prendam-no.
+
+1491
+02:07:40,018 --> 02:07:41,388
+Socorro!
+
+1492
+02:07:59,593 --> 02:08:01,798
+Você faz ideia
+de onde nos deixaram?
+
+1493
+02:08:01,799 --> 02:08:04,016
+Estamos a duas horas
+de distância das férias.
+
+1494
+02:08:04,017 --> 02:08:06,311
+Já mandei
+um pedido de socorro.
+
+1495
+02:08:06,312 --> 02:08:08,044
+- Duas horas?
+- Pois é, eu sei,
+
+1496
+02:08:08,045 --> 02:08:10,546
+2 horas sozinha comigo,
+que furada.
+
+1497
+02:08:11,001 --> 02:08:13,583
+Não brinca,
+no espaço é uma eternidade.
+
+1498
+02:08:17,472 --> 02:08:20,663
+Agora que a missão acabou,
+podemos terminar nossa conversa.
+
+1499
+02:08:20,664 --> 02:08:22,190
+Que conversa?
+
+1500
+02:08:22,191 --> 02:08:23,993
+Estávamos falando
+sobre nosso futuro.
+
+1501
+02:08:23,994 --> 02:08:27,170
+Sério?
+O que o futuro nos espera?
+
+1502
+02:08:31,486 --> 02:08:33,107
+Você.
+
+1503
+02:08:33,616 --> 02:08:35,161
+Eu.
+
+1504
+02:08:36,758 --> 02:08:38,406
+Nós.
+
+1505
+02:08:41,944 --> 02:08:43,956
+Feliz aniversário.
+
+1506
+02:08:46,997 --> 02:08:49,002
+Obrigada, Valerian.
+
+1507
+02:08:49,810 --> 02:08:52,342
+Isso é tão romântico.
+
+1508
+02:08:52,343 --> 02:08:55,004
+- Pensou nisso sozinho?
+- Pensei.
+
+1509
+02:08:55,005 --> 02:08:57,401
+Você significa muito
+para mim, sabe?
+
+1510
+02:08:58,266 --> 02:08:59,821
+Laureline,
+
+1511
+02:09:01,570 --> 02:09:04,562
+você me daria a honra
+de ser minha esposa?
+
+1512
+02:09:06,502 --> 02:09:08,527
+Na alegria e na tristeza.
+
+1513
+02:09:08,977 --> 02:09:11,986
+Na tristeza?
+Isso é negociável?
+
+1514
+02:09:11,987 --> 02:09:13,369
+Não.
+
+1515
+02:09:14,088 --> 02:09:15,999
+Está bem, então.
+
+1516
+02:09:27,128 --> 02:09:29,846
+Isso é um sim?
+
+1517
+02:09:29,847 --> 02:09:31,598
+É um talvez.
+
+1518
+02:09:32,735 --> 02:09:35,406
+Estou confuso.
+É assim que o amor funciona?
+
+1519
+02:09:35,858 --> 02:09:38,505
+É assim que eu funciono.
+Passou um dia
+
+1520
+02:09:38,506 --> 02:09:41,142
+no corpo de uma mulher
+e não aprendeu nada?
+
+1521
+02:09:41,143 --> 02:09:42,621
+Sim.
+
+1522
+02:09:43,821 --> 02:09:45,770
+Eu aprendi uma coisa.
+
+1523
+02:09:46,221 --> 02:09:48,004
+O quê?
+
+1524
+02:09:48,005 --> 02:09:51,285
+Quero que seu nome
+seja o único na minha lista.
+
+1525
+02:09:59,455 --> 02:10:02,634
+<i>Eu tenho que me encontrar,
+tenho que me encontrar agora</i>
+
+1526
+02:10:02,635 --> 02:10:05,455
+<i>Tenho que ser um cara,
+tenho que achá-lo agora</i>
+
+1527
+02:10:05,456 --> 02:10:07,702
+<i>Eu tenho que ser um cara</i>
+
+1528
+02:10:08,014 --> 02:10:10,928
+<i>Tenho que ser o cara</i>
+
+1529
+02:10:10,929 --> 02:10:12,615
+<i>Eles querem me derrubar</i>
+
+1530
+02:10:12,616 --> 02:10:15,309
+<i>Querem me ver rastejar,
+tenho que ser um cara</i>
+
+1531
+02:10:15,310 --> 02:10:16,748
+<i>Tenho que achá-lo agora</i>
+
+1532
+02:10:16,749 --> 02:10:19,385
+<i>Tenho que ser um cara</i>
+
+1533
+02:10:19,386 --> 02:10:21,869
+<i>Tenho que ser o cara</i>
+
+1534
+02:10:22,677 --> 02:10:25,677
+<b>Entregue-se à sua inSanidade.
+Junte-se a nós!</b>
+
+1535
+02:10:25,678 --> 02:10:28,678
+<b>www.insanos.tv
+@inSanosTV</b>
+
+1536
+02:10:30,765 --> 02:10:33,398
+<i>Tenho que ser o cara</i>
+
+1537
+02:10:33,819 --> 02:10:36,621
+<i>Quando eu vir para a cidade
+pela última vez</i>
+
+1538
+02:10:36,622 --> 02:10:39,432
+<i>Quando entrar em um carro veloz
+pela primeira vez</i>
+
+1539
+02:10:39,433 --> 02:10:41,778
+<i>Eu vou dizer adeus</i>
+
+1540
+02:10:42,108 --> 02:10:44,730
+<i>Você não me viu chorar</i>
+
+1541
+02:10:44,731 --> 02:10:47,356
+<i>Eu tenho um milhão
+na minha alma</i>
+
+1542
+02:10:47,357 --> 02:10:50,127
+<i>Eu vou montar
+meu próprio exército</i>
+
+1543
+02:10:50,128 --> 02:10:53,404
+<i>Eles pediram uma recompensa
+pela minha alma</i>
+
+1544
+02:10:55,384 --> 02:10:58,207
+<i>Você não vai mais
+Me deixar sozinha</i>
+
+1545
+02:10:58,700 --> 02:11:01,336
+<i>Deixar mais sozinha</i>
+
+1546
+02:11:01,337 --> 02:11:04,051
+<i>Eu tenho que ser um cara</i>
+
+1547
+02:11:04,052 --> 02:11:06,409
+<i>Eu tenho que ser o cara</i>
+
+1548
+02:11:06,755 --> 02:11:09,660
+<i>Você não vai mais
+me deixar sozinha</i>
+
+1549
+02:11:10,165 --> 02:11:12,508
+<i>Deixar mais sozinha</i>
+
+1550
+02:11:12,509 --> 02:11:15,586
+<i>Eu tenho que ser um cara</i>
+
+1551
+02:11:15,587 --> 02:11:18,022
+<i>Eu tenho que ser o cara</i>
+
+1552
+02:11:18,916 --> 02:11:20,987
+<i>Contenha meu fogo</i>
+
+1553
+02:11:24,149 --> 02:11:27,526
+<i>Eu tenho que me encontrar,
+tenho que me encontrar agora</i>
+
+1554
+02:11:27,527 --> 02:11:30,337
+<i>Tenho que ser um cara,
+tenho que achá-lo agora</i>
+
+1555
+02:11:30,338 --> 02:11:32,694
+<i>Eu tenho que ser o cara</i>
+
+1556
+02:11:33,993 --> 02:11:36,765
+<i>Seu olhar me congela</i>
+
+1557
+02:11:36,766 --> 02:11:39,918
+<i>Mas não consigo ficar parada</i>
+
+1558
+02:11:39,919 --> 02:11:41,706
+<i>Esses olhos me deixam
+mais alerta</i>
+
+1559
+02:11:41,707 --> 02:11:45,122
+<i>Do que qualquer
+outro medicamento</i>
+
+1560
+02:11:45,123 --> 02:11:48,013
+<i>E eu sei, estando juntos</i>
+
+1561
+02:11:48,014 --> 02:11:50,781
+<i>Nós sentimos
+que é para sempre</i>
+
+1562
+02:11:50,782 --> 02:11:53,671
+<i>Mas agora
+mais do que nunca</i>
+
+1563
+02:11:53,672 --> 02:11:56,599
+<i>Eu sinto tudo</i>
+
+1564
+02:11:56,600 --> 02:11:59,031
+<i>Você faz eu me sentir
+tão louca</i>
+
+1565
+02:11:59,032 --> 02:12:01,998
+<i>Nunca me senti tão normal</i>
+
+1566
+02:12:02,456 --> 02:12:04,474
+<i>Derrubada pelo amor</i>
+
+1567
+02:12:04,475 --> 02:12:07,380
+<i>Mas o sentimento persiste</i>
+
+1568
+02:12:07,381 --> 02:12:10,397
+<i>Você deve saber
+se você me quiser</i>
+
+1569
+02:12:10,398 --> 02:12:12,847
+<i>É seu,
+então venha pegar</i>
+
+1570
+02:12:12,848 --> 02:12:14,403
+<i>Agora</i>
+
+1571
+02:12:14,404 --> 02:12:17,698
+<i>Mais do que nunca
+eu sinto tudo</i>
+
+1572
+02:12:17,699 --> 02:12:19,372
+<i>Eu sinto tudo</i>
+
+1573
+02:12:19,373 --> 02:12:21,668
+<i>Tudo o que eu tenho é seu</i>
+
+1574
+02:12:22,030 --> 02:12:24,604
+<i>Eu darei para você,
+seja meu</i>
+
+1575
+02:12:24,605 --> 02:12:27,603
+<i>Você está no meu cérebro
+Sou sua</i>
+
+1576
+02:12:27,604 --> 02:12:29,670
+<i>E em meu coração também
+Seja meu</i>
+
+1577
+02:12:29,671 --> 02:12:32,325
+<i>Porque eu sou sua
+Eu quero você</i>
+
+1578
+02:12:32,326 --> 02:12:37,018
+<i>Se você me quiser,
+diga que também me quer</i>
+
+1579
+02:12:37,791 --> 02:12:41,423
+<i>Porque eu darei tudo a você</i>
+
+1580
+02:12:41,424 --> 02:12:43,919
+<i>Estou assustada
+porque estou caindo</i>
+
+1581
+02:12:43,920 --> 02:12:47,163
+<i>Venha me pegar
+porque estou caindo</i>
+
+1582
+02:12:47,164 --> 02:12:49,532
+<i>Meu coração está chamando</i>
+
+1583
+02:12:49,977 --> 02:12:52,492
+<i>Não pode me impedir de rugir
+sou o céu</i>
+
+1584
+02:12:52,493 --> 02:12:55,251
+<i>Estou assustada
+porque estou caindo</i>
+
+1585
+02:12:55,252 --> 02:12:58,311
+<i>Estou cega e estou caindo</i>
+
+1586
+02:12:58,312 --> 02:13:00,949
+<i>Meu amor está chamando</i>
+
+1587
+02:13:00,950 --> 02:13:02,427
+<i>Não pode me impedir de rugir</i>
+
+1588
+02:13:02,428 --> 02:13:04,990
+<i>Estou subindo,
+venha comigo e voe</i>
+
+1589
+02:13:04,991 --> 02:13:09,393
+<i>Nunca pensei que fosse cair
+desse jeito</i>
+
+1590
+02:13:09,576 --> 02:13:14,576
+<i>Saltei direto
+para esse abismo eterno</i>
+
+1591
+02:13:14,577 --> 02:13:17,431
+<i>E eu sei que ficando juntos</i>
+
+1592
+02:13:17,432 --> 02:13:20,049
+<i>Sentimos como se fosse
+para sempre</i>
+
+1593
+02:13:20,050 --> 02:13:23,249
+<i>Mas agora, mais do que nunca</i>
+
+1594
+02:13:23,250 --> 02:13:26,059
+<i>Estou sentindo tudo</i>
+
+1595
+02:13:26,060 --> 02:13:28,559
+<i>Tudo o que tenho
+Sou sua</i>
+
+1596
+02:13:28,560 --> 02:13:31,426
+<i>Eu darei a você
+Seja meu</i>
+
+1597
+02:13:31,427 --> 02:13:34,225
+<i>Você está no meu cérebro
+Sou sua</i>
+
+1598
+02:13:34,657 --> 02:13:36,465
+<i>E em meu coração também
+Seja meu</i>
+
+1599
+02:13:36,466 --> 02:13:38,740
+<i>Porque sou sua
+Eu quero você</i>
+
+1600
+02:13:38,741 --> 02:13:41,914
+<i>Se você me quiser
+Seja meu</i>
+
+1601
+02:13:41,915 --> 02:13:44,296
+<i>Diga que também me quer
+Eu quero você</i>
+
+1602
+02:13:44,867 --> 02:13:48,547
+<i>Porque darei tudo a você</i>
+
+1603
+02:13:48,548 --> 02:13:51,268
+<i>Estou assustada
+porque estou caindo</i>
+
+1604
+02:13:52,333 --> 02:13:55,035
+<i>Eu sinto tudo</i>
+
+1605
+02:13:57,841 --> 02:14:00,663
+<i>Eu sinto tudo</i>
+
+1606
+02:14:03,411 --> 02:14:06,234
+<i>Eu sinto tudo</i>
+
+1607
+02:14:09,146 --> 02:14:12,507
+<i>Eu sinto tudo</i>
+

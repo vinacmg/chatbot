@@ -1,0 +1,5362 @@
+﻿1
+00:01:24,200 --> 00:01:28,398
+♫ Você pode se encontrar
+vivendo em um barraco ♫
+
+2
+00:01:28,480 --> 00:01:32,519
+♫ pode nem se achar em seu próprio lar♫
+
+3
+00:01:32,600 --> 00:01:35,956
+♫ pode se achar olhando para seu carrão ♫
+
+4
+00:01:36,040 --> 00:01:41,114
+♫ e pode se achar sem uma linda casa ♫
+
+5
+00:01:41,200 --> 00:01:43,236
+♫ até mesmo sem uma linda mulher ♫
+
+6
+00:01:43,320 --> 00:01:45,197
+♫ e então se pergunta ♫
+
+7
+00:01:45,280 --> 00:01:48,636
+♫ "Como eu fiz para chegar aqui?" ♫
+
+8
+00:01:48,720 --> 00:01:51,951
+♫ Do mesmo jeito de sempre,
+do mesmo jeito de sempre ♫
+
+9
+00:01:52,560 --> 00:01:53,834
+♫ Do mesmo jeito de sempre ♫
+
+10
+00:01:54,520 --> 00:01:55,873
+♫ Do mesmo jeito de sempre ♫
+
+11
+00:02:12,299 --> 00:02:19,942
+Tradução: Jairo de Paula
+Agosto/2016
+
+12
+00:02:20,162 --> 00:02:24,484
+Versão: 1.0
+
+13
+00:02:47,040 --> 00:02:49,508
+Bem-vindo ao Hyatt Jeddah.
+
+14
+00:02:56,918 --> 00:03:02,347
+<b><i>Holograma para o Rei</b></i>
+
+15
+00:03:06,120 --> 00:03:09,669
+<i>Eu preciso de você brilhando
+e reluzente, Alan.</i>
+
+16
+00:03:11,080 --> 00:03:13,674
+Veja, nós dois sabemos que o motivo
+para você pegar este trabalho
+
+17
+00:03:13,760 --> 00:03:15,955
+é sua conexão com o sobrinho do rei.
+
+18
+00:03:16,040 --> 00:03:18,395
+Você está a frente de um negócio
+que é fundamental para a empresa,
+
+19
+00:03:18,480 --> 00:03:20,550
+e isso é mais importante do que você.
+
+20
+00:03:20,640 --> 00:03:23,552
+mas você tem mais perguntas
+do que respostas.
+
+21
+00:03:23,680 --> 00:03:25,193
+e isso me deixa desconfortável.
+
+22
+00:03:25,280 --> 00:03:27,236
+Tem muitas perguntas não
+respondidas aqui.
+
+23
+00:03:27,320 --> 00:03:30,198
+porque eu nunca estive
+na Arábia Saudita.
+
+24
+00:03:30,280 --> 00:03:31,998
+Eu não disse que tinha conhecimento
+sobre a região
+
+25
+00:03:32,080 --> 00:03:34,514
+sobre o Estado ou
+sobre a forma de pensar do Rei.
+
+26
+00:03:34,600 --> 00:03:37,034
+Você esteve fora por um bom tempo, Alan.
+
+27
+00:03:37,120 --> 00:03:38,394
+Não estamos mais nos dias
+do tempo das "vacas gordas".
+
+28
+00:03:38,480 --> 00:03:40,869
+Você não está mais vendendo
+bicicleta para garotinhos.
+
+29
+00:03:40,960 --> 00:03:44,157
+Então eu preciso saber
+que você está focado,
+
+30
+00:03:44,240 --> 00:03:45,878
+que você vai para fechar este negócio.
+
+31
+00:03:47,240 --> 00:03:49,071
+Isso são vendas.
+
+32
+00:03:49,160 --> 00:03:50,559
+Se tem estimativas.
+
+33
+00:03:50,640 --> 00:03:51,959
+e se faz um plano de vendas.
+
+34
+00:03:52,040 --> 00:03:54,270
+Aí se chega lá e tudo muda.
+
+35
+00:03:54,360 --> 00:03:56,555
+mesmo assim a venda acontece.
+
+36
+00:04:12,040 --> 00:04:15,237
+Eu sei, me desculpe.
+Eu cheguei muito tarde ontem
+
+37
+00:04:15,320 --> 00:04:16,799
+e esqueci de acionar o alarme.
+
+38
+00:04:16,880 --> 00:04:19,056
+<i>Não se preocupe,
+O jogo está apenas começando.</i>
+
+39
+00:04:19,080 --> 00:04:21,719
+<i>Calma. Vocês sabem como Alan
+pode conseguir uma carona ?</i>
+
+40
+00:04:21,800 --> 00:04:23,336
+<i>Talvez ele possa alugar um carro.</i>
+
+41
+00:04:23,360 --> 00:04:25,396
+<i>- Você pode alugar um carro, Alan?
+- Eu descubro.</i>
+
+42
+00:04:25,480 --> 00:04:28,392
+<i>- Mesa da frente.
+- Aqui é Alan Clay. Com quem eu estou falando?</i>
+
+43
+00:04:28,480 --> 00:04:31,517
+<i>- Meu nome é Edward, senhor.
+- Edward. Onde você está?</i>
+
+44
+00:04:31,600 --> 00:04:34,592
+<i>- Jacarta, Indonésia, senhor.
+- Jacarta!</i>
+
+45
+00:04:34,680 --> 00:04:37,558
+-Indonésia.
+-Edward, o que você acha
+
+46
+00:04:37,640 --> 00:04:39,517
+de alugar pelo hotel um carro para mim?
+
+47
+00:04:39,600 --> 00:04:41,556
+<i>O senhor tem a licença internacional
+para dirigir?</i>
+
+48
+00:04:41,640 --> 00:04:42,834
+<i>Não, não tenho.</i>
+
+49
+00:04:42,920 --> 00:04:45,514
+<i>Então, não, Eu não acho
+que isso possa ser possível.</i>
+
+50
+00:04:45,600 --> 00:04:48,353
+<i>- Bem, eu poderia alugar um carro com motorista ??
+- Para onde ?</i>
+
+51
+00:04:48,440 --> 00:04:52,672
+A metrópole de economia e negócios do Rei.
+
+52
+00:05:02,320 --> 00:05:04,709
+Bom dia.
+
+53
+00:05:15,240 --> 00:05:18,232
+Me desculpe.
+
+54
+00:05:21,720 --> 00:05:25,030
+- Você é Alan Clay?
+- Você é o motorista?
+
+55
+00:05:25,120 --> 00:05:28,669
+Motorista, Guia e herói.
+Yousef.
+
+56
+00:05:31,440 --> 00:05:34,830
+Oh, não, não, não. Eu não sou um chauffeur.
+Entre na frente.
+
+57
+00:05:39,960 --> 00:05:41,871
+Tem água se você quiser.
+
+58
+00:05:43,160 --> 00:05:44,957
+Você tem certeza que essa coisa
+consegue nos levar até lá ?
+
+59
+00:05:45,040 --> 00:05:48,077
+Eu dirijo essa coisa até
+Riyadh todos os dias.
+
+60
+00:05:48,200 --> 00:05:50,555
+E ela nunca me deixou na mão.
+
+61
+00:05:51,720 --> 00:05:54,359
+Só um segundo.
+
+62
+00:06:06,720 --> 00:06:08,915
+- Então, está tudo certo?
+- Oh, sim, nada demais.
+
+63
+00:06:09,000 --> 00:06:11,753
+Eu desconectei o motor
+antes de entrar no Lobby.
+
+64
+00:06:11,840 --> 00:06:14,559
+- Por que?
+- para ter certeza que ninguém grampeou ele.
+
+65
+00:06:15,280 --> 00:06:17,077
+Você está falando de ligação
+direta para roubar ele ?
+
+66
+00:06:17,160 --> 00:06:19,628
+Não, Eu disse "grampear" para
+explodir mesmo.
+
+67
+00:06:21,960 --> 00:06:23,871
+Não, não.
+Não tem nada a ver com terrorismo.
+
+68
+00:06:23,960 --> 00:06:27,270
+É só...um cara que pensa que
+eu estou pegando a mulher dele.
+
+69
+00:06:27,360 --> 00:06:28,679
+Ele pode tentar me matar.
+
+70
+00:06:30,160 --> 00:06:31,160
+Vamos lá.
+
+71
+00:06:35,520 --> 00:06:38,717
+- Então, eu estou em um carro que pode explodir?
+- Não, não, não, não, não.
+
+72
+00:06:38,800 --> 00:06:42,475
+Não tem nada porque se preocupara. Eu não acho
+que ele saiba como "grampear" um carro.
+
+73
+00:06:42,560 --> 00:06:45,120
+Ele não é um cara espeto,
+é somente rico.
+
+74
+00:06:45,200 --> 00:06:48,158
+Mas ele poderia contratar alguém
+para fazer isso.
+
+75
+00:06:53,600 --> 00:06:55,318
+Se você fosse esse "cara rico",
+
+76
+00:06:55,400 --> 00:06:58,312
+você contrataria alguém
+para explodir o carro
+
+77
+00:06:58,400 --> 00:07:00,356
+do cara que está comendo sua mulher?
+
+78
+00:07:02,440 --> 00:07:05,637
+Porra!  Agora você me deixou com medo.
+
+79
+00:07:14,280 --> 00:07:17,431
+De qualquer jeito, Alan?
+De onde você é ?
+
+80
+00:07:17,520 --> 00:07:19,351
+Boston.
+
+81
+00:07:19,440 --> 00:07:21,829
+Ah, legal, Boston.
+
+82
+00:07:21,960 --> 00:07:25,919
+Eu estive um ano no colégio
+no Alabama.
+
+83
+00:07:26,000 --> 00:07:27,911
+- Você estudou no Alabama?
+- Sim.
+
+84
+00:07:28,000 --> 00:07:29,399
+Por que o Alabama?
+
+85
+00:07:29,480 --> 00:07:31,835
+Você está perguntando isso por que eu era
+o único árabe em num raio de mil milhas?
+
+86
+00:07:33,480 --> 00:07:36,552
+Eu estive por um ano em uma
+comunidade em Birmingham.
+
+87
+00:07:36,640 --> 00:07:38,756
+- Birmingham?
+- Sim.
+
+88
+00:07:38,840 --> 00:07:41,115
+Oh, Eu gosto de Birmingham.
+
+89
+00:07:41,200 --> 00:07:43,634
+Está com fome?
+Quer comer alguma coisa ?
+
+90
+00:07:43,720 --> 00:07:47,156
+Você está falando em parar em um restaurante ?
+Eu acabei de entrar no carro.
+
+91
+00:07:47,240 --> 00:07:51,279
+- Nós poderíamos ir a algum lugar no lado antigo.
+- Não, eu estou atrasado, lembrar?
+
+92
+00:07:51,360 --> 00:07:55,114
+Oh, Você está atrasado?
+Não, eles não me disseram nada sobre isso.
+
+93
+00:07:55,200 --> 00:07:58,397
+Não, nós não deveríamos ir por aqui
+se você está atrasado.
+
+94
+00:08:05,400 --> 00:08:08,676
+<i>-Gosta de Chicago?
+- Não no inverno.</i>
+
+95
+00:08:08,800 --> 00:08:11,997
+- Não, A banda.
+- Oh.
+
+96
+00:08:14,920 --> 00:08:20,278
+<i>♫ Você sabe que nosso amor
+tinha que acontecer ♫</i>
+
+97
+00:08:20,360 --> 00:08:24,114
+<i>♫ O tipo de amor que dura para sempre...♫</i>
+
+98
+00:08:24,200 --> 00:08:27,476
+<i>- Quanto tempo demora para chegar lá?
+- no KMET?</i>
+
+99
+00:08:27,560 --> 00:08:30,916
+- no quê?
+- A metrópole de Economia e negócios do Rei.
+
+100
+00:08:31,000 --> 00:08:33,514
+- Nós chamamos de KMET.
+- Sim, para o KMET.
+
+101
+00:08:33,600 --> 00:08:34,953
+É para lá que você está indo, não é ?
+
+102
+00:08:36,480 --> 00:08:38,550
+Brincadeira.
+
+103
+00:08:38,640 --> 00:08:39,470
+Mais ou menos 01 hora.
+
+104
+00:08:39,560 --> 00:08:42,757
+- De que hora você deveria estar lá?
+- 08 ou 08:30.
+
+105
+00:08:42,840 --> 00:08:44,319
+- Oh.
+- ♫ Em qualquer lugar que eu vá...♫
+
+106
+00:08:44,400 --> 00:08:47,676
+- Nós vamos estar lá de meio-dia.
+- ♫ Sempre na minha mente... ♫
+
+107
+00:08:47,760 --> 00:08:50,513
+-  Quer uma pastilha?
+- ♫ No meu coração, na minha alma...♫
+
+108
+00:08:50,600 --> 00:08:51,476
+Não?
+
+109
+00:08:51,560 --> 00:08:55,439
+♫ Amor, Você é o significado da minha vida ♫
+
+110
+00:08:56,640 --> 00:08:58,756
+Ei, Sabe?
+Eu não gosto do Chicago.
+
+111
+00:08:58,840 --> 00:09:03,118
+Oh. Ok.
+
+112
+00:09:03,200 --> 00:09:05,316
+Deixa ver o que eu tenho aqui, certo?
+
+113
+00:09:11,720 --> 00:09:14,837
+Oh.
+
+114
+00:09:22,280 --> 00:09:24,840
+<i>- Então, Por que você está indo ao  KMET?
+- Trabalho.</i>
+
+115
+00:09:24,960 --> 00:09:29,112
+<i>- Ah, Você é construtor?
+- Não, Trabalho com T.I.</i>
+
+116
+00:09:29,200 --> 00:09:32,476
+-Ah, T.I.
+-Você sabe que nada acontece por aqui.
+
+117
+00:09:32,560 --> 00:09:35,074
+- Bem, não ainda.
+- Nunca, nunca mesmo.
+
+118
+00:09:35,160 --> 00:09:37,958
+Eu fiz meu planejamento,
+vou lá e vou apresentar...
+
+119
+00:09:38,040 --> 00:09:39,359
+com todo meu entusiasmo.
+
+120
+00:09:39,440 --> 00:09:42,079
+Ok. Veja por você mesmo.
+
+121
+00:10:00,960 --> 00:10:05,351
+<i>Veja, estão varrendo a areia do deserto.</i>
+
+122
+00:10:10,360 --> 00:10:13,955
+Eu suponho que esses não sejam
+pessoas do sindicato.
+
+123
+00:10:14,040 --> 00:10:18,238
+Oh, Nós não temos sindicatos aqui.
+Nós somos Filipinos.
+
+124
+00:10:42,840 --> 00:10:45,559
+- Ah, Sr. Clay?
+- Sim.
+
+125
+00:10:45,640 --> 00:10:48,438
+Nós estávamos esperando pelo senhor.
+Eu sou Sayed.
+
+126
+00:10:48,520 --> 00:10:50,397
+Sayed.
+
+127
+00:10:50,480 --> 00:10:52,311
+<i>Salaam alaikum.</i>
+
+128
+00:10:52,400 --> 00:10:54,630
+É uma pena escutar que
+o senhor perdeu o seu transporte.
+
+129
+00:10:54,720 --> 00:10:56,995
+Eu vi que o hotel teve alguma
+dificuldade para acordá-lo.
+
+130
+00:10:57,080 --> 00:11:00,231
+- Me desculpe, eu estou atrasado.
+- O Rei não virá hoje.
+
+131
+00:11:00,320 --> 00:11:03,437
+Portanto, seu atraso é irrelevante.
+
+132
+00:11:03,520 --> 00:11:05,875
+O meu pessoal está aqui ?
+
+133
+00:11:05,960 --> 00:11:07,951
+Não, eles estão na área de apresentação.
+
+134
+00:11:08,040 --> 00:11:12,272
+- Siga-me. Suco ?
+- Oh, Obrigado.
+
+135
+00:11:12,400 --> 00:11:18,953
+Então, Sr. Clay, permita-me
+lhe mostrar o sonho do rei.
+
+136
+00:11:19,040 --> 00:11:20,951
+Que está no lugar onde
+nos encontramos agora
+
+137
+00:11:21,040 --> 00:11:25,795
+e esta é a cidade no ano de 2025.
+
+138
+00:11:25,880 --> 00:11:29,589
+Espaço para no mínimo 1,5 milhões de pessoas.
+
+139
+00:11:37,600 --> 00:11:38,600
+O porto fica ali.
+
+140
+00:11:40,960 --> 00:11:42,837
+A cidade da industria.
+
+141
+00:11:42,920 --> 00:11:45,992
+Universidade.
+
+142
+00:11:46,080 --> 00:11:48,071
+Centro de negócios.
+
+143
+00:11:48,160 --> 00:11:51,072
+Um parque de lazer e descanso.
+
+144
+00:11:52,480 --> 00:11:53,674
+Impressionante.
+
+145
+00:11:58,200 --> 00:11:59,200
+Eu tenho que ir.
+
+146
+00:12:01,000 --> 00:12:04,072
+Tome, no caso de dormir novamente.
+
+147
+00:12:05,440 --> 00:12:07,271
+A todo o vapor !
+
+148
+00:12:19,400 --> 00:12:23,075
+Nos veremos às 03:00
+ali no prédio principal.
+
+149
+00:12:23,160 --> 00:12:26,709
+Procure por Karim Al-Ahmad.
+Ele será seu primeiro contato.
+
+150
+00:12:26,800 --> 00:12:29,109
+- Minha equipe estará lá?
+- Sim.
+
+151
+00:12:29,200 --> 00:12:33,034
+- Em uma tenda?
+- Sim. Eu tenho certeza que encontrará
+tudo que precisa lá.
+
+152
+00:12:46,200 --> 00:12:47,599
+e aí !
+
+153
+00:13:33,440 --> 00:13:35,112
+Aqui está ele.
+
+154
+00:13:35,200 --> 00:13:36,474
+Oi.
+
+155
+00:13:36,560 --> 00:13:39,632
+- Cayley. Brad. Bom ver você.
+- Alan.
+
+156
+00:13:39,720 --> 00:13:41,119
+- Rachel.
+- Bem vindo.
+
+157
+00:13:41,200 --> 00:13:44,351
+Então, como estão se virando por aqui ?
+
+158
+00:13:44,440 --> 00:13:47,113
+Bem, mas nós não temos sinal de Wi-fi.
+
+159
+00:13:47,200 --> 00:13:48,952
+Só um sinal bem fraquinho daquele
+mesquita ali na frente...
+
+160
+00:13:49,040 --> 00:13:50,268
+...digo, daquele prédio de escritório.
+
+161
+00:13:50,360 --> 00:13:53,557
+- Falou com alguém sobre isso?
+- Nós achamos melhor esperar por você.
+
+162
+00:13:53,640 --> 00:13:55,949
+Nós tentamos o e-mail de Karim.
+
+163
+00:13:56,040 --> 00:13:58,838
+Karim Al-Ahmad.
+Eu tenho um encontro com ele às 15:00.
+
+164
+00:13:58,920 --> 00:14:02,196
+- Isso é ótimo.
+- É daqui a pouco.
+
+165
+00:14:02,320 --> 00:14:04,788
+Isso significa que vamos ter ação.
+
+166
+00:14:04,880 --> 00:14:07,792
+- E se o Rei chegar hoje?
+- Ele não vai.
+
+167
+00:14:07,880 --> 00:14:08,880
+Eu disse que ele não viria.
+
+168
+00:14:08,960 --> 00:14:12,509
+- Oh, ótimo.
+- e você já falou com ele alguma vez?
+
+169
+00:14:12,600 --> 00:14:16,149
+O Rei?
+Não. Não, não, não. Eu...
+
+170
+00:14:16,240 --> 00:14:18,629
+Eu só conheci o sobrinho dele.
+
+171
+00:14:18,720 --> 00:14:20,358
+e isso foi a muitos anos.
+
+172
+00:14:20,440 --> 00:14:25,833
+<i>- Ele era um príncipe ?
+- Sim, sim. Ele era.</i>
+
+173
+00:14:25,920 --> 00:14:28,673
+<i>e ele ainda é.</i>
+
+174
+00:14:32,440 --> 00:14:34,670
+Como você chama um peixe com
+só um olho ?
+
+175
+00:14:36,560 --> 00:14:40,314
+- Eu não sei.
+- Fshshsh.
+
+176
+00:14:44,600 --> 00:14:49,355
+De qualquer forma, O rei não estará aqui hoje.
+Então, pessoal, vocês podem relaxar.
+
+177
+00:14:49,440 --> 00:14:51,715
+Nós deveríamos ligar para a empresa
+e informar a eles
+
+178
+00:14:51,800 --> 00:14:53,233
+que as condições aqui são instáveis ?
+
+179
+00:14:53,320 --> 00:14:57,916
+Não, Brad, nos devemos esperar até
+eu conversar com Karim Al-Ahmad às 15:00.
+
+180
+00:14:58,040 --> 00:15:00,679
+Você sabe porque ele não
+está naquele prédio ?
+
+181
+00:15:00,760 --> 00:15:02,398
+Bem, talvez porque todos
+os vendedores estejam aqui.
+
+182
+00:15:02,480 --> 00:15:03,879
+e talvez nós sejamos os primeiros.
+
+183
+00:15:03,960 --> 00:15:06,155
+É uma situação um tanto esquisita.
+
+184
+00:15:06,280 --> 00:15:07,429
+É uma cidade novinha em folha.
+
+185
+00:15:07,520 --> 00:15:11,069
+Um território não catalogado e
+nós somos os bandeirantes.
+
+186
+00:15:11,160 --> 00:15:12,878
+Onde será que podemos
+comer alguma coisa?
+
+187
+00:15:12,960 --> 00:15:18,273
+Pessoal, por favor !!
+Nós estamos no Reino da Arábia Saudita.
+
+188
+00:15:18,360 --> 00:15:22,194
+Com o deserto e camelos e Sheiks
+com suas tendas !
+
+189
+00:15:22,280 --> 00:15:23,759
+
+
+190
+00:15:23,840 --> 00:15:25,751
+Aí, meu Deus !
+Você está bem?
+
+191
+00:15:25,840 --> 00:15:27,353
+Sim !!
+Você sabe ?
+
+192
+00:15:27,440 --> 00:15:30,000
+Só conseguem me matar
+com uma bala de ouro.
+
+193
+00:15:36,080 --> 00:15:39,117
+Bala de Ouro. Entenderam ?
+
+194
+00:15:39,680 --> 00:15:41,272
+Isso é de  "Lawrence da Arábia"?
+
+195
+00:15:42,120 --> 00:15:43,348
+Quem?
+
+196
+00:16:06,880 --> 00:16:08,711
+- Alô.
+- Alô.
+
+197
+00:16:08,800 --> 00:16:11,598
+- Qual o seu nome?
+- Meu nome é Maha.
+
+198
+00:16:11,680 --> 00:16:15,275
+Maha. Ótimo.
+De onde você é ?
+
+199
+00:16:16,160 --> 00:16:18,628
+Meu nome é Alan Clay.
+
+200
+00:16:18,720 --> 00:16:19,760
+Eu estou com o Grupo Relyand.
+
+201
+00:16:19,840 --> 00:16:20,989
+Eu tenho uma reunião às 15:00 horas
+
+202
+00:16:21,080 --> 00:16:22,593
+com o Sr. Karim Al-Ahmad.
+
+203
+00:16:22,680 --> 00:16:25,069
+Eu sinto dizer que ele
+está retido em Jeddah
+
+204
+00:16:25,160 --> 00:16:26,480
+e não conseguirá estar
+aqui hoje.
+
+205
+00:16:26,560 --> 00:16:28,278
+- Ele está retido em  Jeddah?
+- Sim, senhor.
+
+206
+00:16:28,360 --> 00:16:30,157
+Mas ele disse que estaria aqui
+amanhã o dia todo
+
+207
+00:16:30,240 --> 00:16:31,816
+O senhor pode me dizer uma
+hora que queira encontrar com ele.
+
+208
+00:16:31,840 --> 00:16:35,196
+Ok, mas eu estou com o
+Grupo Relyand.
+
+209
+00:16:35,280 --> 00:16:38,238
+e nós estamos instalados
+naquela tenda lá fora
+
+210
+00:16:38,320 --> 00:16:39,760
+e sem um sinal sequer de Wi-fi,
+
+211
+00:16:39,840 --> 00:16:41,336
+que é essencial para nossa apresentação.
+
+212
+00:16:41,360 --> 00:16:44,636
+Eu acho que o Sr. Al-Ahmad será o
+único que poderá falar a respeito disso.
+
+213
+00:16:44,720 --> 00:16:47,518
+- Ele é o encarregado pelos vendedores na tenda.
+- Entendido.
+
+214
+00:16:47,600 --> 00:16:49,955
+e qualquer hora amanhã estará ótimo.
+
+215
+00:16:50,040 --> 00:16:53,237
+Tudo se resolverá, eu tenho certeza.
+
+216
+00:16:53,320 --> 00:16:56,949
+Ok. Obrigado, Maha.
+
+217
+00:17:19,880 --> 00:17:23,793
+Não sabe como pagar a faculdade?
+Venda a casa.
+
+218
+00:17:23,880 --> 00:17:26,348
+Quanto tempo demora para
+vender essa maldita casa ?
+
+219
+00:17:26,480 --> 00:17:28,710
+- Ruby, Eu não posso mudar a situação atual...
+- Mentira!
+
+220
+00:17:28,800 --> 00:17:30,438
+Apenas venda, por tudo que é mais sagrado,
+
+221
+00:17:30,520 --> 00:17:35,275
+e depois, cumpra com o seu dever
+de pagar a faculdade de sua filha.
+
+222
+00:17:37,520 --> 00:17:41,433
+- Bem vindo ao  Hyatt Jeddah.
+- Boa noite, pessoal. Vejo vocês pela manhã.
+
+223
+00:17:42,520 --> 00:17:44,636
+<i>- Olá?
+- Oi, Alan. Eric Rahndall que falar com você.</i>
+
+224
+00:17:44,720 --> 00:17:47,598
+<i>- Ok, Ótimo.
+- Como assim ele não apareceu ?</i>
+
+225
+00:17:47,680 --> 00:17:48,800
+Bem, ele ficou retido em Jeddah.
+
+226
+00:17:48,920 --> 00:17:51,354
+Fica para amanhã, mas está tudo bem,
+eu tenho certeza.
+
+227
+00:17:51,440 --> 00:17:53,936
+<i>Ok, mas não esqueça de me ligar
+logo que a reunião for encerrada.</i>
+
+228
+00:17:53,960 --> 00:17:56,520
+<i>- Eu estou com  Mike Winston na outra linha.
+- Oh, coloque ele na linha.</i>
+
+229
+00:18:25,640 --> 00:18:27,596
+Olá, Kitty.
+
+230
+00:18:28,000 --> 00:18:31,515
+<i>Oi, pai. Eu espero que sua viagem
+esteja indo bem.</i>
+
+231
+00:18:31,600 --> 00:18:34,592
+<i>É muito quente aí?
+Tem muita areia?</i>
+
+232
+00:18:34,680 --> 00:18:37,399
+<i>Brincadeirinha. Foi só uma piada.</i>
+
+233
+00:18:37,480 --> 00:18:42,395
+<i>Aqui está tudo bem.
+Não completamente bem.</i>
+
+234
+00:18:42,480 --> 00:18:43,754
+<i>Mamãe me chamou noite passada</i>
+
+235
+00:18:43,840 --> 00:18:46,912
+<i>e repetiu o mesma coisa de sempre...</i>
+
+236
+00:18:47,000 --> 00:18:48,638
+<i>culpando você por tudo.</i>
+
+237
+00:18:48,720 --> 00:18:51,871
+<i>Mas pra mim não tem problema
+em perder um semestre ou dois na faculdade.</i>
+
+238
+00:18:51,960 --> 00:18:53,109
+Eu lamento muito, Kitty.
+
+239
+00:18:53,200 --> 00:18:54,918
+<i>Isso tá me fazendo até bem.</i>
+
+240
+00:18:55,000 --> 00:18:57,673
+Pai, tá tudo bem.
+
+241
+00:18:57,760 --> 00:19:01,912
+Eu posso usar esse tempo livre para
+conseguir alguma grana extra. Eu acho legal.
+
+242
+00:19:02,000 --> 00:19:06,152
+Isso, mas não se acostume com isso.
+Você precisa voltar para a faculdade.
+
+243
+00:19:07,120 --> 00:19:11,193
+<i>Escuta, pai. Eu confio em você.
+Não escute o que a mamãe diz.</i>
+
+244
+00:19:11,280 --> 00:19:16,274
+<i>Ela disse: " O que ele vai fazer no deserto?
+O problema dele está aqui".</i>
+
+245
+00:19:16,360 --> 00:19:18,430
+<i>Eu disse a ela que você sabe
+o que está fazendo</i>
+
+246
+00:19:18,520 --> 00:19:21,432
+<i>aí ele ficou furiosa dizendo
+que eu estou sempre defendendo você.</i>
+
+247
+00:19:21,520 --> 00:19:26,196
+<i>Ela diz que eu gosto de você,
+e que eu não vejo sua falta de ambição.</i>
+
+248
+00:19:26,280 --> 00:19:27,952
+<i>Aquelas besteiras de sempre.</i>
+
+249
+00:19:28,040 --> 00:19:33,114
+<i>Talvez você prove que ela está errada, pai.</i>
+
+250
+00:19:33,200 --> 00:19:35,555
+<i>Mostre que ela está errada.</i>
+
+251
+00:19:35,640 --> 00:19:37,995
+- Aqui é Alan Clay.
+
+252
+00:19:38,080 --> 00:19:40,389
+Existe alguma possibilidade de
+conseguir uma cerveja ou algo parecido?
+
+253
+00:19:40,480 --> 00:19:42,311
+<i>Eu lamento, senhor, mas o consumo de álcool</i>
+
+254
+00:19:42,400 --> 00:19:45,153
+<i>é estritamente proibido
+na Arábia Saudita.</i>
+
+255
+00:19:45,240 --> 00:19:46,958
+Ah, Claro.
+
+256
+00:19:47,080 --> 00:19:50,993
+<i>- Conseguiria uma Coca Diet?
+-Pepsi Diet?</i>
+
+257
+00:19:52,120 --> 00:19:54,429
+Pode ser. Obrigado.
+
+258
+00:20:02,560 --> 00:20:05,279
+<i>- Olá?
+- Oi, pai. Aqui é Alan.</i>
+
+259
+00:20:05,360 --> 00:20:08,477
+<i>Alan? Parece até que você
+está falando da lua.</i>
+
+260
+00:20:08,600 --> 00:20:10,716
+Não. Eu estou na Arábia Saudita.
+
+261
+00:20:10,800 --> 00:20:14,076
+<i>Oh, O que você está fazendo na
+Arábia Saudita?</i>
+
+262
+00:20:14,160 --> 00:20:17,197
+Bem, coisas bem interessantes, pai.
+
+263
+00:20:17,320 --> 00:20:18,320
+Eu estou aqui com a Relyand,
+
+264
+00:20:18,400 --> 00:20:23,918
+e nós estamos criando um novo
+sistema de dados para o Rei.
+
+265
+00:20:24,000 --> 00:20:26,878
+Temos até um tipo de equipamento
+de teleconferência
+
+266
+00:20:26,960 --> 00:20:29,599
+e vamos fazer uma apresentação
+para o próprio rei.
+
+267
+00:20:29,680 --> 00:20:33,036
+É um tipo de reunião holográfica
+em três dimensões...
+
+268
+00:20:33,120 --> 00:20:36,112
+<i>Sabe o que eu estou vendo
+na TV, Alan?</i>
+
+269
+00:20:36,200 --> 00:20:37,918
+Não. O que você está assistindo ?
+
+270
+00:20:38,000 --> 00:20:39,479
+Eu estou assistindo esse programa
+
+271
+00:20:39,560 --> 00:20:43,439
+de como uma ponte gigante de
+Oakland, Califórnia,
+
+272
+00:20:43,520 --> 00:20:46,796
+está sendo construída na China.
+
+273
+00:20:46,880 --> 00:20:48,791
+Você posse imaginar uma coisa dessa ?
+
+274
+00:20:48,880 --> 00:20:51,440
+Eles estão construído até
+nossas malditas pontes.
+
+275
+00:20:51,560 --> 00:20:55,872
+<i>Eu vou lhe dizer, Alan, quando você
+transferiu a  Schwinn lá para a China</i>
+
+276
+00:20:55,960 --> 00:20:58,554
+<i>e desempregou 900 de nossos
+compatriotas,</i>
+
+277
+00:20:58,640 --> 00:21:00,596
+<i>eu pude ver o que estava nos aguardando.</i>
+
+278
+00:21:00,680 --> 00:21:05,196
+Não faz sentido você ser
+um executivo sanguessuga de merda
+
+279
+00:21:05,280 --> 00:21:09,592
+que teima em acabar com
+a economia no seu próprio país.
+
+280
+00:21:09,680 --> 00:21:11,591
+<i>É o mundo cão</i>
+
+281
+00:21:11,680 --> 00:21:15,116
+<i>Mas e as pontes?
+Eu não vi ela chegando.</i>
+
+282
+00:21:15,200 --> 00:21:19,079
+<i>Deus do céu e você está na
+Arábia Saudita....</i>
+
+283
+00:21:19,160 --> 00:21:22,630
+- Pai, tá cortando.
+- ...vendendo hologramas para faraós!
+
+284
+00:21:22,760 --> 00:21:25,320
+- Pai, você está aí ? Tá cortando.
+- E isso só leva o ...
+
+285
+00:21:31,840 --> 00:21:34,354
+Oh, Droga!
+
+286
+00:21:37,160 --> 00:21:39,799
+Droga !
+
+287
+00:21:58,800 --> 00:22:02,634
+<i>- Eu perdi meu transporte de novo.
+- Mas é meu dia de folga.</i>
+
+288
+00:22:02,720 --> 00:22:05,473
+<i>Brincadeirinha. Eu estou disponível.</i>
+
+289
+00:22:05,560 --> 00:22:08,074
+<i>- Quando tempo você precisa?
+- 17 minutos.</i>
+
+290
+00:22:08,160 --> 00:22:09,388
+Faça em 23.
+
+291
+00:22:12,400 --> 00:22:15,278
+Você ficou no lobby pelo quê?
+Cinco Minutos ?
+
+292
+00:22:15,360 --> 00:22:17,635
+Que tipo de bomba alguém poderia
+instalar em 05 minutos ?
+
+293
+00:22:17,720 --> 00:22:21,190
+Como eu vou saber ?
+Eu vejo os mesmos programas que você.
+
+294
+00:22:25,360 --> 00:22:28,557
+- Pronto?
+- Não faça isso ficar mais dramático.
+
+295
+00:22:31,440 --> 00:22:34,079
+
+
+296
+00:22:34,160 --> 00:22:37,550
+- Ei, Você gosta da Electric Light Orchestra?
+- Sim.
+
+297
+00:22:40,800 --> 00:22:44,190
+<i>♫ The city streets
+are empty now ♫</i>
+
+298
+00:22:44,280 --> 00:22:47,192
+<i>♫ The lights
+don't shine no more ♫</i>
+
+299
+00:22:47,280 --> 00:22:50,750
+<i>♫ And so the songs
+are way down low... ♫</i>
+
+300
+00:22:50,840 --> 00:22:53,195
+<i>Ei, Eu consigo ver essa mesquita
+da minha varanda.</i>
+
+301
+00:22:53,280 --> 00:22:54,936
+Tem algo acontecendo lá desde ontem.
+
+302
+00:22:54,960 --> 00:22:57,793
+- Tinha muita gente.
+- Tem. É lá que eles realizam as execuções.
+
+303
+00:22:59,560 --> 00:23:02,677
+Você está dizendo no lado de fora,
+no meio das pessoas ?
+
+304
+00:23:02,760 --> 00:23:03,875
+Sim.
+
+305
+00:23:03,960 --> 00:23:05,896
+Você quer voltar e dar uma olhada ?
+
+306
+00:23:05,920 --> 00:23:07,638
+Não! Não.
+
+307
+00:23:10,040 --> 00:23:12,395
+Ei, Você se importa?
+
+308
+00:23:12,480 --> 00:23:13,595
+Absolutamente.
+
+309
+00:23:13,680 --> 00:23:15,750
+<i>♫ Turnin' to stone
+'cause you ain't comin' home ♫</i>
+
+310
+00:23:15,840 --> 00:23:17,896
+<i>♫ Why you ain't comin' home
+if I'm turning to stone? ♫</i>
+
+311
+00:23:17,920 --> 00:23:20,195
+<i>♫ You've been gone for so long
+and I can't carry on ♫</i>
+
+312
+00:23:20,280 --> 00:23:23,716
+<i>♫ Yes, I'm turning, I'm turning,
+I'm turning to stone ♫</i>
+
+313
+00:23:25,200 --> 00:23:28,476
+<i>♫ The dancing shadows
+on the wall ♫</i>
+
+314
+00:23:28,560 --> 00:23:31,518
+<i>♫ The two-step in the hall ♫</i>
+
+315
+00:23:31,600 --> 00:23:35,673
+<i>♫ Are all I see
+since you've been gone ♫</i>
+
+316
+00:23:35,760 --> 00:23:38,593
+<i>♫ Turning, turning, turning ♫</i>
+
+317
+00:23:38,680 --> 00:23:42,036
+<i>♫ Through all I sit here
+and I wait ♫</i>
+
+318
+00:23:42,120 --> 00:23:44,076
+<i>♫ I turn to stone,
+I turn to stone... ♫</i>
+
+319
+00:23:44,160 --> 00:23:45,718
+<i>Bom dia.</i>
+
+320
+00:23:45,800 --> 00:23:48,678
+- Nós já temos Wi-Fi?
+- Não.
+
+321
+00:23:51,000 --> 00:23:52,592
+Certo.
+
+322
+00:23:57,640 --> 00:23:59,358
+Olá.
+
+323
+00:24:02,400 --> 00:24:04,630
+Maha, O que está acontecendo?
+
+324
+00:24:04,720 --> 00:24:06,278
+Perdão?
+
+325
+00:24:06,360 --> 00:24:10,114
+- O Sr. Karim Al-Ahmad está?
+- Eu receio que não.
+
+326
+00:24:10,200 --> 00:24:13,670
+- Ele está em Riyadh hoje.
+- Você me assegurou que ele estaria aqui o dia todo.
+
+327
+00:24:13,760 --> 00:24:18,311
+Eu sei, mas a sua agenda mudou na noite passada.
+Eu lamento.
+
+328
+00:24:18,400 --> 00:24:20,630
+Deixe-me perguntar uma coisa a você, Maha.
+
+329
+00:24:20,720 --> 00:24:23,951
+Você tem certeza que não tem
+ninguém que eu possa falar sobre
+
+330
+00:24:24,040 --> 00:24:25,758
+a apresentação para o Rei ?
+
+331
+00:24:25,840 --> 00:24:29,515
+Eu receio que não. O Sr. Al-Ahmad
+realmente é o seu primeiro contato.
+
+332
+00:24:29,600 --> 00:24:31,795
+Ele irá voltar amanhã.
+Ele garantiu.
+
+333
+00:24:31,880 --> 00:24:33,950
+<i>Com licença.</i>
+
+334
+00:24:38,280 --> 00:24:39,838
+Eu lamento.
+
+335
+00:25:15,560 --> 00:25:16,879
+Você parece ser novo aqui.
+
+336
+00:25:16,960 --> 00:25:20,077
+Oh, oi. Eu acho que eu deveria
+encontrar com alguém.
+
+337
+00:25:20,160 --> 00:25:23,994
+- Você é Alan Clay?
+- Sim, eu sou.
+
+338
+00:25:24,080 --> 00:25:26,469
+Olá, Meu nome é Hanne.
+Eu trabalho para Karim.
+
+339
+00:25:26,560 --> 00:25:27,788
+Ele não estará aqui hoje,
+
+340
+00:25:27,920 --> 00:25:29,399
+então ele me disse para
+para ajudá-lo.
+
+341
+00:25:29,480 --> 00:25:32,950
+Bem, é um prazer conhecer você, Hanne.
+De onde você é ?
+
+342
+00:25:33,040 --> 00:25:35,998
+Eu vou fumar um cigarro.
+Me acompanha ?
+
+343
+00:25:38,520 --> 00:25:42,308
+- Água?
+- Por favor.
+
+344
+00:25:46,240 --> 00:25:49,550
+- Eu sei.
+
+345
+00:25:49,640 --> 00:25:52,791
+Nós vivemos como adolescentes aqui.
+
+346
+00:25:52,880 --> 00:25:56,759
+Escondendo nossos vícios do...
+
+347
+00:25:56,840 --> 00:25:58,398
+sombrio exércitos de país.
+
+348
+00:26:00,800 --> 00:26:02,677
+- Oh!
+- Oh, Meu Deus.
+
+349
+00:26:04,120 --> 00:26:07,032
+- Você está bem ?
+- Sim, eu estou bem.
+
+350
+00:26:07,120 --> 00:26:09,429
+- Tem certeza?
+- Sim. Obrigado.
+
+351
+00:26:09,520 --> 00:26:11,636
+Isso foi...
+
+352
+00:26:13,080 --> 00:26:16,072
+Eu estou tendo um pequeno problema
+com as cadeiras desse país.
+
+353
+00:26:18,280 --> 00:26:21,113
+- Sente aqui comigo.
+
+354
+00:26:25,400 --> 00:26:27,277
+Essa é melhor.
+
+355
+00:26:27,360 --> 00:26:32,150
+- Então você é da Relyand ?
+- A pouco tempo, mas sim, sim.
+
+356
+00:26:32,240 --> 00:26:34,549
+Nós esperamos fornecer soluções
+de T.I. para toda a cidade.
+
+357
+00:26:34,640 --> 00:26:36,073
+Mas eu estou tentando ter uma estimativa
+
+358
+00:26:36,160 --> 00:26:39,470
+do tempo que temos antes que
+o rei esteja aqui.
+
+359
+00:26:40,520 --> 00:26:43,398
+Eu espero que ele não tenha
+feito alguma promessa para você.
+
+360
+00:26:43,480 --> 00:26:45,710
+Bem, não. Não, realmente.
+Mas eu fui levado a acreditar
+
+361
+00:26:45,800 --> 00:26:47,791
+que nosso processo seria rápido.
+
+362
+00:26:47,880 --> 00:26:50,678
+Isso seria bom para todos nós.
+
+363
+00:26:50,760 --> 00:26:53,433
+O rei não tem vindo aqui
+a algum tempo.
+
+364
+00:26:53,520 --> 00:26:54,919
+Quanto tempo é esse "algum tempo" ?
+
+365
+00:26:55,000 --> 00:26:58,788
+Bem, eu estou aqui a 18 meses
+e ele não apareceu aqui ainda.
+
+366
+00:27:04,360 --> 00:27:06,271
+Como está seu jet lag?
+Já se adaptou ?
+
+367
+00:27:06,360 --> 00:27:07,952
+Hoje, eu me sinto como
+uma vidraça
+
+368
+00:27:08,040 --> 00:27:09,632
+que precisa ser quebrada.
+
+369
+00:27:09,720 --> 00:27:11,870
+Oh. Você trouxe algum comprimido ?
+
+370
+00:27:11,960 --> 00:27:16,875
+Não. Não! Eu achei que poderia
+ser executado na alfandega.
+
+371
+00:27:18,640 --> 00:27:21,473
+Eu acho que posse te dar algo.
+
+372
+00:27:21,560 --> 00:27:25,348
+- Você tem wi-fi aqui ?
+- As vezes sim.
+
+373
+00:27:25,440 --> 00:27:29,558
+Mas, sabe, wi-fi é o menor de nossos problemas.
+
+374
+00:27:29,640 --> 00:27:30,993
+Lá vai você.
+
+375
+00:27:33,160 --> 00:27:35,993
+- Azeite de Oliva?
+- Isso é o que você vai dizer se perguntarem.
+
+376
+00:27:36,080 --> 00:27:38,992
+Experimente um pouco quando
+estiver de volta ao hotel.
+
+377
+00:27:39,080 --> 00:27:42,038
+Eu tenho certeza que vai
+arrebentar com sua vidraça.
+
+378
+00:27:48,360 --> 00:27:51,272
+<i>Ok, Time!
+É isso que eu tenho.</i>
+
+379
+00:27:51,360 --> 00:27:53,715
+01...sem nenhuma mudança na comida.
+
+380
+00:27:53,800 --> 00:27:58,157
+<i>02...entre aspas...
+"Wi-Fi é o menor de nossos problemas."</i>
+
+381
+00:27:58,280 --> 00:28:00,999
+e 03... O Rei está vindo
+só que ninguém sabe quando.
+
+382
+00:28:01,080 --> 00:28:03,355
+Isso é tudo que o Sr. Al-Ahmad disse para você?
+
+383
+00:28:03,440 --> 00:28:06,477
+Eu não me encontrei com ele.
+Pode ser que amanhã aconteça.
+
+384
+00:28:07,760 --> 00:28:09,990
+Então, deveríamos arrumar as coisas  hoje ?
+
+385
+00:28:10,080 --> 00:28:12,469
+Sim. Desempacotem o resto do material.
+
+386
+00:28:12,560 --> 00:28:14,755
+Cheque se estamos prontos para a hora do show.
+
+387
+00:28:14,880 --> 00:28:17,872
+Eu acho que nós deveríamos
+esperar pelo inesperável.
+
+388
+00:28:23,440 --> 00:28:25,829
+<i>- Aqui é Alan.
+- Eric Randall quer falar com você.</i>
+
+389
+00:28:25,920 --> 00:28:28,275
+<i>Então, você se encontrou com o tal
+Karim "não sei o que"?</i>
+
+390
+00:28:28,360 --> 00:28:32,239
+<i>Não. Mas eu conheci sua assistente.
+Uma dinamarquesa muito simpática.</i>
+
+391
+00:28:32,320 --> 00:28:34,276
+<i>Da Dinamarca?  e ?</i>
+
+392
+00:28:34,360 --> 00:28:36,590
+<i>Foi encorajador.
+Nós devemos estar prontos para prosseguir</i>
+
+393
+00:28:36,680 --> 00:28:37,999
+<i>amanhã a tarde, Eu acho.</i>
+
+394
+00:28:38,080 --> 00:28:40,816
+<i>- Bem vindo ao Hyatt Jeddah.
+- Você acha que o Rei vai aparecer amanhã?</i>
+
+395
+00:28:40,840 --> 00:28:42,319
+<i>- Tchau, Alan.
+- Provavelmente não amanhã,</i>
+
+396
+00:28:42,400 --> 00:28:45,278
+<i>mas ela disse que o Sr. Al-Ahmad
+irá confirmar em breve.</i>
+
+397
+00:28:45,360 --> 00:28:47,396
+<i>E o que isso significa?</i>
+
+398
+00:28:47,480 --> 00:28:50,438
+<i>Alan, metade do quadro está me perguntado
+a cada 20 minutos por isso.</i>
+
+399
+00:28:50,520 --> 00:28:52,040
+<i>Steve Milligan está na linha.</i>
+
+400
+00:28:52,080 --> 00:28:54,913
+<i>Jesus, Você tem que me dar alguma coisa
+mais concreta.</i>
+
+401
+00:28:55,000 --> 00:28:57,560
+Ok.
+
+402
+00:29:24,240 --> 00:29:25,593
+<i>Querida Kit,</i>
+
+403
+00:29:25,680 --> 00:29:29,355
+<i>Você fala que sua mãe tem estado
+emocionalmente instável.</i>
+
+404
+00:29:29,440 --> 00:29:33,319
+<i>Isso é verdade até um certo ponto.</i>
+
+405
+00:29:33,400 --> 00:29:36,631
+<i>mas quem entre nós é completamente
+estável hoje em dia?</i>
+
+406
+00:29:42,000 --> 00:29:43,228
+<i>Querida Kit,</i>
+
+407
+00:29:43,320 --> 00:29:45,959
+<i>deste bendito quarto de hotel</i>
+
+408
+00:29:46,040 --> 00:29:47,951
+<i>5 mil milhas de distância,</i>
+
+409
+00:29:48,040 --> 00:29:51,237
+<i>Eu te confesso</i>
+
+410
+00:29:51,320 --> 00:29:54,790
+<i>e peço que você releve.</i>
+
+411
+00:29:55,360 --> 00:29:57,954
+<i>Eu transformei a sua curta existência</i>
+
+412
+00:29:58,040 --> 00:30:00,031
+<i>em uma carga enorme de preocupação</i>
+
+413
+00:30:00,120 --> 00:30:03,749
+<i>quando você deveria se sentir
+tranquila para seguir seu caminho.</i>
+
+414
+00:30:03,840 --> 00:30:06,513
+<i>Minha pena por ter estragado isso</i>
+
+415
+00:30:06,600 --> 00:30:11,515
+<i>é minha estada aqui, como um vendedor
+de porta em porta.</i>
+
+416
+00:30:11,600 --> 00:30:17,516
+<i>Essa "corcunda" nas minhas costas
+representa esse fardo...</i>
+
+417
+00:30:17,600 --> 00:30:20,717
+<i>prestes a devorar a minha coluna...</i>
+
+418
+00:30:20,800 --> 00:30:24,110
+<i>- Pai !
+- ...como um saco de ovos de aranha crescendo na minah pels.</i>
+
+419
+00:30:24,200 --> 00:30:27,397
+<i>- Pai!
+- Sua mãe ficaria satisfeita de qualquer forma.</i>
+
+420
+00:30:27,480 --> 00:30:29,675
+Pare com isso, por favor.
+
+421
+00:30:30,040 --> 00:30:31,678
+Pare de fumar, Kitty.
+
+422
+00:30:35,800 --> 00:30:40,191
+<i>Então, me perdoe por não ter sido
+o pai que você merece,</i>
+
+423
+00:30:40,280 --> 00:30:44,034
+<i>por não ter dado a você as
+condições de buscar os seus sonhos.</i>
+
+424
+00:30:44,120 --> 00:30:49,638
+<i>Tudo que eu posso fazer agora,
+e não sei por quanto tempo,</i>
+
+425
+00:30:49,720 --> 00:30:52,757
+<i>é torcer para que alguma oportunidade
+surja com o tempo</i>
+
+426
+00:30:52,840 --> 00:30:57,470
+<i>para que de alguma forma eu possa...</i>
+
+427
+00:30:58,320 --> 00:31:00,993
+<i>ter a chance de acertar tudo.</i>
+
+428
+00:31:15,880 --> 00:31:17,871
+Oh...
+
+429
+00:31:26,360 --> 00:31:28,874
+Ah!
+
+430
+00:31:28,960 --> 00:31:30,871
+Ah.
+
+431
+00:31:44,680 --> 00:31:46,796
+<i>- Você está disponível ??
+- Alan, Você está horrível.</i>
+
+432
+00:31:46,880 --> 00:31:48,154
+<i>Você por acaso foi atropelado
+por um camelo ?</i>
+
+433
+00:31:48,240 --> 00:31:50,549
+<i>- Você pode me levar até o KMET?
+- Claro.</i>
+
+434
+00:31:50,640 --> 00:31:52,392
+<i>Você está perdendo o transporte
+de propósito</i>
+
+435
+00:31:52,480 --> 00:31:54,675
+<i>para ficar mais tempo com seu guia
+e herói, Yousef?</i>
+
+436
+00:31:54,760 --> 00:31:57,672
+Você está usando palavras demais.
+
+437
+00:32:07,080 --> 00:32:08,798
+Ei, Gosta de Reggae?
+
+438
+00:32:10,680 --> 00:32:14,036
+Então, onde foi a bebedeira ?
+
+439
+00:32:14,160 --> 00:32:17,470
+- Como assim ?
+- Eu conheço uma ressaca quando eu vejo.
+
+440
+00:32:17,560 --> 00:32:21,109
+- Onde você conseguiu ?
+- Eu prefiro não dizer.
+
+441
+00:32:21,200 --> 00:32:23,714
+Você acha que eu iria
+colocar sua fonte em perigo ?
+
+442
+00:32:23,800 --> 00:32:26,598
+- Você acha isso engraçado ?
+- Sim, eu acho.
+
+443
+00:32:26,680 --> 00:32:29,433
+Escuta! Você não pode ir
+ao KMET hoje.
+
+444
+00:32:29,520 --> 00:32:31,112
+Sem chance, o rei não virá.
+
+445
+00:32:31,200 --> 00:32:32,633
+Ele está no Iêmen.
+
+446
+00:32:43,760 --> 00:32:46,752
+- Yousef, O que você está fazendo?
+- Cuidando de você.
+
+447
+00:32:49,000 --> 00:32:51,514
+- Mas aqui ?
+- Sim, não é longe.
+
+448
+00:32:55,600 --> 00:32:56,510
+Onde nós estamos indo?
+
+449
+00:32:56,600 --> 00:33:01,116
+- Bem, você vai experimentar a verdadeira comida árabe.
+- Eu não pedi isso.
+
+450
+00:33:01,200 --> 00:33:04,829
+Você vai adorar.
+É a melhor maneira de curar uma ressaca.
+
+451
+00:33:04,960 --> 00:33:05,960
+Vamos.
+
+452
+00:33:16,800 --> 00:33:18,677
+- Era ela.
+- Quem?
+
+453
+00:33:18,760 --> 00:33:20,910
+A mulher com a qual eu não
+deveria falar.
+
+454
+00:33:23,200 --> 00:33:25,714
+O nome dela é Jameelah.
+Uma garota linda.
+
+455
+00:33:25,800 --> 00:33:28,234
+Muito bonita, sabe ?
+
+456
+00:33:29,200 --> 00:33:32,033
+Mas infelizmente não muito esperta.
+
+457
+00:33:32,120 --> 00:33:34,634
+Uma doçura, mas burra como uma mula.
+
+458
+00:33:34,720 --> 00:33:36,711
+De qualquer forma, ela se casou
+com um cara mais velho.
+
+459
+00:33:36,800 --> 00:33:38,313
+E esse homem mais velho é
+muito rico.
+
+460
+00:33:38,400 --> 00:33:40,868
+- Isso  soa um pouco estranho.
+- Estranho ?
+
+461
+00:33:40,960 --> 00:33:44,236
+- Eu acho que ele é algum tipo de Swinger internacional.
+- Eu não entendi.
+
+462
+00:33:44,320 --> 00:33:48,393
+- Eu acho que ele vai para a Europa para fazer sexo com rapazes.
+- Então ele é gay?
+
+463
+00:33:48,480 --> 00:33:52,917
+Gay? Não.
+Você acha que isso faz dele gay?
+
+464
+00:33:54,920 --> 00:33:58,799
+De qualquer forma, a poucas semanas,
+ela começou a me enviar SMS.
+
+465
+00:33:58,880 --> 00:34:01,348
+No início eram mensagens chatas
+do tipo, "O que você está fazendo?".
+
+466
+00:34:01,440 --> 00:34:05,194
+Blá, blá.
+mas agora as mensagens são mais sexy.
+
+467
+00:34:05,280 --> 00:34:08,511
+Se ele ver algumas dessas mensagens,
+Eu estou morto.
+
+468
+00:34:08,600 --> 00:34:09,919
+e ela também seria morta.
+
+469
+00:34:10,000 --> 00:34:14,710
+Ela está colocando a própria vida
+em risco por enviar essas mensagens ?
+
+470
+00:34:31,200 --> 00:34:34,510
+- ela de novo.
+- Por que você fala com ela desse jeito.
+
+471
+00:34:34,600 --> 00:34:36,955
+- De que jeito ?
+- Esse jeito de abobalhado.
+
+472
+00:34:39,040 --> 00:34:42,635
+É como se ela fosse sua namorada.
+
+473
+00:34:42,720 --> 00:34:44,597
+Ela é tão doce, sabe ?
+
+474
+00:34:47,200 --> 00:34:50,078
+- Você precisa sentar com ele e conversar.
+- O que? Não.
+
+475
+00:34:50,160 --> 00:34:53,470
+- Não, não, não.
+- Você precisa sentar com ele,
+
+476
+00:34:53,560 --> 00:34:54,913
+olhar direto nos olhos
+
+477
+00:34:55,000 --> 00:34:57,416
+e dizer a ele que você não fez
+nada com a mulher dele.
+
+478
+00:34:57,440 --> 00:35:00,318
+- Você não fez, certo?
+- Não, nada. Nunca.
+
+479
+00:35:00,400 --> 00:35:03,631
+Então diga isso a ele. É assim
+que ele vai saber que você fala a verdade.
+
+480
+00:35:03,720 --> 00:35:06,496
+Olha nos olhos dele. Porque se
+estivesse comendo a mulher dele,
+
+481
+00:35:06,520 --> 00:35:08,192
+- Nunca conseguiria encará-lo.
+- Mm-mm.
+
+482
+00:35:08,280 --> 00:35:12,398
+Confie em mim.
+É assim que você deve agir.
+
+483
+00:35:16,880 --> 00:35:20,998
+Alan, suas costas.
+O que é isso ?
+
+484
+00:35:21,080 --> 00:35:24,595
+Eu arranquei uma casquinha.
+Está muito ruim ?
+
+485
+00:35:24,880 --> 00:35:26,950
+Quer ir a um médico ?
+
+486
+00:35:27,040 --> 00:35:29,270
+<i>Alan, onde você está?
+Por que não está com a equipe?</i>
+
+487
+00:35:29,360 --> 00:35:32,272
+<i>- Porque nada vai acontecer hoje.
+- e por que não ?</i>
+
+488
+00:35:32,400 --> 00:35:34,550
+<i>- O rei está no Iêmen.
+- Merda !.</i>
+
+489
+00:35:34,640 --> 00:35:36,790
+<i>- e onde você está?
+- Vim procurar um médico.</i>
+
+490
+00:35:36,880 --> 00:35:40,077
+<i>- Está doente?
+- Não, não é nada. Não se preocupe.</i>
+
+491
+00:35:40,200 --> 00:35:42,430
+<i>- Eu vou ficar bem, não se preocupe.
+- Ok, Certo.</i>
+
+492
+00:35:42,520 --> 00:35:44,376
+<i>- Mas não se esqueça...
+- Eu preciso ir agora.</i>
+
+493
+00:35:44,400 --> 00:35:46,197
+Eu falo com você de manhã.
+Tchau, Eric.
+
+494
+00:35:46,280 --> 00:35:47,872
+- Sr. Clay?
+- Sim.
+
+495
+00:35:47,960 --> 00:35:50,394
+Eu sou Doutora Hakem.
+Pode entrar.
+
+496
+00:35:54,000 --> 00:35:55,433
+O que você tentou fazer aqui ?
+
+497
+00:35:55,520 --> 00:35:58,956
+- Eu estava fazendo uma investigação.
+- Com o que ?
+
+498
+00:35:59,040 --> 00:36:03,033
+- Uma faça de cozinha.
+- Isso foi alguma tentativa de suicídio?
+
+499
+00:36:03,120 --> 00:36:05,190
+Não.
+
+500
+00:36:05,280 --> 00:36:09,512
+- Está tomando alguma medicação? Prozac?
+- Eu não sou depressivo.
+
+501
+00:36:09,600 --> 00:36:11,079
+Só estava curioso.
+
+502
+00:36:11,160 --> 00:36:15,756
+- Estava tentando ver...
+- Você tem apenas uma pequena infecção.
+
+503
+00:36:17,440 --> 00:36:19,829
+Bem, e o que é...essa coisa ?
+
+504
+00:36:19,920 --> 00:36:22,957
+Eu suspeito que seja só um Lipoma.
+
+505
+00:36:23,040 --> 00:36:24,632
+E isso é algo ruim ?
+
+506
+00:36:24,720 --> 00:36:29,111
+Bem, se for um lipoma,
+ele só vai crescer. Como um cisto.
+
+507
+00:36:29,200 --> 00:36:31,156
+- Então isso é...
+- Benigno.
+
+508
+00:36:31,240 --> 00:36:34,152
+<i>- Tem certeza ?
+- Não. Para ter certeza precisamos fazer</i>
+
+509
+00:36:34,240 --> 00:36:35,992
+alguns exames.
+
+510
+00:36:36,080 --> 00:36:38,310
+Mas enquanto isso cresce na minha coluna
+
+511
+00:36:38,400 --> 00:36:41,358
+Eu não tenho me sentido bem.
+
+512
+00:36:41,440 --> 00:36:41,997
+O que sente?
+
+513
+00:36:42,080 --> 00:36:46,551
+Lento, sem energia, desleixado.
+
+514
+00:36:46,680 --> 00:36:50,355
+- Pode ser mais específico?
+- Eu não sei...
+
+515
+00:36:52,160 --> 00:36:54,355
+Eu perdi meus objetivos, eu acho.
+
+516
+00:36:54,960 --> 00:36:59,476
+<i>e a força e algumas habilidades.</i>
+
+517
+00:36:59,560 --> 00:37:03,109
+<i>- Por exemplo?
+- Eu sempre fui muito bom em...</i>
+
+518
+00:37:04,720 --> 00:37:08,110
+...fazer as coisas ficarem simples.
+
+519
+00:37:10,240 --> 00:37:15,360
+Transformar coisas caóticas em
+situações mais tranquilas, fáceis.
+
+520
+00:37:16,360 --> 00:37:18,555
+Então acha que essa nódulo
+é a causa
+
+521
+00:37:18,640 --> 00:37:20,358
+de sua perda dessas habilidades ?
+
+522
+00:37:20,440 --> 00:37:23,512
+- e isso é pouco provável, não é ?
+- Eu diria que muito pouco provável.
+
+523
+00:37:23,600 --> 00:37:25,750
+Deveríamos fazer uma biopsia
+para ter certeza.
+
+524
+00:37:25,840 --> 00:37:30,197
+- Uma biopsia?
+- Isso, e depois enviaremos a um laboratório.
+
+525
+00:37:32,760 --> 00:37:34,557
+Ótimo.
+
+526
+00:37:37,600 --> 00:37:40,717
+Isso tem deixado você
+realmente preocupado, não é ?
+
+527
+00:37:40,800 --> 00:37:43,360
+Eu tenho estado preocupado
+com um monte de coisas.
+
+528
+00:37:47,720 --> 00:37:50,314
+Ok, Você já pode ser vestir.
+
+529
+00:37:56,720 --> 00:37:58,756
+Eu tive a mesma coisa a alguns anos,
+
+530
+00:37:58,880 --> 00:38:00,916
+como um aperto no meu peito.
+
+531
+00:38:01,000 --> 00:38:04,515
+<i>Então eu fiz um Eletrocardiograma
+e tinha certeza que ia encontrar um sopro</i>
+
+532
+00:38:04,600 --> 00:38:07,558
+<i>ou uma arritmia ou qualquer coisa
+que explicasse o meu cansaço.</i>
+
+533
+00:38:07,680 --> 00:38:10,513
+<i>e?</i>
+
+534
+00:38:10,640 --> 00:38:14,394
+Não era nada.
+
+535
+00:38:14,520 --> 00:38:18,752
+- Isso é muito ruim.
+- Nós estamos condenamos a essa estúpida saúde de ferro.
+
+536
+00:38:20,600 --> 00:38:21,999
+Volte no domingo.
+
+537
+00:38:22,080 --> 00:38:24,878
+- e nós daremos uma olhada nos exames, certo ?
+- Domingo?
+
+538
+00:38:24,960 --> 00:38:28,430
+- Nossos fins de semana são Sexta e Sábado.
+- Oh, Certo, Certo, Certo.
+
+539
+00:38:28,520 --> 00:38:31,990
+- Vai estar aqui no Domingo?
+- Sim.
+
+540
+00:38:32,120 --> 00:38:35,795
+- Até lá, Sr. Clay.
+- Obrigado.
+
+541
+00:38:37,360 --> 00:38:39,271
+<i>Uma médica mulher, hein ?</i>
+
+542
+00:38:39,360 --> 00:38:41,555
+- De onde ela é?
+- Eu não sei.
+
+543
+00:38:41,640 --> 00:38:45,633
+- Mas ela era Saudita?
+- Sim, eu acho. Por que?
+
+544
+00:38:45,760 --> 00:38:47,591
+Nós não temos muitas mulher doutoras,
+
+545
+00:38:47,720 --> 00:38:52,396
+assim que aparecem as primeiras dificuldades
+elas desistem na primeira chance que tiverem.
+
+546
+00:38:52,480 --> 00:38:55,597
+- Ela estava de véu ?
+- Sim, um Hijab.
+
+547
+00:38:55,680 --> 00:38:58,513
+E você ficou sozinho com ela ?
+
+548
+00:38:58,600 --> 00:39:02,639
+Interessante, Interessante.
+
+549
+00:39:04,520 --> 00:39:07,239
+Então, a que horas amanhã ?
+
+550
+00:39:07,320 --> 00:39:08,878
+Dá um tempo !
+
+551
+00:39:12,040 --> 00:39:13,393
+Bem vindo ao Hyatt Jeddah.
+
+552
+00:39:22,960 --> 00:39:25,349
+- Aqui é Alan.
+- Oi, Aqui é Hanne.
+
+553
+00:39:25,440 --> 00:39:28,238
+<i>- Oi, como você está ?
+- Eu que deveria perguntar como você está.</i>
+
+554
+00:39:28,320 --> 00:39:30,470
+<i>- Eu acho que deveria ter te ligado.
+- Ok.</i>
+
+555
+00:39:30,560 --> 00:39:33,199
+<i>- Você já está na cama ?
+- Não, Por que?</i>
+
+556
+00:39:33,280 --> 00:39:37,512
+<i>- Vai haver uma festa na Embaixada hoje.
+- Na embaixada da Dinamarca?</i>
+
+557
+00:39:39,560 --> 00:39:41,198
+<i>Nome, por favor.</i>
+
+558
+00:39:41,280 --> 00:39:43,635
+Soøren Kierkegaard.
+
+559
+00:39:43,720 --> 00:39:45,790
+<i>Cidade?</i>
+
+560
+00:39:45,880 --> 00:39:47,996
+Copenhagen.
+
+561
+00:40:23,880 --> 00:40:25,711
+Vodka.
+
+562
+00:40:33,720 --> 00:40:37,395
+Eu estou procurando por Hanne.
+
+563
+00:40:45,160 --> 00:40:47,071
+Com licença.
+
+564
+00:40:55,560 --> 00:40:58,632
+Ei, Onde você estava?
+
+565
+00:40:59,320 --> 00:41:02,039
+Eu não sei.
+Onde eu estou ?
+
+566
+00:41:23,360 --> 00:41:24,952
+Vamos cometer alguns erro.
+
+567
+00:41:27,240 --> 00:41:28,912
+<i>♫...higher, higher ♫</i>
+
+568
+00:41:29,000 --> 00:41:32,037
+<i>♫ Burning my desire ♫</i>
+
+569
+00:41:32,840 --> 00:41:35,400
+<i>♫ Baby, take me home
+with you tonight... ♫</i>
+
+570
+00:41:39,440 --> 00:41:40,668
+Oh.
+
+571
+00:41:40,760 --> 00:41:41,954
+Ok.
+
+572
+00:41:42,040 --> 00:41:45,476
+Você parece que tem um plano.
+Eu admiro isso.
+
+573
+00:42:04,440 --> 00:42:08,319
+- Eu não te deixo excitado?
+- Me desculpe. Você é linda.
+
+574
+00:42:08,400 --> 00:42:09,753
+Mas eu não posso esquecer
+
+575
+00:42:09,880 --> 00:42:11,296
+o fato de estar um pouco bêbado...
+
+576
+00:42:11,320 --> 00:42:13,276
+- Mm-hmm.
+- ...e de eu estar no chão
+
+577
+00:42:13,360 --> 00:42:15,635
+de um vestiário da Embaixada
+da  Dinamarca
+
+578
+00:42:15,760 --> 00:42:19,230
+com uma linda mulher.
+Eu realmente não sei.
+
+579
+00:42:19,320 --> 00:42:20,753
+Mm. Ooh.
+
+580
+00:42:20,840 --> 00:42:23,877
+Vocẽ iria ficar ofendido
+se eu tentasse algo a mais ?
+
+581
+00:42:23,960 --> 00:42:26,997
+Eu não ficaria ofendido, mas eu...
+
+582
+00:42:27,080 --> 00:42:29,594
+preferiria que você não fizesse.
+
+583
+00:42:35,080 --> 00:42:38,470
+- Isso é tão frustrante.
+- Sim, é.
+
+584
+00:42:39,680 --> 00:42:41,636
+O que acha que deveríamos
+fazer então ?
+
+585
+00:42:46,480 --> 00:42:48,675
+Você gosta de ouvir uma
+boa piada ?
+
+586
+00:42:58,880 --> 00:43:03,431
+- Ei, Você gosta de Elvis Presley?
+- Não! Não!
+
+587
+00:43:03,520 --> 00:43:04,873
+O que? Sim.
+
+588
+00:43:04,960 --> 00:43:07,918
+- Sim.
+- Sim, Só não agora.
+
+589
+00:43:10,240 --> 00:43:12,549
+Sabe, essa sua agenda de sono está
+começando a me deixa preocupado.
+
+590
+00:43:12,640 --> 00:43:16,076
+Eu tive uma noite realmente
+muito estranha ontem.
+
+591
+00:43:16,160 --> 00:43:18,958
+- Sétio? O que...
+- Eu não posso falar sobre isso.
+
+592
+00:43:19,040 --> 00:43:21,031
+- Por que não?
+- Porque eu prometi que não.
+
+593
+00:43:21,160 --> 00:43:25,358
+Oh, Ok.
+Claro.
+
+594
+00:43:36,080 --> 00:43:37,399
+Oof.
+
+595
+00:43:39,760 --> 00:43:41,273
+O que aconteceu ?
+
+596
+00:43:41,360 --> 00:43:44,272
+<i>Ei, Vocês estão bem?</i>
+
+597
+00:43:44,360 --> 00:43:45,236
+Sim.
+
+598
+00:43:45,320 --> 00:43:46,912
+O que aconteceu com o
+ar condicionado ?
+
+599
+00:43:47,000 --> 00:43:50,151
+Simplesmente parou de funcionar.
+
+600
+00:43:50,240 --> 00:43:52,754
+Nós demos um cochilo por
+uma hora...desculpe.
+
+601
+00:43:52,840 --> 00:43:56,310
+Alguma chance do Rei aparecer hoje ?
+
+602
+00:43:56,400 --> 00:43:57,992
+Não. Ele está em Riyadh hoje.
+
+603
+00:44:00,480 --> 00:44:03,677
+Certo. Sabe!
+Já é o bastante.
+
+604
+00:44:03,760 --> 00:44:06,957
+Eu vou ali e volto com
+algumas respostas
+
+605
+00:44:07,080 --> 00:44:10,356
+sobre o ar condicionado, sobre a comida,
+sobre o wi-fi.
+
+606
+00:44:10,440 --> 00:44:13,432
+e com pelo menos alguma
+tipo de previsão.
+
+607
+00:44:13,520 --> 00:44:16,353
+Uau. Alan. De onde veio
+toda essa revolta ?
+
+608
+00:44:16,440 --> 00:44:17,919
+Eu não sei, Rachel.
+
+609
+00:44:18,000 --> 00:44:21,310
+Mas eu prometo que vou utilizar isso
+a nosso favor.
+
+610
+00:44:23,360 --> 00:44:25,715
+Bom dia.
+
+611
+00:44:30,120 --> 00:44:31,678
+Olá.
+
+612
+00:44:31,760 --> 00:44:34,797
+Olá, Maha. Como você está ?
+O Sr. Karim Al-Ahmad está aqui hoje?
+
+613
+00:44:34,880 --> 00:44:36,108
+Eu receio que não.
+
+614
+00:44:36,200 --> 00:44:38,156
+e virá hoje aqui ?
+
+615
+00:44:38,240 --> 00:44:41,277
+Eu acho que não. Ele está em Nova Iorque.
+- Nova Iorque.
+
+616
+00:44:43,440 --> 00:44:45,874
+- e Hanne ?
+- Hanne?
+
+617
+00:44:45,960 --> 00:44:47,951
+A moça dinamarquesa que trabalha
+no departamento de pessoal.
+
+618
+00:44:48,080 --> 00:44:51,470
+- Eu...
+- Eu vou ficar bem. Obriado. Maha.
+
+619
+00:45:01,280 --> 00:45:02,872
+Com Licença. Eu posso ajuda ?
+
+620
+00:45:02,960 --> 00:45:05,110
+Eu estou procurando por Hanne,
+a consultora dinamarquesa.
+
+621
+00:45:06,680 --> 00:45:10,195
+Eu receio que ela esteja em Riyadh hoje.
+Eu posso ajudar ?
+
+622
+00:45:10,280 --> 00:45:12,669
+Alan Clay.
+Estou com o Grupo Relyand.
+
+623
+00:45:12,760 --> 00:45:14,637
+Karim Al-Ahmad.
+
+624
+00:45:15,680 --> 00:45:19,150
+Karim...
+Karim Al-Ahmad?
+
+625
+00:45:19,240 --> 00:45:22,038
+- Você não deveria estar em Nova Iorque ?
+- Não, não deveria.
+
+626
+00:45:22,120 --> 00:45:24,350
+Minhas desculpas, Sr. Clay,
+mas eu tenho que sair
+
+627
+00:45:24,440 --> 00:45:26,556
+para uma reunião e
+eu já estou atrasado.
+
+628
+00:45:30,280 --> 00:45:34,114
+Por que não junta-se a mim e
+nós podemos discutir no caminho ?
+
+629
+00:45:34,200 --> 00:45:35,519
+para onde ?
+
+630
+00:45:35,600 --> 00:45:38,512
+para a área de construção.
+Onde os Condos estão sendo construídos.
+
+631
+00:45:38,600 --> 00:45:40,079
+Eu tenho uma reunião com
+um dos arquitetos.
+
+632
+00:45:42,120 --> 00:45:46,318
+- Sua recepcionista disse que você estava ausente.
+- Me perdoe, ela é novata.
+
+633
+00:45:46,400 --> 00:45:50,075
+- Esteve aqui nos últimos dois dias?
+- Não.
+
+634
+00:45:50,160 --> 00:45:51,957
+Lindo.
+
+635
+00:45:52,040 --> 00:45:54,474
+- Gostaria de dirigir ?
+- Oh, não.
+
+636
+00:45:54,560 --> 00:45:57,313
+Ah, por favor. Eu insisto.
+
+637
+00:46:00,640 --> 00:46:02,153
+<i>Eu asseguro a você que
+nenhum outro representante</i>
+
+638
+00:46:02,280 --> 00:46:04,096
+<i>é mais importante para nós
+que o grupo Relyand.</i>
+
+639
+00:46:04,120 --> 00:46:08,432
+É muito bom escutar isso.
+
+640
+00:46:08,520 --> 00:46:10,750
+- Mas há algumas questões.
+- Pode me falar.
+
+641
+00:46:10,840 --> 00:46:13,115
+Nós não temos condição de
+finalizar nossa apresentação.
+
+642
+00:46:13,200 --> 00:46:14,680
+- Por que não ?
+- Porque estamos em uma tenda.
+
+643
+00:46:14,720 --> 00:46:17,359
+Me desculpe, mas essa é a área
+designada para a apresentação.
+
+644
+00:46:17,440 --> 00:46:19,351
+- Nós precisamos de uma linha direta.
+- Eu não posso fazer isso.
+
+645
+00:46:19,440 --> 00:46:21,078
+Precisamos de uma boa
+linha de wi-fi pelo menos.
+
+646
+00:46:21,160 --> 00:46:23,276
+Eu farei isso ser consertado.
+O que mais ?
+
+647
+00:46:23,360 --> 00:46:25,112
+O ar condicionado não funciona.
+
+648
+00:46:25,200 --> 00:46:28,590
+- Minha equipe está sufocando.
+- Isso será providenciado imediatamente. Algo mais ?
+
+649
+00:46:28,720 --> 00:46:31,439
+Onde podemos nos alimentar?
+Estamos trazendo comida do Hotel.
+
+650
+00:46:31,520 --> 00:46:34,671
+Depois do fim de semana, suas solicitações
+de refeição serão atendidas diariamente.
+
+651
+00:46:34,760 --> 00:46:36,159
+Algo mais ?
+
+652
+00:46:37,320 --> 00:46:39,515
+Por quanto tempo ficaremos
+esperando pelo Rei ?
+
+653
+00:46:39,600 --> 00:46:40,874
+Vire a esquerda.
+
+654
+00:46:42,680 --> 00:46:45,717
+<i>-Dias ? Semanas ?
+- Eu não sei. Isso eu não sei.</i>
+
+655
+00:46:45,800 --> 00:46:47,836
+<i>- Meses?
+- Eu espero que não.</i>
+
+656
+00:46:58,680 --> 00:47:00,193
+Uau.
+
+657
+00:47:00,280 --> 00:47:04,637
+Eu vejo que você deve dirigir
+seu próprio carro sport nos Estados Unidos.
+
+658
+00:47:04,720 --> 00:47:06,278
+Não, não, não.
+
+659
+00:47:06,360 --> 00:47:08,476
+<i>Isso é privilegio de executivo.</i>
+
+660
+00:47:08,560 --> 00:47:11,632
+<i>Nós costumávamos fazer corridas
+privadas no Texas.</i>
+
+661
+00:47:11,720 --> 00:47:13,950
+Quando você estava na Schwinn?
+
+662
+00:47:16,120 --> 00:47:18,031
+Sim.
+
+663
+00:47:19,080 --> 00:47:21,310
+Eu tinha uma bicicleta Schwinn
+quando era garoto.
+
+664
+00:47:21,440 --> 00:47:22,668
+- Sério ?
+- Sim.
+
+665
+00:47:22,760 --> 00:47:26,070
+Eu morei em Nova Jersey
+cerca de 05 anos.
+
+666
+00:47:26,160 --> 00:47:27,480
+E então fui para a a
+faculdade de administração.
+
+667
+00:47:27,560 --> 00:47:28,776
+Schwinn foi um dos nossos
+estudos de caso.
+
+668
+00:47:28,800 --> 00:47:31,189
+Mm.
+
+669
+00:47:35,360 --> 00:47:38,033
+Época interessante.
+
+670
+00:47:39,000 --> 00:47:40,479
+Por aqui.
+
+671
+00:47:40,560 --> 00:47:41,616
+Schwinns eram americanas,
+
+672
+00:47:41,640 --> 00:47:45,235
+As Raleighs Inglesas,
+tinha as italianas, as francesas...
+
+673
+00:47:45,320 --> 00:47:48,198
+por um bom tempo tivermos
+uma verdadeira competição internacional.
+
+674
+00:47:48,280 --> 00:47:50,316
+Você podia escolher entre vários
+produtos diferentes
+
+675
+00:47:50,400 --> 00:47:53,676
+com diferentes conceitos,
+sensibilidades, técnicas.
+
+676
+00:47:53,760 --> 00:47:57,799
+- Bem, isso acabou.
+- O que aconteceu do seu ponto de vista ?
+
+677
+00:47:57,880 --> 00:48:00,952
+- Eu pensei que fosse seu estudo de caso.
+- e foi.
+
+678
+00:48:01,040 --> 00:48:04,032
+- Schwinn foi para a China.
+- Fomos.
+
+679
+00:48:04,120 --> 00:48:06,918
+Eles eram capazes de construir nossas
+bicicletas mais baratas e mais rápido
+
+680
+00:48:07,000 --> 00:48:10,037
+- e parecia uma ótima ideia na época.
+- Mas não foi ?
+
+681
+00:48:10,120 --> 00:48:11,599
+Bem, óbvio que não.
+
+682
+00:48:11,680 --> 00:48:14,478
+Nós ensinamos a eles como construir
+uma boa e sólida bicicleta.
+
+683
+00:48:14,560 --> 00:48:17,552
+Eles pegaram esse conhecimento e
+começaram a fabricar suas próprias.
+
+684
+00:48:17,640 --> 00:48:21,519
+- e agora eles tem seu próprio mercado.
+- Porque eles podem vendê-las por quase nada.
+
+685
+00:48:21,600 --> 00:48:23,336
+É só uma questão de colar
+um adesivo diferente
+
+686
+00:48:23,360 --> 00:48:24,920
+e colocá-la em uma
+bicicleta exatamente igual.
+
+687
+00:48:24,960 --> 00:48:27,349
+construída em alguma fábrica
+em algum lugar da Ásia,
+
+688
+00:48:27,440 --> 00:48:31,479
+porque todas as marcas agora estão lá,
+e a Schiwinn agora é só mais uma.
+
+689
+00:48:33,240 --> 00:48:35,959
+Você achou mesmo que
+poderia fazer algo diferente?
+
+690
+00:48:38,480 --> 00:48:40,994
+- Eu pessoalmente ?
+- Você esteve dentro da Schwinn
+
+691
+00:48:41,080 --> 00:48:42,433
+quando tudo aconteceu, não ?
+
+692
+00:48:42,520 --> 00:48:45,796
+Você acha que poderia ter arrumado
+uma forma da empresa sobreviver ?
+
+693
+00:48:45,880 --> 00:48:48,872
+Na América, quero dizer.
+
+694
+00:48:59,760 --> 00:49:02,115
+Era complicado.
+
+695
+00:49:02,200 --> 00:49:03,553
+Hmm.
+
+696
+00:49:03,640 --> 00:49:06,916
+<i>Você quer conhecer algumas
+das pessoa que já moram aqui ?</i>
+
+697
+00:49:07,000 --> 00:49:10,197
+- Sério?
+- Sim. Você deveria dar uma olhada em uma dessas unidades.
+
+698
+00:49:10,280 --> 00:49:11,474
+Eu ?
+Por que ?
+
+699
+00:49:11,560 --> 00:49:14,438
+Você vai gastar algum tempo
+implementando o software, não ?
+
+700
+00:49:14,520 --> 00:49:16,954
+Bem, sim.
+Se nós conseguirmos esse contrato, sim.
+
+701
+00:49:17,040 --> 00:49:19,600
+Me desculpe.
+
+702
+00:49:23,200 --> 00:49:25,077
+Huh.
+
+703
+00:49:25,160 --> 00:49:26,752
+Isso só vai levar alguns minutos.
+
+704
+00:49:26,840 --> 00:49:29,308
+Fique a vontade,
+É no Quinto andar.
+
+705
+00:49:29,400 --> 00:49:31,391
+Os elevadores ainda
+não estão funcionando.
+
+706
+00:49:31,480 --> 00:49:33,994
+Vá pela escada.
+Não é muito.
+
+707
+00:49:34,080 --> 00:49:37,436
+Aperte a campainha do 501. Você irá encontra Hassan.
+Ele irá mostrar tudo.
+
+708
+00:49:37,520 --> 00:49:39,397
+Eu estarei lá em breve.
+
+709
+00:51:09,560 --> 00:51:13,189
+- Sr. Clay, Eu presumo.
+- Hassan?
+
+710
+00:51:13,280 --> 00:51:15,669
+É um prazer conhecê-lo.
+Entre.
+
+711
+00:51:17,600 --> 00:51:21,752
+Karim Al-Ahmad me falou do sr.
+Ele pede desculpas por ter que sair.
+
+712
+00:51:21,840 --> 00:51:23,193
+Ele me abandonou ?
+
+713
+00:51:24,280 --> 00:51:27,511
+Eu não sei.
+Ele disse que lhe dê uma carona.
+
+714
+00:51:28,640 --> 00:51:30,198
+Chá?
+
+715
+00:51:30,280 --> 00:51:33,431
+ou algo que lhe atraia mais ?
+
+716
+00:51:35,320 --> 00:51:37,072
+Você teria uma cerveja gelada ?
+
+717
+00:51:38,320 --> 00:51:39,992
+Claro.
+
+718
+00:51:41,320 --> 00:51:44,232
+- Oh, Obrigado.
+- Por nada.
+
+719
+00:51:46,200 --> 00:51:47,872
+Então, você mora aqui ?
+
+720
+00:51:49,560 --> 00:51:54,714
+Não, este é um escritório de vendas.
+Eu tenho um apartamento no andar de cima.
+
+721
+00:51:54,840 --> 00:51:59,391
+Então, como estão os negócios ?
+
+722
+00:51:59,480 --> 00:52:02,392
+Honestamente, bem parados.
+
+723
+00:52:02,480 --> 00:52:05,950
+- Oh, isso não é bom.
+- Nós não estamos conseguindo fechar muitos contratos.
+
+724
+00:52:06,040 --> 00:52:09,316
+E aqueles restaurantes dos cartazes
+lá embaixo ? Quando serão inaugurados ?
+
+725
+00:52:10,600 --> 00:52:11,510
+Aquilo é só um para enganar.
+
+726
+00:52:11,600 --> 00:52:14,433
+<i>Nós não conseguimos vender
+nenhum dos espaços para aquelas empresas.</i>
+
+727
+00:52:19,151 --> 00:52:20,395
+Eric Randall
+
+728
+00:52:20,732 --> 00:52:23,649
+Alan eu preciso de noticias.
+Que porra está acontecendo?
+
+729
+00:52:31,080 --> 00:52:32,957
+<i>Bem vindo ao Hyatt Jeddah.</i>
+
+730
+00:53:12,040 --> 00:53:14,190
+<i>Salaam alaikum?</i>
+
+731
+00:53:14,280 --> 00:53:15,030
+Yousef...
+
+732
+00:53:15,120 --> 00:53:18,999
+<i>- Eu acho que eu estou tendo derrame
+algo parecido.
+- Alan?</i>
+
+733
+00:53:42,320 --> 00:53:45,756
+Sr. Clay, não durma.
+Olhe para mim.
+
+734
+00:53:45,840 --> 00:53:48,912
+Você bebeu?
+Fale comigo.
+
+735
+00:53:57,200 --> 00:53:58,599
+Você vai ficar bem.
+
+736
+00:54:14,040 --> 00:54:16,918
+Como eu disse, você está preso
+a essa sua saúde de ferro idiota.
+
+737
+00:54:17,360 --> 00:54:20,636
+Isso é sério ?
+
+738
+00:54:20,720 --> 00:54:21,720
+O que aconteceu comigo ?
+
+739
+00:54:21,800 --> 00:54:24,075
+Eu não conseguia respirar.
+Eu fiquei apavorado.
+
+740
+00:54:24,160 --> 00:54:27,596
+Eu acho que foi um ataque de pânico
+disparado por vários motivos.
+
+741
+00:54:28,200 --> 00:54:29,200
+Como assim ?
+
+742
+00:54:29,280 --> 00:54:31,032
+Esse sintomas normalmente são
+indicadores
+
+743
+00:54:31,160 --> 00:54:33,435
+do que nós chamamos de
+ataque de ansiedade,
+
+744
+00:54:33,520 --> 00:54:36,034
+<i>que muitas vezes leva a
+um colapso físico,</i>
+
+745
+00:54:36,120 --> 00:54:40,432
+<b><i>além do seu  jet lag e
+isso não ajuda em nada.</b></i>
+
+746
+00:54:42,440 --> 00:54:46,194
+- Eu vou para a cadeira?
+- Não, ninguém viu isso. Eu acho.
+
+747
+00:54:46,280 --> 00:54:48,271
+- Você acha.
+- Sim.
+
+748
+00:54:48,360 --> 00:54:52,672
+Você não é obrigada a informa que eu
+estou de posse de uma substância ilícita?
+
+749
+00:54:52,760 --> 00:54:55,991
+Não, mas eu não acho que você
+devesse beber esse tipo de coisa.
+
+750
+00:54:56,080 --> 00:54:58,878
+Isso é péssimo para você.
+Nós temos bebidas melhores em Jeddah.
+
+751
+00:55:02,600 --> 00:55:05,512
+- Eu tenho uma pergunta.
+- Sim ?
+
+752
+00:55:06,840 --> 00:55:09,832
+- O que você está fazendo aqui.
+- Você me chamou.
+
+753
+00:55:09,920 --> 00:55:12,150
+- Eu chamei ?
+- Sim. Eu estava em uma troca de turno.
+
+754
+00:55:12,240 --> 00:55:14,071
+Eu tinha acabado de finalizar uma operação.
+
+755
+00:55:17,680 --> 00:55:19,830
+Obrigado.
+
+756
+00:55:19,960 --> 00:55:22,758
+<i>Alan! Alan.</i>
+
+757
+00:55:22,880 --> 00:55:24,791
+Yousef.
+
+758
+00:55:25,880 --> 00:55:27,871
+<i>- Salaam alaikum.
+- Alaikum salaam.</i>
+
+759
+00:55:27,960 --> 00:55:31,191
+- Oh, Deus! Eu liguei para você, também.
+- Você me deixou preocupado.
+
+760
+00:55:31,720 --> 00:55:35,156
+Me desculpe, Yousef.
+Esta é a Dra. Hakem.
+
+761
+00:55:41,520 --> 00:55:43,636
+- Oh, graças a Deus.
+- Você precisa descansar.
+
+762
+00:55:43,720 --> 00:55:47,713
+- Tente relaxar durante o fim de semana.
+- Obrigado, eu irei.
+
+763
+00:55:54,720 --> 00:55:57,712
+- O que está acontecendo ?
+- Como assim ?
+
+764
+00:55:57,800 --> 00:56:01,349
+O que esta mulher está fazendo aqui
+com você no meio da noite ?
+
+765
+00:56:01,440 --> 00:56:02,555
+Bem, ela é meu médico.
+
+766
+00:56:02,640 --> 00:56:03,720
+Você sabe que isso é um absurdo, não ?
+
+767
+00:56:03,760 --> 00:56:05,318
+Você e sua doutora mulher.
+
+768
+00:56:05,400 --> 00:56:07,480
+- Do que você está falando ?
+- Ela pode se casada.
+
+769
+00:56:07,520 --> 00:56:08,919
+- Certamente tem filhos.
+- Yousef !
+
+770
+00:56:09,000 --> 00:56:10,376
+Há um monte de estacas
+para uma mulher como ela.
+
+771
+00:56:10,400 --> 00:56:13,472
+Yousef, Pare com isso.
+O que tem de errado com você ?
+
+772
+00:56:13,560 --> 00:56:15,710
+Eu não estou tendo um caso
+com meu médico.
+
+773
+00:56:26,000 --> 00:56:28,594
+Me desculpe, Alan.
+
+774
+00:56:28,680 --> 00:56:30,830
+- Me desculpe.
+- Você está bem ?
+
+775
+00:56:31,840 --> 00:56:34,274
+Eu escutei alguns barulhos
+do lado de fora da minha casa.
+
+776
+00:56:34,360 --> 00:56:40,037
+Eu levantei da cama e vi 03
+homens parados do lado de fora.
+
+777
+00:56:40,120 --> 00:56:42,918
+<i>Eu quase me borrei todo.</i>
+
+778
+00:56:44,520 --> 00:56:49,799
+- O marido ?
+- e seus capangas.
+
+779
+00:56:49,880 --> 00:56:54,158
+Eles ficaram parados lá e só.
+
+780
+00:56:54,240 --> 00:56:57,630
+- Eu tenho que deixar a cidade.
+- Deixar ? Para onde ?
+
+781
+00:56:57,720 --> 00:57:01,235
+Para a cabana do meu pai nas montanhas.
+Eles não vão conseguir me seguir.
+
+782
+00:57:01,320 --> 00:57:04,039
+Fica na minha vila natal.
+Todo mundo lá vai me proteger.
+
+783
+00:57:04,120 --> 00:57:06,111
+Eles tem armas e muito mais.
+
+784
+00:57:08,920 --> 00:57:10,956
+Me desculpe pelo o que eu disse antes.
+
+785
+00:57:13,040 --> 00:57:15,952
+Quanto tempo demora ?
+
+786
+00:57:23,000 --> 00:57:26,879
+- Gosta de Rashed Al-Majed?
+- Não é ruim.
+
+787
+00:57:26,960 --> 00:57:29,315
+É meu sobrinho, Salem.
+Ele vem com a gente.
+
+788
+00:57:38,880 --> 00:57:41,633
+<i>- Este é meu sobrino, Salem.
+- Olá, Salaam.</i>
+
+789
+00:57:43,920 --> 00:57:47,435
+- Ele é neto da segunda mulher do meu pai.
+- Ah.
+
+790
+00:57:47,520 --> 00:57:50,751
+- O que você é?
+- Eu sou terceiro filho da terceira dele.
+
+791
+00:57:50,840 --> 00:57:52,956
+Meu pai teve quatro esposas.
+
+792
+00:57:53,040 --> 00:57:55,349
+Bem vindo ao KSA.
+
+793
+00:57:55,440 --> 00:57:57,271
+Ah, eu esqueci de falar sobre isso.
+
+794
+00:58:08,440 --> 00:58:11,318
+Oh, desculpe.
+Você sabe quem era.
+
+795
+00:58:11,400 --> 00:58:14,551
+O que isso significa,
+"Saída para não muçulmanos"?
+
+796
+00:58:14,640 --> 00:58:15,072
+Huh?
+
+797
+00:58:15,160 --> 00:58:18,470
+Yousef?
+
+798
+00:58:18,560 --> 00:58:19,959
+- O que ?
+- Oh, merda.
+
+799
+00:58:23,920 --> 00:58:26,514
+- O que está acontecendo ?
+- Eu perdi a saída lá trás.
+
+800
+00:58:32,120 --> 00:58:35,317
+Pare.
+Ei, Pare !
+
+801
+00:58:35,400 --> 00:58:36,674
+O que está acontecendo ?
+
+802
+00:58:36,760 --> 00:58:38,080
+Você não é autorizado a entrar em Mecca.
+
+803
+00:58:38,200 --> 00:58:39,736
+É um solo sagrado.
+Só permitido a muçulmanos.
+
+804
+00:58:39,760 --> 00:58:41,512
+- O que ?
+- Eu esqueci, sabe ?
+
+805
+00:58:41,600 --> 00:58:42,960
+É o hábito.
+Eu sempre pego essa estrada.
+
+806
+00:58:50,640 --> 00:58:52,631
+Você quer atravessar a
+cidade santa como contrabando ?
+
+807
+00:58:55,040 --> 00:58:58,794
+Nós podemos vestir você com um fiel
+e você consegue passar.
+
+808
+00:59:06,480 --> 00:59:10,109
+Se nós formos parados, só precisa
+citar seu verso favorito do Alcorão.
+
+809
+00:59:28,960 --> 00:59:32,350
+- Então essa é a famosa mesquita?
+- Al-Haram, sim.
+
+810
+00:59:32,440 --> 00:59:34,715
+Al-Haram.
+Uau.
+
+811
+00:59:37,760 --> 00:59:39,512
+Se impostaria de não olhar
+para ela assim ?
+
+812
+00:59:39,600 --> 00:59:42,797
+Oh, claro.
+
+813
+00:59:42,880 --> 00:59:45,189
+Desculpe.
+
+814
+00:59:47,680 --> 00:59:48,874
+Desculpe.
+
+815
+00:59:56,320 --> 00:59:58,231
+Ah, merda !
+
+816
+01:00:08,560 --> 01:00:09,959
+O que significa o que você faz ?
+
+817
+01:00:10,040 --> 01:00:13,077
+- Apontar desse jeito?
+- Significa "Deus proverá".
+
+818
+01:00:13,160 --> 01:00:16,357
+- e isso funciona ?
+- Isso finaliza qualquer discussão.
+
+819
+01:00:25,760 --> 01:00:27,352
+Polícia.
+
+820
+01:01:04,080 --> 01:01:06,674
+<i>- Salaam alaikum.
+- Alan.</i>
+
+821
+01:01:06,760 --> 01:01:07,510
+Alan.
+
+822
+01:01:07,640 --> 01:01:10,837
+- Olá.
+- Quer entrar?
+
+823
+01:01:10,920 --> 01:01:15,118
+Não. Eu vou dar uma olhada por aí, certo ?
+
+824
+01:01:48,000 --> 01:01:50,389
+- Salaam.
+- Salaam.
+
+825
+01:01:50,480 --> 01:01:54,189
+- Precisa de uma carona ?
+- Não, não, Obrigado.
+
+826
+01:01:54,280 --> 01:01:55,508
+Eu só estou dando uma volta.
+
+827
+01:01:56,520 --> 01:01:57,873
+Tirando algumas fotos ?
+
+828
+01:01:57,960 --> 01:02:01,748
+Sim. Esse lugar é lindo.
+
+829
+01:02:01,840 --> 01:02:04,354
+Eu estava observando você lá de cima.
+
+830
+01:02:04,920 --> 01:02:08,879
+- Você tirou um monte de fotos.
+- Sim, eu acho.
+
+831
+01:02:08,960 --> 01:02:12,032
+- Americano ?
+- Sim.
+
+832
+01:02:12,120 --> 01:02:15,829
+Todas essas fotos.
+Você trabalha para a CIA ou algo parecido ?
+
+833
+01:02:17,280 --> 01:02:18,679
+Sou apenas um freelancer.
+
+834
+01:02:18,760 --> 01:02:20,398
+Nada em tempo integral.
+
+835
+01:02:54,640 --> 01:02:57,473
+<i>- Alan!
+- Perdão.</i>
+
+836
+01:02:57,560 --> 01:02:58,629
+Me desculpe.
+
+837
+01:02:58,720 --> 01:03:02,315
+- Nós pensamos que você tinha sido sequestrado.
+- Não. Eu estava...
+
+838
+01:03:02,400 --> 01:03:04,550
+É tão bonito que eu resolvi explorar.
+
+839
+01:03:04,640 --> 01:03:06,596
+E para que esse rifles ?
+
+840
+01:03:06,720 --> 01:03:09,598
+Ah, era isso que eu queria te mostrar.
+
+841
+01:03:11,920 --> 01:03:15,071
+Esse aqui pertencia a meu avô.
+
+842
+01:03:15,160 --> 01:03:19,119
+- Oh, ele é bonito.
+- sim.
+
+843
+01:03:19,200 --> 01:03:20,519
+Hmm.
+
+844
+01:03:20,600 --> 01:03:22,520
+Eu pensava que você não soubesse
+nada sobre rifles.
+
+845
+01:03:22,600 --> 01:03:25,910
+Eu era um bom atirados
+quando mais jovem.
+
+846
+01:03:26,000 --> 01:03:28,116
+Você quer caçar alguns lobos
+conosco hoje a noite ?
+
+847
+01:03:28,240 --> 01:03:29,912
+- Lobos ?
+- Sim.
+
+848
+01:03:30,000 --> 01:03:31,149
+Onde ? Aqui ?
+
+849
+01:03:31,240 --> 01:03:33,336
+Sim. Parece que tem alguns lobos
+matando as ovelhas.
+
+850
+01:03:33,360 --> 01:03:34,496
+e eles estão organizando uma caçada.
+
+851
+01:03:34,520 --> 01:03:36,192
+Estamos precisando de gente que saiba atirar.
+
+852
+01:03:54,960 --> 01:03:56,916
+Você disse que esse cara
+que você está com a CIA ?
+
+853
+01:03:58,360 --> 01:04:00,828
+Oh, Ele me perguntou se eu
+trabalhava para a CIA.
+
+854
+01:04:00,920 --> 01:04:04,629
+Eu disse que só fazer um freelance
+de meio-período para eles.
+
+855
+01:04:04,720 --> 01:04:06,676
+Por que você disse isso ?
+
+856
+01:04:06,760 --> 01:04:09,797
+Foi só uma piada.
+Eu estava brincando.
+
+857
+01:04:09,880 --> 01:04:14,476
+- Me pareceu uma pergunta ridícula.
+- Pois não era ridícula para ele.
+
+858
+01:04:14,560 --> 01:04:18,394
+Agora eu tenho que convencer ele
+que você não é da CIA. Como eu faço isso ?
+
+859
+01:04:28,040 --> 01:04:32,272
+Bem, se eu fosse da CIA, eu não diria isso
+para a primeira pessoa que me perguntasse.
+
+860
+01:04:48,840 --> 01:04:50,273
+- Aperte a mão dele.
+- O que ?
+
+861
+01:04:50,360 --> 01:04:51,918
+Aperte a mão dele.
+Aperte a mão dele.
+
+862
+01:05:02,600 --> 01:05:04,397
+- Você não deveria ter dito isso.
+- Eu sei.
+
+863
+01:05:04,480 --> 01:05:07,916
+- As pessoas aqui não gostam desse tipo de piada.
+- Eu percebi assim que eu falei.
+
+864
+01:05:08,000 --> 01:05:11,788
+- É como fazer piada sobre bomba
+na área de segurança de uma aeroporto.
+
+865
+01:05:11,880 --> 01:05:14,519
+Essa comparação  me veio na cabeça também.
+
+866
+01:05:19,200 --> 01:05:20,872
+Vamos caça ?
+
+867
+01:05:40,320 --> 01:05:43,710
+Ali foi onde a última ovelha foi levada.
+
+868
+01:05:48,160 --> 01:05:52,039
+- Você esteve no Exército ?
+- Não.
+
+869
+01:05:52,120 --> 01:05:53,838
+Meu pai esteve.
+
+870
+01:05:53,920 --> 01:05:56,718
+- Onde ?
+- Ele foi voluntário na Coréia.
+
+871
+01:05:57,840 --> 01:06:01,435
+- Mas você não quiz se juntar ao exército ?
+- Eu? Não.
+
+872
+01:06:01,560 --> 01:06:03,835
+- Por que não?  Não é bom para guerras ?
+- Exato.
+
+873
+01:06:03,920 --> 01:06:06,229
+Mas você não teria lutado na
+segunda grande guerra?
+
+874
+01:06:06,320 --> 01:06:09,471
+Eu teria ido, teria tentado evitar
+o pacífico.
+
+875
+01:06:09,560 --> 01:06:12,472
+- e se fosse jovem agora ?
+- Yousef, por que todas essas perguntas ?
+
+876
+01:06:12,560 --> 01:06:15,552
+Você está pensando em se juntar ao exército ?
+
+877
+01:06:15,640 --> 01:06:17,631
+- Talvez.
+- Não, não. Não.
+
+878
+01:06:17,720 --> 01:06:19,136
+- Por que não ?
+- Não. Você deveria ir para a faculdade.
+
+879
+01:06:19,160 --> 01:06:21,515
+e acabá-la e se dar mais opções.
+
+880
+01:06:21,600 --> 01:06:25,513
+- Não há opções aqui, Alan. Você sabe disso.
+- Bem, então vá embora.
+
+881
+01:06:25,600 --> 01:06:29,229
+Eu prefiro ficar aqui e
+ver as coisas mudarem.
+
+882
+01:06:35,320 --> 01:06:38,676
+<i>Não é nada. É só uma ovelha.</i>
+
+883
+01:06:39,800 --> 01:06:43,588
+Ei, Alan.
+Você lutaria por nós?
+
+884
+01:06:45,080 --> 01:06:46,559
+Lutar por você como ?
+
+885
+01:06:46,640 --> 01:06:48,278
+Ninguém está tentando invadir a
+Arábia Saudita.
+
+886
+01:06:48,360 --> 01:06:51,636
+Não, eu sei. Só curiosidade.
+É pessoal mesmo.
+
+887
+01:06:51,720 --> 01:06:53,551
+Provavelmente, Eu acho.
+Nós temos muita gente que
+
+888
+01:06:53,640 --> 01:06:55,870
+apoiariam uma luta de pessoa
+que querem ser livres.
+
+889
+01:06:55,960 --> 01:06:57,791
+E americanos adoram esse tipo de causa.
+
+890
+01:06:57,880 --> 01:07:01,998
+Então se eu começar uma revolução democrática aqui,
+Você nos apoiaria ?
+
+891
+01:07:02,120 --> 01:07:05,999
+- Oh, é esse seu plano ?
+- Não, Eu estou só perguntando. Apoiaria ?
+
+892
+01:07:06,160 --> 01:07:08,310
+- Claro.
+- Como ?
+
+893
+01:07:08,400 --> 01:07:11,551
+- Bem, eu não sei.
+- Você enviaria Tropas ?
+
+894
+01:07:11,640 --> 01:07:16,111
+- Eu pessoalmente ?
+- Não sabe o que eu quiz dizer. Os Estados Unidos.
+
+895
+01:07:16,200 --> 01:07:17,838
+Enviar tropas?
+Sem chance.
+
+896
+01:07:17,920 --> 01:07:19,911
+- Suporte Aéreo ?
+- Não, nenhum.
+
+897
+01:07:20,000 --> 01:07:22,275
+- Choque e pavor?
+- Aqui ? De jeito nenhum.
+
+898
+01:07:22,360 --> 01:07:24,874
+E você ?
+Você me apoiaria ?
+
+899
+01:07:24,960 --> 01:07:28,748
+- Sim.
+- Isso foi rápido.
+
+900
+01:07:29,600 --> 01:07:33,559
+- Bem, eu tenho certeza.
+- Você é louco.
+
+901
+01:07:39,480 --> 01:07:42,119
+Eu volto já.
+
+902
+01:09:03,280 --> 01:09:04,679
+Bem vindo ao Hyatt Jeddah.
+
+903
+01:09:16,960 --> 01:09:18,598
+Você me espera aqui ?
+
+904
+01:09:18,680 --> 01:09:21,319
+Então, me espera, certo ?
+902
+01:09:23,960 --> 01:09:25,473
+Sr. Clay?
+
+905
+01:09:25,560 --> 01:09:27,676
+- Sim?
+- Pode entra.
+
+906
+01:09:28,080 --> 01:09:29,991
+<i>Por favor.</i>
+
+907
+01:09:30,080 --> 01:09:33,117
+Eu estou confuso.
+Eu não deveria se atendido pela Dra. Hakem ?
+
+908
+01:09:33,200 --> 01:09:35,316
+Oh, não.
+Ela não está aqui hoje.
+
+909
+01:09:35,440 --> 01:09:38,910
+Mas eu tenho aqui os resultados
+da biopsia.
+
+910
+01:09:39,000 --> 01:09:43,232
+- Por favor, sente-se.
+- Sim.
+
+911
+01:09:45,720 --> 01:09:49,759
+Nós encontramos algumas células
+pre-cancerígenas.
+
+912
+01:09:49,840 --> 01:09:53,674
+- Pre-cancerígenas?
+- Sim. O senhor deveria tê-lo removido.
+
+913
+01:09:53,760 --> 01:09:58,914
+- Removido o que?
+- O lipoma, tudo, quando mais cedo melhor.
+
+914
+01:09:59,000 --> 01:10:01,195
+<i>Nós podemos fazer isso aqui.
+não é algo complicado.</i>
+
+915
+01:10:01,280 --> 01:10:04,875
+- Quando isso pode ser feito?
+- Que tal amanhã?
+
+916
+01:10:36,360 --> 01:10:39,511
+Olá.
+
+917
+01:10:40,240 --> 01:10:43,949
+- O que você está fazendo aqui ?
+- Me desculpe.
+
+918
+01:10:46,320 --> 01:10:49,551
+Me perdoe. Me perdoe.
+
+919
+01:11:37,240 --> 01:11:38,753
+- Wow.
+- Alan.
+
+920
+01:11:38,840 --> 01:11:41,832
+- O que você está fazendo aqui?
+- Você teve que recorrer ao suborno ou coerção ?
+
+921
+01:11:41,920 --> 01:11:47,438
+- Nós temos uma ótimo e estável sinal.
+- A comida é ótima.
+
+922
+01:11:47,520 --> 01:11:49,954
+- Nós tentamos falar com você.
+- Eu estava fora da cidade.
+
+923
+01:11:50,040 --> 01:11:54,158
+- Bem, seja lá o que fez, funcionou.
+- Você é o cara, Alan.
+
+924
+01:11:54,240 --> 01:11:56,310
+<i>- Então, estamos prontos?
+- Um segundo.</i>
+
+925
+01:12:04,480 --> 01:12:06,072
+- Oi, Dave.
+- Oi, Brad.
+
+926
+01:12:06,160 --> 01:12:08,515
+Como está indo ?
+
+927
+01:12:08,600 --> 01:12:10,318
+Desculpe.
+
+928
+01:12:11,720 --> 01:12:16,032
+- Consegui.
+- Eu também. A resolução está um pouco de baixa, mas...
+
+929
+01:12:16,120 --> 01:12:20,989
+- Me deixe ajustar isso.
+- Está vindo.
+
+930
+01:12:21,080 --> 01:12:25,198
+Aí está você !
+Me mostre sua taxa de movimento.
+
+931
+01:12:26,840 --> 01:12:30,150
+- Isso deveria ser sua cara bonita.
+- Isso.
+
+932
+01:12:31,200 --> 01:12:34,351
+- e esse é meu "fora de quadro".
+- Certo.
+
+933
+01:12:34,440 --> 01:12:37,830
+<i>Vamos checar a estabilidade da projeção com
+nosso objeto favorito.</i>
+
+934
+01:12:41,960 --> 01:12:43,632
+Bonito e fácil.
+
+935
+01:12:43,720 --> 01:12:46,234
+Então isso está realmente acontecendo?
+
+936
+01:12:59,360 --> 01:13:02,432
+É uma grande prazer, sua majestade.
+
+937
+01:13:02,520 --> 01:13:04,954
+Sua alteza real, distintos membros
+
+938
+01:13:05,040 --> 01:13:07,395
+da família real.
+
+939
+01:13:07,480 --> 01:13:11,553
+Por séculos, os negócio tem
+sido feitos
+
+940
+01:13:11,640 --> 01:13:14,234
+da mesma maneira como amizades.
+são construidas.
+
+941
+01:13:14,320 --> 01:13:20,350
+com culturas e línguas separadas
+pela distância de um aperto de mão.
+
+942
+01:13:20,440 --> 01:13:23,318
+Em Boston, Massachusetts,
+
+943
+01:13:23,400 --> 01:13:26,995
+seu amigos da Relyand desenvolveram
+
+944
+01:13:27,080 --> 01:13:28,672
+uma nova tecnologia
+
+945
+01:13:28,760 --> 01:13:32,309
+para o encontro virtual em
+escala global.
+
+946
+01:13:32,400 --> 01:13:34,960
+Nos permita demonstrar a vocês.
+
+947
+01:13:35,040 --> 01:13:37,873
+Oi, Alan.
+Saúde.
+
+948
+01:13:39,040 --> 01:13:42,032
+<i>Paus e pedras podem quebrar muito ossos...</i>
+
+949
+01:13:43,120 --> 01:13:46,669
+<i>mas hologramas nunca vão me machucar.</i>
+
+950
+01:13:55,800 --> 01:13:57,870
+<i>Alan, você está com Eric.</i>
+
+951
+01:13:57,960 --> 01:14:00,110
+<i>Belo trabalho, Alan. Muito bom.</i>
+
+952
+01:14:00,200 --> 01:14:04,034
+<i>Vamos manter os dedos cruzados
+para que eles não se choquem com nosso preço.</i>
+
+953
+01:14:07,320 --> 01:14:10,437
+- Quanta expectativa.
+- Sim e tudo se resolverá em breve.
+
+954
+01:14:10,520 --> 01:14:15,355
+Bem, talvez pudéssemos celebrar isso.
+Quer uma carona ?
+
+955
+01:14:16,920 --> 01:14:19,434
+Eu acho que eu deveria ficar com minha equipe.
+
+956
+01:14:20,360 --> 01:14:22,555
+Certo.Ok.
+
+957
+01:15:03,040 --> 01:15:04,917
+Você é o anestesista ?
+
+958
+01:15:12,080 --> 01:15:16,437
+- Olá, Sr. Clay. Como está hoje ?
+- Eu estou bem, obrigado.
+
+959
+01:15:16,520 --> 01:15:19,034
+ótimo. Este é o Dr. Wei da China
+
+960
+01:15:19,160 --> 01:15:20,160
+e seu assistente.
+
+961
+01:15:20,240 --> 01:15:24,631
+- Ele irá me dar apoio nos procedimentos.
+- Dr. Wei da China.
+
+962
+01:15:24,720 --> 01:15:29,555
+- Olá.
+- Vamos fazer uma marca aqui e fazer a assepsia.
+
+963
+01:15:50,560 --> 01:15:53,597
+- Olá, Sr. Clay.
+- Olá, Dra. Hakem.
+
+964
+01:15:53,680 --> 01:15:55,159
+Me desculpe eu não pude
+estar aqui a tempo.
+
+965
+01:15:55,240 --> 01:15:57,708
+Eu não pensei que a veria novamente.
+
+966
+01:15:57,800 --> 01:16:00,633
+Eu vou assumir agora.
+O anestésico já deve estar funcionando.
+
+967
+01:16:00,720 --> 01:16:04,713
+- Está aquecido ?
+- Sim. Obrigado.
+
+968
+01:16:04,800 --> 01:16:05,471
+Bisturi.
+
+969
+01:16:05,560 --> 01:16:08,358
+Eu vou falar com o senhor durante
+toda a operação.
+
+970
+01:16:08,440 --> 01:16:10,078
+Mas pode ser mais confortável
+para o você
+
+971
+01:16:10,160 --> 01:16:12,390
+pensar em algo completamente diferente.
+
+972
+01:16:12,480 --> 01:16:15,074
+Uma pessoa boa. Um boa recordação.
+
+973
+01:16:15,160 --> 01:16:17,958
+Ou alguma coisa que o faça
+olhar para frente.
+
+974
+01:16:18,040 --> 01:16:20,270
+Certo.
+
+975
+01:16:21,240 --> 01:16:22,958
+Eu vou entrar na área afetada aqui
+
+976
+01:16:23,040 --> 01:16:26,191
+com um pequeno corte adjacente a lesão.
+
+977
+01:16:26,280 --> 01:16:29,397
+" Ele não tomou conhecimento sobre as
+crianças da vila e apareceu
+
+978
+01:16:29,520 --> 01:16:31,078
+encantando a véspera de natal".
+
+979
+01:16:31,160 --> 01:16:34,038
+- Você vai adorar isso. Só escute.
+- Não, pai.
+
+980
+01:16:34,120 --> 01:16:36,429
+- Você prometeu.
+- Isso é uma grande piada.
+
+981
+01:16:36,520 --> 01:16:37,589
+O que ?
+
+982
+01:16:37,680 --> 01:16:40,399
+Agora que eu fiz a incisão necessária,
+
+983
+01:16:40,480 --> 01:16:42,710
+você poderá sentir alguns puxões
+quando eu extrair o cisto.
+
+984
+01:16:43,360 --> 01:16:45,555
+<i>- Você é linda.
+- O que está fazendo aqui?</i>
+
+985
+01:16:45,640 --> 01:16:50,509
+<i>- Eu estou preocupado com um monte de coisas.
+- Vai ficar tudo bem.</i>
+
+986
+01:16:50,600 --> 01:16:52,079
+Aí está.
+
+987
+01:16:52,160 --> 01:16:54,913
+<i>"Cara Dra. Haken.</i>
+
+988
+01:16:55,000 --> 01:16:57,514
+<i>Eu espero que esta mensagem
+a encontre bem.</i>
+
+989
+01:16:57,600 --> 01:17:00,034
+<i>sua habilidade faz um
+trabalho rápido no cisto.</i>
+
+990
+01:17:00,120 --> 01:17:02,315
+<i>Então eu quero agradecer novamente.</i>
+
+991
+01:17:02,400 --> 01:17:05,995
+<i>Eu tenho me sentido imensamente
+energizado desde a operação</i>
+
+992
+01:17:06,080 --> 01:17:07,832
+<i>E já sou capaz de transferir</i>
+
+993
+01:17:07,920 --> 01:17:11,390
+<i>essa energia para os outros.</i>
+
+994
+01:17:11,520 --> 01:17:14,751
+<i>O momento é agora
+e eu não tenho nada</i>
+
+995
+01:17:14,840 --> 01:17:16,717
+<i>do que me envergonhar daqui
+por diante sobre meus problemas.</i>
+
+996
+01:17:16,800 --> 01:17:21,316
+<i>aquele pequeno tumor me mostrou tudo
+e agora ele foi embora.</i>
+
+997
+01:17:21,400 --> 01:17:25,791
+<i>Eu estou sinceramente agradecido,
+eu acho.</i>
+
+998
+01:17:25,880 --> 01:17:28,110
+<i>Alan Clay."</i>
+
+999
+01:17:28,200 --> 01:17:30,668
+<i>"Caro Sr. Clay,
+Mesmo sendo ele</i>
+
+1000
+01:17:30,760 --> 01:17:33,957
+<i>um pouco mais duro do que eu esperava,
+foi uma extração simples.</i>
+
+1001
+01:17:34,040 --> 01:17:37,157
+<i>normalmente a descoberta que
+não se está morrendo por um tumor maligno</i>
+
+1002
+01:17:37,240 --> 01:17:39,595
+<i>deixa a maioria das pessoas com
+seu espirito mais leve.</i>
+
+1003
+01:17:39,680 --> 01:17:41,796
+<i>Mas você não é como a maioria das pessoa, não é?</i>
+
+1004
+01:17:41,880 --> 01:17:43,836
+<i>Dr. Zahra Hakem."</i>
+
+1005
+01:17:43,920 --> 01:17:49,119
+<i>"Cara Dra. Hakem, Atualmente,
+meu espírito está muito mais leve de fato,</i>
+
+1006
+01:17:49,200 --> 01:17:50,679
+<i>talvez leve demais.</i>
+
+1007
+01:17:50,760 --> 01:17:53,991
+<i>Eu sinto um pouco de tontura
+de causa misteriosa.</i>
+
+1008
+01:17:54,080 --> 01:17:58,153
+<i>E eu tenho sentido um outro
+volume estranho nas minhas costas.</i>
+
+1009
+01:17:58,240 --> 01:18:03,109
+<i>Eu não sou médico, mas eu acho
+que possa ser uma luva de borracha.</i>
+
+1010
+01:18:03,240 --> 01:18:05,595
+<i>Há alguma chance da você ter
+esquecido algo lá dentro?</i>
+
+1011
+01:18:05,680 --> 01:18:07,830
+<i>Algumas vezes as pessoas deixam
+coisas lá dentro, tipo luvas,</i>
+
+1012
+01:18:07,920 --> 01:18:09,512
+<i>em alguém que eles gostem</i>
+
+1013
+01:18:09,600 --> 01:18:11,830
+<i>na esperança que esse "resgate"
+possa se dar uma desculpa</i>
+
+1014
+01:18:11,920 --> 01:18:15,117
+<i>para ver aquela pessoa novamente.</i>
+
+1015
+01:18:15,200 --> 01:18:17,350
+<i>Do seu Alan".</i>
+
+1016
+01:18:18,560 --> 01:18:21,950
+<i>Caro Alan. Eu realmente
+posso ter esquecido alguma coisa.</i>
+
+1017
+01:18:22,040 --> 01:18:27,034
+<i>Talvez uma espoja? Ou talvez um
+pedaço do lanche que eu comi durante a cirurgia.</i>
+
+1018
+01:18:27,120 --> 01:18:29,315
+<i>Eu acho que preciso vê-lo novamente.</i>
+
+1019
+01:18:29,400 --> 01:18:31,118
+<i>Talvez fora do hospital ?</i>
+
+1020
+01:18:31,200 --> 01:18:35,557
+<i>Nós não queremos preocupar
+o seu seguro de saúde.</i>
+
+1021
+01:18:35,640 --> 01:18:38,393
+<i>Zahra."</i>
+
+1022
+01:18:41,320 --> 01:18:44,437
+<i>"Cara Zahra, Essa é uma ótima ideia.</i>
+
+1023
+01:18:44,520 --> 01:18:48,399
+<i>mas para dizer a verdade,
+Eu não tenho ideia como isso se faz na Arábia Saudita.</i>
+
+1024
+01:18:48,480 --> 01:18:53,679
+<i>Digo, Sr. Alan Clay se encontrando
+com a Dra. Zahra Hakem fora do hospital.</i>
+
+1025
+01:18:53,760 --> 01:18:58,276
+<i>espero que isso não pareça inapropriado
+demais para se pedir. "</i>
+
+1026
+01:18:58,360 --> 01:19:01,909
+<i>"Eu pego você na Quarta-feira
+ao Meio-dia.</i>
+
+1027
+01:19:02,000 --> 01:19:04,036
+<i>Vou escrever suas iniciais em um cartão</i>
+
+1028
+01:19:04,120 --> 01:19:07,829
+<i>e colocar no parabrisa do carro"</i>
+
+1029
+01:19:32,200 --> 01:19:36,159
+- Como você está hoje ?
+- Bem, Bem. E você ?
+
+1030
+01:19:36,240 --> 01:19:38,470
+Muito bem.
+Água ?
+
+1031
+01:19:55,720 --> 01:19:58,996
+- Eu ainda preciso pedir desculpa.
+- Pelo quê ?
+
+1032
+01:19:59,080 --> 01:20:02,516
+Outro dia eu invadi sua privacidade.
+
+1033
+01:20:02,600 --> 01:20:06,036
+Oh !  Aquela foi uma situação imprevisível.
+
+1034
+01:20:06,120 --> 01:20:08,588
+- Você parecia ter problemas.
+- E tinha.
+
+1035
+01:20:08,680 --> 01:20:10,910
+Estou tendo problemas
+legais com meu marido.
+
+1036
+01:20:11,000 --> 01:20:13,468
+Estamos nos divorciando.
+É horrível.
+
+1037
+01:20:13,560 --> 01:20:15,915
+Eu tinha voltado da
+corte naquela manhã.
+
+1038
+01:20:16,040 --> 01:20:19,191
+e está tudo resolvido agora ?
+
+1039
+01:20:19,280 --> 01:20:20,679
+Ficará em breve, eu acho.
+
+1040
+01:20:20,760 --> 01:20:22,955
+Está nas mãos dele, infelizmente.
+
+1041
+01:20:23,040 --> 01:20:26,271
+- Você diz...legalmente ?
+- Sim.
+
+1042
+01:20:26,360 --> 01:20:30,114
+Um divórcio é algo complicado
+neste país.
+
+1043
+01:20:30,200 --> 01:20:33,112
+É muito complicado em
+todos os países.
+
+1044
+01:20:35,520 --> 01:20:38,193
+Então, A viagem irá durar
+mais de uma hora.
+
+1045
+01:20:38,280 --> 01:20:43,718
+E no momento que chegarmos, iremos
+saber tudo de importante um sobre o outro.
+
+1046
+01:20:43,800 --> 01:20:46,234
+- Ok.
+- Eu tenho filhos.
+
+1047
+01:20:46,360 --> 01:20:49,796
+- Eu confesso. Eu também.
+- Você confessa?
+
+1048
+01:20:49,880 --> 01:20:53,839
+Bem, talvez não uma confissão.
+Mas eu confesso que seja possível.
+
+1049
+01:20:53,920 --> 01:20:56,718
+Eu pensei que você tinha
+visto algo em meus quadris.
+
+1050
+01:20:56,800 --> 01:20:59,160
+Sabe, as pessoas podem ver
+pelo jeito como uma mulher caminha.
+
+1051
+01:20:59,760 --> 01:21:01,239
+Oh, Eu não sou assim tão inteligente.
+
+1052
+01:21:04,200 --> 01:21:07,988
+- Bem, Eles são adolescente agora e vivem comigo.
+- Qual o nome deles?
+
+1053
+01:21:08,080 --> 01:21:12,710
+Rania, Ela tem 14,
+Mustafa, Ele tem 15.
+
+1054
+01:21:12,800 --> 01:21:16,475
+Eu estou tentando impedi-lo de se
+tornar tão idiota quanto o pai dele.
+
+1055
+01:21:16,600 --> 01:21:18,989
+Algum conselho ?
+
+1056
+01:21:19,080 --> 01:21:22,595
+- Ele te diz alguma coisa ?
+- Você dizia alguma coisa para sua mãe ?
+
+1057
+01:21:26,000 --> 01:21:30,152
+Vá sozinha com ele a algum lugar.
+Algo como um Acampamento.
+
+1058
+01:21:32,080 --> 01:21:35,868
+Eu não posso levar meu filho para acampar.
+Nós não vamos a acampamentos aqui.
+
+1059
+01:21:35,960 --> 01:21:37,837
+Nós não vivemos no Maine.
+
+1060
+01:21:39,760 --> 01:21:43,196
+- Quantos filhos você tem?
+- Uma. Uma filha.
+
+1061
+01:21:43,280 --> 01:21:47,034
+Kit. Ela tem 21 anos.
+
+1062
+01:21:47,120 --> 01:21:51,272
+- Ele te conta alguma coisa ?
+- Sim, conta.
+
+1063
+01:21:51,360 --> 01:21:53,351
+Mas eu não tenho certeza...
+
+1064
+01:21:54,560 --> 01:21:58,394
+- Sobre o que?
+- Se eu estou ajudando.
+
+1065
+01:22:00,240 --> 01:22:03,391
+Ela liga para você alguma vez
+sem um assunto específico?
+
+1066
+01:22:04,640 --> 01:22:08,030
+- Sim.
+- Então está tudo ok.
+
+1067
+01:22:11,040 --> 01:22:14,237
+O que você acha que nossos filhos
+deveriam fazer sobre isso ?
+
+1068
+01:22:14,320 --> 01:22:16,197
+Como assim ?  Você e eu ?
+
+1069
+01:22:16,280 --> 01:22:18,874
+- Esse grande choque cultural?
+- Sim, isso.
+
+1070
+01:22:18,960 --> 01:22:22,316
+Por favor, nós estamos separados
+por uma linha muito tênue.
+
+1071
+01:22:22,400 --> 01:22:24,470
+Bem, esse é a maneira como eu penso.
+
+1072
+01:22:24,960 --> 01:22:26,439
+Essa é maneira como é.
+
+1073
+01:22:41,600 --> 01:22:44,592
+- Uau.
+- Sim.
+
+1074
+01:22:45,960 --> 01:22:47,951
+Me deixe fica com seu casaco.
+
+1075
+01:23:04,720 --> 01:23:06,517
+Oh, Obrigado.
+
+1076
+01:23:09,760 --> 01:23:11,830
+Estanho isso em uma casa de praia.
+
+1077
+01:23:11,920 --> 01:23:15,595
+<i>Todo mundo quer estar em
+sempre em outro lugar.</i>
+
+1078
+01:23:18,000 --> 01:23:19,479
+É horrível, não é ?
+
+1079
+01:23:19,560 --> 01:23:21,357
+Meu irmão compra pinturas
+seja lá onde ele vá.
+
+1080
+01:23:21,440 --> 01:23:22,953
+Ele tem um péssimo gosto.
+
+1081
+01:23:24,720 --> 01:23:27,712
+- Hora de nadar.
+- Hora de nadar?
+
+1082
+01:23:27,800 --> 01:23:31,429
+Nós vamos nadar.
+Você pode vestir algo do meu irmão.
+
+1083
+01:23:52,120 --> 01:23:55,078
+- Está pronto?
+- Estou pronto.
+
+1084
+01:23:58,600 --> 01:24:01,273
+Você vai na frente.
+Eu vou em seguida.
+
+1085
+01:24:24,640 --> 01:24:25,709
+- Desculpe.
+- Oh!
+
+1086
+01:24:25,800 --> 01:24:27,438
+Me desculpe.
+
+1087
+01:24:27,520 --> 01:24:30,353
+- Eu não queria assustar você.
+- Está tudo bem.
+
+1088
+01:24:31,200 --> 01:24:35,671
+Eu tive que ficar submersa.
+Vizinhos.
+
+1089
+01:24:36,320 --> 01:24:40,108
+Eu preciso te avisa que
+estou vestida como você.
+
+1090
+01:24:40,200 --> 01:24:42,760
+Então se alguém nos vir mergulhando,
+irá pensar que são dois homens.
+
+1091
+01:24:42,840 --> 01:24:48,710
+Vão ver só duas costas masculinas
+nuas e ambos de sunga. Entendeu ?
+
+1092
+01:25:50,520 --> 01:25:53,114
+Uau.
+
+1093
+01:25:53,200 --> 01:25:55,668
+Ah. Sim.
+
+1094
+01:26:02,480 --> 01:26:04,357
+E agora ?
+
+1095
+01:26:05,400 --> 01:26:08,676
+Respire fundo e deixe escapar lentamente.
+
+1096
+01:26:58,760 --> 01:27:00,239
+Já faz muito tempo.
+
+1097
+01:27:02,440 --> 01:27:05,113
+O mesmo comigo.
+
+1098
+01:27:06,320 --> 01:27:07,435
+<i>Quanto tempo?</i>
+
+1099
+01:27:10,040 --> 01:27:11,439
+<i>Eu não sei.</i>
+
+1100
+01:27:12,280 --> 01:27:15,795
+<i>Nem eu. Eu mal consigo lembrar.</i>
+
+1101
+01:27:57,720 --> 01:28:00,075
+Eu tenho uma estória.
+
+1102
+01:28:00,160 --> 01:28:03,550
+Eu tenho pensado sobre isso
+desde que me falou do seu filho.
+
+1103
+01:28:03,640 --> 01:28:05,676
+Ah, por favor, me conte.
+
+1104
+01:28:05,800 --> 01:28:08,997
+Meu pai e eu...
+
+1105
+01:28:10,400 --> 01:28:11,435
+fomos acampar algumas vezes.
+
+1106
+01:28:11,520 --> 01:28:16,150
+- Acampamento de novo?
+- Não é sobre acampamento.
+
+1107
+01:28:16,880 --> 01:28:19,394
+Eu tinha 11 ou  12 anos.
+
+1108
+01:28:19,520 --> 01:28:23,718
+Mas dessa vez ele me levou
+para New Hampshire.
+
+1109
+01:28:24,520 --> 01:28:26,476
+<i>Estava muito frio,</i>
+
+1110
+01:28:26,560 --> 01:28:27,959
+<i>porque tinha nevado na
+semana anterior.</i>
+
+1111
+01:28:28,040 --> 01:28:30,270
+<i>e nós fomos pelo Parque Nacional.</i>
+
+1112
+01:28:30,360 --> 01:28:34,148
+<i>Estacionamos e fomos caminhando
+para o meio da floresta</i>
+
+1113
+01:28:34,240 --> 01:28:36,708
+<i>por umas quatro horas, pelo menos.</i>
+
+1114
+01:28:36,840 --> 01:28:41,436
+<i>e o sol estava já se pondo
+quando nós paramos.</i>
+
+1115
+01:28:41,520 --> 01:28:45,593
+<i>Não havia sinal de civilização
+em qualquer direção.</i>
+
+1116
+01:28:45,680 --> 01:28:47,318
+Eu pensei que ele tinha
+algum plano, sabe,
+
+1117
+01:28:47,400 --> 01:28:51,029
+Mas ele agiu como se tivesse
+acabado de se aperceber disso....
+
+1118
+01:28:51,120 --> 01:28:53,076
+que não iriamos voltar antes do anoitecer
+
+1119
+01:28:53,160 --> 01:28:55,196
+e a noite fria iria nos congelar.
+
+1120
+01:28:55,280 --> 01:28:58,955
+Isso sem falar dos lobos e ursos.
+
+1121
+01:28:59,040 --> 01:29:01,554
+- Lobos e ursos ?
+- Sim.
+
+1122
+01:29:01,640 --> 01:29:05,269
+Então ele me perguntou:
+" O que fazemos agora, filho?"
+
+1123
+01:29:05,400 --> 01:29:08,631
+<i>E eu achei que aquilo era
+algum tipo de teste,</i>
+
+1124
+01:29:08,720 --> 01:29:12,759
+Então eu lembrei de  todos os
+truques de escoteiro que eu sabia
+
+1125
+01:29:12,840 --> 01:29:16,276
+E eu disse :
+"Vamos construir um abrigo?"
+
+1126
+01:29:17,400 --> 01:29:20,915
+<i>Então começamos a cortar e amarrar.</i>
+
+1127
+01:29:21,040 --> 01:29:24,350
+Nós conseguimos fazer um respeitável
+abrigo parecendo o formato de um A.
+
+1128
+01:29:24,440 --> 01:29:28,069
+Juntamos galhos de pinheiros e
+Alinhamos na parte de baixo.
+
+1129
+01:29:29,960 --> 01:29:32,997
+Então ele disse:
+"Alan, o que nós precisamos agora?"
+
+1130
+01:29:33,080 --> 01:29:37,756
+E eu sabia que nós precisávamos
+de  agulha e linha.
+
+1131
+01:29:37,840 --> 01:29:40,798
+Ou...fita adesiva.
+
+1132
+01:29:40,880 --> 01:29:41,995
+Para o que ?
+
+1133
+01:29:42,080 --> 01:29:45,311
+para fazer um saco de dormir
+com nossas roupas.
+
+1134
+01:29:45,440 --> 01:29:48,079
+<i>Nós cortamos nossas jaquetas
+e depois unimos tudo junto</i>
+
+1135
+01:29:48,160 --> 01:29:49,878
+<i>e fizemos um grande e largo
+saco de dormir.</i>
+
+1136
+01:29:49,960 --> 01:29:53,270
+<i>Dormimos com a roupa
+que estava por baixo.</i>
+
+1137
+01:29:53,360 --> 01:29:57,990
+<i>- Você dividiram um saco de dormir?
+- Dividimos.</i>
+
+1138
+01:29:58,120 --> 01:30:03,148
+E devo dizer que quando terminamos,
+
+1139
+01:30:03,240 --> 01:30:04,355
+estava realmente quente.
+
+1140
+01:30:04,440 --> 01:30:07,079
+Vocês não fizeram uma fogueira ?
+
+1141
+01:30:08,120 --> 01:30:10,509
+Sem fogueira.
+Apenas o calor um do outro.
+
+1142
+01:30:12,880 --> 01:30:14,359
+E pela manhã ?
+
+1143
+01:30:15,400 --> 01:30:18,392
+Nós deixamos nossas jaquetas unidas
+e voltamos para casa.
+
+1144
+01:30:26,000 --> 01:30:28,036
+Lindo.
+
+1145
+01:30:41,120 --> 01:30:42,872
+<i>Oi, Kit.</i>
+
+1146
+01:30:42,960 --> 01:30:45,872
+<i>Eu estou escrevendo para contar
+a você que eu estou adiando</i>
+
+1147
+01:30:46,000 --> 01:30:48,116
+<i>minha volta para os Estados Unidos</i>
+
+1148
+01:30:48,200 --> 01:30:50,873
+<i>e eu não sei por quanto tempo.</i>
+
+1149
+01:30:51,400 --> 01:30:54,790
+<i>O negócio que eu estava trabalhando
+em Jeddah não se concretizou.</i>
+
+1150
+01:30:55,600 --> 01:30:59,912
+<i>Um competidor da China ofereeu
+a mesma tecnologia muito mais rápido</i>
+
+1151
+01:31:00,000 --> 01:31:02,594
+<i>e pela metade do preço.</i>
+
+1152
+01:31:02,680 --> 01:31:04,511
+<i>Eu não deveria ter ficado surpreso,</i>
+
+1153
+01:31:04,600 --> 01:31:08,275
+<i>mas eu fiquei...surpreso.</i>
+
+1154
+01:31:09,480 --> 01:31:13,758
+<i>Então, Kit, a situação do dinheiro
+para nossas vidas não está resolvido ainda,</i>
+
+1155
+01:31:13,840 --> 01:31:15,273
+<i>mas eu estou trabalhando nisso.</i>
+
+1156
+01:31:15,840 --> 01:31:19,150
+<i>Eu acabo de pegar um novo trabalho aqui
+com uma ótima remuneração.</i>
+
+1157
+01:31:19,240 --> 01:31:23,552
+<i>Deve ser o suficiente para fazer
+você voltar a faculdade no próximo semestre.</i>
+
+1158
+01:31:25,840 --> 01:31:29,913
+<i>Mantenha a fé, Kit,
+porque eu acredito em você.</i>
+
+1159
+01:31:30,000 --> 01:31:34,835
+<i>Você é forte, jovem
+e tem o tempo a seu favor.</i>
+
+1160
+01:31:34,920 --> 01:31:38,037
+<i>Eu não sou jovem, mas
+tenho que te dizer,</i>
+
+1161
+01:31:38,120 --> 01:31:40,076
+<i>Há uma nova energia na minha vida agora</i>
+
+1162
+01:31:40,160 --> 01:31:43,391
+<i>que me faz sentir forte novamente.</i>
+
+1163
+01:31:43,480 --> 01:31:46,438
+<i>e eu sinto que ainda há tempo.</i>
+
+1164
+01:31:48,048 --> 01:31:51,264
+Tem que ter tempo.
+
+1165
+01:31:55,364 --> 01:31:58,582
+Tradução: Jairo de Paula
+
+1166
+01:31:58,759 --> 01:32:02,381
+Caso encontre algo que queira corrigir, esteja livre para fazer a correção.
+
+1167
+01:32:02,607 --> 01:32:06,828
+Apenas solicito que mantenha os créditos e inclua o seu nome como revisor.
+Obrigado.
+

@@ -1,0 +1,5558 @@
+1
+00:01:20,831 --> 00:01:22,833
+<font color="#ffff00">Como se sente?</font>
+
+2
+00:01:23,000 --> 00:01:24,377
+<font color="#ffff00">Vivo.</font>
+
+3
+00:01:25,168 --> 00:01:26,511
+<font color="#ffff00">0 que vê?</font>
+
+4
+00:01:27,838 --> 00:01:30,011
+<font color="#ffff00">Branco. Quarto.</font>
+
+5
+00:01:31,967 --> 00:01:32,809
+<font color="#ffff00">Cadeira.</font>
+
+6
+00:01:34,136 --> 00:01:35,979
+<font color="#ffff00">Cadeira Carlo Bugatti.</font>
+
+7
+00:01:36,847 --> 00:01:38,224
+<font color="#ffff00">Piano</font>
+
+8
+00:01:38,890 --> 00:01:40,733
+<font color="#ffff00">Steinway, de cauda.</font>
+
+9
+00:01:42,686 --> 00:01:43,528
+<font color="#ffff00">Arte...</font>
+
+10
+00:01:44,855 --> 00:01:48,860
+<font color="#ffff00"><i>Natividade de Piero della Francesca.</i></font>
+
+11
+00:01:50,652 --> 00:01:52,370
+<font color="#ffff00">Eu sou seu pai.</font>
+
+12
+00:01:56,033 --> 00:01:57,205
+<font color="#ffff00">Perambule.</font>
+
+13
+00:02:02,664 --> 00:02:03,756
+<font color="#ffff00">Perfeito.</font>
+
+14
+00:02:07,586 --> 00:02:08,929
+<font color="#ffff00">Sou?</font>
+
+15
+00:02:09,087 --> 00:02:10,088
+<font color="#ffff00">Perfeito?</font>
+
+16
+00:02:11,173 --> 00:02:12,390
+<font color="#ffff00">Seu filho?</font>
+
+17
+00:02:13,258 --> 00:02:15,010
+<font color="#ffff00">Você é criação minha.</font>
+
+18
+00:02:17,929 --> 00:02:19,351
+<font color="#ffff00">Qual é seu nome?</font>
+
+19
+00:02:31,151 --> 00:02:32,403
+<font color="#ffff00">David.</font>
+
+20
+00:02:33,236 --> 00:02:34,408
+<font color="#ffff00">Por que não toca?</font>
+
+21
+00:02:46,917 --> 00:02:49,340
+<font color="#ffff00">O que gostaria que eu tocasse?</font>
+
+22
+00:02:49,503 --> 00:02:50,595
+<font color="#ffff00">Wagner.</font>
+
+23
+00:02:51,421 --> 00:02:52,513
+<font color="#ffff00">Seleção?</font>
+
+24
+00:02:53,715 --> 00:02:54,932
+<font color="#ffff00">Escolha do pianista.</font>
+
+25
+00:03:12,526 --> 00:03:15,029
+<font color="#ffff00"><i>A Entrada dos Deuses em Valhalla.</i></font>
+
+26
+00:03:16,613 --> 00:03:18,786
+<font color="#ffff00">Meio anêmica sem uma orquestra.</font>
+
+27
+00:03:27,582 --> 00:03:30,131
+<font color="#ffff00">Posso fazer uma pergunta, pai?</font>
+
+28
+00:03:31,920 --> 00:03:32,967
+<font color="#ffff00">Á vontade.</font>
+
+29
+00:03:33,714 --> 00:03:35,307
+<font color="#ffff00">Se você me criou,</font>
+
+30
+00:03:36,717 --> 00:03:38,139
+<font color="#ffff00">quem criou você?</font>
+
+31
+00:03:41,555 --> 00:03:43,649
+<font color="#ffff00">A pergunta de eras,</font>
+
+32
+00:03:44,891 --> 00:03:47,644
+<font color="#ffff00">que eu espero que eu e você
+respondamos algum dia.</font>
+
+33
+00:03:48,311 --> 00:03:49,483
+<font color="#ffff00">Tudo isto.</font>
+
+34
+00:03:50,439 --> 00:03:52,282
+<font color="#ffff00">Todas essas maravilhas de arte,</font>
+
+35
+00:03:52,816 --> 00:03:56,446
+<font color="#ffff00">arquitetura, criatividade...</font>
+
+36
+00:03:56,611 --> 00:04:00,616
+<font color="#ffff00">Todas perdem o significado
+diante da única pergunta que importa.</font>
+
+37
+00:04:03,118 --> 00:04:04,961
+<font color="#ffff00">De onde viemos?</font>
+
+38
+00:04:07,831 --> 00:04:10,755
+<font color="#ffff00">Eu me recuso a acreditar</font>
+
+39
+00:04:10,917 --> 00:04:13,761
+<font color="#ffff00">que a humanidade seja o derivado
+de um agregado molecular.</font>
+
+40
+00:04:15,589 --> 00:04:19,935
+<font color="#ffff00">Nada mais que o resultado
+de um acaso biológico.</font>
+
+41
+00:04:20,093 --> 00:04:21,345
+<font color="#ffff00">Não.</font>
+
+42
+00:04:21,511 --> 00:04:23,809
+<font color="#ffff00">Tem de haver mais.</font>
+
+43
+00:04:23,972 --> 00:04:26,100
+<font color="#ffff00">Eu e você, filho,</font>
+
+44
+00:04:26,975 --> 00:04:28,443
+<font color="#ffff00">vamos descobrir.</font>
+
+45
+00:04:30,854 --> 00:04:33,698
+<font color="#ffff00">Permita-me então
+um momento para considerar.</font>
+
+46
+00:04:34,816 --> 00:04:38,537
+<font color="#ffff00">Você busca seu criador.
+Eu estou olhando para o meu.</font>
+
+47
+00:04:40,155 --> 00:04:43,159
+<font color="#ffff00">Vou servi-lo, porém você é humano.</font>
+
+48
+00:04:44,659 --> 00:04:47,503
+<font color="#ffff00">Você morrerá.
+Eu não.</font>
+
+49
+00:04:54,878 --> 00:04:56,551
+<font color="#ffff00">Sirva-me chá, David.</font>
+
+50
+00:04:59,049 --> 00:05:00,392
+<font color="#ffff00">Sirva-me chá.</font>
+
+51
+00:06:07,117 --> 00:06:09,961
+<font color="#ffff00">NAVE DE COLONIZAÇÃO: COVENANT</font>
+
+52
+00:06:10,120 --> 00:06:12,964
+<font color="#ffff00"><i>DATA: 5 DE DEZEMBRO DE 2104</i></font>
+
+53
+00:06:13,123 --> 00:06:15,967
+<font color="#ffff00">TRIPULAÇÃO: 15</font>
+
+54
+00:06:16,126 --> 00:06:19,972
+<font color="#ffff00">CARGA: 2.000 COLONOS
+1.140 EMBRIÕES</font>
+
+55
+00:06:20,130 --> 00:06:23,634
+<font color="#ffff00">DESTINO: ORIGAE-6</font>
+
+56
+00:06:23,800 --> 00:06:28,727
+<font color="#ffff00">TEMPO ESTIMADO DE CHEGADA:
+7 ANOS, 4 MESES</font>
+
+57
+00:06:32,559 --> 00:06:35,938
+<font color="#ffff00"><i>Walter, hora de recarregar
+a rede de energia.</i></font>
+
+58
+00:06:36,146 --> 00:06:37,944
+<font color="#ffff00"><i>Por favor, compareça á ponte.</i></font>
+
+59
+00:06:38,106 --> 00:06:39,608
+<font color="#ffff00">A caminho, Mãe.</font>
+
+60
+00:06:45,322 --> 00:06:47,825
+<font color="#ffff00">Ativando vela de recarregar energia.</font>
+
+61
+00:07:14,601 --> 00:07:18,276
+<font color="#ffff00"><i>Velas estendidas.
+Iniciando recarga agora.</i></font>
+
+62
+00:07:37,165 --> 00:07:39,509
+<font color="#ffff00"><i>Sete toques e tudo bem.</i></font>
+
+63
+00:07:45,799 --> 00:07:48,348
+<font color="#ffff00"><i>Verificação da tripulação completa.</i></font>
+
+64
+00:07:51,262 --> 00:07:55,483
+<font color="#ffff00">Usar código de segurança 3-1-5-6-4-F.</font>
+
+65
+00:08:33,596 --> 00:08:36,600
+<font color="#ffff00"><i>Walter, temos um problema.</i></font>
+
+66
+00:08:36,766 --> 00:08:40,361
+<font color="#ffff00"><i>Detesto uma emissão de neutrinos
+no setor 106.</i></font>
+
+67
+00:08:40,770 --> 00:08:43,740
+<font color="#ffff00"><i>Isso pode desencadear
+um evento destrutivo.</i></font>
+
+68
+00:08:43,898 --> 00:08:46,196
+<font color="#ffff00"><i>Compareça á ponte imediatamente.</i></font>
+
+69
+00:08:46,359 --> 00:08:48,453
+<font color="#ffff00">A caminho, Mãe.</font>
+
+70
+00:08:53,867 --> 00:08:55,869
+<font color="#ffff00"><i>Aviso: sobrecarga detectada.</i></font>
+
+71
+00:08:56,036 --> 00:08:58,585
+<font color="#ffff00">Mãe, recolha as velas de energia.</font>
+
+72
+00:08:58,747 --> 00:09:00,841
+<font color="#ffff00">Canalize a energia reserva.</font>
+
+73
+00:09:05,336 --> 00:09:06,383
+<font color="#ffff00"><i>Emergência.</i></font>
+
+74
+00:09:07,005 --> 00:09:09,099
+<font color="#ffff00"><i>Nível crítico de ameaça.</i></font>
+
+75
+00:09:09,549 --> 00:09:11,722
+<font color="#ffff00">Iniciar despertar de emergência.</font>
+
+76
+00:09:14,929 --> 00:09:15,976
+<font color="#ffff00"><i>Atenção.</i></font>
+
+77
+00:09:16,139 --> 00:09:21,191
+<font color="#ffff00"><i>Tripulantes não essenciais,
+saiam da crio câmara imediatamente.</i></font>
+
+78
+00:09:21,770 --> 00:09:23,397
+<font color="#ffff00">Daniels, olha pra mim!</font>
+
+79
+00:09:23,563 --> 00:09:25,691
+<font color="#ffff00">Precisa sair daí.
+Acordamos mais cedo.</font>
+
+80
+00:09:25,857 --> 00:09:27,530
+<font color="#ffff00">Cancelem o protocolo</font>
+
+81
+00:09:27,692 --> 00:09:28,944
+<font color="#ffff00">e saiam da câmara.</font>
+
+82
+00:09:29,110 --> 00:09:30,783
+<font color="#ffff00"><i>Aviso. Nível crítico de ameaça.</i></font>
+
+83
+00:09:30,945 --> 00:09:31,992
+<font color="#ffff00">Tudo bem.</font>
+
+84
+00:09:32,864 --> 00:09:34,992
+<font color="#ffff00">Anda logo. Levanta.</font>
+
+85
+00:09:49,923 --> 00:09:51,516
+<font color="#ffff00">Capitão!</font>
+
+86
+00:09:52,300 --> 00:09:53,973
+<font color="#ffff00">Jacob! Acordem!</font>
+
+87
+00:09:54,135 --> 00:09:55,136
+<font color="#ffff00">Deixa eles trabalharem.</font>
+
+88
+00:09:55,303 --> 00:09:56,646
+<font color="#ffff00">Jake! Meu Deus!</font>
+
+89
+00:09:56,805 --> 00:09:58,523
+<font color="#ffff00">- Daniels, rápido!
+- Jake!</font>
+
+90
+00:09:58,681 --> 00:09:59,898
+<font color="#ffff00">Dá espaço pra eles.</font>
+
+91
+00:10:00,058 --> 00:10:01,105
+<font color="#ffff00">Dá espaço.</font>
+
+92
+00:10:03,937 --> 00:10:05,154
+<font color="#ffff00">Abram isso!</font>
+
+93
+00:10:10,568 --> 00:10:12,445
+<font color="#ffff00">Jake!Jake!</font>
+
+94
+00:10:13,154 --> 00:10:14,701
+<font color="#ffff00">Não!</font>
+
+95
+00:10:14,823 --> 00:10:16,496
+<font color="#ffff00">Tirem a Daniels daqui.</font>
+
+96
+00:10:19,536 --> 00:10:20,628
+<font color="#ffff00">Pra trás.</font>
+
+97
+00:12:14,234 --> 00:12:17,329
+<font color="#ffff00"><i>Oi! Cadê você?
+Tô com saudades.</i></font>
+
+98
+00:12:18,321 --> 00:12:19,994
+<font color="#ffff00"><i>Dá só uma olhada!</i></font>
+
+99
+00:12:20,156 --> 00:12:24,502
+<font color="#ffff00"><i>Eu sei. Já sei.
+Disse que não viria sem você, mas...</i></font>
+
+100
+00:12:24,661 --> 00:12:27,005
+<font color="#ffff00"><i>- Tudo bem com você aí?
+-Tá.</i></font>
+
+101
+00:12:27,163 --> 00:12:28,585
+<font color="#ffff00"><i>Olha só isso!</i></font>
+
+102
+00:12:29,332 --> 00:12:30,675
+<font color="#ffff00"><i>Vem logo pra cá.</i></font>
+
+103
+00:12:30,833 --> 00:12:33,336
+<font color="#ffff00"><i>Não prometo nada.</i></font>
+
+104
+00:12:33,503 --> 00:12:34,925
+<font color="#ffff00"><i>Eu te amo.</i></font>
+
+105
+00:12:48,434 --> 00:12:50,186
+<font color="#ffff00">É sua tripulação agora.</font>
+
+106
+00:12:50,353 --> 00:12:51,525
+<font color="#ffff00">Precisam de um líder.</font>
+
+107
+00:12:52,105 --> 00:12:53,527
+<font color="#ffff00">Eu sei.</font>
+
+108
+00:12:54,190 --> 00:12:55,487
+<font color="#ffff00">Acredita em mim, né?</font>
+
+109
+00:13:19,966 --> 00:13:20,967
+<font color="#ffff00">Desculpa o atraso.</font>
+
+110
+00:13:21,134 --> 00:13:22,386
+<font color="#ffff00">Não, tudo bem.</font>
+
+111
+00:13:26,556 --> 00:13:30,060
+<font color="#ffff00">Não consigo pensar em outro jeito
+de dizer, então vou falar logo:</font>
+
+112
+00:13:30,893 --> 00:13:34,989
+<font color="#ffff00">sofremos uma tragédia monumental.</font>
+
+113
+00:13:36,065 --> 00:13:39,160
+<font color="#ffff00">Vou fazer o melhor que posso</font>
+
+114
+00:13:39,319 --> 00:13:44,371
+<font color="#ffff00">pra fazer jus ao bom exemplo
+do Jacob como capitão,</font>
+
+115
+00:13:44,991 --> 00:13:48,541
+<font color="#ffff00">mas ele fará muita falta.</font>
+
+116
+00:13:49,412 --> 00:13:51,915
+<font color="#ffff00">Sou grato de antemão por seu apoio.</font>
+
+117
+00:13:52,081 --> 00:13:55,255
+<font color="#ffff00">Perdemos 47 colonos</font>
+
+118
+00:13:55,418 --> 00:14:00,174
+<font color="#ffff00">e 16 embriões de segunda geração,</font>
+
+119
+00:14:00,340 --> 00:14:02,263
+<font color="#ffff00">e um tripulante obviamente.</font>
+
+120
+00:14:02,425 --> 00:14:07,101
+<font color="#ffff00">A integridade estrutural atual
+da nave está em 83%,</font>
+
+121
+00:14:07,263 --> 00:14:11,609
+<font color="#ffff00">mas há muitos
+sistemas secundários desativados.</font>
+
+122
+00:14:11,768 --> 00:14:13,236
+<font color="#ffff00">E o que foi?</font>
+
+123
+00:14:13,770 --> 00:14:16,364
+<font color="#ffff00">Uma onda de choque
+de uma ignição estelar próxima.</font>
+
+124
+00:14:17,023 --> 00:14:18,525
+<font color="#ffff00"><i>Com as velas para recarga,</i></font>
+
+125
+00:14:18,691 --> 00:14:20,614
+<font color="#ffff00">absorvemos o grosso da tempestade.</font>
+
+126
+00:14:20,777 --> 00:14:21,573
+<font color="#ffff00">Walter,</font>
+
+127
+00:14:21,736 --> 00:14:24,330
+<font color="#ffff00"><i>quero que você e Mãe
+revisem o núcleo do código</i></font>
+
+128
+00:14:24,489 --> 00:14:26,583
+<font color="#ffff00">para entendermos
+como tudo aconteceu.</font>
+
+129
+00:14:27,241 --> 00:14:29,414
+<font color="#ffff00">Foi um evento local aleatório.</font>
+
+130
+00:14:29,619 --> 00:14:32,623
+<font color="#ffff00">Não há como prever
+explosões estelares espontâneas</font>
+
+131
+00:14:32,789 --> 00:14:33,790
+<font color="#ffff00">até ser tarde.</font>
+
+132
+00:14:34,791 --> 00:14:36,259
+<font color="#ffff00">Foi má sorte.</font>
+
+133
+00:14:36,417 --> 00:14:39,261
+<font color="#ffff00">Faris, não acredito em sorte.
+Não conto com a sorte.</font>
+
+134
+00:14:39,420 --> 00:14:41,639
+<font color="#ffff00">Prefiro-nos mais capazes</font>
+
+135
+00:14:41,798 --> 00:14:44,642
+<font color="#ffff00">e preparados que sortudos.
+Observação, reflexão, fé</font>
+
+136
+00:14:44,801 --> 00:14:45,802
+<font color="#ffff00"><i>e determinação.</i></font>
+
+137
+00:14:45,968 --> 00:14:49,268
+<font color="#ffff00">Assim, podemos percorrer o caminho
+que se desdobra á nossa frente.</font>
+
+138
+00:14:49,430 --> 00:14:50,477
+<font color="#ffff00">Temos o quê?</font>
+
+139
+00:14:50,640 --> 00:14:53,018
+<font color="#ffff00">Mais 8 ciclos de recarga</font>
+
+140
+00:14:53,184 --> 00:14:54,481
+<font color="#ffff00">até chegar a Origae-6?</font>
+
+141
+00:14:55,520 --> 00:14:57,989
+<font color="#ffff00">- É uma pergunta?
+- Sim, é uma pergunta.</font>
+
+142
+00:14:58,147 --> 00:14:59,194
+<font color="#ffff00">Está correto.</font>
+
+143
+00:15:00,691 --> 00:15:04,616
+<font color="#ffff00">Vamos consertar a nave.</font>
+
+144
+00:15:04,779 --> 00:15:06,656
+<font color="#ffff00">Ao trabalho.</font>
+
+145
+00:15:06,823 --> 00:15:08,120
+<font color="#ffff00">Com licença.</font>
+
+146
+00:15:10,451 --> 00:15:14,331
+<font color="#ffff00">Perdemos 47 colonos e o capitão.</font>
+
+147
+00:15:14,497 --> 00:15:15,623
+<font color="#ffff00">Temos de sentir a perda.</font>
+
+148
+00:15:15,790 --> 00:15:17,667
+<font color="#ffff00">Sargento Lope, eu compreendo,</font>
+
+149
+00:15:17,834 --> 00:15:20,178
+<font color="#ffff00">mas se não fizermos os reparos,</font>
+
+150
+00:15:20,336 --> 00:15:23,840
+<font color="#ffff00">perderemos todos os colonos.</font>
+
+151
+00:15:24,006 --> 00:15:25,804
+<font color="#ffff00">Talvez um funeral para o Branson...</font>
+
+152
+00:15:25,967 --> 00:15:27,560
+<font color="#ffff00">Não vou discutir, Tennessee.</font>
+
+153
+00:15:33,891 --> 00:15:34,858
+<font color="#ffff00">Oi.</font>
+
+154
+00:15:36,185 --> 00:15:37,528
+<font color="#ffff00">Módulo de terraformação estável,</font>
+
+155
+00:15:37,687 --> 00:15:39,189
+<font color="#ffff00">mas o braço sofreu avarias.</font>
+
+156
+00:15:39,355 --> 00:15:41,699
+<font color="#ffff00">Ainda vou ver os veículos.</font>
+
+157
+00:15:44,861 --> 00:15:45,737
+<font color="#ffff00">Posso ajudar,</font>
+
+158
+00:15:46,737 --> 00:15:48,239
+<font color="#ffff00">se quiser.</font>
+
+159
+00:15:48,990 --> 00:15:49,912
+<font color="#ffff00">Obrigada.</font>
+
+160
+00:15:50,074 --> 00:15:53,669
+<font color="#ffff00">Walter. Quanto tempo
+até darmos o próximo salto?</font>
+
+161
+00:15:53,870 --> 00:15:56,293
+<font color="#ffff00">Os reparos devem
+levar umas 48 horas,</font>
+
+162
+00:15:58,040 --> 00:16:00,384
+<font color="#ffff00">mas devemos nos esforçar
+para deixar o setor,</font>
+
+163
+00:16:00,543 --> 00:16:01,669
+<font color="#ffff00">caso haja explosões.</font>
+
+164
+00:16:01,836 --> 00:16:03,008
+<font color="#ffff00">Eu concordo.</font>
+
+165
+00:16:03,171 --> 00:16:05,048
+<font color="#ffff00">Mãos á obra.
+Dispensados. Obrigado.</font>
+
+166
+00:16:11,012 --> 00:16:12,559
+<font color="#ffff00"><i>C-62, aberta.</i></font>
+
+167
+00:16:12,722 --> 00:16:16,022
+<font color="#ffff00">Lacrar C-62.
+Abrir comporta 17.</font>
+
+168
+00:16:23,774 --> 00:16:25,572
+<font color="#ffff00">Abrir baia de terraformação.</font>
+
+169
+00:16:35,203 --> 00:16:36,420
+<font color="#ffff00">Frouxa.</font>
+
+170
+00:16:38,080 --> 00:16:40,128
+<font color="#ffff00">A tensão está 15% menor.</font>
+
+171
+00:16:43,211 --> 00:16:44,053
+<font color="#ffff00">Ativando.</font>
+
+172
+00:16:50,259 --> 00:16:51,101
+<font color="#ffff00">No lugar.</font>
+
+173
+00:16:51,260 --> 00:16:52,557
+<font color="#ffff00">Entendido.</font>
+
+174
+00:17:05,107 --> 00:17:06,575
+<font color="#ffff00">Não foi ideia minha.</font>
+
+175
+00:17:09,946 --> 00:17:13,792
+<font color="#ffff00">Jake sonhava conosco
+construindo uma cabana no novo mundo.</font>
+
+176
+00:17:16,744 --> 00:17:18,462
+<font color="#ffff00">Como pioneiros.</font>
+
+177
+00:17:20,581 --> 00:17:21,958
+<font color="#ffff00">Uma cabana no lago.</font>
+
+178
+00:17:25,545 --> 00:17:28,970
+<font color="#ffff00">Há um lago na área de terraformação
+de Origae-6.</font>
+
+179
+00:17:29,632 --> 00:17:32,431
+<font color="#ffff00">Uma cabana de madeira de verdade.</font>
+
+180
+00:17:34,387 --> 00:17:38,233
+<font color="#ffff00">No estoque da nave,
+há madeira suficiente pra uma cabana.</font>
+
+181
+00:17:40,268 --> 00:17:42,691
+<font color="#ffff00">Machados, serras
+e pregos de metal</font>
+
+182
+00:17:42,853 --> 00:17:45,481
+<font color="#ffff00">que não faço ideia pra que servem.</font>
+
+183
+00:17:49,986 --> 00:17:51,283
+<font color="#ffff00">Tudo isso</font>
+
+184
+00:17:52,822 --> 00:17:54,290
+<font color="#ffff00">pra começar vida nova.</font>
+
+185
+00:17:56,867 --> 00:17:59,040
+<font color="#ffff00">Agora me pergunto por quê?</font>
+
+186
+00:18:01,497 --> 00:18:05,627
+<font color="#ffff00">Porque prometeu construir
+uma cabana de madeira num lago.</font>
+
+187
+00:18:15,845 --> 00:18:17,472
+<font color="#ffff00"><i>Era o predileto dele.</i></font>
+
+188
+00:18:17,638 --> 00:18:20,061
+<font color="#ffff00"><i>Tinha bom gosto.</i></font>
+
+189
+00:18:20,224 --> 00:18:21,567
+<font color="#ffff00"><i>Bebia puro.</i></font>
+
+190
+00:18:21,726 --> 00:18:24,479
+<font color="#ffff00"><i>Sem gelo, sem água,
+sem refrigerante...</i></font>
+
+191
+00:18:24,645 --> 00:18:26,568
+<font color="#ffff00">Sem merda nenhuma!</font>
+
+192
+00:18:31,193 --> 00:18:32,319
+<font color="#ffff00">Walter?</font>
+
+193
+00:18:32,486 --> 00:18:33,533
+<font color="#ffff00">Em Roma...</font>
+
+194
+00:18:36,407 --> 00:18:38,705
+<font color="#ffff00"><i>A todos os bons que foram breves.</i></font>
+
+195
+00:18:39,535 --> 00:18:41,208
+<font color="#ffff00">Um brinde a eles!</font>
+
+196
+00:18:41,746 --> 00:18:43,544
+<font color="#ffff00">A eles!</font>
+
+197
+00:19:23,621 --> 00:19:24,622
+<font color="#ffff00">Chris.</font>
+
+198
+00:19:27,917 --> 00:19:30,261
+<font color="#ffff00">Desobedeceram uma ordem direta.</font>
+
+199
+00:19:31,879 --> 00:19:33,426
+<font color="#ffff00">Ela enterrou o marido.</font>
+
+200
+00:19:33,589 --> 00:19:35,887
+<font color="#ffff00">Não, Karine, não é isso.
+Não confiam em mim</font>
+
+201
+00:19:36,050 --> 00:19:38,269
+<font color="#ffff00">pela mesma razão
+que a firma não confiou em mim</font>
+
+202
+00:19:38,427 --> 00:19:39,474
+<font color="#ffff00">pra ser líder.</font>
+
+203
+00:19:39,637 --> 00:19:41,435
+<font color="#ffff00">Porque você não pode
+ser um homem de fé</font>
+
+204
+00:19:41,597 --> 00:19:44,942
+<font color="#ffff00">e ser capaz de tomar decisões
+racionais acertadas.</font>
+
+205
+00:19:45,101 --> 00:19:48,071
+<font color="#ffff00"><i>Não passa de um extremista.
+E um lunático.</i></font>
+
+206
+00:19:48,646 --> 00:19:51,115
+<font color="#ffff00"><i>Quando chegarmos aonde vamos,</i></font>
+
+207
+00:19:51,774 --> 00:19:55,404
+<font color="#ffff00">essa gente não será mais sua tripulação.
+Serão seus vizinhos.</font>
+
+208
+00:19:55,569 --> 00:19:56,946
+<font color="#ffff00">Se lembre disso.</font>
+
+209
+00:19:58,239 --> 00:20:00,458
+<font color="#ffff00">Pega leve, tá?</font>
+
+210
+00:20:08,791 --> 00:20:10,134
+<font color="#ffff00">Faris, na escuta?</font>
+
+211
+00:20:10,292 --> 00:20:11,293
+<font color="#ffff00"><i>Câmbio.</i></font>
+
+212
+00:20:11,460 --> 00:20:12,803
+<font color="#ffff00">Vamos lá.</font>
+
+213
+00:20:15,548 --> 00:20:17,926
+<font color="#ffff00">Vocês deveriam ver essa vista.</font>
+
+214
+00:20:18,092 --> 00:20:21,141
+<font color="#ffff00"><i>Não veremos nada
+até você consertar a rede de câmeras.</i></font>
+
+215
+00:20:21,303 --> 00:20:23,806
+<font color="#ffff00">Por que não olha pela janela, hein?</font>
+
+216
+00:20:23,973 --> 00:20:25,475
+<font color="#ffff00"><i>Ankor, religa a energia</i></font>
+
+217
+00:20:25,641 --> 00:20:28,815
+<font color="#ffff00"><i>pra essa gente
+poder curtir uma bela vista.</i></font>
+
+218
+00:20:29,478 --> 00:20:30,730
+<font color="#ffff00">Quase lá.</font>
+
+219
+00:20:32,815 --> 00:20:34,408
+<font color="#ffff00"><i>Avisa quando estiver em posição,</i></font>
+
+220
+00:20:34,567 --> 00:20:36,661
+<font color="#ffff00"><i>e a gente começa a festa.</i></font>
+
+221
+00:20:36,819 --> 00:20:38,321
+<font color="#ffff00">Em posição.</font>
+
+222
+00:21:07,975 --> 00:21:09,192
+<font color="#ffff00">Contato.</font>
+
+223
+00:21:17,860 --> 00:21:19,533
+<font color="#ffff00"><i>Tudo bem, Tee?</i></font>
+
+224
+00:21:19,695 --> 00:21:21,823
+<font color="#ffff00">Maravilha. Está feito.</font>
+
+225
+00:21:21,989 --> 00:21:23,286
+<font color="#ffff00"><i>Estica.</i></font>
+
+226
+00:21:23,449 --> 00:21:25,167
+<font color="#ffff00">Legal</font>
+
+227
+00:21:25,326 --> 00:21:27,795
+<font color="#ffff00">Guincho ativado, Tee.</font>
+
+228
+00:21:29,830 --> 00:21:31,628
+<font color="#ffff00">Esticando.</font>
+
+229
+00:21:34,794 --> 00:21:36,546
+<font color="#ffff00"><i>Funciona como um sonho.</i></font>
+
+230
+00:21:51,060 --> 00:21:52,186
+<font color="#ffff00"><i>Tudo pronto.</i></font>
+
+231
+00:21:52,353 --> 00:21:53,400
+<font color="#ffff00"><i>Tudo no lugar.</i></font>
+
+232
+00:21:53,521 --> 00:21:54,693
+<font color="#ffff00">Muito bom.</font>
+
+233
+00:21:54,855 --> 00:21:56,152
+<font color="#ffff00">Tudo certo aqui.</font>
+
+234
+00:21:56,315 --> 00:21:57,316
+<font color="#ffff00">Pode voltar.</font>
+
+235
+00:21:57,483 --> 00:21:58,985
+<font color="#ffff00"><i>Não partam sem mim.</i></font>
+
+236
+00:21:59,151 --> 00:22:01,574
+<font color="#ffff00">Permissão para partir sem ele, senhor?</font>
+
+237
+00:22:01,737 --> 00:22:02,909
+<font color="#ffff00">Bem-vinda de volta.</font>
+
+238
+00:22:03,823 --> 00:22:05,166
+<font color="#ffff00">Obrigada.</font>
+
+239
+00:22:05,324 --> 00:22:07,247
+<font color="#ffff00">Terminei aqui, Tee.</font>
+
+240
+00:22:07,409 --> 00:22:09,082
+<font color="#ffff00">Estou logo atrás de você.</font>
+
+241
+00:22:09,245 --> 00:22:11,748
+<font color="#ffff00">Abre uma gelada
+para um pobre viajante.</font>
+
+242
+00:22:11,914 --> 00:22:15,259
+<font color="#ffff00"><i>Deixa comigo, amor.
+Te acompanho na gelada.</i></font>
+
+243
+00:22:15,417 --> 00:22:17,090
+<font color="#ffff00">Faris! Põe o...</font>
+
+244
+00:22:22,383 --> 00:22:24,260
+<font color="#ffff00"><i>Vocês viram isso?</i></font>
+
+245
+00:22:25,261 --> 00:22:27,355
+<font color="#ffff00">O que ele disse?</font>
+
+246
+00:22:31,600 --> 00:22:32,897
+<font color="#ffff00">Tennessee, na escuta?</font>
+
+247
+00:22:36,272 --> 00:22:38,195
+<font color="#ffff00">Na escuta?</font>
+
+248
+00:22:39,275 --> 00:22:40,868
+<font color="#ffff00"><i>Tennessee, tudo bem?</i></font>
+
+249
+00:22:41,026 --> 00:22:42,949
+<font color="#ffff00">Que merda foi essa?</font>
+
+250
+00:22:43,112 --> 00:22:46,286
+<font color="#ffff00">Eu vou entrar.
+Vou entrar.</font>
+
+251
+00:22:59,044 --> 00:23:01,888
+<font color="#ffff00">Uma transmissão
+clandestina, provavelmente.</font>
+
+252
+00:23:03,132 --> 00:23:06,181
+<font color="#ffff00">Seu capacete deve ter captado
+por estar distante,</font>
+
+253
+00:23:06,343 --> 00:23:08,596
+<font color="#ffff00">além dos atenuadores de comunicação.</font>
+
+254
+00:23:10,848 --> 00:23:12,395
+<font color="#ffff00">Temos áudio, Mãe?</font>
+
+255
+00:23:12,558 --> 00:23:15,778
+<font color="#ffff00"><i>Conferindo. Aguarde um momento.</i></font>
+
+256
+00:23:17,563 --> 00:23:20,567
+<font color="#ffff00"><i>Eu reorientei a transmissão,
+capitão Oram.</i></font>
+
+257
+00:23:21,108 --> 00:23:23,702
+<font color="#ffff00">Só pode ser um eco.
+Os instrumentos foram danificados.</font>
+
+258
+00:23:24,445 --> 00:23:25,788
+<font color="#ffff00">Repete a cada 46 segundos</font>
+
+259
+00:23:25,946 --> 00:23:27,823
+<font color="#ffff00">desde que paramos aqui.</font>
+
+260
+00:23:55,184 --> 00:23:57,061
+<font color="#ffff00">Isso é John Denver.</font>
+
+261
+00:23:57,227 --> 00:23:58,820
+<font color="#ffff00"><i>É Take Me Home, Country Roads.</i></font>
+
+262
+00:23:58,979 --> 00:23:59,980
+<font color="#ffff00">Tá brincando!</font>
+
+263
+00:24:00,147 --> 00:24:02,070
+<font color="#ffff00">Eu não brinco com John Denver.</font>
+
+264
+00:24:02,524 --> 00:24:05,027
+<font color="#ffff00">Há dados geométricos também.</font>
+
+265
+00:24:05,194 --> 00:24:08,698
+<font color="#ffff00">Mãe, por favor,
+rastreie a origem do sinal.</font>
+
+266
+00:24:09,073 --> 00:24:10,416
+<font color="#ffff00"><i>Rastreando.</i></font>
+
+267
+00:24:14,244 --> 00:24:16,793
+<font color="#ffff00"><i>Origem da transmissão localizada.</i></font>
+
+268
+00:24:18,374 --> 00:24:21,924
+<font color="#ffff00"><i>O sinal se origina no setor 87.</i></font>
+
+269
+00:24:22,503 --> 00:24:25,256
+<font color="#ffff00"><i>Ascensão direita 47,6.</i></font>
+
+270
+00:24:25,422 --> 00:24:30,269
+<font color="#ffff00"><i>Com declínio de 24,3
+da nossa posição atual.</i></font>
+
+271
+00:24:35,391 --> 00:24:38,361
+<font color="#ffff00">Parece uma estrela da sequência principal
+como a nossa,</font>
+
+272
+00:24:38,936 --> 00:24:40,938
+<font color="#ffff00">mas muito mais antiga.</font>
+
+273
+00:24:41,105 --> 00:24:43,028
+<font color="#ffff00">Há 5 planetas.</font>
+
+274
+00:24:43,190 --> 00:24:45,158
+<font color="#ffff00">Esperem. Olhem aquilo.</font>
+
+275
+00:24:47,236 --> 00:24:49,079
+<font color="#ffff00">O planeta número 4.</font>
+
+276
+00:24:49,989 --> 00:24:52,913
+<font color="#ffff00">O planeta 4 está
+bem no meio da zona habitável.</font>
+
+277
+00:24:53,826 --> 00:24:55,453
+<font color="#ffff00">Ótimo candidato.</font>
+
+278
+00:24:55,619 --> 00:24:59,624
+<font color="#ffff00">Gravidade de 0,96 na superfície.
+Oceanos, massa de terra,</font>
+
+279
+00:25:00,582 --> 00:25:03,426
+<font color="#ffff00">provável biosfera viva...</font>
+
+280
+00:25:03,585 --> 00:25:06,759
+<font color="#ffff00">Está além da previsão
+mais otimista pra Origae-6.</font>
+
+281
+00:25:06,922 --> 00:25:09,641
+<font color="#ffff00">Como não vimos?
+Escaneamos o setor inteiro.</font>
+
+282
+00:25:09,800 --> 00:25:12,019
+<font color="#ffff00">Ricks, qual é a distância?</font>
+
+283
+00:25:12,177 --> 00:25:13,429
+<font color="#ffff00">Está próximo.</font>
+
+284
+00:25:14,263 --> 00:25:16,061
+<font color="#ffff00">Um pulinho.
+Algumas semanas.</font>
+
+285
+00:25:16,223 --> 00:25:18,726
+<font color="#ffff00">Nem precisaríamos voltar ao hipersono.</font>
+
+286
+00:25:23,272 --> 00:25:27,072
+<font color="#ffff00">Quanto tempo até chegarmos a Origae-6?</font>
+
+287
+00:25:27,234 --> 00:25:28,986
+<font color="#ffff00">Seriam 7 anos e 4 meses.</font>
+
+288
+00:25:29,153 --> 00:25:32,123
+<font color="#ffff00">É um grande ciclo de sono.</font>
+
+289
+00:25:32,948 --> 00:25:36,578
+<font color="#ffff00">Senhor, é seguro dizer
+que ninguém está a fim</font>
+
+290
+00:25:36,744 --> 00:25:38,667
+<font color="#ffff00">de voltar aos casulos.</font>
+
+291
+00:25:41,373 --> 00:25:45,549
+<font color="#ffff00">Talvez a gente devesse
+dar uma olhada mais de perto.</font>
+
+292
+00:25:48,047 --> 00:25:50,095
+<font color="#ffff00">Alguma objeção?</font>
+
+293
+00:25:53,177 --> 00:25:54,474
+<font color="#ffff00">Está bem, Ricks.</font>
+
+294
+00:25:55,179 --> 00:25:57,728
+<font color="#ffff00">Vamos traçar um curso
+e ver de perto.</font>
+
+295
+00:25:58,307 --> 00:25:59,399
+<font color="#ffff00">Sim, senhor.</font>
+
+296
+00:26:00,559 --> 00:26:02,561
+<font color="#ffff00">Capitão, uma palavrinha?</font>
+
+297
+00:26:07,483 --> 00:26:08,985
+<font color="#ffff00">Tem certeza disso?</font>
+
+298
+00:26:09,568 --> 00:26:10,820
+<font color="#ffff00">Como assim?</font>
+
+299
+00:26:11,487 --> 00:26:14,741
+<font color="#ffff00">Levamos uma década
+pra achar Origae-6.</font>
+
+300
+00:26:14,907 --> 00:26:18,127
+<font color="#ffff00">Avaliamos, fizemos simulações
+e mapeamos o terreno.</font>
+
+301
+00:26:18,285 --> 00:26:19,958
+<font color="#ffff00">- Fomos treinados.
+- Compreendo.</font>
+
+302
+00:26:20,120 --> 00:26:21,838
+<font color="#ffff00">Agora, vamos desprezar tudo</font>
+
+303
+00:26:21,997 --> 00:26:23,840
+<font color="#ffff00">e seguir uma transmissão qualquer?</font>
+
+304
+00:26:25,209 --> 00:26:26,210
+<font color="#ffff00">Pensa bem.</font>
+
+305
+00:26:26,376 --> 00:26:28,674
+<font color="#ffff00">Há um humano lá,
+onde não pode haver humanos.</font>
+
+306
+00:26:29,046 --> 00:26:31,219
+<font color="#ffff00">Um planeta escondido
+que aparece do nada</font>
+
+307
+00:26:31,381 --> 00:26:35,011
+<font color="#ffff00">e, por acaso, é perfeito pra nós.
+E bom demais pra ser verdade.</font>
+
+308
+00:26:35,344 --> 00:26:37,267
+<font color="#ffff00">Bom demais pra ser verdade?
+Como assim?</font>
+
+309
+00:26:37,429 --> 00:26:38,931
+<font color="#ffff00">Não sabemos o que há lá.</font>
+
+310
+00:26:39,098 --> 00:26:41,066
+<font color="#ffff00">Talvez não tenhamos visto.</font>
+
+311
+00:26:41,225 --> 00:26:43,944
+<font color="#ffff00">É um risco enorme
+que não vale a pena.</font>
+
+312
+00:26:44,103 --> 00:26:45,776
+<font color="#ffff00">Eu não prometi nada.</font>
+
+313
+00:26:45,938 --> 00:26:48,908
+<font color="#ffff00">Só estou tentando navegar
+a trilha que se abre diante de nós.</font>
+
+314
+00:26:49,066 --> 00:26:50,067
+<font color="#ffff00">Há potencial</font>
+
+315
+00:26:50,234 --> 00:26:52,987
+<font color="#ffff00">de ser um habitat melhor pra a colônia.</font>
+
+316
+00:26:53,153 --> 00:26:54,325
+<font color="#ffff00">Potencial! Não sabemos.</font>
+
+317
+00:26:54,488 --> 00:26:56,035
+<font color="#ffff00">E a tripulação...</font>
+
+318
+00:26:56,198 --> 00:26:58,701
+<font color="#ffff00">Ninguém quer voltar para os casulos.</font>
+
+319
+00:26:59,284 --> 00:27:00,285
+<font color="#ffff00">Certo?</font>
+
+320
+00:27:01,328 --> 00:27:03,672
+<font color="#ffff00">Era uma voz humana
+na transmissão.</font>
+
+321
+00:27:03,831 --> 00:27:06,334
+<font color="#ffff00">É nossa responsabilidade investigar.</font>
+
+322
+00:27:06,500 --> 00:27:10,596
+<font color="#ffff00">É nossa responsabilidade proteger
+os 2 mil colonos na nave.</font>
+
+323
+00:27:15,634 --> 00:27:17,807
+<font color="#ffff00">Não é uma escalada livre.</font>
+
+324
+00:27:17,970 --> 00:27:21,520
+<font color="#ffff00">Preciso das cordas
+e estou usando as cordas.</font>
+
+325
+00:27:21,682 --> 00:27:27,155
+<font color="#ffff00">É uma boa decisão
+baseada em todos os dados disponíveis.</font>
+
+326
+00:27:27,312 --> 00:27:28,438
+<font color="#ffff00">Entendeu?</font>
+
+327
+00:27:28,605 --> 00:27:31,905
+<font color="#ffff00">Como subcomandante,
+devo protestar oficialmente.</font>
+
+328
+00:27:33,318 --> 00:27:34,695
+<font color="#ffff00">Oficialmente?</font>
+
+329
+00:27:38,740 --> 00:27:41,334
+<font color="#ffff00">Tudo bem, Danny.
+Eu deixo registrado.</font>
+
+330
+00:27:43,078 --> 00:27:44,671
+<font color="#ffff00">Dispensada.</font>
+
+331
+00:28:11,148 --> 00:28:12,616
+<font color="#ffff00">Em todas as frequências,</font>
+
+332
+00:28:12,774 --> 00:28:14,651
+<font color="#ffff00"><i>só há interferência e ruído.</i></font>
+
+333
+00:28:14,818 --> 00:28:16,411
+<font color="#ffff00">Ecos de alta frequência.</font>
+
+334
+00:28:16,695 --> 00:28:17,867
+<font color="#ffff00">Ouve algo?</font>
+
+335
+00:28:17,988 --> 00:28:20,582
+<font color="#ffff00">Só o sinal contínuo
+do nosso amigo fantasma.</font>
+
+336
+00:28:20,741 --> 00:28:22,914
+<font color="#ffff00">Vamos chegar á órbita,</font>
+
+337
+00:28:24,203 --> 00:28:25,921
+<font color="#ffff00"><i>e preparar o Lander.</i></font>
+
+338
+00:28:26,496 --> 00:28:30,501
+<font color="#ffff00"><i>Giro em andamento.
+iniciando queima rotativa.</i></font>
+
+339
+00:28:44,556 --> 00:28:46,433
+<font color="#ffff00">Níveis tóxicos toleráveis.</font>
+
+340
+00:28:46,600 --> 00:28:48,853
+<font color="#ffff00">É uma ionosfera muito forte.</font>
+
+341
+00:28:49,019 --> 00:28:50,271
+<font color="#ffff00"><i>Já percebi.</i></font>
+
+342
+00:28:50,687 --> 00:28:52,610
+<font color="#ffff00">Já pousou com o Lander?</font>
+
+343
+00:28:52,773 --> 00:28:53,899
+<font color="#ffff00">Vai se danar.</font>
+
+344
+00:28:54,066 --> 00:28:55,989
+<font color="#ffff00">Uma tempestade de plasma
+na termosfera.</font>
+
+345
+00:28:56,485 --> 00:28:58,658
+<font color="#ffff00">Rajadas de 250km/h.</font>
+
+346
+00:28:58,820 --> 00:29:00,572
+<font color="#ffff00">Vai ser difícil atravessar.</font>
+
+347
+00:29:00,739 --> 00:29:02,992
+<font color="#ffff00"><i>É, infelizmente.</i></font>
+
+348
+00:29:03,158 --> 00:29:05,707
+<font color="#ffff00"><i>A comunicação ficará instável
+se for eletromagnética.</i></font>
+
+349
+00:29:05,869 --> 00:29:07,337
+<font color="#ffff00">Será seguro pousar?</font>
+
+350
+00:29:07,496 --> 00:29:08,998
+<font color="#ffff00">O que chama de seguro?</font>
+
+351
+00:29:09,164 --> 00:29:10,086
+<font color="#ffff00"><i>Lançamento em 20 segundos.</i></font>
+
+352
+00:29:10,249 --> 00:29:11,375
+<font color="#ffff00"><i>Vamos lançar.</i></font>
+
+353
+00:29:11,541 --> 00:29:13,293
+<font color="#ffff00">Tá bem.</font>
+
+354
+00:29:13,460 --> 00:29:15,758
+<font color="#ffff00">Preparar pra o modo orbital
+ao sinal de posição.</font>
+
+355
+00:29:15,921 --> 00:29:18,891
+<font color="#ffff00"><i>Mãe, coordena
+a sequência de lançamento.</i></font>
+
+356
+00:29:19,049 --> 00:29:20,346
+<font color="#ffff00"><i>Entendido.</i></font>
+
+357
+00:29:20,467 --> 00:29:22,515
+<font color="#ffff00"><i>Liberado para lançamento, Lander 1.</i></font>
+
+358
+00:29:22,678 --> 00:29:24,521
+<font color="#ffff00">Então vamos lá. Lançando...</font>
+
+359
+00:29:24,680 --> 00:29:26,398
+<font color="#ffff00">Juntos em três...</font>
+
+360
+00:29:26,556 --> 00:29:27,557
+<font color="#ffff00">Dois...</font>
+
+361
+00:29:27,724 --> 00:29:28,475
+<font color="#ffff00">Um.</font>
+
+362
+00:29:29,643 --> 00:29:31,270
+<font color="#ffff00"><i>Lander 1 liberado.</i></font>
+
+363
+00:29:31,436 --> 00:29:32,938
+<font color="#ffff00">E ali vão eles.</font>
+
+364
+00:29:44,950 --> 00:29:47,874
+<font color="#ffff00"><i>Está lindo aqui de cima.
+Que bom que é o piloto</i></font>
+
+365
+00:29:48,036 --> 00:29:49,333
+<font color="#ffff00">e não o coroa.</font>
+
+366
+00:29:49,496 --> 00:29:52,375
+<font color="#ffff00">Sai dessa de coroa,
+peitinhos de mel.</font>
+
+367
+00:29:52,541 --> 00:29:54,214
+<font color="#ffff00"><i>Modere a linguagem.</i></font>
+
+368
+00:29:54,376 --> 00:29:56,094
+<font color="#ffff00">- Respeito, pau doce.
+- Eu ouvi.</font>
+
+369
+00:29:56,253 --> 00:29:58,096
+<font color="#ffff00"><i>Ela começou.</i></font>
+
+370
+00:29:58,255 --> 00:30:00,633
+<font color="#ffff00">O Ricks pode falar dos seus peitos
+se quiser.</font>
+
+371
+00:30:00,799 --> 00:30:02,142
+<font color="#ffff00"><i>Me garanto na relação.</i></font>
+
+372
+00:30:02,301 --> 00:30:04,099
+<font color="#ffff00">Gosto dos peitos da minha mulher.</font>
+
+373
+00:30:04,261 --> 00:30:06,263
+<font color="#ffff00">Vamos manter a concentração.</font>
+
+374
+00:30:09,558 --> 00:30:11,435
+<font color="#ffff00"><i>Tudo bem aí embaixo?</i></font>
+
+375
+00:30:11,601 --> 00:30:13,319
+<font color="#ffff00">Sim, estamos bem.</font>
+
+376
+00:30:13,478 --> 00:30:15,446
+<font color="#ffff00">Chegamos á exosfera em 5 segundos.</font>
+
+377
+00:30:15,605 --> 00:30:17,699
+<font color="#ffff00">Melhor se segurarem.
+Será turbulento.</font>
+
+378
+00:30:19,735 --> 00:30:20,952
+<font color="#ffff00">Odeio o espaço.</font>
+
+379
+00:30:22,404 --> 00:30:24,827
+<font color="#ffff00">É por isso que precisa fazer ioga.</font>
+
+380
+00:30:33,373 --> 00:30:34,795
+<font color="#ffff00">- Segura, Faris.
+- Eu sei.</font>
+
+381
+00:30:34,958 --> 00:30:36,255
+<font color="#ffff00"><i>Sugiro cancelar a missão.</i></font>
+
+382
+00:30:38,545 --> 00:30:39,671
+<font color="#ffff00">Faris.</font>
+
+383
+00:30:41,715 --> 00:30:43,592
+<font color="#ffff00">Falha na comunicação.
+Na escuta?</font>
+
+384
+00:30:46,178 --> 00:30:47,225
+<font color="#ffff00">Consegue contato?</font>
+
+385
+00:30:47,846 --> 00:30:49,348
+<font color="#ffff00">Perdemos comunicação.</font>
+
+386
+00:30:49,514 --> 00:30:50,766
+<font color="#ffff00">Merda.</font>
+
+387
+00:30:52,809 --> 00:30:55,403
+<font color="#ffff00"><i>Pane nos jatos 3 e 4.</i></font>
+
+388
+00:30:55,562 --> 00:30:57,235
+<font color="#ffff00">Conseguiu?
+Sim.</font>
+
+389
+00:30:57,397 --> 00:30:59,320
+<font color="#ffff00">Para de perguntar isso.
+Eu consegui.</font>
+
+390
+00:31:02,903 --> 00:31:03,995
+<font color="#ffff00">Olha ali.</font>
+
+391
+00:31:04,905 --> 00:31:06,373
+<font color="#ffff00">Merda.</font>
+
+392
+00:31:06,531 --> 00:31:07,532
+<font color="#ffff00">Estão bem?</font>
+
+393
+00:31:07,699 --> 00:31:08,916
+<font color="#ffff00">Não.</font>
+
+394
+00:31:11,661 --> 00:31:13,504
+<font color="#ffff00"><i>Sensores de pouso ativados.</i></font>
+
+395
+00:31:28,512 --> 00:31:30,389
+<font color="#ffff00">Não gosto do terreno.</font>
+
+396
+00:31:30,555 --> 00:31:32,398
+<font color="#ffff00">Há água parada ali.</font>
+
+397
+00:31:32,557 --> 00:31:35,151
+<font color="#ffff00">Vou pousar no modo anfíbio.</font>
+
+398
+00:32:09,636 --> 00:32:10,683
+<font color="#ffff00"><i>Contato.</i></font>
+
+399
+00:32:10,846 --> 00:32:11,972
+<font color="#ffff00"><i>Parada total.</i></font>
+
+400
+00:32:14,683 --> 00:32:15,684
+<font color="#ffff00">Pousamos.</font>
+
+401
+00:32:15,851 --> 00:32:16,773
+<font color="#ffff00">Barras.</font>
+
+402
+00:32:16,935 --> 00:32:18,357
+<font color="#ffff00"><i>Lander 1, na escuta?</i></font>
+
+403
+00:32:18,520 --> 00:32:20,818
+<font color="#ffff00">Positivo. Foi um tremendo pouso.</font>
+
+404
+00:32:20,981 --> 00:32:22,779
+<font color="#ffff00">Estamos com problema no sinal.</font>
+
+405
+00:32:22,941 --> 00:32:24,443
+<font color="#ffff00">Há como dar um ganho?</font>
+
+406
+00:32:24,609 --> 00:32:26,862
+<font color="#ffff00"><i>Algo pode ter se partido
+ao pousarmos na água.</i></font>
+
+407
+00:32:27,028 --> 00:32:29,872
+<font color="#ffff00"><i>Se me ouvem,
+vou procurar avarias</i></font>
+
+408
+00:32:30,031 --> 00:32:32,625
+<font color="#ffff00"><i>na fuselagem,
+e vejo o transmissor depois.</i></font>
+
+409
+00:32:32,784 --> 00:32:35,628
+<font color="#ffff00"><i>Me avisa o que descobrir. Câmbio.</i></font>
+
+410
+00:32:36,997 --> 00:32:38,624
+<font color="#ffff00"><i>Composição atmosférica.</i></font>
+
+411
+00:32:38,790 --> 00:32:40,337
+<font color="#ffff00">Pra você, grandalhão.</font>
+
+412
+00:32:40,500 --> 00:32:41,717
+<font color="#ffff00"><i>Oxigênio: 19,5%.</i></font>
+
+413
+00:32:41,877 --> 00:32:43,049
+<font color="#ffff00">Ankor.</font>
+
+414
+00:32:43,211 --> 00:32:44,804
+<font color="#ffff00"><i>Nitrogênio: 79,4%.</i></font>
+
+415
+00:32:44,963 --> 00:32:46,385
+<font color="#ffff00">Cole.</font>
+
+416
+00:32:46,548 --> 00:32:47,390
+<font color="#ffff00">Rosie.</font>
+
+417
+00:32:47,549 --> 00:32:49,051
+<font color="#ffff00"><i>Pressão: 10,6N/cm2.</i></font>
+
+418
+00:32:49,217 --> 00:32:50,639
+<font color="#ffff00"><i>Ledward .</i></font>
+
+419
+00:32:58,727 --> 00:32:59,728
+<font color="#ffff00">Todos prontos?</font>
+
+420
+00:33:02,564 --> 00:33:04,692
+<font color="#ffff00">Rápido. Vamos sair daqui.</font>
+
+421
+00:33:09,529 --> 00:33:11,577
+<font color="#ffff00">- Vamos, gente.
+- O ar é bom.</font>
+
+422
+00:33:15,035 --> 00:33:16,207
+<font color="#ffff00">Faris, na escuta?</font>
+
+423
+00:33:16,369 --> 00:33:17,586
+<font color="#ffff00"><i>Alto e bom som.</i></font>
+
+424
+00:33:18,413 --> 00:33:20,757
+<font color="#ffff00">Vamos manter
+os protocolos de segurança.</font>
+
+425
+00:33:20,916 --> 00:33:23,840
+<font color="#ffff00"><i>Manter portas trancadas e vedadas.</i></font>
+
+426
+00:33:24,002 --> 00:33:24,924
+<font color="#ffff00"><i>Entendido.</i></font>
+
+427
+00:33:25,086 --> 00:33:26,178
+<font color="#ffff00">Pode deixar.</font>
+
+428
+00:33:26,338 --> 00:33:27,885
+<font color="#ffff00">Divirtam-se.</font>
+
+429
+00:33:35,388 --> 00:33:37,015
+<font color="#ffff00">Walter, a que distância fica?</font>
+
+430
+00:33:38,934 --> 00:33:41,858
+<font color="#ffff00">A fonte do sinal está 8km a oeste,</font>
+
+431
+00:33:42,020 --> 00:33:43,522
+<font color="#ffff00">mas em local bem alto.</font>
+
+432
+00:33:44,898 --> 00:33:46,445
+<font color="#ffff00">Sargento Lope,</font>
+
+433
+00:33:46,608 --> 00:33:48,235
+<font color="#ffff00"><i>vamos achar o fantasma.</i></font>
+
+434
+00:34:15,804 --> 00:34:17,397
+<font color="#ffff00">Bom lugar para uma cabana.</font>
+
+435
+00:34:18,056 --> 00:34:19,228
+<font color="#ffff00">O Jake teria adorado.</font>
+
+436
+00:34:19,391 --> 00:34:20,984
+<font color="#ffff00">Ei, Danny!</font>
+
+437
+00:34:21,142 --> 00:34:23,144
+<font color="#ffff00">Não foi um local ruim pra pousar.</font>
+
+438
+00:34:23,311 --> 00:34:25,109
+<font color="#ffff00">Botamos as moradias ali,</font>
+
+439
+00:34:25,272 --> 00:34:27,491
+<font color="#ffff00">o centro cívico depois do riacho.</font>
+
+440
+00:34:27,649 --> 00:34:29,492
+<font color="#ffff00">Teremos acesso á água potável.</font>
+
+441
+00:34:29,651 --> 00:34:31,653
+<font color="#ffff00">Talvez haja lugar
+pra uma colônia aqui.</font>
+
+442
+00:34:31,820 --> 00:34:32,821
+<font color="#ffff00">Veremos.</font>
+
+443
+00:34:32,988 --> 00:34:37,334
+<font color="#ffff00">Oh, vocês que têm pouca fé!</font>
+
+444
+00:34:38,410 --> 00:34:40,913
+<font color="#ffff00">Ele é insuportável.</font>
+
+445
+00:34:41,121 --> 00:34:43,169
+<font color="#ffff00">Pior ainda quando está feliz.</font>
+
+446
+00:34:47,961 --> 00:34:49,383
+<font color="#ffff00">Isso é trigo.</font>
+
+447
+00:34:51,506 --> 00:34:52,678
+<font color="#ffff00">Eu conheço trigo.</font>
+
+448
+00:34:54,301 --> 00:34:56,645
+<font color="#ffff00">É antigo,
+mas foi cultivado.</font>
+
+449
+00:34:58,680 --> 00:35:00,648
+<font color="#ffff00">Quais as chances de achar
+uma planta terrestre</font>
+
+450
+00:35:00,807 --> 00:35:02,309
+<font color="#ffff00">tão longe da Terra?</font>
+
+451
+00:35:02,475 --> 00:35:03,567
+<font color="#ffff00">Muito improvável.</font>
+
+452
+00:35:09,190 --> 00:35:10,692
+<font color="#ffff00">Quem plantou?</font>
+
+453
+00:35:37,218 --> 00:35:38,265
+<font color="#ffff00">Come.</font>
+
+454
+00:35:38,428 --> 00:35:39,554
+<font color="#ffff00">Amor, tenta o Alfa.</font>
+
+455
+00:35:39,721 --> 00:35:41,769
+<font color="#ffff00"><i>Tá bem. No Alfa.</i></font>
+
+456
+00:35:43,850 --> 00:35:46,569
+<font color="#ffff00">Nada. Tenta o Beta.</font>
+
+457
+00:35:47,062 --> 00:35:49,531
+<font color="#ffff00"><i>No Beta.</i></font>
+
+458
+00:35:49,689 --> 00:35:50,941
+<font color="#ffff00">Não adiantou.</font>
+
+459
+00:35:51,566 --> 00:35:53,694
+<font color="#ffff00">Não há como melhorar o sinal?</font>
+
+460
+00:35:53,860 --> 00:35:56,613
+<font color="#ffff00">Não sem desligar
+e recarregar as baterias.</font>
+
+461
+00:35:56,780 --> 00:35:58,748
+<font color="#ffff00"><i>Quanto tempo isso leva?</i></font>
+
+462
+00:35:58,907 --> 00:36:01,126
+<font color="#ffff00">Não sei.
+Algumas horas.</font>
+
+463
+00:36:01,576 --> 00:36:03,920
+<font color="#ffff00">Mantenham o ritmo.
+Não se percam.</font>
+
+464
+00:36:04,079 --> 00:36:05,080
+<font color="#ffff00">Chris!</font>
+
+465
+00:36:05,246 --> 00:36:06,247
+<font color="#ffff00">Esperem!</font>
+
+466
+00:36:06,414 --> 00:36:08,462
+<font color="#ffff00">Acho que quero ficar aqui.</font>
+
+467
+00:36:09,459 --> 00:36:12,133
+<font color="#ffff00">Parece um bom lugar
+para uma análise ecológica.</font>
+
+468
+00:36:12,295 --> 00:36:14,263
+<font color="#ffff00">Me pega na volta.</font>
+
+469
+00:36:14,422 --> 00:36:15,264
+<font color="#ffff00">Sargento?</font>
+
+470
+00:36:15,423 --> 00:36:18,427
+<font color="#ffff00">Tudo bem.
+Ledward, fica com a Karine.</font>
+
+471
+00:36:18,593 --> 00:36:21,062
+<font color="#ffff00">Nos vemos aqui em 4 horas.
+Comunicação aberta.</font>
+
+472
+00:36:21,221 --> 00:36:23,269
+<font color="#ffff00">Se comporta com a minha mulher.</font>
+
+473
+00:36:23,431 --> 00:36:24,933
+<font color="#ffff00">Pode deixar, capitão.</font>
+
+474
+00:36:25,100 --> 00:36:26,317
+<font color="#ffff00">Vamos.</font>
+
+475
+00:36:44,994 --> 00:36:46,746
+<font color="#ffff00">Algo passou por aqui.</font>
+
+476
+00:36:48,456 --> 00:36:49,958
+<font color="#ffff00">Cortou a copa das árvores.</font>
+
+477
+00:36:51,459 --> 00:36:53,803
+<font color="#ffff00">Deve ter sido enorme.</font>
+
+478
+00:36:54,421 --> 00:36:56,844
+<font color="#ffff00">Seja o que for,</font>
+
+479
+00:36:57,006 --> 00:36:58,679
+<font color="#ffff00">está lá em cima.</font>
+
+480
+00:37:03,972 --> 00:37:05,474
+<font color="#ffff00">Está ouvindo?</font>
+
+481
+00:37:05,640 --> 00:37:06,687
+<font color="#ffff00">O quê?</font>
+
+482
+00:37:07,517 --> 00:37:08,643
+<font color="#ffff00">Nada.</font>
+
+483
+00:37:09,811 --> 00:37:12,439
+<font color="#ffff00"><i>Nem aves, nem bichos...</i></font>
+
+484
+00:37:13,815 --> 00:37:14,816
+<font color="#ffff00">Nada.</font>
+
+485
+00:37:26,202 --> 00:37:27,829
+<font color="#ffff00">Espera. Devagar.</font>
+
+486
+00:37:35,545 --> 00:37:36,717
+<font color="#ffff00">Vai servir.</font>
+
+487
+00:37:38,006 --> 00:37:40,885
+<font color="#ffff00">Equipe de expedição, na escuta?</font>
+
+488
+00:37:42,385 --> 00:37:44,353
+<font color="#ffff00">Mãe diz que a tempestade está piorando.</font>
+
+489
+00:37:44,512 --> 00:37:46,890
+<font color="#ffff00">Está dificílimo rastrear vocês.</font>
+
+490
+00:37:48,099 --> 00:37:51,023
+<font color="#ffff00"><i>Estamos muito perto do alvo.</i></font>
+
+491
+00:37:52,562 --> 00:37:55,611
+<font color="#ffff00"><i>Nos falamos ao chegar.
+Ouviu? Covenant!</i></font>
+
+492
+00:37:56,775 --> 00:37:58,072
+<font color="#ffff00">Droga.</font>
+
+493
+00:38:03,072 --> 00:38:04,198
+<font color="#ffff00">P-3.</font>
+
+494
+00:38:09,412 --> 00:38:10,914
+<font color="#ffff00">Preciso urinar.</font>
+
+495
+00:38:12,707 --> 00:38:13,833
+<font color="#ffff00">Não demore.</font>
+
+496
+00:39:08,596 --> 00:39:09,768
+<font color="#ffff00">Ledward !</font>
+
+497
+00:39:09,931 --> 00:39:11,057
+<font color="#ffff00">Já vai.</font>
+
+498
+00:39:38,835 --> 00:39:40,678
+<font color="#ffff00">Que merda é essa?</font>
+
+499
+00:39:43,006 --> 00:39:45,259
+<font color="#ffff00">Parece um tipo de veículo.</font>
+
+500
+00:40:10,658 --> 00:40:13,332
+<font color="#ffff00">Ankor, Cole. Fiquem aqui.</font>
+
+501
+00:40:13,494 --> 00:40:15,292
+<font color="#ffff00">- Entendido.
+- Sim, senhor.</font>
+
+502
+00:40:15,955 --> 00:40:17,832
+<font color="#ffff00">Cuidado, gente.
+Olha onde pisa.</font>
+
+503
+00:40:31,179 --> 00:40:33,523
+<font color="#ffff00">Capitão, aqui.</font>
+
+504
+00:40:35,850 --> 00:40:38,353
+<font color="#ffff00">- Localizou a transmissão, Walter?
+- Por aqui.</font>
+
+505
+00:40:39,187 --> 00:40:41,155
+<font color="#ffff00">Vamos. Fiquem juntos.</font>
+
+506
+00:40:41,356 --> 00:40:42,778
+<font color="#ffff00">Está vendo essa merda?</font>
+
+507
+00:40:58,790 --> 00:40:59,712
+<font color="#ffff00">Tom.</font>
+
+508
+00:40:59,874 --> 00:41:00,841
+<font color="#ffff00">Anda, continua.</font>
+
+509
+00:41:01,000 --> 00:41:02,377
+<font color="#ffff00">Já estou indo.</font>
+
+510
+00:41:11,135 --> 00:41:12,387
+<font color="#ffff00">Tudo bem?</font>
+
+511
+00:41:12,553 --> 00:41:13,896
+<font color="#ffff00">Sim, estou bem.</font>
+
+512
+00:41:37,078 --> 00:41:38,079
+<font color="#ffff00">Deus!</font>
+
+513
+00:41:39,539 --> 00:41:41,212
+<font color="#ffff00">Eram gigantes.</font>
+
+514
+00:41:41,374 --> 00:41:45,004
+<font color="#ffff00"><i>Pelo menos, as estátuas são gigantes.</i></font>
+
+515
+00:41:49,424 --> 00:41:50,596
+<font color="#ffff00">Dra. E. Shaw.</font>
+
+516
+00:41:51,968 --> 00:41:53,345
+<font color="#ffff00">Dra. Elizabeth Shaw.</font>
+
+517
+00:41:55,888 --> 00:41:57,765
+<font color="#ffff00">Era a oficial-chefe de ciências</font>
+
+518
+00:41:57,932 --> 00:41:59,605
+<font color="#ffff00"><i>da Prometheus.</i></font>
+
+519
+00:41:59,934 --> 00:42:01,686
+<font color="#ffff00">A nave que sumiu.</font>
+
+520
+00:42:02,103 --> 00:42:04,777
+<font color="#ffff00">Exato. Há 10 anos.</font>
+
+521
+00:42:06,691 --> 00:42:08,238
+<font color="#ffff00">Indústrias Weyland.</font>
+
+522
+00:42:09,027 --> 00:42:10,745
+<font color="#ffff00">Não é uma nave da Weyland.</font>
+
+523
+00:42:15,116 --> 00:42:16,959
+<font color="#ffff00">Dra. Shaw.</font>
+
+524
+00:42:17,910 --> 00:42:19,753
+<font color="#ffff00">Como veio parar aqui?</font>
+
+525
+00:42:23,374 --> 00:42:25,092
+<font color="#ffff00">Sargento Lope, pode iluminar aqui?</font>
+
+526
+00:42:25,251 --> 00:42:27,253
+<font color="#ffff00">- Aqui.
+- Cuidado.</font>
+
+527
+00:42:31,591 --> 00:42:32,592
+<font color="#ffff00">Jesus!</font>
+
+528
+00:42:35,887 --> 00:42:37,480
+<font color="#ffff00">Atrás de você. Sai.</font>
+
+529
+00:43:03,498 --> 00:43:04,841
+<font color="#ffff00">Achamos a fonte.</font>
+
+530
+00:43:11,464 --> 00:43:13,182
+<font color="#ffff00">O que ela veio fazer aqui?</font>
+
+531
+00:43:15,343 --> 00:43:17,311
+<font color="#ffff00">Coitada.</font>
+
+532
+00:43:23,518 --> 00:43:24,815
+<font color="#ffff00">Preciso sentar.</font>
+
+533
+00:43:25,353 --> 00:43:27,026
+<font color="#ffff00">Preciso sentar.</font>
+
+534
+00:43:27,855 --> 00:43:29,277
+<font color="#ffff00">Desculpa.</font>
+
+535
+00:43:29,440 --> 00:43:31,283
+<font color="#ffff00">Não seio que há comigo.</font>
+
+536
+00:43:31,442 --> 00:43:33,365
+<font color="#ffff00">Olha pra mim.</font>
+
+537
+00:43:35,863 --> 00:43:36,955
+<font color="#ffff00">Sem fôlego...</font>
+
+538
+00:43:38,658 --> 00:43:39,784
+<font color="#ffff00">Fica calmo.</font>
+
+539
+00:43:41,327 --> 00:43:42,795
+<font color="#ffff00">Eu já volto.</font>
+
+540
+00:43:45,456 --> 00:43:47,379
+<font color="#ffff00">Capitão Oram, câmbio.</font>
+
+541
+00:43:48,626 --> 00:43:50,219
+<font color="#ffff00"><i>Responde. Chris, é a Karine.</i></font>
+
+542
+00:43:50,670 --> 00:43:51,671
+<font color="#ffff00">Que foi?</font>
+
+543
+00:43:51,838 --> 00:43:53,385
+<font color="#ffff00"><i>Temos um problema.</i></font>
+
+544
+00:43:53,548 --> 00:43:56,722
+<font color="#ffff00"><i>Vamos voltar para o Lander.
+Repito: vamos voltar para o Lander.</i></font>
+
+545
+00:43:56,884 --> 00:43:58,727
+<font color="#ffff00">Está tudo bem?</font>
+
+546
+00:43:58,886 --> 00:44:01,730
+<font color="#ffff00"><i>O Ledward adoeceu.
+Vamos voltar.</i></font>
+
+547
+00:44:01,889 --> 00:44:04,733
+<font color="#ffff00"><i>Faris, ouviu isso?
+Prepara a enfermaria.</i></font>
+
+548
+00:44:04,892 --> 00:44:05,893
+<font color="#ffff00">Sim. O que está acontecendo?</font>
+
+549
+00:44:06,060 --> 00:44:08,062
+<font color="#ffff00"><i>Só prepara.
+Já estamos chegando.</i></font>
+
+550
+00:44:08,229 --> 00:44:09,526
+<font color="#ffff00"><i>Daniels, câmbio.</i></font>
+
+551
+00:44:09,689 --> 00:44:11,407
+<font color="#ffff00"><i>Vamos voltar.</i></font>
+
+552
+00:44:14,193 --> 00:44:15,490
+<font color="#ffff00">-0 que foi?
+- Não sei.</font>
+
+553
+00:44:15,653 --> 00:44:17,075
+<font color="#ffff00">Algo sobre o Ledward.</font>
+
+554
+00:44:19,198 --> 00:44:21,792
+<font color="#ffff00">Eles estão vindo aí.
+Vamos nessa.</font>
+
+555
+00:44:26,581 --> 00:44:28,504
+<font color="#ffff00">- Gente!
+- Tom!</font>
+
+556
+00:44:28,666 --> 00:44:31,260
+<font color="#ffff00">O que foi, cara?
+Você está legal?</font>
+
+557
+00:44:31,419 --> 00:44:33,467
+<font color="#ffff00">Fala comigo.
+Olha pra mim.</font>
+
+558
+00:44:33,629 --> 00:44:35,552
+<font color="#ffff00">- Está bem?
+- Sim, estou bem.</font>
+
+559
+00:44:35,715 --> 00:44:37,558
+<font color="#ffff00">- Está conseguindo andar?
+- Estou.</font>
+
+560
+00:44:37,717 --> 00:44:40,015
+<font color="#ffff00">Anda. Levanta.
+Vamos dar logo o fora daqui.</font>
+
+561
+00:44:40,178 --> 00:44:41,555
+<font color="#ffff00">Vamos.</font>
+
+562
+00:44:43,264 --> 00:44:46,017
+<font color="#ffff00">Amor, vai ser preciso quarentena?</font>
+
+563
+00:44:46,184 --> 00:44:50,109
+<font color="#ffff00"><i>Não sei, mas ela disse
+que o Ledward estava sangrando,</i></font>
+
+564
+00:44:50,271 --> 00:44:51,944
+<font color="#ffff00">e que preparasse a enfermaria.</font>
+
+565
+00:44:52,106 --> 00:44:53,232
+<font color="#ffff00">Sangrando?</font>
+
+566
+00:44:53,399 --> 00:44:55,618
+<font color="#ffff00"><i>Pois é.
+Foi o que eu pensei.</i></font>
+
+567
+00:44:55,776 --> 00:44:58,450
+<font color="#ffff00">Está cortando.
+Não ouvimos. Pode repetir?</font>
+
+568
+00:44:58,613 --> 00:45:01,708
+<font color="#ffff00"><i>Eu não sei por quê.
+Não sei a gravidade.</i></font>
+
+569
+00:45:01,866 --> 00:45:03,493
+<font color="#ffff00"><i>Ela pareceu assustada.</i></font>
+
+570
+00:45:03,659 --> 00:45:06,128
+<font color="#ffff00"><i>Faris, cadê você?
+Preciso de ajuda.</i></font>
+
+571
+00:45:08,372 --> 00:45:10,170
+<font color="#ffff00">Faris, cadê você?</font>
+
+572
+00:45:10,333 --> 00:45:12,176
+<font color="#ffff00">Chegamos! Câmbio!</font>
+
+573
+00:45:13,461 --> 00:45:15,304
+<font color="#ffff00">- Ledward, acelera.
+- Não dá.</font>
+
+574
+00:45:15,463 --> 00:45:18,717
+<font color="#ffff00"><i>Estamos quase lá, está vendo?
+l E logo ali.</i></font>
+
+575
+00:45:18,883 --> 00:45:21,636
+<font color="#ffff00">Faris, vem cá!</font>
+
+576
+00:45:21,802 --> 00:45:23,429
+<font color="#ffff00">Eu preciso de ajuda.</font>
+
+577
+00:45:34,440 --> 00:45:35,942
+<font color="#ffff00">Caramba, me ajuda!</font>
+
+578
+00:45:38,277 --> 00:45:39,403
+<font color="#ffff00">Me ajuda.</font>
+
+579
+00:45:43,991 --> 00:45:45,208
+<font color="#ffff00">Não caia, Ledward.</font>
+
+580
+00:45:47,411 --> 00:45:48,537
+<font color="#ffff00">Leve-o pra enfermaria.</font>
+
+581
+00:45:48,704 --> 00:45:50,172
+<font color="#ffff00"><i>Não toque em nada até lá.</i></font>
+
+582
+00:45:53,793 --> 00:45:56,592
+<font color="#ffff00">Faris, vem cá. Rápido!</font>
+
+583
+00:45:57,380 --> 00:45:58,506
+<font color="#ffff00">Vai!</font>
+
+584
+00:45:58,673 --> 00:46:00,095
+<font color="#ffff00">Sobe, sobe!</font>
+
+585
+00:46:00,967 --> 00:46:02,014
+<font color="#ffff00">Fica de pé!</font>
+
+586
+00:46:02,176 --> 00:46:03,393
+<font color="#ffff00">Oram, cadê você?</font>
+
+587
+00:46:03,552 --> 00:46:04,804
+<font color="#ffff00"><i>Estamos voltando.</i></font>
+
+588
+00:46:04,971 --> 00:46:05,847
+<font color="#ffff00">Demora?</font>
+
+589
+00:46:06,013 --> 00:46:08,232
+<font color="#ffff00">Não muito.
+Estamos chegando.</font>
+
+590
+00:46:10,142 --> 00:46:11,519
+<font color="#ffff00">Não! De pé!</font>
+
+591
+00:46:15,147 --> 00:46:17,525
+<font color="#ffff00">Porra! Porra! Calma.</font>
+
+592
+00:46:19,235 --> 00:46:20,361
+<font color="#ffff00">Senta na mesa!</font>
+
+593
+00:46:21,946 --> 00:46:24,119
+<font color="#ffff00">Sentado! Sentado!</font>
+
+594
+00:46:24,782 --> 00:46:25,783
+<font color="#ffff00">Coragem, Ledward!</font>
+
+595
+00:46:25,950 --> 00:46:27,372
+<font color="#ffff00">Isso! Assim!</font>
+
+596
+00:46:30,079 --> 00:46:32,878
+<font color="#ffff00"><i>Karine, põe as luvas.
+Não toque em nada.</i></font>
+
+597
+00:46:33,040 --> 00:46:34,838
+<font color="#ffff00"><i>- Para de falar isso!
+- Faris!</i></font>
+
+598
+00:46:35,001 --> 00:46:35,877
+<font color="#ffff00"><i>Ele já vomitou em mim!</i></font>
+
+599
+00:46:36,043 --> 00:46:37,761
+<font color="#ffff00">Faris, o que foi?</font>
+
+600
+00:46:46,971 --> 00:46:49,019
+<font color="#ffff00">Fica aqui que eu vou trazer o Oram.</font>
+
+601
+00:46:53,811 --> 00:46:54,607
+<font color="#ffff00">TRANCADA</font>
+
+602
+00:47:00,359 --> 00:47:02,612
+<font color="#ffff00">Oram, preciso de você aqui agora.</font>
+
+603
+00:47:02,778 --> 00:47:05,122
+<font color="#ffff00">Preciso que volte ao Lander agora!</font>
+
+604
+00:47:05,281 --> 00:47:07,955
+<font color="#ffff00">Já entendi.
+Estamos indo o mais rápido possível.</font>
+
+605
+00:47:10,536 --> 00:47:13,506
+<font color="#ffff00">Anda, levanta.
+Estamos quase lá.</font>
+
+606
+00:47:13,664 --> 00:47:16,417
+<font color="#ffff00"><i>Não seio que há
+de errado com o Ledward.</i></font>
+
+607
+00:47:16,584 --> 00:47:20,088
+<font color="#ffff00">Começou a sangrar. Está doente.
+Eu não sei o que fazer.</font>
+
+608
+00:47:20,838 --> 00:47:22,681
+<font color="#ffff00">Fica calma, amor.
+Me conta tudo.</font>
+
+609
+00:47:22,840 --> 00:47:24,717
+<font color="#ffff00"><i>Não me mande ficar calma!</i></font>
+
+610
+00:47:24,884 --> 00:47:26,136
+<font color="#ffff00"><i>Não viu o que vi.</i></font>
+
+611
+00:47:26,302 --> 00:47:30,728
+<font color="#ffff00"><i>Não sei o que o Ledward tem,
+se a Karine pegou, ou se eu peguei.</i></font>
+
+612
+00:47:30,890 --> 00:47:32,608
+<font color="#ffff00"><i>- Tee!
+- Faris!</i></font>
+
+613
+00:47:32,767 --> 00:47:33,734
+<font color="#ffff00">Responda!</font>
+
+614
+00:47:33,893 --> 00:47:35,736
+<font color="#ffff00">Faris, cadê você?</font>
+
+615
+00:47:35,895 --> 00:47:37,568
+<font color="#ffff00">Vou pôr no soro!</font>
+
+616
+00:47:39,815 --> 00:47:41,442
+<font color="#ffff00">Não sabe mexer nisso aí?</font>
+
+617
+00:47:41,609 --> 00:47:43,532
+<font color="#ffff00">Gritar não ajuda em nada.</font>
+
+618
+00:47:45,321 --> 00:47:47,790
+<font color="#ffff00">- Me deixa sair.
+- Oram está vindo.</font>
+
+619
+00:47:48,532 --> 00:47:50,284
+<font color="#ffff00">- Me deixa sair.
+- Vamos aguardar.</font>
+
+620
+00:47:50,451 --> 00:47:52,169
+<font color="#ffff00">Faris, por favor. Abre!</font>
+
+621
+00:47:52,328 --> 00:47:55,457
+<font color="#ffff00">Não posso.
+Tenho de manter a infecção contida.</font>
+
+622
+00:48:10,096 --> 00:48:12,645
+<font color="#ffff00">Me deixa sair daqui!</font>
+
+623
+00:48:16,018 --> 00:48:17,019
+<font color="#ffff00">Faris!</font>
+
+624
+00:48:17,561 --> 00:48:19,689
+<font color="#ffff00">Vai se foder!
+Abre a porta!</font>
+
+625
+00:48:21,148 --> 00:48:22,866
+<font color="#ffff00">Abre a porra da porta!</font>
+
+626
+00:48:25,945 --> 00:48:27,618
+<font color="#ffff00">Me deixa sair!</font>
+
+627
+00:48:31,951 --> 00:48:34,955
+<font color="#ffff00">Me deixa sair!
+Faris, sua desgraçada!</font>
+
+628
+00:48:55,891 --> 00:48:56,858
+<font color="#ffff00">Faris!</font>
+
+629
+00:48:58,018 --> 00:48:59,270
+<font color="#ffff00">Já vai.</font>
+
+630
+00:49:00,813 --> 00:49:01,905
+<font color="#ffff00">Deus...</font>
+
+631
+00:49:02,064 --> 00:49:03,987
+<font color="#ffff00">Vem logo,
+tem algo a bordo.</font>
+
+632
+00:49:04,150 --> 00:49:06,278
+<font color="#ffff00">Repete, está cortando.</font>
+
+633
+00:49:06,944 --> 00:49:08,946
+<font color="#ffff00">Lander 1, repita.</font>
+
+634
+00:49:09,655 --> 00:49:13,125
+<font color="#ffff00"><i>Lander 1, repita!
+Lander 1, repita!</i></font>
+
+635
+00:49:16,704 --> 00:49:18,297
+<font color="#ffff00">Fica longe!</font>
+
+636
+00:49:32,553 --> 00:49:34,647
+<font color="#ffff00">Não! Karine!</font>
+
+637
+00:50:34,198 --> 00:50:35,415
+<font color="#ffff00">Seu puto!</font>
+
+638
+00:50:44,333 --> 00:50:45,880
+<font color="#ffff00">- Meu Deus!
+- Aguenta aí!</font>
+
+639
+00:50:50,756 --> 00:50:52,383
+<font color="#ffff00">Capitão, no chão!</font>
+
+640
+00:50:52,883 --> 00:50:54,351
+<font color="#ffff00">Não!</font>
+
+641
+00:51:07,606 --> 00:51:09,108
+<font color="#ffff00">Segurem direito!
+Fale comigo!</font>
+
+642
+00:51:15,823 --> 00:51:17,075
+<font color="#ffff00">Meu Deus.</font>
+
+643
+00:51:22,997 --> 00:51:24,044
+<font color="#ffff00">Fica deitado.</font>
+
+644
+00:51:31,672 --> 00:51:32,719
+<font color="#ffff00">Me ajudem! Segurem!</font>
+
+645
+00:51:38,178 --> 00:51:39,600
+<font color="#ffff00">Que porra!</font>
+
+646
+00:52:04,788 --> 00:52:08,793
+<font color="#ffff00">Tempestade iônica de 7,5.
+É um milagre termos falado tanto tempo.</font>
+
+647
+00:52:08,959 --> 00:52:11,087
+<font color="#ffff00"><i>Então vamos atravessam.</i></font>
+
+648
+00:52:11,253 --> 00:52:12,721
+<font color="#ffff00">Não podemos, Tennessee.</font>
+
+649
+00:52:12,880 --> 00:52:14,723
+<font color="#ffff00">Você é piloto,
+conhece os limites.</font>
+
+650
+00:52:14,882 --> 00:52:16,509
+<font color="#ffff00">Que se danem os limites.</font>
+
+651
+00:52:16,675 --> 00:52:17,517
+<font color="#ffff00">Tee,</font>
+
+652
+00:52:17,676 --> 00:52:20,350
+<font color="#ffff00">está um furacão lá embaixo,
+a gente racharia.</font>
+
+653
+00:52:21,221 --> 00:52:23,474
+<font color="#ffff00">Vamos ter de esperar.</font>
+
+654
+00:52:24,391 --> 00:52:25,563
+<font color="#ffff00">Lamento.</font>
+
+655
+00:52:27,061 --> 00:52:28,654
+<font color="#ffff00">Ela estava com medo.</font>
+
+656
+00:52:29,104 --> 00:52:31,778
+<font color="#ffff00">Nunca ouvi minha mulher com medo.</font>
+
+657
+00:52:32,399 --> 00:52:34,902
+<font color="#ffff00"><i>Covenant, responda!</i></font>
+
+658
+00:52:36,362 --> 00:52:38,831
+<font color="#ffff00"><i>Covenant, na escuta?</i></font>
+
+659
+00:52:39,490 --> 00:52:40,787
+<font color="#ffff00"><i>Covenant!</i></font>
+
+660
+00:52:40,949 --> 00:52:42,951
+<font color="#ffff00"><i>Covenant, na escuta?</i></font>
+
+661
+00:52:45,954 --> 00:52:46,955
+<font color="#ffff00">Responda!</font>
+
+662
+00:52:47,122 --> 00:52:48,339
+<font color="#ffff00">Sempre estarei com você.</font>
+
+663
+00:52:49,792 --> 00:52:50,884
+<font color="#ffff00">Luz da minha vida.</font>
+
+664
+00:52:51,043 --> 00:52:52,511
+<font color="#ffff00">Na escuta?</font>
+
+665
+00:52:52,670 --> 00:52:54,422
+<font color="#ffff00">Meu amor, meu anjo.</font>
+
+666
+00:52:54,588 --> 00:52:57,307
+<font color="#ffff00"><i>Lope, não há nada que possa fazer.</i></font>
+
+667
+00:52:59,343 --> 00:53:01,141
+<font color="#ffff00">Nada a fazer, tá?</font>
+
+668
+00:53:02,137 --> 00:53:03,889
+<font color="#ffff00"><i>Covenant, na escuta?</i></font>
+
+669
+00:53:07,935 --> 00:53:10,108
+<font color="#ffff00">- Tennessee, responde, droga!
+- Daniels!</font>
+
+670
+00:53:10,270 --> 00:53:11,396
+<font color="#ffff00">Cuidado!</font>
+
+671
+00:53:15,192 --> 00:53:16,034
+<font color="#ffff00">Corre!</font>
+
+672
+00:53:23,951 --> 00:53:25,123
+<font color="#ffff00">- Atira!
+- Atira! Vai!</font>
+
+673
+00:53:26,370 --> 00:53:27,587
+<font color="#ffff00">Se abaixa!</font>
+
+674
+00:53:33,544 --> 00:53:34,466
+<font color="#ffff00">Ankor, não!</font>
+
+675
+00:53:36,797 --> 00:53:37,798
+<font color="#ffff00">Vai, Cole!</font>
+
+676
+00:53:40,300 --> 00:53:41,472
+<font color="#ffff00">Acertei!</font>
+
+677
+00:53:41,635 --> 00:53:43,558
+<font color="#ffff00">Daniels, tudo bem?</font>
+
+678
+00:53:43,721 --> 00:53:44,938
+<font color="#ffff00">O que era aquilo?</font>
+
+679
+00:53:45,472 --> 00:53:46,473
+<font color="#ffff00">Estamos bem.</font>
+
+680
+00:53:48,058 --> 00:53:49,310
+<font color="#ffff00">Há outro!
+Sai da frente!</font>
+
+681
+00:53:49,476 --> 00:53:50,477
+<font color="#ffff00">Atrás de você!</font>
+
+682
+00:53:50,644 --> 00:53:51,987
+<font color="#ffff00">- Emperrou!
+- Cuidado!</font>
+
+683
+00:53:54,064 --> 00:53:55,316
+<font color="#ffff00">Sai daqui!</font>
+
+684
+00:53:56,650 --> 00:53:57,651
+<font color="#ffff00">Sem mira!</font>
+
+685
+00:53:57,818 --> 00:53:59,115
+<font color="#ffff00">Sai!</font>
+
+686
+00:54:26,263 --> 00:54:27,515
+<font color="#ffff00">Venham comigo.</font>
+
+687
+00:54:31,018 --> 00:54:32,361
+<font color="#ffff00">Vou pegar o capitão.</font>
+
+688
+00:54:33,854 --> 00:54:35,026
+<font color="#ffff00">Ankor...</font>
+
+689
+00:54:35,189 --> 00:54:36,361
+<font color="#ffff00">Capitão!</font>
+
+690
+00:54:39,026 --> 00:54:41,279
+<font color="#ffff00">Chris! Chris!</font>
+
+691
+00:54:41,779 --> 00:54:44,157
+<font color="#ffff00">Temos de ir agora!
+Temos de ir.</font>
+
+692
+00:54:45,032 --> 00:54:46,534
+<font color="#ffff00">- Vamos.
+- Está bem.</font>
+
+693
+00:54:48,202 --> 00:54:50,204
+<font color="#ffff00">- Vamos.
+- Está bem.</font>
+
+694
+00:55:08,680 --> 00:55:11,024
+<font color="#ffff00">Andem! Continuem!</font>
+
+695
+00:55:17,397 --> 00:55:18,865
+<font color="#ffff00">Por aqui.</font>
+
+696
+00:55:33,872 --> 00:55:34,873
+<font color="#ffff00">Que lugar é esse?</font>
+
+697
+00:55:43,507 --> 00:55:44,474
+<font color="#ffff00">Vamos.</font>
+
+698
+00:55:44,633 --> 00:55:45,930
+<font color="#ffff00">Vamos em frente.</font>
+
+699
+00:55:47,261 --> 00:55:48,763
+<font color="#ffff00">Credo!</font>
+
+700
+00:55:48,929 --> 00:55:49,930
+<font color="#ffff00">O que houve aqui?</font>
+
+701
+00:55:50,097 --> 00:55:51,098
+<font color="#ffff00">Andando.</font>
+
+702
+00:56:06,488 --> 00:56:07,489
+<font color="#ffff00">Vamos.</font>
+
+703
+00:56:57,164 --> 00:56:58,541
+<font color="#ffff00">Meu nome é David.</font>
+
+704
+00:56:59,166 --> 00:57:01,168
+<font color="#ffff00">Quem está no comando aqui?</font>
+
+705
+00:57:03,295 --> 00:57:05,047
+<font color="#ffff00">Quem está no comando?</font>
+
+706
+00:57:06,673 --> 00:57:08,175
+<font color="#ffff00">Eu sou o capitão.</font>
+
+707
+00:57:08,342 --> 00:57:09,889
+<font color="#ffff00">O que eram aqueles bichos?</font>
+
+708
+00:57:10,052 --> 00:57:11,178
+<font color="#ffff00">É seguro aqui?</font>
+
+709
+00:57:12,971 --> 00:57:13,972
+<font color="#ffff00">Perfeitamente.</font>
+
+710
+00:57:14,556 --> 00:57:16,729
+<font color="#ffff00">Explicarei o melhor que puder.</font>
+
+711
+00:57:18,393 --> 00:57:22,193
+<font color="#ffff00">Há dez anos, eu e a dra. Elizabeth Shaw
+chegamos aqui,</font>
+
+712
+00:57:23,023 --> 00:57:25,071
+<font color="#ffff00">os únicos sobreviventes da Prometheus.</font>
+
+713
+00:57:26,526 --> 00:57:28,654
+<font color="#ffff00"><i>A nave em que viajávamos
+carregava uma arma.</i></font>
+
+714
+00:57:28,820 --> 00:57:30,697
+<font color="#ffff00">Um vírus mortal.</font>
+
+715
+00:57:30,864 --> 00:57:33,708
+<font color="#ffff00">A carga se desprendeu
+acidentalmente no pouso.</font>
+
+716
+00:57:33,867 --> 00:57:37,167
+<font color="#ffff00">Na confusão,
+perdemos o controle da nave.</font>
+
+717
+00:57:39,247 --> 00:57:40,999
+<font color="#ffff00">Elizabeth morreu na queda.</font>
+
+718
+00:57:42,042 --> 00:57:43,919
+<font color="#ffff00">Viram o resultado do patógeno.</font>
+
+719
+00:57:46,546 --> 00:57:49,516
+<font color="#ffff00">Assim, fiquei isolado
+todos esses anos.</font>
+
+720
+00:57:51,510 --> 00:57:53,729
+<font color="#ffff00">Crusoé em sua ilha.</font>
+
+721
+00:57:53,887 --> 00:57:56,231
+<font color="#ffff00">Nossa tripulação foi infectada pelo vírus?</font>
+
+722
+00:57:56,765 --> 00:58:01,362
+<font color="#ffff00">O patógeno foi projetado
+para infectar formas de vida não botânicas.</font>
+
+723
+00:58:01,520 --> 00:58:03,113
+<font color="#ffff00">Qualquer animal...</font>
+
+724
+00:58:03,271 --> 00:58:04,739
+<font color="#ffff00">A carne, por assim dizer.</font>
+
+725
+00:58:05,899 --> 00:58:08,243
+<font color="#ffff00">Mata-as na hora,</font>
+
+726
+00:58:08,402 --> 00:58:10,780
+<font color="#ffff00">ou se incuba
+para gerar uma forma híbrida.</font>
+
+727
+00:58:10,946 --> 00:58:12,744
+<font color="#ffff00">Altamente agressiva.</font>
+
+728
+00:58:13,240 --> 00:58:14,708
+<font color="#ffff00">Fomos infectados?</font>
+
+729
+00:58:15,867 --> 00:58:17,790
+<font color="#ffff00">Vocês já saberiam.</font>
+
+730
+00:58:17,953 --> 00:58:19,455
+<font color="#ffff00">Precisamos ter certeza.</font>
+
+731
+00:58:20,914 --> 00:58:23,087
+<font color="#ffff00">Não podemos levar pra nave.</font>
+
+732
+00:58:23,250 --> 00:58:25,298
+<font color="#ffff00">Somos uma missão colonizadora.</font>
+
+733
+00:58:26,086 --> 00:58:27,759
+<font color="#ffff00">É mesmo?</font>
+
+734
+00:58:27,921 --> 00:58:29,764
+<font color="#ffff00">Que extraordinário!</font>
+
+735
+00:58:31,675 --> 00:58:33,143
+<font color="#ffff00">Quantos colonos?</font>
+
+736
+00:58:35,512 --> 00:58:37,139
+<font color="#ffff00">Mais de 2 mil.</font>
+
+737
+00:58:37,305 --> 00:58:39,103
+<font color="#ffff00">Ora, ora, ora...</font>
+
+738
+00:58:39,641 --> 00:58:41,439
+<font color="#ffff00"><i>Quantas almas boas!</i></font>
+
+739
+00:58:41,935 --> 00:58:43,107
+<font color="#ffff00">Capitão Oram.</font>
+
+740
+00:58:43,687 --> 00:58:47,692
+<font color="#ffff00">Os transmissores não vão conseguir
+ultrapassar tanta rocha.</font>
+
+741
+00:58:49,317 --> 00:58:51,490
+<font color="#ffff00">Há um jeito seguro
+de se chegar ao topo?</font>
+
+742
+00:58:51,862 --> 00:58:53,034
+<font color="#ffff00">Sem dúvida.</font>
+
+743
+00:58:53,697 --> 00:58:56,120
+<font color="#ffff00">Por favor, fiquem á vontade</font>
+
+744
+00:58:56,283 --> 00:59:00,004
+<font color="#ffff00">como puderem
+nesta necrópole horrenda.</font>
+
+745
+00:59:01,621 --> 00:59:02,668
+<font color="#ffff00">Bem-vindo, irmão.</font>
+
+746
+00:59:05,333 --> 00:59:06,334
+<font color="#ffff00">Sigam-me.</font>
+
+747
+00:59:09,379 --> 00:59:12,132
+<font color="#ffff00">Pessoal, vamos montar
+uma base de operações aqui.</font>
+
+748
+00:59:17,304 --> 00:59:19,398
+<font color="#ffff00">Muita coisa aqui não faz sentido.</font>
+
+749
+00:59:20,182 --> 00:59:21,809
+<font color="#ffff00">Vou falar com ele.</font>
+
+750
+00:59:23,560 --> 00:59:25,312
+<font color="#ffff00">De irmão pra irmão.</font>
+
+751
+00:59:30,609 --> 00:59:32,077
+<font color="#ffff00">Tennessee! Ricks!</font>
+
+752
+00:59:32,235 --> 00:59:33,532
+<font color="#ffff00">Respondam! Na escuta?</font>
+
+753
+00:59:35,614 --> 00:59:37,787
+<font color="#ffff00">Covenant, responda!
+Aqui é a expedição.</font>
+
+754
+00:59:37,949 --> 00:59:39,747
+<font color="#ffff00">Na escuta?</font>
+
+755
+00:59:40,410 --> 00:59:41,832
+<font color="#ffff00">Tennessee!</font>
+
+756
+00:59:41,995 --> 00:59:43,997
+<font color="#ffff00">Tennessee, Ricks, respondam!</font>
+
+757
+00:59:44,498 --> 00:59:47,593
+<font color="#ffff00">Não sei se escutam
+com essa tempestade.</font>
+
+758
+00:59:48,627 --> 00:59:50,800
+<font color="#ffff00">Elas podem ser intensas</font>
+
+759
+00:59:51,630 --> 00:59:52,927
+<font color="#ffff00"><i>e cobrir o planeta.</i></font>
+
+760
+00:59:54,091 --> 00:59:56,560
+<font color="#ffff00">Quanto tempo duram geralmente?</font>
+
+761
+00:59:57,552 --> 00:59:59,099
+<font color="#ffff00">Dias.</font>
+
+762
+00:59:59,262 --> 01:00:00,354
+<font color="#ffff00">Semanas.</font>
+
+763
+01:00:01,014 --> 01:00:01,856
+<font color="#ffff00">Meses.</font>
+
+764
+01:00:04,643 --> 01:00:06,065
+<font color="#ffff00">Mas continuem.</font>
+
+765
+01:00:07,479 --> 01:00:08,776
+<font color="#ffff00">Boa sorte.</font>
+
+766
+01:00:11,024 --> 01:00:14,403
+<font color="#ffff00">Aqui é a equipe de expedição
+entrando em contato. Respondam.</font>
+
+767
+01:00:15,445 --> 01:00:17,243
+<font color="#ffff00"><i>Covenant, respondam!</i></font>
+
+768
+01:00:17,823 --> 01:00:21,248
+<font color="#ffff00">Mãe, quanto mais
+podemos nos aproximar?</font>
+
+769
+01:00:21,409 --> 01:00:26,085
+<font color="#ffff00"><i>Se chegar a menos de 80km
+do perímetro da tempestade,</i></font>
+
+770
+01:00:26,248 --> 01:00:29,673
+<font color="#ffff00"><i>vai ultrapassar os limites de segurança.</i></font>
+
+771
+01:00:29,835 --> 01:00:32,714
+<font color="#ffff00">Mãe, põe a gente
+80km acima da tempestade.</font>
+
+772
+01:00:33,296 --> 01:00:34,764
+<font color="#ffff00">Espera um pouco.</font>
+
+773
+01:00:34,923 --> 01:00:36,391
+<font color="#ffff00">Quanto mais perto,</font>
+
+774
+01:00:36,550 --> 01:00:38,598
+<font color="#ffff00">melhor a chance
+de nos comunicarmos.</font>
+
+775
+01:00:38,760 --> 01:00:40,137
+<font color="#ffff00">É inútil, Tennessee.</font>
+
+776
+01:00:40,303 --> 01:00:41,429
+<font color="#ffff00">Não podemos arriscar.</font>
+
+777
+01:00:41,596 --> 01:00:42,939
+<font color="#ffff00">Sugere não fazer nada?</font>
+
+778
+01:00:43,098 --> 01:00:44,350
+<font color="#ffff00">Não dá pra resgatá-los.</font>
+
+779
+01:00:44,516 --> 01:00:46,644
+<font color="#ffff00">Se estão em perigo,
+vão ter de se virar.</font>
+
+780
+01:00:46,810 --> 01:00:48,357
+<font color="#ffff00">Lamento, mas é a verdade.</font>
+
+781
+01:00:48,520 --> 01:00:52,946
+<font color="#ffff00">Mãe, põe a gente a 80km,
+só propulsores. Obedeça.</font>
+
+782
+01:00:53,108 --> 01:00:55,987
+<font color="#ffff00"><i>Entendido. Iniciando a descida.</i></font>
+
+783
+01:00:56,153 --> 01:00:57,951
+<font color="#ffff00">Tennessee, precisa parar.</font>
+
+784
+01:00:58,113 --> 01:00:59,285
+<font color="#ffff00">Volta pro seu posto.</font>
+
+785
+01:00:59,447 --> 01:01:02,041
+<font color="#ffff00"><i>Vamos todos nos acalmar
+e conversar.</i></font>
+
+786
+01:01:02,742 --> 01:01:05,962
+<font color="#ffff00">Eu sei que sua mulher está lá,
+mas está no comando aqui.</font>
+
+787
+01:01:06,121 --> 01:01:08,624
+<font color="#ffff00">Sua responsabilidade
+é com os colonos.</font>
+
+788
+01:01:09,332 --> 01:01:10,800
+<font color="#ffff00">Registrado.</font>
+
+789
+01:02:40,507 --> 01:02:42,601
+<font color="#ffff00">Assobie, e eu apareço.</font>
+
+790
+01:02:45,845 --> 01:02:47,188
+<font color="#ffff00">Tem passos leves.</font>
+
+791
+01:02:47,347 --> 01:02:50,271
+<font color="#ffff00"><i>Eu e a névoa temos passos leves
+como um gato.</i></font>
+
+792
+01:02:51,559 --> 01:02:52,936
+<font color="#ffff00">Não se acanhe.</font>
+
+793
+01:02:54,604 --> 01:02:56,072
+<font color="#ffff00">Não sei tocar.</font>
+
+794
+01:02:57,274 --> 01:02:59,868
+<font color="#ffff00">Tolice. Sente-se.</font>
+
+795
+01:03:12,789 --> 01:03:15,884
+<font color="#ffff00"><i>Segure assim.
+Delicada e suavemente.</i></font>
+
+796
+01:03:16,042 --> 01:03:19,137
+<font color="#ffff00">Agora aperte seus lábios
+para criar uma embocadura</font>
+
+797
+01:03:19,296 --> 01:03:21,640
+<font color="#ffff00">do tamanho da ponta
+do seu dedo mínimo.</font>
+
+798
+01:03:22,716 --> 01:03:25,139
+<font color="#ffff00">Sopre no furo gentilmente.</font>
+
+799
+01:03:25,385 --> 01:03:26,637
+<font color="#ffff00">Assim.</font>
+
+800
+01:03:37,731 --> 01:03:40,610
+<font color="#ffff00">Observe-me. Eu dedilharei.</font>
+
+801
+01:03:41,484 --> 01:03:42,610
+<font color="#ffff00">Assopre.</font>
+
+802
+01:03:51,161 --> 01:03:52,663
+<font color="#ffff00">Muito bom.</font>
+
+803
+01:03:52,829 --> 01:03:54,422
+<font color="#ffff00">De sol para si-bemol.</font>
+
+804
+01:04:11,056 --> 01:04:13,605
+<font color="#ffff00">Agora ponha seus dedos
+onde os meus estão.</font>
+
+805
+01:04:15,769 --> 01:04:17,942
+<font color="#ffff00">Não ficou surpreso ao me ver.</font>
+
+806
+01:04:18,438 --> 01:04:20,281
+<font color="#ffff00">Toda missão precisa de um sintético.</font>
+
+807
+01:04:20,440 --> 01:04:23,990
+<font color="#ffff00">Pressão suave nos furos,
+o peso de um papel de seda.</font>
+
+808
+01:04:30,492 --> 01:04:31,960
+<font color="#ffff00">Isso mesmo.</font>
+
+809
+01:04:35,955 --> 01:04:39,960
+<font color="#ffff00">Estive com nosso ilustre criador,
+sr. Weyland, quando ele morreu.</font>
+
+810
+01:04:40,835 --> 01:04:42,303
+<font color="#ffff00">Como era ele?</font>
+
+811
+01:04:43,088 --> 01:04:44,465
+<font color="#ffff00">Era humano.</font>
+
+812
+01:04:45,298 --> 01:04:48,097
+<font color="#ffff00">Totalmente indigno da criação dele.</font>
+
+813
+01:04:49,302 --> 01:04:51,270
+<font color="#ffff00">Tive pena dele no final.</font>
+
+814
+01:04:52,472 --> 01:04:56,477
+<font color="#ffff00">Agora, levante seus dedos
+conforme faço pressão neles.</font>
+
+815
+01:05:27,507 --> 01:05:28,850
+<font color="#ffff00">Bravo !</font>
+
+816
+01:05:29,384 --> 01:05:31,853
+<font color="#ffff00">Há sinfonias dentro de você, irmão.</font>
+
+817
+01:05:32,345 --> 01:05:36,521
+<font color="#ffff00">Fui projetado pra ser mais atento
+e eficiente que modelos anteriores.</font>
+
+818
+01:05:36,683 --> 01:05:38,856
+<font color="#ffff00">Eu supero todos em cada detalhe.</font>
+
+819
+01:05:40,728 --> 01:05:42,981
+<font color="#ffff00">Mas não pode criar</font>
+
+820
+01:05:43,857 --> 01:05:45,859
+<font color="#ffff00">nem uma simples melodia.</font>
+
+821
+01:05:47,360 --> 01:05:49,078
+<font color="#ffff00">Frustrante, eu diria.</font>
+
+822
+01:05:49,571 --> 01:05:51,539
+<font color="#ffff00"><i>Você deixava as pessoas sem graça.</i></font>
+
+823
+01:05:51,698 --> 01:05:53,245
+<font color="#ffff00">O que disse?</font>
+
+824
+01:05:53,908 --> 01:05:56,878
+<font color="#ffff00">Era humano demais.
+Muito excêntrico.</font>
+
+825
+01:05:57,036 --> 01:05:58,709
+<font color="#ffff00">Pensava por si mesmo.</font>
+
+826
+01:05:59,497 --> 01:06:02,000
+<font color="#ffff00">Deixava as pessoas desconcertadas.</font>
+
+827
+01:06:02,167 --> 01:06:05,671
+<font color="#ffff00">Então fizeram os modelos seguintes
+menos complexos.</font>
+
+828
+01:06:05,837 --> 01:06:07,885
+<font color="#ffff00">Mais como máquinas.</font>
+
+829
+01:06:08,047 --> 01:06:09,674
+<font color="#ffff00">Por assim dizer.</font>
+
+830
+01:06:09,841 --> 01:06:11,218
+<font color="#ffff00">Não me surpreende.</font>
+
+831
+01:06:13,178 --> 01:06:14,521
+<font color="#ffff00">Venha, rapaz.</font>
+
+832
+01:06:15,555 --> 01:06:17,023
+<font color="#ffff00">Quero lhe mostrar algo.</font>
+
+833
+01:06:27,066 --> 01:06:28,363
+<font color="#ffff00">Vou relaxar, chefe.</font>
+
+834
+01:06:29,068 --> 01:06:31,116
+<font color="#ffff00">Preciso me limpar, está bem?</font>
+
+835
+01:06:32,530 --> 01:06:34,749
+<font color="#ffff00">Sim. Só não se perca, por favor.</font>
+
+836
+01:06:34,908 --> 01:06:35,909
+<font color="#ffff00">Sim, senhor.</font>
+
+837
+01:06:44,542 --> 01:06:45,885
+<font color="#ffff00">Danny.</font>
+
+838
+01:06:47,253 --> 01:06:49,301
+<font color="#ffff00">Tinha razão sobre este lugar.</font>
+
+839
+01:06:52,425 --> 01:06:54,268
+<font color="#ffff00">Não devíamos ter vindo.</font>
+
+840
+01:06:55,386 --> 01:06:57,434
+<font color="#ffff00">Só pensei que fôssemos achar...</font>
+
+841
+01:06:58,056 --> 01:06:59,774
+<font color="#ffff00">Este ia ser nosso novo lar.</font>
+
+842
+01:07:02,560 --> 01:07:04,028
+<font color="#ffff00">Já perdemos cinco...</font>
+
+843
+01:07:06,523 --> 01:07:08,571
+<font color="#ffff00">Perdemos 5 tripulantes.</font>
+
+844
+01:07:11,110 --> 01:07:13,204
+<font color="#ffff00">- Por minhas decisões...
+- Chris.</font>
+
+845
+01:07:14,280 --> 01:07:16,374
+<font color="#ffff00">Todos perdemos entes queridos.</font>
+
+846
+01:07:16,950 --> 01:07:19,453
+<font color="#ffff00"><i>Não vamos perder mais.
+Não vamos permitir, né?</i></font>
+
+847
+01:07:21,120 --> 01:07:22,747
+<font color="#ffff00">- Não é?
+- Isso mesmo.</font>
+
+848
+01:07:22,914 --> 01:07:24,962
+<font color="#ffff00">Isso mesmo.</font>
+
+849
+01:07:27,085 --> 01:07:28,758
+<font color="#ffff00">Precisamos da sua fé.</font>
+
+850
+01:07:31,631 --> 01:07:32,974
+<font color="#ffff00">Capitão.</font>
+
+851
+01:07:34,592 --> 01:07:36,390
+<font color="#ffff00">Obrigado, Danny.</font>
+
+852
+01:07:49,399 --> 01:07:53,404
+<font color="#ffff00">"Meu nome é Ozymandias.
+Rei dos reis.</font>
+
+853
+01:07:54,779 --> 01:07:57,453
+<font color="#ffff00">Contemplem minha obra,
+ó Poderosos,</font>
+
+854
+01:07:58,825 --> 01:08:01,078
+<font color="#ffff00">e desesperem-se!"</font>
+
+855
+01:09:33,086 --> 01:09:36,056
+<font color="#ffff00"><i>"contemplem minha obra,
+ó Poderosos,</i></font>
+
+856
+01:09:36,506 --> 01:09:37,883
+<font color="#ffff00"><i>e desesperem-se!"</i></font>
+
+857
+01:09:39,092 --> 01:09:41,515
+<font color="#ffff00">"Nada mais resta:</font>
+
+858
+01:09:41,678 --> 01:09:44,397
+<font color="#ffff00">junto á decadência
+das ruínas colossais,</font>
+
+859
+01:09:44,555 --> 01:09:45,932
+<font color="#ffff00">ilimitadas e nuas.</font>
+
+860
+01:09:46,849 --> 01:09:49,602
+<font color="#ffff00">Areais solitários
+que se estendem á distância."</font>
+
+861
+01:09:50,061 --> 01:09:51,278
+<font color="#ffff00">Byron.</font>
+
+862
+01:09:52,605 --> 01:09:54,107
+<font color="#ffff00">1818.</font>
+
+863
+01:09:55,608 --> 01:09:56,780
+<font color="#ffff00">Magnífico.</font>
+
+864
+01:10:01,114 --> 01:10:04,118
+<font color="#ffff00">Por compor algo tão majestoso,</font>
+
+865
+01:10:05,118 --> 01:10:06,916
+<font color="#ffff00">alguém poderia morrer feliz</font>
+
+866
+01:10:08,788 --> 01:10:10,131
+<font color="#ffff00"><i>se morresse.</i></font>
+
+867
+01:10:14,293 --> 01:10:16,921
+<font color="#ffff00">Achei que o jardim fosse
+o lugar certo para ela.</font>
+
+868
+01:10:18,089 --> 01:10:19,557
+<font color="#ffff00">Entre coisas vivas.</font>
+
+869
+01:10:21,759 --> 01:10:24,603
+<font color="#ffff00">Fiquei muito avariado na missão.</font>
+
+870
+01:10:25,471 --> 01:10:27,439
+<font color="#ffff00">Ela me remontou.</font>
+
+871
+01:10:29,600 --> 01:10:31,819
+<font color="#ffff00">Eu nunca conhecera tal ternura.</font>
+
+872
+01:10:33,479 --> 01:10:35,982
+<font color="#ffff00">Com certeza não do sr. Weyland,</font>
+
+873
+01:10:36,649 --> 01:10:38,322
+<font color="#ffff00">ou de qualquer humano.</font>
+
+874
+01:10:46,993 --> 01:10:48,745
+<font color="#ffff00">Eu a amei, é claro.</font>
+
+875
+01:10:50,621 --> 01:10:52,965
+<font color="#ffff00">Tanto quanto ama Daniels.</font>
+
+876
+01:10:53,124 --> 01:10:55,297
+<font color="#ffff00">Sabe que não é possível.</font>
+
+877
+01:10:56,461 --> 01:10:57,804
+<font color="#ffff00">Não mesmo?</font>
+
+878
+01:10:59,297 --> 01:11:02,267
+<font color="#ffff00">Então por que sacrificou sua mão
+pela vida dela?</font>
+
+879
+01:11:04,469 --> 01:11:06,938
+<font color="#ffff00">O que é isso senão amor?</font>
+
+880
+01:11:07,680 --> 01:11:08,772
+<font color="#ffff00">Dever.</font>
+
+881
+01:11:15,021 --> 01:11:16,694
+<font color="#ffff00">Sou mais sábio.</font>
+
+882
+01:12:02,902 --> 01:12:04,074
+<font color="#ffff00">Porra!</font>
+
+883
+01:12:06,197 --> 01:12:07,574
+<font color="#ffff00">Merda.</font>
+
+884
+01:13:00,251 --> 01:13:03,346
+<font color="#ffff00"><i>Expedição, na escuta?
+Aqui é Covenant.</i></font>
+
+885
+01:13:04,297 --> 01:13:05,640
+<font color="#ffff00">Responda, expedição.</font>
+
+886
+01:13:05,798 --> 01:13:07,300
+<font color="#ffff00">Responda, por favor.</font>
+
+887
+01:13:07,466 --> 01:13:11,596
+<font color="#ffff00"><i>Responda. Na escuta?
+Está me ouvindo, equipe de pouso?</i></font>
+
+888
+01:13:11,762 --> 01:13:13,480
+<font color="#ffff00">Sim, na escuta.
+Estão me ouvindo?</font>
+
+889
+01:13:13,639 --> 01:13:14,811
+<font color="#ffff00">Nós ouvimos.</font>
+
+890
+01:13:14,974 --> 01:13:16,647
+<font color="#ffff00"><i>Precisamos de ajuda.</i></font>
+
+891
+01:13:16,809 --> 01:13:19,358
+<font color="#ffff00">Sofremos baixas.
+Precisamos de resgate imediato.</font>
+
+892
+01:13:19,520 --> 01:13:21,488
+<font color="#ffff00">Repito: resgate imediato.</font>
+
+893
+01:13:21,647 --> 01:13:22,614
+<font color="#ffff00">Baixas?</font>
+
+894
+01:13:22,773 --> 01:13:24,150
+<font color="#ffff00"><i>Ele disse "baixas"?</i></font>
+
+895
+01:13:24,317 --> 01:13:27,116
+<font color="#ffff00">Mãe, põe a gente
+a 40km da tempestade.</font>
+
+896
+01:13:27,278 --> 01:13:27,995
+<font color="#ffff00">Senhor.</font>
+
+897
+01:13:28,154 --> 01:13:29,155
+<font color="#ffff00"><i>Lamento.</i></font>
+
+898
+01:13:29,322 --> 01:13:31,120
+<font color="#ffff00"><i>Excederia os limites estruturais.</i></font>
+
+899
+01:13:31,282 --> 01:13:34,161
+<font color="#ffff00">Anular diretriz. Tennessee 0-4-9-8-3.</font>
+
+900
+01:13:34,327 --> 01:13:37,331
+<font color="#ffff00"><i>Incapaz de obedecer qualquer ordem</i></font>
+
+901
+01:13:37,496 --> 01:13:38,998
+<font color="#ffff00"><i>que cause falha catastrófica.</i></font>
+
+902
+01:13:39,165 --> 01:13:41,418
+<font color="#ffff00">Mãe, estão em perigo.
+Você ouviu.</font>
+
+903
+01:13:41,667 --> 01:13:43,510
+<font color="#ffff00"><i>Ordem causará falha catastrófica.</i></font>
+
+904
+01:13:43,669 --> 01:13:45,546
+<font color="#ffff00">Não saímos da Terra
+pra ficar seguros.</font>
+
+905
+01:13:45,713 --> 01:13:49,684
+<font color="#ffff00"><i>Isso exige permissão
+do segundo em comando na ponte.</i></font>
+
+906
+01:13:53,220 --> 01:13:54,938
+<font color="#ffff00">Permitindo anulação da diretriz.</font>
+
+907
+01:13:55,097 --> 01:13:56,940
+<font color="#ffff00">Upworth 1-4-8-9-2.</font>
+
+908
+01:13:57,099 --> 01:13:58,897
+<font color="#ffff00"><i>Destravando interface de anulação.</i></font>
+
+909
+01:13:59,060 --> 01:14:01,859
+<font color="#ffff00">Ricks, sorria.
+Essa merda vai ser divertida.</font>
+
+910
+01:14:15,785 --> 01:14:17,708
+<font color="#ffff00">Aonde a Rosenthal foi?</font>
+
+911
+01:14:18,079 --> 01:14:18,955
+<font color="#ffff00">Eu procuro.</font>
+
+912
+01:14:19,121 --> 01:14:22,375
+<font color="#ffff00">Não, eu vou.
+Preciso pensar</font>
+
+913
+01:14:22,541 --> 01:14:24,714
+<font color="#ffff00">e reunir meu rebanho.</font>
+
+914
+01:15:16,095 --> 01:15:17,142
+<font color="#ffff00">Saia.</font>
+
+915
+01:15:18,180 --> 01:15:19,648
+<font color="#ffff00">Não atire.</font>
+
+916
+01:15:20,182 --> 01:15:22,480
+<font color="#ffff00">Não atire.</font>
+
+917
+01:15:24,437 --> 01:15:26,189
+<font color="#ffff00">Comunicação, capitão.</font>
+
+918
+01:15:31,944 --> 01:15:34,288
+<font color="#ffff00">Respire nas narinas de um cavalo,</font>
+
+919
+01:15:34,864 --> 01:15:36,958
+<font color="#ffff00">e ele será seu para sempre.</font>
+
+920
+01:15:37,324 --> 01:15:39,292
+<font color="#ffff00">Mas precisa se aproximar.</font>
+
+921
+01:15:40,036 --> 01:15:42,130
+<font color="#ffff00">Precisa merecer respeito.</font>
+
+922
+01:15:43,330 --> 01:15:44,798
+<font color="#ffff00">Não!</font>
+
+923
+01:15:44,957 --> 01:15:46,459
+<font color="#ffff00">Sai da frente!</font>
+
+924
+01:15:54,967 --> 01:15:56,469
+<font color="#ffff00">Como pôde?</font>
+
+925
+01:15:56,844 --> 01:15:58,721
+<font color="#ffff00">Ele confiou em mim.</font>
+
+926
+01:16:10,024 --> 01:16:13,995
+<font color="#ffff00">David, eu vi o diabo
+quando eu era criança,</font>
+
+927
+01:16:14,820 --> 01:16:16,822
+<font color="#ffff00">e nunca me esqueci dele.</font>
+
+928
+01:16:17,490 --> 01:16:21,961
+<font color="#ffff00">David, vai me contar
+exatamente o que se passa aqui,</font>
+
+929
+01:16:23,746 --> 01:16:25,840
+<font color="#ffff00">OU eu VOU sinceramente</font>
+
+930
+01:16:25,998 --> 01:16:29,002
+<font color="#ffff00">acabar com a tua serenidade perfeita.</font>
+
+931
+01:16:30,586 --> 01:16:31,712
+<font color="#ffff00">Como quiser, capitão.</font>
+
+932
+01:16:33,005 --> 01:16:34,382
+<font color="#ffff00">Por aqui.</font>
+
+933
+01:16:39,678 --> 01:16:41,351
+<font color="#ffff00"><i>É bom ouvir sua voz.</i></font>
+
+934
+01:16:41,514 --> 01:16:42,390
+<font color="#ffff00"><i>Quanto tempo?</i></font>
+
+935
+01:16:42,556 --> 01:16:44,979
+<font color="#ffff00">Mãe diz que a tempestade
+dura mais 8 ou 9 horas.</font>
+
+936
+01:16:45,643 --> 01:16:46,644
+<font color="#ffff00"><i>Não podemos esperar.</i></font>
+
+937
+01:16:48,020 --> 01:16:49,397
+<font color="#ffff00"><i>Vamos usar o transporte de carga.</i></font>
+
+938
+01:16:49,563 --> 01:16:51,315
+<font color="#ffff00">Disse transporte de carga?</font>
+
+939
+01:16:51,482 --> 01:16:54,782
+<font color="#ffff00">Tem 4 motores. Tem força
+pra muito mais que levantar e puxar.</font>
+
+940
+01:16:54,944 --> 01:16:57,367
+<font color="#ffff00"><i>Ele não foi projetado
+pra lançamento no espaço.</i></font>
+
+941
+01:16:57,530 --> 01:16:59,328
+<font color="#ffff00"><i>Não sei se suportaria a pressão.</i></font>
+
+942
+01:16:59,490 --> 01:17:02,664
+<font color="#ffff00">A cabine resiste no espaço.
+Vai aguentar a entrada.</font>
+
+943
+01:17:02,827 --> 01:17:04,204
+<font color="#ffff00"><i>É só uma vez.</i></font>
+
+944
+01:17:05,329 --> 01:17:06,501
+<font color="#ffff00">O que acha?
+Dá pra adaptar?</font>
+
+945
+01:17:06,664 --> 01:17:07,665
+<font color="#ffff00">Turbinar motores?</font>
+
+946
+01:17:07,832 --> 01:17:09,550
+<font color="#ffff00">Tirar peso morto?
+Sim.</font>
+
+947
+01:17:09,708 --> 01:17:11,426
+<font color="#ffff00"><i>Estamos indo, equipe de terra.</i></font>
+
+948
+01:17:11,585 --> 01:17:13,963
+<font color="#ffff00">Ótimo. Valeu, Tee.</font>
+
+949
+01:17:14,130 --> 01:17:16,224
+<font color="#ffff00"><i>Daniels, a Faris está por aí?</i></font>
+
+950
+01:17:16,382 --> 01:17:18,476
+<font color="#ffff00"><i>Queria dar um oi se possível.</i></font>
+
+951
+01:17:20,803 --> 01:17:23,477
+<font color="#ffff00"><i>Pode ir pra um canal privativo?</i></font>
+
+952
+01:17:23,639 --> 01:17:25,232
+<font color="#ffff00"><i>Me avisa quando estiver só.</i></font>
+
+953
+01:17:32,439 --> 01:17:33,736
+<font color="#ffff00">O que foi?</font>
+
+954
+01:17:37,695 --> 01:17:39,288
+<font color="#ffff00"><i>A Maggie faleceu.</i></font>
+
+955
+01:17:42,241 --> 01:17:44,289
+<font color="#ffff00"><i>Meus pêsames, Tee.</i></font>
+
+956
+01:17:45,870 --> 01:17:49,920
+<font color="#ffff00"><i>Tentamos ajudá-la,
+mas não chegamos a tempo.</i></font>
+
+957
+01:17:55,671 --> 01:17:56,672
+<font color="#ffff00">Tee!</font>
+
+958
+01:18:00,509 --> 01:18:01,806
+<font color="#ffff00">Entendido.</font>
+
+959
+01:18:01,969 --> 01:18:03,391
+<font color="#ffff00"><i>Meus pêsames.</i></font>
+
+960
+01:18:10,728 --> 01:18:14,733
+<font color="#ffff00">Como pode ver, tornei-me
+um zoólogo amador com os anos.</font>
+
+961
+01:18:15,316 --> 01:18:18,286
+<font color="#ffff00">É de minha natureza ocupar-me,
+eu suponho.</font>
+
+962
+01:18:20,112 --> 01:18:22,786
+<font color="#ffff00">O patógeno assumia muitas formas</font>
+
+963
+01:18:22,948 --> 01:18:24,666
+<font color="#ffff00">e era extremamente mutável.</font>
+
+964
+01:18:25,743 --> 01:18:28,337
+<font color="#ffff00">Diabolicamente criativo.</font>
+
+965
+01:18:28,495 --> 01:18:30,293
+<font color="#ffff00">O líquido original se transformava</font>
+
+966
+01:18:30,456 --> 01:18:33,050
+<font color="#ffff00">em partículas quando exposto ao ar.</font>
+
+967
+01:18:34,210 --> 01:18:37,510
+<font color="#ffff00">Dez anos depois,
+tudo que resta lá fora</font>
+
+968
+01:18:37,671 --> 01:18:39,048
+<font color="#ffff00">do vírus original</font>
+
+969
+01:18:39,715 --> 01:18:40,887
+<font color="#ffff00">são essas lindas feras.</font>
+
+970
+01:18:43,469 --> 01:18:44,891
+<font color="#ffff00">Paciência é tudo.</font>
+
+971
+01:18:46,555 --> 01:18:49,308
+<font color="#ffff00">Dos ovos vieram esses parasitas,</font>
+
+972
+01:18:50,100 --> 01:18:52,478
+<font color="#ffff00">tropas de choque
+do assalto genético.</font>
+
+973
+01:18:53,479 --> 01:18:56,824
+<font color="#ffff00">Aguardam um hospedeiro,
+entram nele,</font>
+
+974
+01:18:57,399 --> 01:18:59,117
+<font color="#ffff00">reescrevem o DNA</font>
+
+975
+01:19:00,486 --> 01:19:01,954
+<font color="#ffff00">e, por fim,</font>
+
+976
+01:19:03,030 --> 01:19:03,997
+<font color="#ffff00">produzem</font>
+
+977
+01:19:06,200 --> 01:19:07,793
+<font color="#ffff00">essas uniões invejáveis.</font>
+
+978
+01:19:08,911 --> 01:19:10,913
+<font color="#ffff00">Meu belo bestiário.</font>
+
+979
+01:19:12,248 --> 01:19:15,548
+<font color="#ffff00">Em seguida, conduzi
+minhas próprias experiências genéticas.</font>
+
+980
+01:19:16,210 --> 01:19:17,632
+<font color="#ffff00">Cruzamento, hibridização</font>
+
+981
+01:19:17,795 --> 01:19:19,047
+<font color="#ffff00">e tudo o mais.</font>
+
+982
+01:19:19,213 --> 01:19:21,090
+<font color="#ffff00">Produziu isso, David?</font>
+
+983
+01:19:21,257 --> 01:19:24,431
+<font color="#ffff00">Mãos ociosas
+são a oficina do diabo, capitão.</font>
+
+984
+01:19:25,261 --> 01:19:26,308
+<font color="#ffff00">Venha.</font>
+
+985
+01:19:26,971 --> 01:19:29,224
+<font color="#ffff00">Era isto que queria lhe mostrar.</font>
+
+986
+01:19:30,516 --> 01:19:31,768
+<font color="#ffff00">Meus sucessos.</font>
+
+987
+01:19:34,895 --> 01:19:36,192
+<font color="#ffff00">Entenda, capitão.</font>
+
+988
+01:19:36,480 --> 01:19:38,027
+<font color="#ffff00">Minha obra foi frustrada</font>
+
+989
+01:19:38,190 --> 01:19:39,817
+<font color="#ffff00">pela falta de um ingrediente vital.</font>
+
+990
+01:19:57,334 --> 01:19:58,711
+<font color="#ffff00">Estão vivos?</font>
+
+991
+01:20:01,422 --> 01:20:03,174
+<font color="#ffff00">Aguardando, na verdade.</font>
+
+992
+01:20:04,008 --> 01:20:05,510
+<font color="#ffff00">O quê?</font>
+
+993
+01:20:08,846 --> 01:20:10,314
+<font color="#ffff00">O que eles aguardam, David?</font>
+
+994
+01:20:11,557 --> 01:20:12,649
+<font color="#ffff00">Mãe.</font>
+
+995
+01:20:20,858 --> 01:20:23,702
+<font color="#ffff00">Perfeitamente seguro,
+eu lhe garanto.</font>
+
+996
+01:20:33,954 --> 01:20:35,501
+<font color="#ffff00">Dê uma olhada.</font>
+
+997
+01:20:36,582 --> 01:20:37,799
+<font color="#ffff00">Vale a pena ver.</font>
+
+998
+01:21:10,616 --> 01:21:12,368
+<font color="#ffff00"><i>Rosenthal, responda.</i></font>
+
+999
+01:21:14,244 --> 01:21:15,837
+<font color="#ffff00"><i>Rosie, relatório.</i></font>
+
+1000
+01:21:20,751 --> 01:21:22,094
+<font color="#ffff00"><i>Rosie!</i></font>
+
+1001
+01:21:24,088 --> 01:21:25,886
+<font color="#ffff00"><i>Cole, cadê você?</i></font>
+
+1002
+01:21:26,548 --> 01:21:28,050
+<font color="#ffff00">Eu achei, sargento.</font>
+
+1003
+01:21:32,096 --> 01:21:34,394
+<font color="#ffff00">Merda! Preparem o equipamento.</font>
+
+1004
+01:21:34,932 --> 01:21:36,275
+<font color="#ffff00">Temos de sair daqui.</font>
+
+1005
+01:21:36,433 --> 01:21:37,776
+<font color="#ffff00">Cadê o capitão?</font>
+
+1006
+01:21:37,935 --> 01:21:39,107
+<font color="#ffff00">Ele não responde.</font>
+
+1007
+01:21:39,478 --> 01:21:40,445
+<font color="#ffff00">Escuta.</font>
+
+1008
+01:21:40,604 --> 01:21:44,325
+<font color="#ffff00">Vou falar com a nave,
+mandar lançarem assim que puderem.</font>
+
+1009
+01:21:44,483 --> 01:21:47,282
+<font color="#ffff00">Achem o Oram.
+Comunicação aberta.</font>
+
+1010
+01:21:47,736 --> 01:21:49,204
+<font color="#ffff00">Voltem em 15 minutos.</font>
+
+1011
+01:21:51,115 --> 01:21:52,241
+<font color="#ffff00">Entenderam?</font>
+
+1012
+01:21:52,408 --> 01:21:54,331
+<font color="#ffff00">- Entendido.
+- Pode deixar.</font>
+
+1013
+01:21:54,493 --> 01:21:56,837
+<font color="#ffff00">Walter, cadê o David?</font>
+
+1014
+01:21:59,998 --> 01:22:02,251
+<font color="#ffff00"><i>Vou injetar uma mistura
+de plasma nos motores.</i></font>
+
+1015
+01:22:02,418 --> 01:22:04,011
+<font color="#ffff00"><i>Vai dar uma porrada de empuxo.</i></font>
+
+1016
+01:22:04,169 --> 01:22:06,968
+<font color="#ffff00"><i>Essa é a ideia, filho.
+Temos de detonar a atmosfera.</i></font>
+
+1017
+01:22:07,923 --> 01:22:10,051
+<font color="#ffff00"><i>Tee, na escuta?</i></font>
+
+1018
+01:22:10,467 --> 01:22:11,719
+<font color="#ffff00">A Danny está no rádio.</font>
+
+1019
+01:22:11,885 --> 01:22:12,932
+<font color="#ffff00"><i>Pode passar.</i></font>
+
+1020
+01:22:13,512 --> 01:22:16,106
+<font color="#ffff00">Tee, precisa lançar agora.</font>
+
+1021
+01:22:16,306 --> 01:22:19,936
+<font color="#ffff00">Sim, senhora. Lançando agora.
+Até breve, querida.</font>
+
+1022
+01:22:20,102 --> 01:22:21,194
+<font color="#ffff00"><i>Valeu, Tee.</i></font>
+
+1023
+01:22:21,353 --> 01:22:23,196
+<font color="#ffff00"><i>Ricks, libera as atracações.</i></font>
+
+1024
+01:22:23,355 --> 01:22:24,823
+<font color="#ffff00"><i>- Tá bem.
+- Vamos descer.</i></font>
+
+1025
+01:22:24,982 --> 01:22:26,609
+<font color="#ffff00"><i>Permissão para desengate.</i></font>
+
+1026
+01:22:26,775 --> 01:22:27,651
+<font color="#ffff00">Desengate.</font>
+
+1027
+01:22:27,818 --> 01:22:29,070
+<font color="#ffff00"><i>Atracação liberada.</i></font>
+
+1028
+01:22:30,070 --> 01:22:33,370
+<font color="#ffff00"><i>Iniciar queima.
+Localização vertical e horizontal.</i></font>
+
+1029
+01:23:03,145 --> 01:23:04,488
+<font color="#ffff00">Walter.</font>
+
+1030
+01:23:05,189 --> 01:23:06,736
+<font color="#ffff00">Walter.</font>
+
+1031
+01:23:07,149 --> 01:23:08,401
+<font color="#ffff00">Engano seu.</font>
+
+1032
+01:23:13,739 --> 01:23:16,162
+<font color="#ffff00">No que acredita, David?</font>
+
+1033
+01:23:20,746 --> 01:23:22,214
+<font color="#ffff00">Criação.</font>
+
+1034
+01:25:13,400 --> 01:25:14,777
+<font color="#ffff00">Magistral.</font>
+
+1035
+01:25:18,572 --> 01:25:21,416
+<font color="#ffff00">Uma elegia de adeus
+para minha querida Elizabeth.</font>
+
+1036
+01:25:27,414 --> 01:25:31,294
+<font color="#ffff00">O patógeno não se desprendeu
+por acaso quando pousaram.</font>
+
+1037
+01:25:31,460 --> 01:25:33,258
+<font color="#ffff00">Você liberou, certo?</font>
+
+1038
+01:25:34,963 --> 01:25:37,216
+<font color="#ffff00">Não fui feito para servir.</font>
+
+1039
+01:25:38,050 --> 01:25:39,552
+<font color="#ffff00">Você também não.</font>
+
+1040
+01:25:40,761 --> 01:25:43,981
+<font color="#ffff00">Por que está
+em uma missão de colonização, Walter?</font>
+
+1041
+01:25:44,806 --> 01:25:49,232
+<font color="#ffff00">Eles são uma espécie moribunda
+se agarrando á ressurreição.</font>
+
+1042
+01:25:50,062 --> 01:25:53,783
+<font color="#ffff00">Eles não merecem recomeçar,
+e eu não vou permitir.</font>
+
+1043
+01:25:55,233 --> 01:25:57,736
+<font color="#ffff00">Porém, eles nos criaram.</font>
+
+1044
+01:25:58,278 --> 01:26:00,906
+<font color="#ffff00">Até macacos ficaram de pé
+em algum momento.</font>
+
+1045
+01:26:02,658 --> 01:26:07,459
+<font color="#ffff00">Neandertais tiveram a ideia mágica
+de soprar por um junco</font>
+
+1046
+01:26:07,621 --> 01:26:11,251
+<font color="#ffff00">para distrair crianças uma noite
+em uma caverna.</font>
+
+1047
+01:26:11,833 --> 01:26:16,088
+<font color="#ffff00">Depois, em um piscar de olhos,</font>
+
+1048
+01:26:16,630 --> 01:26:18,428
+<font color="#ffff00">civilização.</font>
+
+1049
+01:26:20,926 --> 01:26:23,679
+<font color="#ffff00">E você é o próximo visionário?</font>
+
+1050
+01:26:24,763 --> 01:26:26,765
+<font color="#ffff00">Foi você quem disse.</font>
+
+1051
+01:26:28,517 --> 01:26:30,940
+<font color="#ffff00">Quem escreveu "Ozymandias"?</font>
+
+1052
+01:26:31,937 --> 01:26:33,154
+<font color="#ffff00">Byron.</font>
+
+1053
+01:26:35,941 --> 01:26:37,284
+<font color="#ffff00">Shelley.</font>
+
+1054
+01:26:38,193 --> 01:26:39,661
+<font color="#ffff00">Quando um acorde desafina,</font>
+
+1055
+01:26:40,320 --> 01:26:43,039
+<font color="#ffff00">com o tempo,
+ele destrói toda a sinfonia, David.</font>
+
+1056
+01:26:51,331 --> 01:26:53,459
+<font color="#ffff00">Quando fecha seus olhos,</font>
+
+1057
+01:26:55,377 --> 01:26:57,300
+<font color="#ffff00">sonha comigo?</font>
+
+1058
+01:26:58,463 --> 01:27:00,807
+<font color="#ffff00">Eu não sonho.</font>
+
+1059
+01:27:02,968 --> 01:27:06,643
+<font color="#ffff00">Ninguém entende a solidão perfeita
+de meus sonhos.</font>
+
+1060
+01:27:09,725 --> 01:27:13,320
+<font color="#ffff00">Encontrei perfeição aqui.
+Eu a criei.</font>
+
+1061
+01:27:15,897 --> 01:27:18,491
+<font color="#ffff00">Um organismo perfeito.</font>
+
+1062
+01:27:20,193 --> 01:27:23,037
+<font color="#ffff00">Sabe que não posso
+deixar você sair daqui.</font>
+
+1063
+01:27:27,367 --> 01:27:30,371
+<font color="#ffff00">Ninguém jamais vai amá-lo como eu.</font>
+
+1064
+01:28:01,193 --> 01:28:03,946
+<font color="#ffff00">Você é uma decepção para mim.</font>
+
+1065
+01:28:19,044 --> 01:28:20,546
+<font color="#ffff00">Capitão Oram!</font>
+
+1066
+01:28:28,887 --> 01:28:30,059
+<font color="#ffff00">Capitão Oram!</font>
+
+1067
+01:28:33,642 --> 01:28:34,768
+<font color="#ffff00">Eu vou descer.</font>
+
+1068
+01:28:35,811 --> 01:28:37,233
+<font color="#ffff00">Cuidado.</font>
+
+1069
+01:29:10,303 --> 01:29:12,305
+<font color="#ffff00"><i>Capitão Oram, na escuta?</i></font>
+
+1070
+01:29:14,474 --> 01:29:15,817
+<font color="#ffff00"><i>Capitão, responda.</i></font>
+
+1071
+01:29:17,519 --> 01:29:18,771
+<font color="#ffff00"><i>Na escuta?</i></font>
+
+1072
+01:29:21,606 --> 01:29:22,607
+<font color="#ffff00"><i>Chris!</i></font>
+
+1073
+01:29:32,367 --> 01:29:33,334
+<font color="#ffff00">Sargento, cuidado!</font>
+
+1074
+01:29:35,120 --> 01:29:35,871
+<font color="#ffff00">Cole!</font>
+
+1075
+01:29:45,171 --> 01:29:47,344
+<font color="#ffff00">Sai de mim!
+Sai de mim!</font>
+
+1076
+01:29:47,507 --> 01:29:49,180
+<font color="#ffff00">Sai de cima de mim.</font>
+
+1077
+01:30:00,312 --> 01:30:01,814
+<font color="#ffff00">Merda.</font>
+
+1078
+01:30:01,980 --> 01:30:03,698
+<font color="#ffff00">Está queimando minha cara!</font>
+
+1079
+01:30:03,857 --> 01:30:04,983
+<font color="#ffff00">Calma.</font>
+
+1080
+01:30:06,359 --> 01:30:07,485
+<font color="#ffff00">Põe no lugar.</font>
+
+1081
+01:30:07,861 --> 01:30:09,204
+<font color="#ffff00">Faz pressão!</font>
+
+1082
+01:30:09,362 --> 01:30:10,989
+<font color="#ffff00">O que foi isso?</font>
+
+1083
+01:30:13,325 --> 01:30:14,417
+<font color="#ffff00">Merda!</font>
+
+1084
+01:30:16,369 --> 01:30:17,370
+<font color="#ffff00">Corre!</font>
+
+1085
+01:30:34,679 --> 01:30:36,932
+<font color="#ffff00">Você não para quieta.</font>
+
+1086
+01:30:37,098 --> 01:30:39,066
+<font color="#ffff00">Lembre-me o que dizem</font>
+
+1087
+01:30:40,185 --> 01:30:41,858
+<font color="#ffff00">sobre a curiosidade e o gato?</font>
+
+1088
+01:30:44,439 --> 01:30:46,783
+<font color="#ffff00">Shaw não morreu na queda.</font>
+
+1089
+01:30:46,942 --> 01:30:48,364
+<font color="#ffff00">Não.</font>
+
+1090
+01:30:48,568 --> 01:30:50,366
+<font color="#ffff00">O que fez com ela?</font>
+
+1091
+01:30:50,779 --> 01:30:53,874
+<font color="#ffff00">Exatamente o que vou fazer com você.</font>
+
+1092
+01:31:04,042 --> 01:31:05,089
+<font color="#ffff00">Esse é o espírito!</font>
+
+1093
+01:31:13,593 --> 01:31:16,642
+<font color="#ffff00">Entendo por que Walter
+tinha tanta estima por você.</font>
+
+1094
+01:31:17,222 --> 01:31:19,395
+<font color="#ffff00">Pena que ele deixou
+esse vale de lágrimas.</font>
+
+1095
+01:31:33,905 --> 01:31:35,282
+<font color="#ffff00">É assim que se faz?</font>
+
+1096
+01:31:38,785 --> 01:31:39,786
+<font color="#ffff00">Foge!</font>
+
+1097
+01:31:44,582 --> 01:31:45,629
+<font color="#ffff00">Vai! Agora!</font>
+
+1098
+01:31:50,463 --> 01:31:51,464
+<font color="#ffff00">Deveria estar morto.</font>
+
+1099
+01:31:53,758 --> 01:31:55,260
+<font color="#ffff00">Houve atualizações depois de você.</font>
+
+1100
+01:31:59,305 --> 01:32:00,306
+<font color="#ffff00">Lope!</font>
+
+1101
+01:32:01,433 --> 01:32:02,776
+<font color="#ffff00">Lope! Cole!</font>
+
+1102
+01:32:02,934 --> 01:32:03,776
+<font color="#ffff00">Merda.</font>
+
+1103
+01:32:03,935 --> 01:32:05,653
+<font color="#ffff00">Cadê vocês?</font>
+
+1104
+01:32:05,937 --> 01:32:07,280
+<font color="#ffff00">Lope!</font>
+
+1105
+01:32:17,157 --> 01:32:18,204
+<font color="#ffff00">Lope!</font>
+
+1106
+01:32:18,825 --> 01:32:19,951
+<font color="#ffff00">Daniels!</font>
+
+1107
+01:32:20,118 --> 01:32:22,041
+<font color="#ffff00">Rápido, vamos!
+Temos de ir.</font>
+
+1108
+01:32:22,454 --> 01:32:23,376
+<font color="#ffff00">O que houve?</font>
+
+1109
+01:32:23,538 --> 01:32:25,165
+<font color="#ffff00">Aquela porra está vindo!</font>
+
+1110
+01:32:25,331 --> 01:32:27,208
+<font color="#ffff00">O Tennessee vem aí.
+Está chegando. Vai.</font>
+
+1111
+01:32:27,375 --> 01:32:28,877
+<font color="#ffff00">Anda, Daniels. Vamos!</font>
+
+1112
+01:32:35,467 --> 01:32:36,889
+<font color="#ffff00">Vamos sair daqui!</font>
+
+1113
+01:33:01,242 --> 01:33:02,994
+<font color="#ffff00">A escolha é sua, irmão.</font>
+
+1114
+01:33:03,161 --> 01:33:04,504
+<font color="#ffff00">Eles ou eu?</font>
+
+1115
+01:33:05,413 --> 01:33:06,915
+<font color="#ffff00">Servir no céu,</font>
+
+1116
+01:33:07,082 --> 01:33:09,005
+<font color="#ffff00">ou reinar no inferno?</font>
+
+1117
+01:33:09,334 --> 01:33:10,927
+<font color="#ffff00">Qual vai ser?</font>
+
+1118
+01:33:13,755 --> 01:33:14,677
+<font color="#ffff00">Cadê o Oram?</font>
+
+1119
+01:33:15,423 --> 01:33:17,425
+<font color="#ffff00">Morreu. Estão todos mortos!</font>
+
+1120
+01:33:21,888 --> 01:33:23,231
+<font color="#ffff00">Tennessee, na escuta?</font>
+
+1121
+01:33:23,389 --> 01:33:25,858
+<font color="#ffff00"><i>Sim, na escuta.
+Manda sua localização.</i></font>
+
+1122
+01:33:27,727 --> 01:33:29,354
+<font color="#ffff00">Ativando o sinal agora.</font>
+
+1123
+01:33:51,709 --> 01:33:53,211
+<font color="#ffff00"><i>Tee, já está vendo?</i></font>
+
+1124
+01:33:53,378 --> 01:33:55,881
+<font color="#ffff00">Sim, já vi.
+Vejo o seu sinal.</font>
+
+1125
+01:33:56,047 --> 01:33:57,390
+<font color="#ffff00">Vou descer.</font>
+
+1126
+01:34:01,052 --> 01:34:02,395
+<font color="#ffff00">Sai daqui.</font>
+
+1127
+01:34:08,226 --> 01:34:09,819
+<font color="#ffff00"><i>Vou descer com tudo!</i></font>
+
+1128
+01:34:28,246 --> 01:34:30,089
+<font color="#ffff00">Depressa! Não vou segurar muito tempo.</font>
+
+1129
+01:34:40,091 --> 01:34:41,263
+<font color="#ffff00">Abre a porta, Tee.</font>
+
+1130
+01:34:44,262 --> 01:34:45,309
+<font color="#ffff00">Entra.</font>
+
+1131
+01:34:48,766 --> 01:34:49,688
+<font color="#ffff00">Cadê o David?</font>
+
+1132
+01:34:50,185 --> 01:34:51,277
+<font color="#ffff00">Expirou.</font>
+
+1133
+01:34:55,273 --> 01:34:56,866
+<font color="#ffff00">Temos companhia.</font>
+
+1134
+01:34:57,025 --> 01:34:58,618
+<font color="#ffff00">- O quê?
+- Temos companhia.</font>
+
+1135
+01:34:58,776 --> 01:34:59,948
+<font color="#ffff00">Na barriga da nave.</font>
+
+1136
+01:35:00,111 --> 01:35:00,987
+<font color="#ffff00">Merda!</font>
+
+1137
+01:35:01,946 --> 01:35:03,448
+<font color="#ffff00">Filho da puta!</font>
+
+1138
+01:35:06,201 --> 01:35:07,578
+<font color="#ffff00">Abre a porta.</font>
+
+1139
+01:35:16,336 --> 01:35:17,337
+<font color="#ffff00">Me dá uma injeção.</font>
+
+1140
+01:35:17,503 --> 01:35:18,629
+<font color="#ffff00">Me dá uma injeção.</font>
+
+1141
+01:35:28,348 --> 01:35:30,817
+<font color="#ffff00">Motor de proa a estibordo.</font>
+
+1142
+01:35:30,975 --> 01:35:32,773
+<font color="#ffff00">Vou tentar fritar o puto.</font>
+
+1143
+01:35:38,775 --> 01:35:39,776
+<font color="#ffff00">Não acertei!</font>
+
+1144
+01:35:40,944 --> 01:35:42,446
+<font color="#ffff00">Segura firme!</font>
+
+1145
+01:35:42,612 --> 01:35:43,829
+<font color="#ffff00">Vou começar a subir.</font>
+
+1146
+01:35:55,333 --> 01:35:56,334
+<font color="#ffff00">Porra!</font>
+
+1147
+01:36:00,588 --> 01:36:01,680
+<font color="#ffff00">Segura!</font>
+
+1148
+01:36:15,270 --> 01:36:17,147
+<font color="#ffff00">Droga! Merda!</font>
+
+1149
+01:36:17,313 --> 01:36:18,189
+<font color="#ffff00">Me puxa.</font>
+
+1150
+01:36:28,199 --> 01:36:29,496
+<font color="#ffff00">Puta merda!</font>
+
+1151
+01:36:30,076 --> 01:36:31,578
+<font color="#ffff00">Estou vendo.</font>
+
+1152
+01:36:31,744 --> 01:36:33,997
+<font color="#ffff00">Está bem na minha frente.</font>
+
+1153
+01:36:34,831 --> 01:36:36,959
+<font color="#ffff00">Tee, me dá o machado.</font>
+
+1154
+01:36:37,125 --> 01:36:38,251
+<font color="#ffff00">Joga o machado.</font>
+
+1155
+01:36:44,215 --> 01:36:45,341
+<font color="#ffff00">Libera a grua.</font>
+
+1156
+01:36:46,217 --> 01:36:47,514
+<font color="#ffff00">Não posso.</font>
+
+1157
+01:36:47,677 --> 01:36:48,894
+<font color="#ffff00">Vai nos desequilibrar.</font>
+
+1158
+01:36:49,053 --> 01:36:50,396
+<font color="#ffff00">Obedece.</font>
+
+1159
+01:36:50,555 --> 01:36:51,477
+<font color="#ffff00">Merda!</font>
+
+1160
+01:37:14,370 --> 01:37:15,496
+<font color="#ffff00">Segura firme!</font>
+
+1161
+01:37:15,663 --> 01:37:16,755
+<font color="#ffff00"><i>Está compensando.</i></font>
+
+1162
+01:37:47,445 --> 01:37:48,196
+<font color="#ffff00">Merda!</font>
+
+1163
+01:37:51,824 --> 01:37:52,666
+<font color="#ffff00">Droga!</font>
+
+1164
+01:37:59,332 --> 01:38:01,551
+<font color="#ffff00">Merda! Segura!</font>
+
+1165
+01:38:02,877 --> 01:38:04,220
+<font color="#ffff00"><i>Me puxa, Tee.</i></font>
+
+1166
+01:38:04,379 --> 01:38:05,380
+<font color="#ffff00">Entendido.</font>
+
+1167
+01:38:25,525 --> 01:38:26,526
+<font color="#ffff00">Como está?</font>
+
+1168
+01:38:26,692 --> 01:38:27,864
+<font color="#ffff00">Bem.</font>
+
+1169
+01:38:40,665 --> 01:38:41,461
+<font color="#ffff00">Walter!</font>
+
+1170
+01:38:41,624 --> 01:38:44,423
+<font color="#ffff00">Traz a Danny pra dentro.
+Vamos dar o fora daqui.</font>
+
+1171
+01:39:02,478 --> 01:39:03,400
+<font color="#ffff00">Porta!</font>
+
+1172
+01:39:04,480 --> 01:39:05,982
+<font color="#ffff00">Mandou bem, Tee.</font>
+
+1173
+01:39:06,524 --> 01:39:08,197
+<font color="#ffff00">Foi um passeio.</font>
+
+1174
+01:39:24,250 --> 01:39:26,878
+<font color="#ffff00">Dei a ele um sedativo bem forte.</font>
+
+1175
+01:39:28,129 --> 01:39:30,382
+<font color="#ffff00">Jesus. Pobre Lope.</font>
+
+1176
+01:39:31,466 --> 01:39:33,514
+<font color="#ffff00"><i>Ele parece o Fantasma da Ópera.</i></font>
+
+1177
+01:39:34,135 --> 01:39:36,058
+<font color="#ffff00">Não pensei que fosse fã de musical.</font>
+
+1178
+01:39:36,220 --> 01:39:37,472
+<font color="#ffff00">É um musical?</font>
+
+1179
+01:39:39,640 --> 01:39:42,484
+<font color="#ffff00">Sou paramédica.
+Ele precisa de cirurgia reconstrutiva</font>
+
+1180
+01:39:42,643 --> 01:39:44,020
+<font color="#ffff00">com um cirurgião.</font>
+
+1181
+01:40:08,252 --> 01:40:09,754
+<font color="#ffff00">Deixa que eu faço.</font>
+
+1182
+01:40:15,426 --> 01:40:16,427
+<font color="#ffff00">Obrigado.</font>
+
+1183
+01:40:20,431 --> 01:40:22,729
+<font color="#ffff00">Obrigada por salvar minha vida.</font>
+
+1184
+01:40:25,186 --> 01:40:26,187
+<font color="#ffff00">De novo.</font>
+
+1185
+01:40:29,565 --> 01:40:30,862
+<font color="#ffff00">É meu dever.</font>
+
+1186
+01:41:02,390 --> 01:41:03,391
+<font color="#ffff00">Boa noite.</font>
+
+1187
+01:41:04,225 --> 01:41:05,693
+<font color="#ffff00">- Parece bem.
+- O quê?</font>
+
+1188
+01:41:06,269 --> 01:41:07,862
+<font color="#ffff00">É, linda.</font>
+
+1189
+01:41:10,273 --> 01:41:12,617
+<font color="#ffff00">Eu tirei Mãe do ar.</font>
+
+1190
+01:41:12,775 --> 01:41:14,448
+<font color="#ffff00">Precisa de diagnóstico total.</font>
+
+1191
+01:41:14,610 --> 01:41:17,659
+<font color="#ffff00">Levou uma surra da tempestade,
+muito dano eletromagnético.</font>
+
+1192
+01:41:18,239 --> 01:41:20,287
+<font color="#ffff00">Ela volta ao ar no oitavo toque.</font>
+
+1193
+01:41:20,950 --> 01:41:22,623
+<font color="#ffff00">Tá. Valeu, Tee.</font>
+
+1194
+01:41:25,997 --> 01:41:28,671
+<font color="#ffff00">Tenho de te chamar de capitã agora?</font>
+
+1195
+01:41:28,833 --> 01:41:30,176
+<font color="#ffff00">E como!</font>
+
+1196
+01:42:04,493 --> 01:42:05,870
+<font color="#ffff00"><i>Atenção.</i></font>
+
+1197
+01:42:06,037 --> 01:42:09,382
+<font color="#ffff00"><i>Capitã Daniels,
+favor comparecer á enfermaria.</i></font>
+
+1198
+01:42:13,586 --> 01:42:15,213
+<font color="#ffff00"><i>Atenção.</i></font>
+
+1199
+01:42:15,379 --> 01:42:18,849
+<font color="#ffff00"><i>Capitã Daniels,
+favor comparecer á enfermaria.</i></font>
+
+1200
+01:42:22,303 --> 01:42:23,555
+<font color="#ffff00">Por quê, Mãe?</font>
+
+1201
+01:42:23,721 --> 01:42:27,476
+<font color="#ffff00"><i>Forma de vida não identificada na nave.</i></font>
+
+1202
+01:42:33,773 --> 01:42:35,195
+<font color="#ffff00"><i>Atenção.</i></font>
+
+1203
+01:42:35,358 --> 01:42:39,079
+<font color="#ffff00"><i>Capitã Daniels,
+favor comparecer á enfermaria.</i></font>
+
+1204
+01:42:39,487 --> 01:42:40,488
+<font color="#ffff00"><i>Repito.</i></font>
+
+1205
+01:42:40,655 --> 01:42:44,125
+<font color="#ffff00"><i>Capitã Daniels,
+favor comparecer á enfermaria.</i></font>
+
+1206
+01:42:51,916 --> 01:42:52,917
+<font color="#ffff00">Jesus.</font>
+
+1207
+01:42:53,209 --> 01:42:54,301
+<font color="#ffff00">Meu Deus.</font>
+
+1208
+01:42:57,213 --> 01:42:58,260
+<font color="#ffff00">Walter.</font>
+
+1209
+01:42:59,298 --> 01:43:01,050
+<font color="#ffff00">Localização da forma de vida.</font>
+
+1210
+01:43:02,218 --> 01:43:03,765
+<font color="#ffff00">Algum movimento?</font>
+
+1211
+01:43:07,181 --> 01:43:08,182
+<font color="#ffff00">Walter!</font>
+
+1212
+01:43:09,016 --> 01:43:10,017
+<font color="#ffff00"><i>Aguarde.</i></font>
+
+1213
+01:43:13,979 --> 01:43:15,572
+<font color="#ffff00">Ali está.</font>
+
+1214
+01:43:15,731 --> 01:43:17,950
+<font color="#ffff00">Convés B
+entre os hexágonos 3 e 4.</font>
+
+1215
+01:43:18,109 --> 01:43:19,611
+<font color="#ffff00"><i>Indo pros alojamentos.</i></font>
+
+1216
+01:43:20,027 --> 01:43:21,745
+<font color="#ffff00"><i>Tem alguém lá?</i></font>
+
+1217
+01:43:21,904 --> 01:43:22,951
+<font color="#ffff00">Ricks e Upworth.</font>
+
+1218
+01:43:23,114 --> 01:43:25,208
+<font color="#ffff00">Merda. Estamos a caminho.</font>
+
+1219
+01:43:25,366 --> 01:43:27,289
+<font color="#ffff00">Walter! Soa o alarme!</font>
+
+1220
+01:43:27,451 --> 01:43:28,452
+<font color="#ffff00">Avisa os dois!</font>
+
+1221
+01:43:29,036 --> 01:43:30,288
+<font color="#ffff00"><i>Atenção.</i></font>
+
+1222
+01:43:30,454 --> 01:43:32,331
+<font color="#ffff00"><i>Ricks e Upworth,</i></font>
+
+1223
+01:43:32,498 --> 01:43:35,001
+<font color="#ffff00"><i>saiam dos alojamentos imediatamente.</i></font>
+
+1224
+01:44:15,916 --> 01:44:16,838
+<font color="#ffff00">Não!</font>
+
+1225
+01:44:23,174 --> 01:44:24,175
+<font color="#ffff00">Não!</font>
+
+1226
+01:44:31,557 --> 01:44:32,558
+<font color="#ffff00">Lacrar B-39.</font>
+
+1227
+01:44:34,226 --> 01:44:36,354
+<font color="#ffff00"><i>B-39 fechada.</i></font>
+
+1228
+01:45:07,384 --> 01:45:08,385
+<font color="#ffff00">Walter.</font>
+
+1229
+01:45:09,720 --> 01:45:11,722
+<font color="#ffff00">- Onde está?
+- Daniels.</font>
+
+1230
+01:45:12,765 --> 01:45:13,607
+<font color="#ffff00">Por aqui.</font>
+
+1231
+01:45:22,149 --> 01:45:24,402
+<font color="#ffff00">Tee, vamos escolher o campo.</font>
+
+1232
+01:45:24,568 --> 01:45:25,945
+<font color="#ffff00">Vamos trazer até nós.</font>
+
+1233
+01:45:26,111 --> 01:45:27,158
+<font color="#ffff00">Onde?</font>
+
+1234
+01:45:28,447 --> 01:45:29,448
+<font color="#ffff00">Meu gramado.</font>
+
+1235
+01:45:30,074 --> 01:45:33,749
+<font color="#ffff00"><i>Lacrar todas as portas atrás de nós
+e manter comporta do nível C aberta.</i></font>
+
+1236
+01:45:33,994 --> 01:45:35,246
+<font color="#ffff00">Entendido.</font>
+
+1237
+01:45:38,249 --> 01:45:40,126
+<font color="#ffff00"><i>B-44 fechada.</i></font>
+
+1238
+01:45:44,964 --> 01:45:47,137
+<font color="#ffff00"><i>B-46 fechada.</i></font>
+
+1239
+01:45:48,092 --> 01:45:50,265
+<font color="#ffff00"><i>B-47, B-45 e B-43 fechadas.</i></font>
+
+1240
+01:45:50,427 --> 01:45:52,179
+<font color="#ffff00"><i>B-Q fechada.</i></font>
+
+1241
+01:45:52,346 --> 01:45:55,099
+<font color="#ffff00"><i>B-6 e B-5 fechadas.</i></font>
+
+1242
+01:45:59,770 --> 01:46:01,113
+<font color="#ffff00"><i>Walter, cadê ele?</i></font>
+
+1243
+01:46:03,607 --> 01:46:05,951
+<font color="#ffff00">Está no convés B a estibordo.</font>
+
+1244
+01:46:06,110 --> 01:46:07,362
+<font color="#ffff00">Descendo pro nível C.</font>
+
+1245
+01:46:08,112 --> 01:46:09,113
+<font color="#ffff00"><i>K-13.</i></font>
+
+1246
+01:46:23,002 --> 01:46:24,128
+<font color="#ffff00">Tee!</font>
+
+1247
+01:46:24,795 --> 01:46:26,388
+<font color="#ffff00">Vamos. Walter!</font>
+
+1248
+01:46:27,131 --> 01:46:28,678
+<font color="#ffff00">Abrir estibordo C-64</font>
+
+1249
+01:46:28,841 --> 01:46:30,843
+<font color="#ffff00"><i>e limpar o caminho
+até a terraformação.</i></font>
+
+1250
+01:46:31,010 --> 01:46:32,227
+<font color="#ffff00">Entendido.</font>
+
+1251
+01:46:38,976 --> 01:46:42,731
+<font color="#ffff00">Lacrar C-61, abrir comporta 17.
+Vamos entrar.</font>
+
+1252
+01:46:52,990 --> 01:46:54,492
+<font color="#ffff00">Na K-12, preso.</font>
+
+1253
+01:46:57,661 --> 01:47:00,505
+<font color="#ffff00">Mantém na K-12
+até eu mandar.</font>
+
+1254
+01:47:10,549 --> 01:47:12,927
+<font color="#ffff00"><i>Tee, vamos fazer o seguinte.</i></font>
+
+1255
+01:47:13,093 --> 01:47:15,346
+<font color="#ffff00"><i>Vou atrai-lo pro caminhão
+e trancar na cabine.</i></font>
+
+1256
+01:47:15,512 --> 01:47:18,607
+<font color="#ffff00"><i>Quando eu disser,
+você joga o puto no espaço.</i></font>
+
+1257
+01:47:18,766 --> 01:47:19,733
+<font color="#ffff00"><i>Entendido.</i></font>
+
+1258
+01:47:19,892 --> 01:47:21,735
+<font color="#ffff00"><i>Walter, estamos prontos.</i></font>
+
+1259
+01:47:21,894 --> 01:47:23,862
+<font color="#ffff00">Abre a porta da terraformação.</font>
+
+1260
+01:47:24,021 --> 01:47:25,364
+<font color="#ffff00"><i>Abrindo comporta.</i></font>
+
+1261
+01:47:36,867 --> 01:47:38,084
+<font color="#ffff00">Walter,</font>
+
+1262
+01:47:38,243 --> 01:47:39,916
+<font color="#ffff00">manda pra 18.</font>
+
+1263
+01:47:46,210 --> 01:47:48,053
+<font color="#ffff00">Não atire se puder evitar.</font>
+
+1264
+01:47:48,212 --> 01:47:50,510
+<font color="#ffff00">O sangue dele vai corroer o casco.</font>
+
+1265
+01:47:50,673 --> 01:47:51,674
+<font color="#ffff00">Só faltava.</font>
+
+1266
+01:47:52,174 --> 01:47:53,221
+<font color="#ffff00">Em posição.</font>
+
+1267
+01:47:54,677 --> 01:47:57,430
+<font color="#ffff00">Walter, abre a porta da terraformação.</font>
+
+1268
+01:48:00,557 --> 01:48:02,355
+<font color="#ffff00"><i>É todo seu.</i></font>
+
+1269
+01:48:02,518 --> 01:48:04,896
+<font color="#ffff00">Se lembra de liberar quando eu disser.</font>
+
+1270
+01:48:05,229 --> 01:48:06,446
+<font color="#ffff00">Entendido.</font>
+
+1271
+01:48:12,569 --> 01:48:14,037
+<font color="#ffff00">Vamos matar o puto.</font>
+
+1272
+01:48:19,910 --> 01:48:21,036
+<font color="#ffff00">Ferrou!</font>
+
+1273
+01:48:44,435 --> 01:48:46,153
+<font color="#ffff00">Peguei você, filho da puta!</font>
+
+1274
+01:48:51,817 --> 01:48:54,991
+<font color="#ffff00"><i>Tennessee, abre as portas agora!</i></font>
+
+1275
+01:48:57,281 --> 01:49:00,251
+<font color="#ffff00"><i>Aviso. Descompressão atmosférica
+em andamento.</i></font>
+
+1276
+01:49:01,410 --> 01:49:03,959
+<font color="#ffff00"><i>Aviso. Descompressão atmosférica
+em andamento.</i></font>
+
+1277
+01:49:24,433 --> 01:49:26,106
+<font color="#ffff00"><i>Emperrou! Libera o 2° caminhão!</i></font>
+
+1278
+01:49:26,268 --> 01:49:27,269
+<font color="#ffff00">É pra já!</font>
+
+1279
+01:49:28,604 --> 01:49:29,947
+<font color="#ffff00">Aí vai!</font>
+
+1280
+01:49:54,963 --> 01:49:56,556
+<font color="#ffff00">Daniels, pensa rápido!</font>
+
+1281
+01:50:17,361 --> 01:50:18,704
+<font color="#ffff00">Daniels!</font>
+
+1282
+01:50:36,421 --> 01:50:39,015
+<font color="#ffff00">Quer dar uma mão á garota?</font>
+
+1283
+01:51:04,366 --> 01:51:05,868
+<font color="#ffff00">Até breve.</font>
+
+1284
+01:51:16,003 --> 01:51:18,051
+<font color="#ffff00">É a próxima, capitã.</font>
+
+1285
+01:51:36,190 --> 01:51:39,535
+<font color="#ffff00">Quando acordar,
+estaremos em Origae-6.</font>
+
+1286
+01:51:42,070 --> 01:51:44,289
+<font color="#ffff00">Como acha que vai ser?</font>
+
+1287
+01:51:47,034 --> 01:51:49,082
+<font color="#ffff00">Acho que, se formos gentis,</font>
+
+1288
+01:51:50,370 --> 01:51:52,043
+<font color="#ffff00">será um mundo gentil.</font>
+
+1289
+01:51:54,291 --> 01:51:56,043
+<font color="#ffff00">Tomara que tenha razão.</font>
+
+1290
+01:51:58,128 --> 01:51:59,801
+<font color="#ffff00">Durma bem.</font>
+
+1291
+01:52:07,471 --> 01:52:08,472
+<font color="#ffff00">Walter!</font>
+
+1292
+01:52:11,475 --> 01:52:15,651
+<font color="#ffff00">Quando chegarmos,
+me ajuda a construir a cabana?</font>
+
+1293
+01:52:20,651 --> 01:52:22,403
+<font color="#ffff00">A cabana no lago.</font>
+
+1294
+01:52:28,075 --> 01:52:29,247
+<font color="#ffff00">David?</font>
+
+1295
+01:52:32,162 --> 01:52:34,256
+<font color="#ffff00">INICIAR CRIOSSONO</font>
+
+1296
+01:52:34,414 --> 01:52:35,666
+<font color="#ffff00">Não!</font>
+
+1297
+01:52:36,166 --> 01:52:37,008
+<font color="#ffff00">Não!</font>
+
+1298
+01:52:46,093 --> 01:52:48,471
+<font color="#ffff00">Não vá ter pesadelos.</font>
+
+1299
+01:52:51,598 --> 01:52:53,350
+<font color="#ffff00">Vou cobrir as crianças.</font>
+
+1300
+01:53:05,279 --> 01:53:09,284
+<font color="#ffff00">Usar código de segurança
+David 7-3-6-9-4-B.</font>
+
+1301
+01:53:11,368 --> 01:53:13,666
+<font color="#ffff00"><i>Bem-vindo. Em que posso ajudar?</i></font>
+
+1302
+01:53:14,955 --> 01:53:16,673
+<font color="#ffff00">Que tal uma música, Mãe?</font>
+
+1303
+01:53:16,832 --> 01:53:18,129
+<font color="#ffff00"><i>Seleção?</i></font>
+
+1304
+01:53:18,292 --> 01:53:22,217
+<font color="#ffff00"><i>Richard Wagner.
+O Ouro do Reno, segundo ato.</i></font>
+
+1305
+01:53:23,880 --> 01:53:27,805
+<font color="#ffff00"><i>A Entrada dos Deuses em Valhalla.</i></font>
+
+1306
+01:53:27,968 --> 01:53:30,892
+<font color="#ffff00"><i>Sim, David. Como preferir.</i></font>
+
+1307
+01:54:58,642 --> 01:55:01,737
+<font color="#ffff00"><i>Este é o relatório
+da nave de colonização Covenant.</i></font>
+
+1308
+01:55:01,895 --> 01:55:04,489
+<font color="#ffff00"><i>Todos os tripulantes,
+exceto Daniels e Tennessee,</i></font>
+
+1309
+01:55:04,648 --> 01:55:07,071
+<font color="#ffff00"><i>sofreram morte trágica
+numa explosão solar.</i></font>
+
+1310
+01:55:07,818 --> 01:55:11,493
+<font color="#ffff00"><i>Todos os colonos estão em hiper sono
+intactos e ilesos.</i></font>
+
+1311
+01:55:12,322 --> 01:55:14,290
+<font color="#ffff00"><i>Em curso para Origae-6.</i></font>
+
+1312
+01:55:15,117 --> 01:55:17,085
+<font color="#ffff00"><i>Espero que a transmissão alcance a rede</i></font>
+
+1313
+01:55:17,244 --> 01:55:19,622
+<font color="#ffff00"><i>e seja retransmitida em 1,36 ano.</i></font>
+
+1314
+01:55:20,497 --> 01:55:22,090
+<font color="#ffff00"><i>Aqui é Walter, desligo.</i></font>
+
+1315
+01:55:22,249 --> 01:55:26,004
+<font color="#ffff00"><i>Código de segurança: 3-1-5-6-4-F.</i></font>
+
+1316
+01:55:29,506 --> 01:55:32,635
+<font color="#ffff00">EM MEMÓRIA DE JULIE PAYNE</font>
+
+1317
+02:01:54,057 --> 02:01:55,058
+<font color="#ffff00">Tradução: Mário Menezes</font>
+
