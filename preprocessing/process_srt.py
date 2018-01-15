@@ -299,7 +299,7 @@ def build_matrices(max_length):
 	target = np.transpose(np.matrix(ids_answered))
 	talks_seq_length = np.array(talks_seq_length)
 	answers_seq_length = np.array(answers_seq_length)
-
+	
 	return x, talks_seq_length, y, target, answers_seq_length
 
 def d_size():
@@ -310,3 +310,4 @@ def d_size():
 #print(len(sentences_talked))
 
 print("process_srt executed...")
+

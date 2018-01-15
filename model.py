@@ -13,7 +13,7 @@ import time
 class Model:
 
 	####Settings##########
-	max_time = 18
+	max_time = 40
 	data_size = 217600# total 257631
 	input_vocab_size = 40000
 	target_vocab_size = 40000# para inferir -1 por causa do UNK
@@ -31,6 +31,12 @@ class Model:
 	######################
 
 	vars_dict = {}
+
+	x = np.ndarray(shape=(max_time, data_size))
+	y = np.ndarray(shape=(max_time, data_size))
+	target = np.ndarray(shape=(max_time, data_size))
+	enc_seq_length = np.ndarray(shape=(data_size))
+	dec_seq_length = np.ndarray(shape=(data_size))
 
 	encoder_input_ids = tf.placeholder(shape=[None,None], dtype=tf.int32, name='encoder_inputs')
 	encoder_sequence_length = tf.placeholder(shape=[None], dtype=tf.int32, name='encoder_sequence_length')
@@ -102,8 +108,22 @@ class Model:
 
 	def __init__(self):
 
-		self.x, self.enc_seq_length, self.y, self.target, self.dec_seq_length = build_matrices(self.max_time)
-		#self.shuffle()
+		max_time = self.max_time
+		data_size = self.data_size
+
+		x, enc_seq_length, y, target, dec_seq_length = build_matrices(self.max_time)
+
+		self.test_x = x[:,data_size:0]
+		self.test_y = y[:,data_size:0]
+		self.test_target = target[:,data_size:0]
+		self.enc_seq_length = enc_seq_length[data_size:0]
+		self.dec_seq_lenght = dec_seq_length[data_size:0]
+		self.x = x[:,:data_size]
+		self.y = y[:,:data_size]
+		self.target = target[:,:data_size]
+		self.enc_seq_length = enc_seq_length[:data_size]
+		self.dec_seq_length = dec_seq_length[:data_size]
+		self.shuffle()
 		self.prcss_chat = ProcessChat()
 
 		self.sess = tf.Session()
@@ -267,7 +287,7 @@ class Model:
 
 		c = np.concatenate((x.T, y.T, target.T), 1)
 		np.random.shuffle(c)
-		x, y, target = np.split(c, [20, 40], 1)
+		x, y, target = np.split(c, [self.max_time, 2*self.max_time], 1)
 
 		self.x = x.T
 		self.y = y.T
